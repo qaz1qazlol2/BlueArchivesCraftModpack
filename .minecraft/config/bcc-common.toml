@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "Blue Archives Craft"
 	#The version of the modpack
-	modpackVersion = "1.5.6"
+	modpackVersion = "1.5.7"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
