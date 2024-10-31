@@ -1,2 +1,2 @@
 # BlueArchivesCraftModpack
-save issue and pull request commit
+save pull request commit
