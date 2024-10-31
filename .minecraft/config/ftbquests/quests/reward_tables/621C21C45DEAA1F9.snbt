@@ -1,0 +1,164 @@
+{
+	id: "621C21C45DEAA1F9"
+	order_index: 18
+	title: "剑类武器附魔"
+	loot_size: 1
+	rewards: [
+		{
+			title: "锋利X"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:sharpness"
+						lvl: 10s
+					}]
+				}
+			}
+		}
+		{
+			title: "击退II"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:knockback"
+						lvl: 2s
+					}]
+				}
+			}
+		}
+		{
+			title: "火焰附加II"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:fire_aspect"
+						lvl: 2s
+					}]
+				}
+			}
+		}
+		{
+			title: "抢夺III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:looting"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "横扫之刃III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:sweeping"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "背刺III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "farmersdelight:backstabbing"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "暴怒之灵III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:outrageous_spirit"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "仇不隔夜III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:fresh_revenge"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "食髓知味III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:savor_the_tasted"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "欺诈师II"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:trickster"
+						lvl: 2s
+					}]
+				}
+			}
+		}
+		{
+			title: "杀手V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "enigmaticlegacy:slayer"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			title: "电击疗法III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:shock_therapy"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+	]
+}

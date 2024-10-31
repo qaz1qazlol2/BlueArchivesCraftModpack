@@ -1,0 +1,35 @@
+{
+	id: "1A4CD6168FFAD185"
+	order_index: 11
+	title: "冰雪女王"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "twilightforest:seeker_bow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:triple_bow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:glass_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

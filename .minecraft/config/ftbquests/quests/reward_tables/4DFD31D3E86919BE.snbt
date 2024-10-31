@@ -1,0 +1,99 @@
+{
+	id: "4DFD31D3E86919BE"
+	order_index: 22
+	title: "高级头盔附魔选择"
+	loot_size: 1
+	rewards: [
+		{
+			title: "以眼还眼V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:vengeance"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			title: "恶意感知V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:perceived_malice"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			title: "找到你了！"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:i_see_you_now"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			title: "怨恨之灵III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:resentful_soul"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "恨比天高III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:too_resentful_to_die"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{
+			title: "生与暗影"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:shadowborn"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			title: "祈难人III"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:prayer_of_pain"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+	]
+}

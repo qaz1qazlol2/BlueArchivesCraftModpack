@@ -1,0 +1,458 @@
+{
+	id: "16A623DC748CED40"
+	group: "349B3345B63646FF"
+	order_index: 0
+	filename: "16A623DC748CED40"
+	title: "1.0:游玩前请看"
+	icon: "minecraft:command_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "初始物品选择"
+			x: 0.5d
+			y: -1.5d
+			id: "247BCEEDAFE7ECD3"
+			tasks: [{
+				id: "59CBCFDF81FFB91E"
+				type: "checkmark"
+				title: "物品选择"
+			}]
+			rewards: [{
+				id: "257F2FF9893FEC53"
+				type: "item"
+				item: "kubejs:system"
+			}]
+		}
+		{
+			title: "萌新"
+			icon: "minecraft:iron_ingot"
+			x: -1.5d
+			y: 0.0d
+			subtitle: "适用于刚接触该整合包的萌新"
+			dependencies: ["247BCEEDAFE7ECD3"]
+			id: "048765F35751FF74"
+			tasks: [{
+				id: "78102C70CDFE9589"
+				type: "item"
+				item: "kubejs:system"
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "3A0498096E09AEC7"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:ultimate_potion_splash"
+						Count: 1b
+						tag: {
+							EnigmaticPotion: "ultimate_healing"
+						}
+					}
+					count: 3
+				}
+				{
+					id: "16EEA73F39C390D3"
+					type: "item"
+					item: {
+						id: "minecraft:iron_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4653FA9E5D15C8BD"
+					type: "item"
+					item: {
+						id: "minecraft:iron_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "756DB70CDDF6A3D8"
+					type: "item"
+					item: {
+						id: "minecraft:iron_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "518C07D02643A9C8"
+					type: "item"
+					item: {
+						id: "minecraft:iron_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "31BEB2443390AA04"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5EF415B2CEC254CD"
+					type: "item"
+					item: {
+						id: "minecraft:iron_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "28676FA75E23BDEA"
+					type: "item"
+					item: "minecraft:golden_apple"
+					count: 5
+				}
+			]
+		}
+		{
+			title: "中登"
+			icon: "minecraft:diamond"
+			x: -1.5d
+			y: -1.5d
+			subtitle: "适用于熟悉了该整合包流程以及难度的中登"
+			dependencies: ["247BCEEDAFE7ECD3"]
+			id: "0407A3F47EED7D41"
+			tasks: [{
+				id: "4D940F5ACB7790B2"
+				type: "item"
+				item: "kubejs:system"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3D7AD373164F58A2"
+				type: "item"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "老登"
+			icon: "minecraft:netherite_ingot"
+			x: -1.5d
+			y: -3.0d
+			subtitle: "水滴的传承"
+			dependencies: ["247BCEEDAFE7ECD3"]
+			id: "45A886CA9AE16012"
+			tasks: [{
+				id: "1F1E3C83EFBD9F01"
+				type: "item"
+				item: "kubejs:system"
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "40B3840917DC98F7"
+					type: "item"
+					item: "kubejs:luguan"
+				}
+				{
+					id: "18E3E2E444810B68"
+					type: "item"
+					item: "arisidcard:idcard"
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: -4.0d
+			subtitle: "现在，你的旅程正式开始"
+			description: [
+				"不止这个世界的生物，当获得学生能力后，你也会拥有指定的&a攻击类型&f和&a装甲类型&f，但是他们是&6随机分配&f的......"
+				"现在，把刚才获得的随机饰品和COST装备到饰品栏指定位置吧！"
+			]
+			id: "50432D78A7FFE83A"
+			tasks: [{
+				id: "4806EA35B2F7501D"
+				type: "checkmark"
+				title: "自身属性"
+			}]
+			rewards: [{
+				id: "6901713F0D217C89"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			title: "关于学生能力"
+			x: 5.5d
+			y: -4.0d
+			subtitle: "由于指令无法输入中文，请使用鼠标点击学生名字"
+			description: [
+				"sensei如果对学生能力有什么疑问的话"
+				" "
+				"&6只需要输入指令:"
+				"&b/blue_archivescraft 学生名字 &f即可查询"
+				" "
+				"按下键盘上&6\"Z\"键&f，即可消耗饱食度短时间激活学生能力"
+				"特别提醒各位sensei，部分学生的能力&c破坏性极高&f，请慎重在家里使用学生能力哦~"
+				" "
+				"如果未开启保留学生能力的设定，在你死亡后，你所拥有的力量将会一起消失。不过不要担心，你每次重生都会给你一个招募劵以便你去获得新的能力，也可以选择到商店自选"
+			]
+			id: "39B51CE52E38A85F"
+			tasks: [{
+				id: "2F51563147016A84"
+				type: "checkmark"
+				title: "关于学生特性"
+			}]
+			rewards: [{
+				id: "22F91E6C91228687"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			title: "关于属性克制"
+			x: 2.5d
+			y: -2.5d
+			subtitle: "知己知彼"
+			description: [
+				"在这里，所有生物都有了额外的&a护甲属性&f和&a攻击属性&f，他们之间也存在着一些&b克制关系&f"
+				"&c&l弱点打击&f：对其造成伤害&c提高 "
+				"&b&l抵抗&f：对其造成伤害&b降低"
+				""
+				"&c&l爆发&f:"
+				"对&c轻装甲&f的生物造成&c弱点打击&f，&b特殊装甲&f生物会&a抵抗&f此种攻击类型，&6重装甲&f不受此种攻击克制影响"
+				" "
+				"&6&l贯穿&f:"
+				"对&6重装甲&f的生物造成&6弱点打击，&c轻装甲&f生物会&a抵抗&f此种类型攻击，&b特殊装甲&f不受此种攻击克制影响"
+				" "
+				"&b&l神秘&f:"
+				"对&b特殊装甲&f的生物造成&b弱点打击，&6重装甲&f生物会&a抵抗&f此种类型攻击，&c轻装甲&f不受此种攻击克制影响"
+				" "
+				"&c当前版本存在一些BUG，属性克制参考性不大"
+			]
+			id: "5759D90354C17059"
+			tasks: [{
+				id: "66D0BDD2C8D38B07"
+				type: "checkmark"
+				title: "关于属性"
+			}]
+			rewards: [{
+				id: "033DEABBCEE0AC1C"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			x: 2.5d
+			y: -4.0d
+			subtitle: "我的卡片...在这里也能用？"
+			description: ["当然，你也可以选择不使用学生的能力去探索这个世界。如果你&6未拥有任何学生能力&f，你可以右键使用卡片以&c消耗生命值&f的代价换取一段时间的能力加成~"]
+			dependency_requirement: "one_completed"
+			id: "3042BE11616FA4B1"
+			tasks: [{
+				id: "19CF8016E7ABB081"
+				type: "checkmark"
+				title: "关于卡片"
+			}]
+			rewards: [{
+				id: "37D4CED5C3B0B168"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.5d
+			subtitle: "我不想......失去这份力量"
+			description: [
+				"如果想避免因为死亡失去这份羁绊，那就输入以下指令："
+				"&b/gamerule KeepBaeffect true"
+				" "
+				"部分学生能力是以&c玩家死亡&f为判定条件，还请特别注意"
+			]
+			id: "26650A3C6ABD9643"
+			tasks: [{
+				id: "2396E5BF47BBA8F7"
+				type: "checkmark"
+				title: "如何保留学生能力"
+			}]
+			rewards: [{
+				id: "57A52DA78BA88565"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			x: 5.5d
+			y: -2.5d
+			description: [
+				"整合包添加了&c禁疗mod（禁止自然回复生命值设定）"
+				"回复生命值需要通过靠近篝火，使用部分学生buff技能，食用部分食物回复生命值"
+				"可通过指令:"
+				""
+				"&b/gamerule naturalRegeneration true"
+				"开启自然回复~"
+			]
+			id: "34DE803CF4A721C5"
+			tasks: [{
+				id: "32D702D03F391CCD"
+				type: "checkmark"
+				title: "关于自然回复生命值"
+			}]
+			rewards: [{
+				id: "61958FD0F5939847"
+				type: "xp"
+				xp: 30
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			subtitle: "blue achive ~"
+			description: [
+				"整合包作者：小水滴的源头(原作)，sfhuewui(现作)"
+				"任务系统作者：sfhuewui（传奇测试员）"
+				"bamod制作者：我之战（wzz），小水滴的源头"
+			]
+			id: "685EA8C5766F9621"
+			tasks: [{
+				id: "3C54DB81B6A4FEC0"
+				type: "checkmark"
+				title: "整合包制作名单"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -1.0d
+			description: [
+				"qaz1qazlol:我们的整合包制作者sfhuewui_在2024年10月10号到2024年10月12号连续做了三次大型手术，而且成功的概率微乎其微，但是他撑下来了，医学生都叹为观止。这里是sf为你赠送的免费的三个特殊贴图不死图腾，希望大家都要像sf一样好好活着。"
+				"sfhuewui_:三次手术，三次奇迹，传奇耐活王sf"
+				"小水滴的源头:致敬传奇耐似王sf("
+				"注意：这三个物品为限定物品，无法通过正常获取不死图腾获得"
+			]
+			id: "49A7DB5E7F760977"
+			tasks: [{
+				id: "4354B34434DC3385"
+				type: "checkmark"
+				title: "为整合包作者sfhuewui_送上自己的敬意"
+			}]
+			rewards: [{
+				id: "228DA955AC24DEF9"
+				type: "item"
+				item: {
+					id: "minecraft:totem_of_undying"
+					Count: 1b
+					tag: {
+						CustomModelData: 1
+						AttributeModifiers: [
+							{
+								Slot: "offhand"
+								AttributeName: "minecraft:generic.max_health"
+								Operation: 0
+								UUID: [I;
+									1542044986
+									-830190977
+									-1651561087
+									143917560
+								]
+								Amount: 10.0d
+							}
+							{
+								Slot: "offhand"
+								AttributeName: "minecraft:generic.attack_speed"
+								Operation: 1
+								UUID: [I;
+									1228913809
+									-1261353790
+									-1774348727
+									-1156816514
+								]
+								Amount: 0.5d
+							}
+						]
+						display: {
+							Lore: ["{\"italic\":false,\"color\":\"white\",\"extra\":[{\"text\":\"\"},{\"color\":\"red\",\"text\":\"大家一定要好好活着，不要放弃任何希望\"}],\"text\":\"\"}"]
+							Name: "{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"obfuscated\":true,\"color\":\"gold\",\"text\":\"aa\"},{\"text\":\"     \"},{\"color\":\"light_purple\",\"text\":\"sfhuewui\"},{\"color\":\"white\",\"text\":\"赠送的\"},{\"color\":\"yellow\",\"text\":\"不死图腾     \"},{\"obfuscated\":true,\"color\":\"gold\",\"text\":\"aa\"}],\"text\":\"\"}"
+						}
+					}
+				}
+				count: 3
+			}]
+		}
+		{
+			title: "为整合包作者献上再一次的敬意和关怀"
+			x: 7.0d
+			y: -1.0d
+			description: [
+				"qaz1qazlol:我们的整合包作者由于出院后太拼了导致突发休克，再次做手术两次，其中一次心脏骤停，成功性仍然微乎其微，但他也撑下来了，让我们送上再一次的祝福。"
+				"这两个是额外的不死图腾奖励"
+			]
+			id: "78F6DA04BD465C3A"
+			tasks: [{
+				id: "4A0DF4D396EB6B6F"
+				type: "checkmark"
+				title: "我了解了"
+			}]
+			rewards: [{
+				id: "4A88521D9C577C76"
+				type: "item"
+				item: {
+					id: "minecraft:totem_of_undying"
+					Count: 1b
+					tag: {
+						CustomModelData: 1
+						AttributeModifiers: [
+							{
+								Slot: "offhand"
+								AttributeName: "minecraft:generic.max_health"
+								Operation: 0
+								UUID: [I;
+									1542044986
+									-830190977
+									-1651561087
+									143917560
+								]
+								Amount: 10.0d
+							}
+							{
+								Slot: "offhand"
+								AttributeName: "minecraft:generic.attack_speed"
+								Operation: 1
+								UUID: [I;
+									1228913809
+									-1261353790
+									-1774348727
+									-1156816514
+								]
+								Amount: 0.5d
+							}
+						]
+						display: {
+							Lore: ["{\"italic\":false,\"color\":\"white\",\"extra\":[{\"text\":\"\"},{\"color\":\"red\",\"text\":\"大家一定要好好活着，不要放弃任何希望\"}],\"text\":\"\"}"]
+							Name: "{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"obfuscated\":true,\"color\":\"gold\",\"text\":\"aa\"},{\"text\":\"     \"},{\"color\":\"light_purple\",\"text\":\"sfhuewui\"},{\"color\":\"white\",\"text\":\"赠送的\"},{\"color\":\"yellow\",\"text\":\"不死图腾     \"},{\"obfuscated\":true,\"color\":\"gold\",\"text\":\"aa\"}],\"text\":\"\"}"
+						}
+					}
+				}
+				count: 2
+			}]
+		}
+	]
+	quest_links: [ ]
+}

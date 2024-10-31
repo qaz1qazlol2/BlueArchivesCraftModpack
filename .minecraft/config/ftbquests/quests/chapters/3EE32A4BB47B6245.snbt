@@ -1,0 +1,506 @@
+{
+	id: "3EE32A4BB47B6245"
+	group: "7B836DE1D449A47D"
+	order_index: 2
+	filename: "3EE32A4BB47B6245"
+	title: "Veryhard"
+	icon: {
+		id: "minecraft:iron_helmet"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.0d
+			y: 2.5d
+			subtitle: "造成55000点伤害完成该挑战"
+			dependencies: ["58572472303E0B5F"]
+			id: "36B5D399D02C6E46"
+			tasks: [{
+				id: "753D7552CC75B39F"
+				type: "stat"
+				title: "战斗大师III"
+				icon: {
+					id: "minecraft:golden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				stat: "minecraft:damage_dealt"
+				value: 55000
+			}]
+			rewards: [
+				{
+					id: "6C170DBC65A06849"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "01A6422B6702C3E4"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "goblintraders:powerful_strength"
+						}
+					}
+					count: 10
+				}
+				{
+					id: "7B04333A652F7F8A"
+					type: "item"
+					item: "artifacts:power_glove"
+				}
+				{
+					id: "05E9307D4C843E49"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 424537417769760900L
+				}
+			]
+		}
+		{
+			title: "装备升级 II"
+			icon: "minecraft:diamond"
+			x: -2.0d
+			y: 0.5d
+			dependencies: ["717D2C28C1357DB5"]
+			id: "4B517EA4670D8536"
+			tasks: [
+				{
+					id: "1B2E1940A5DF1FCB"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "26B53878E8E535E7"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "6C85D42F3A6193E3"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "51DF7AC5087EC149"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "43E7338711BEC044"
+					type: "item"
+					item: "minecraft:diamond_block"
+					count: 4L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "542737AC899E3301"
+					type: "item"
+					item: {
+						id: "quark:ancient_tome"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+				}
+				{
+					id: "2ACDD5B1B115E37E"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+				}
+				{
+					id: "6DDEB68DEAEA88EE"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "78908FED39FCD74E"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 424537417769760900L
+				}
+			]
+		}
+		{
+			title: "VHard阶段挑战全部达成"
+			x: 0.0d
+			y: 1.5d
+			shape: "rsquare"
+			subtitle: "挑战阶段奖励"
+			dependencies: [
+				"4E3E04CADCEE4D62"
+				"38C4A33245BA7625"
+				"36B5D399D02C6E46"
+				"4B517EA4670D8536"
+				"679B5FA3C1EE3250"
+			]
+			can_repeat: true
+			id: "7209C06F11ACC6BC"
+			tasks: [{
+				id: "5D3514F76394319D"
+				type: "checkmark"
+				title: "强化自身生命上限(可重复)"
+			}]
+			rewards: [{
+				id: "67AB4F32DA67A146"
+				type: "command"
+				title: "生命上限+90"
+				icon: {
+					id: "minecraft:lingering_potion"
+					Count: 1b
+					tag: {
+						Potion: "goblintraders:powerful_instant_health"
+					}
+				}
+				command: "/effect give @p minecraft:health_boost 300000 24"
+			}]
+		}
+		{
+			title: "怪物猎人（下界）"
+			x: 2.0d
+			y: 2.5d
+			subtitle: "战斗，爽"
+			id: "38C4A33245BA7625"
+			tasks: [
+				{
+					id: "2A4A55DE994AFACC"
+					type: "item"
+					item: "minecraft:blaze_rod"
+					count: 128L
+					consume_items: true
+				}
+				{
+					id: "62E5E0F29E93A1F5"
+					type: "item"
+					item: "minecraft:magma_cream"
+					count: 128L
+					consume_items: true
+				}
+				{
+					id: "145F4452D104B665"
+					type: "item"
+					item: "minecraft:ghast_tear"
+					count: 40L
+					consume_items: true
+				}
+				{
+					id: "1135FAE2CFED26F8"
+					type: "item"
+					item: "alexsmobs:dropbear_claw"
+					count: 40L
+					consume_items: true
+				}
+				{
+					id: "498B6BCB53964758"
+					type: "item"
+					item: "alexsmobs:straddlite"
+					count: 40L
+					consume_items: true
+				}
+				{
+					id: "37F5DC9BEA7D2EE3"
+					type: "item"
+					item: "alexsmobs:bone_serpent_tooth"
+					count: 40L
+					consume_items: true
+				}
+				{
+					id: "35A1A96072AE2ED4"
+					type: "item"
+					item: "alexsmobs:soul_heart"
+					count: 3L
+					consume_items: true
+				}
+				{
+					id: "6ADD9112EF63BE2A"
+					type: "item"
+					item: "minecraft:wither_skeleton_skull"
+					count: 3L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "2654901A61C48AA2"
+					type: "item"
+					item: {
+						id: "relics:blazing_flask"
+						Count: 1b
+						tag: {
+							abilities: {
+								bonfire: {
+									stats: {
+										step: 1.83202d
+										speed: 0.01213d
+										height: 3.40335d
+									}
+									points: 0
+								}
+							}
+						}
+					}
+				}
+				{
+					id: "3CFC4012808EEBF4"
+					type: "item"
+					item: "artifacts:fire_gauntlet"
+				}
+				{
+					id: "28BE41F16244CAC0"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 424537417769760900L
+				}
+				{
+					id: "1DC77720F169C581"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+		}
+		{
+			title: "车万人"
+			x: 0.0d
+			y: -0.5d
+			subtitle: "钓符：这是什么动漫"
+			id: "4E3E04CADCEE4D62"
+			tasks: [
+				{
+					id: "39DC64A4B937455A"
+					type: "item"
+					item: "touhou_little_maid:power_point"
+					count: 300L
+					consume_items: true
+				}
+				{
+					id: "0062A179E6A7C726"
+					type: "kill"
+					icon: "touhou_little_maid:fairy_spawn_egg"
+					entity: "touhou_little_maid:fairy"
+					value: 300L
+				}
+			]
+			rewards: [
+				{
+					id: "6DB6A66EACC003B6"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 424537417769760900L
+				}
+				{
+					id: "78843F56F5D7377E"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+		}
+		{
+			title: "冷兵器"
+			x: 2.0d
+			y: 0.5d
+			description: ["冷兵器也不比热武器差劲（（（"]
+			id: "679B5FA3C1EE3250"
+			tasks: [
+				{
+					id: "446D3DEC30CDCD99"
+					type: "item"
+					item: {
+						id: "minecraft:bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "03063F0D2D2056CA"
+					type: "item"
+					item: {
+						id: "infernalexp:glowsilk_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "16EEE869F97B6329"
+					type: "item"
+					item: {
+						id: "twilightforest:triple_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "78BFB1489240DCE9"
+					type: "item"
+					item: {
+						id: "twilightforest:seeker_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7E8DFB94C362EE8C"
+					type: "item"
+					item: {
+						id: "twilightforest:ice_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "25E568D8E823A0B0"
+					type: "item"
+					item: {
+						id: "twilightforest:ender_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7083CE71B05EF44A"
+					type: "item"
+					item: {
+						id: "supplementaries:slingshot"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3DE0F35D34C81FD0"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "21BC99F441110E08"
+					type: "item"
+					item: {
+						id: "minecraft:crossbow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "77C3221A8CEF0E10"
+					type: "item"
+					item: {
+						id: "quark:pickarang"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4E88EB8DF6F8A960"
+					type: "item"
+					item: {
+						id: "quark:flamerang"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5967B4A022FBAE61"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1730926100789296171L
+				}
+				{
+					id: "335BFB45C0E65632"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "06C8F62950302734"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:power"
+								lvl: 30s
+							}]
+						}
+					}
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

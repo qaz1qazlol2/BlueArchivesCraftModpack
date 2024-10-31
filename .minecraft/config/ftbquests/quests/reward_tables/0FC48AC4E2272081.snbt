@@ -1,0 +1,45 @@
+{
+	id: "0FC48AC4E2272081"
+	order_index: 27
+	title: "钓鱼佬专用商店"
+	loot_size: 1
+	rewards: [
+		{ item: "aquaculture:nether_star_hook" }
+		{
+			item: {
+				id: "aquaculture:neptunium_fishing_rod"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "aquaculture:tackle_box" }
+		{
+			title: "铒钓V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:lure"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			title: "海之眷顾V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:luck_of_the_sea"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+	]
+}

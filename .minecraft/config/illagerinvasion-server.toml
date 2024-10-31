@@ -1,0 +1,41 @@
+
+[alchemist]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[sorcerer]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[illusioner]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[basher]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[necromancer]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[inquisitor]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[provoker]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[archivist]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[marauder]
+	#Does this illager take part in village raids.
+	participate_in_raids = true
+
+[invoker]
+	#Show a yellow boss bar when fighting an invoker.
+	invoker_boss_bar = true
+

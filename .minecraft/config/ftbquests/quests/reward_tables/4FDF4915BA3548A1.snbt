@@ -1,0 +1,14 @@
+{
+	id: "4FDF4915BA3548A1"
+	order_index: 5
+	title: "初级成就礼盒"
+	icon: "aquaculture:treasure_chest"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:golden_apple", count: 2, weight: 30 }
+		{ item: "minecraft:diamond", count: 4, weight: 20 }
+		{ item: "minecraft:netherite_scrap", count: 2, weight: 20 }
+		{ item: "minecraft:totem_of_undying", weight: 10 }
+		{ item: "relics:relic_experience_bottle", count: 5, weight: 20 }
+	]
+}

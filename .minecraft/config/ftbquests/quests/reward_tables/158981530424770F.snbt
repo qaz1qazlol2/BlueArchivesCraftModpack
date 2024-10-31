@@ -1,0 +1,16 @@
+{
+	id: "158981530424770F"
+	order_index: 12
+	title: "战利品（下界）"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:netherite_ingot", count: 10, weight: 20 }
+		{ item: "minecraft:enchanted_golden_apple", count: 10, weight: 20 }
+		{ item: "minecraft:gold_block", count: 30, weight: 30 }
+		{
+			xp: 3000
+			type: "xp"
+			weight: 30
+		}
+	]
+}

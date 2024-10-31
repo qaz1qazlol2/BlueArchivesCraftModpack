@@ -1,0 +1,594 @@
+{
+	id: "19F42558A18AF754"
+	group: "3A341F8C3B4A5B73"
+	order_index: 0
+	filename: "19F42558A18AF754"
+	title: "奇怪小玩意兑换"
+	icon: "kubejs:gold_coin"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "开启商店的前提"
+			x: 2.5d
+			y: -4.5d
+			subtitle: "方便的同时总是要付出点小小的代价嘛~"
+			id: "7792FBDA17072456"
+			tasks: [{
+				id: "35657582924DE92D"
+				type: "item"
+				item: "kubejs:netherite_coin"
+				count: 50L
+				consume_items: true
+			}]
+		}
+		{
+			title: "高级胸甲附魔"
+			icon: {
+				id: "minecraft:netherite_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 1.5d
+			y: -7.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "281042712F9A6200"
+			tasks: [{
+				id: "3E16DDCDCD1412DC"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "36FD6269E08A2316"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 3685761801396557508L
+			}]
+		}
+		{
+			title: "高级鞋子附魔"
+			icon: {
+				id: "minecraft:netherite_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.5d
+			y: -7.0d
+			dependencies: ["7792FBDA17072456"]
+			id: "035B2AC2FA7FA25B"
+			tasks: [{
+				id: "2ED69FADA347DD24"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "69373159B2B60C73"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 6759903600727788794L
+			}]
+		}
+		{
+			title: "高级头盔附魔"
+			icon: {
+				id: "minecraft:netherite_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 2.5d
+			y: -7.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "59FFCF19FE628FC2"
+			tasks: [{
+				id: "4355B8B2885A01BF"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 5L
+			}]
+			rewards: [{
+				id: "5B6B7903C5D7B61E"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 5619702696235309502L
+			}]
+		}
+		{
+			title: "装备类防护附魔"
+			icon: {
+				id: "minecraft:diamond_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 3.5d
+			y: -7.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "77C574E3DB190BCD"
+			tasks: [{
+				id: "60B72015688630FF"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 6L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3331EC05935014B1"
+				type: "choice"
+				icon: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:protection"
+							lvl: 1s
+						}]
+					}
+				}
+				exclude_from_claim_all: true
+				table_id: 4449483793657883731L
+			}]
+		}
+		{
+			title: "镐类工具附魔"
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 3.5d
+			y: -2.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "1426B616700F32C2"
+			tasks: [{
+				id: "03AEE6B7237DA672"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "58773C1151010BAB"
+				type: "choice"
+				icon: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:protection"
+							lvl: 1s
+						}]
+					}
+				}
+				exclude_from_claim_all: true
+				table_id: 3819023495058238294L
+			}]
+		}
+		{
+			title: "剑类武器附魔"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 2.5d
+			y: -2.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "60690A91E91A7511"
+			tasks: [{
+				id: "0778F9C21D035A01"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 30L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0B2F98340A0F6D16"
+				type: "choice"
+				icon: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:protection"
+							lvl: 1s
+						}]
+					}
+				}
+				exclude_from_claim_all: true
+				table_id: 7069562642337800697L
+			}]
+		}
+		{
+			title: "弓类武器附魔"
+			icon: {
+				id: "minecraft:bow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 1.5d
+			y: -2.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "457C0D4948F6B167"
+			tasks: [{
+				id: "4230FBAE8A7F9594"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5F40B928E04C6CFF"
+				type: "choice"
+				icon: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:protection"
+							lvl: 1s
+						}]
+					}
+				}
+				exclude_from_claim_all: true
+				table_id: 1569951730510481752L
+			}]
+		}
+		{
+			title: "弩类武器附魔选择"
+			icon: {
+				id: "minecraft:crossbow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.5d
+			y: -2.0d
+			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
+			id: "57C60165AC2FC123"
+			tasks: [{
+				id: "2A77956A64496B17"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 24L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6B3036DA9BAE7727"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 8986975108501783933L
+			}]
+		}
+		{
+			title: "耐久10"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:protection"
+						lvl: 1s
+					}]
+				}
+			}
+			x: 4.5d
+			y: -7.0d
+			dependencies: ["7792FBDA17072456"]
+			id: "4883D882250C134A"
+			tasks: [{
+				id: "654B9A4454129952"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1F57E000B00B973A"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:unbreaking"
+							lvl: 10s
+						}]
+					}
+				}
+			}]
+		}
+		{
+			title: "经验修补"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:protection"
+						lvl: 2s
+					}]
+				}
+			}
+			x: 4.5d
+			y: -6.0d
+			dependencies: ["7792FBDA17072456"]
+			id: "23388F781F414B44"
+			tasks: [{
+				id: "055991436767DA95"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "55473CE7593F4728"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:mending"
+							lvl: 1s
+						}]
+					}
+				}
+			}]
+		}
+		{
+			title: "饰品抽奖"
+			icon: "artifacts:superstitious_hat"
+			x: -1.5d
+			y: -7.0d
+			can_repeat: true
+			id: "7FBA11BB90BB00F4"
+			tasks: [{
+				id: "2A7CC0016F675FBD"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "55A067C0300581D1"
+				type: "random"
+				icon: "minecraft:nether_star"
+				table_id: 6899619535475126999L
+			}]
+		}
+		{
+			title: "遗物饰品抽奖"
+			icon: "relics:researching_table"
+			x: -1.5d
+			y: -5.5d
+			can_repeat: true
+			id: "21066F2271868799"
+			tasks: [{
+				id: "2891B82C1AC8802F"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "504C25A125192B70"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5504224228987582031L
+			}]
+		}
+		{
+			title: "钓鱼佬专用"
+			icon: {
+				id: "aquaculture:neptunium_fishing_rod"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 4.5d
+			y: -2.0d
+			dependencies: ["7792FBDA17072456"]
+			id: "26207B4F131FF4C2"
+			tasks: [{
+				id: "121B02AD83E184FA"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 60L
+			}]
+			rewards: [{
+				id: "0EA0D6E194590078"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 1136185584216645761L
+			}]
+		}
+		{
+			title: "奥秘之书残片"
+			icon: "blue_archivescraft:super_book"
+			x: 4.5d
+			y: -5.0d
+			dependencies: ["7792FBDA17072456"]
+			id: "73065E01D4EE52EC"
+			tasks: [{
+				id: "38C844D85E85F43F"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "01FB705D7A11533B"
+				type: "item"
+				item: "blue_archivescraft:super_book"
+			}]
+		}
+		{
+			title: "灵魂水晶兑换"
+			icon: "enigmaticlegacy:soul_crystal"
+			x: -1.5d
+			y: -4.0d
+			description: ["防止找不到遗失的灵魂水晶而导致血量降低"]
+			can_repeat: true
+			id: "2FC97EE9B8AA56B7"
+			tasks: [{
+				id: "7438CCAD7D7D4BD5"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 40L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6ABBE9F865BE3706"
+				type: "item"
+				item: "enigmaticlegacy:soul_crystal"
+			}]
+		}
+		{
+			title: "金币 -> 钻石币"
+			icon: "kubejs:diamond_coin"
+			x: 6.5d
+			y: -7.0d
+			can_repeat: true
+			id: "2ECF2B4AED6C9867"
+			tasks: [{
+				id: "0BA958DB13505798"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 70L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "40D7A7D49B3D84A7"
+				type: "item"
+				item: "kubejs:diamond_coin"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -7.0d
+			invisible: true
+			id: "65CF7FEAA2872E6C"
+			tasks: [{
+				id: "444AE8AC7F2F8CB6"
+				type: "item"
+				item: "kubejs:monster_coin"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "40B37C6D70C48B47"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "flowingagony:necessary_evil"
+								lvl: 5s
+							}]
+						}
+					}
+				}
+				{
+					id: "318E3A9870A1E898"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 100s
+							}]
+						}
+					}
+					count: 4
+				}
+				{
+					id: "1CBCA4501A134380"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 20s
+							}]
+						}
+					}
+				}
+				{
+					id: "1E1D5C0AA29F716B"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 100s
+							}]
+						}
+					}
+					count: 5
+				}
+				{
+					id: "35F7E351869E69ED"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+				{
+					id: "0306A8187B12AE16"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 1000s
+							}]
+						}
+					}
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

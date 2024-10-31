@@ -1,0 +1,44 @@
+{
+	id: "1B94F9380DDE8E77"
+	order_index: 10
+	title: "巫妖"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "twilightforest:twilight_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:lifedrain_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:zombie_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:fortification_scepter"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

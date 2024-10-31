@@ -1,0 +1,79 @@
+
+[general]
+	#If it's set to "true", "Lightburn Fungal Parasitic" cannot spread negative effect to villager,
+	#and "Survival Shortcut", "Necessary Evil", "Pilferage Creed" cannot damage villager.
+	VILLAGER_SAFE_MODE = false
+	#The attack damage reduction ratio of "Insane Poet". Default value is 0.9, which means the attack damage will be decreased by 90%.
+	#Range: 0.0 ~ 1.0
+	INSANE_POET_DAMAGE_REDUCTION = 0.9
+	#The attack damage reduction ratio of "Shock Therapy". Default value is 0.9, which means the attack damage will be decreased by 90%.
+	#Range: 0.0 ~ 1.0
+	SHOCK_THERAPY_DAMAGE_REDUCTION = 0.9
+	#The attack damage reduction ratio of "Paper Brain". Default value is 0.9, which means the attack damage will be decreased by 90%.
+	#Range: 0.0 ~ 1.0
+	PAPER_BRAIN_DAMAGE_REDUCTION = 0.9
+
+#Enchantment Acquirable Setting
+#If you set certain item to "false", the relevant enchantment will become not acquirable to survival mode player.
+#Enchantment which is acquirable is still functional.
+[acquirable]
+	AN_ENCHANTED_GOLDEN_APPLE_A_DAY = true
+	DEATH_PUNK = true
+	EXOTIC_HEALER = false
+	SAVOR_THE_TASTED = true
+	TRICKSTER = true
+	COVERT_KNIFE = true
+	ENCIOUS_KIND = true
+	EYESORE = true
+	SOURCE_OF_ENVY = true
+	THORN_IN_FLESH = true
+	CLEANSING_BEFORE_USING = true
+	COME_BACK_AT_DUSK = true
+	DIRTY_MONEY = true
+	PILFERAGE_CREED = true
+	CAREFULLY_IDENTIFIED = true
+	NIMBLE_FINGER = true
+	REGULAR_CUSTOMER_PROGRAM = true
+	ARMOR_UP = true
+	FRIVOLOUS_STEP = true
+	MIRACULOUS_ESCAPE = true
+	POTENTIAL_BURST = true
+	STUBBORN_STEP = true
+	INFECTIOUS_MALICE = true
+	I_SEE_YOU_NOW = true
+	MALICE_OUTBREAK = true
+	PERCEIVED_MALICE = true
+	VENGEANCE = true
+	BACK_AND_FILL = true
+	AGONY_SCREAMER = true
+	CUTTING_WATERMELON_DREAM = true
+	INSANE_POET = true
+	PAPER_BRAIN = true
+	SHOCK_THERAPY = true
+	BURNING_PHOBIA = true
+	CONSTRAINED_HEART = true
+	DROWNING_PHOBIA = true
+	PIERCING_FEVER = true
+	DESTRUCTION_WORSHIP = true
+	PRAYER_OF_PAIN = true
+	FRESH_REVENGE = true
+	HATRED_BLOODLINE = true
+	OUTRAGEOUS_SPIRIT = true
+	RESENTFUL_SOUL = true
+	TOO_RESENTFUL_TO_DIE = true
+	MORIRS_DEATHWISH = true
+	MORIRS_LIFEBOUND = true
+	GUIDENS_REGRET = true
+	LAST_SWEET_DREAM = true
+	NECESSARY_EVIL = false
+	SURVIVAL_RUSE = false
+	SURVIVAL_SHORTCUT = false
+	CORRUPTED_KINDRED = true
+	LIGHTBURN_FUNGAL_PARASITIC = true
+	PROTOTYPE_CHAOTIC = false
+	PROTOTYPE_CHAOTIC_TYPE_BETA = true
+	SHADOWBORN = true
+	SCHOLAR_OF_ORIGINAL_SIN = true
+	ORIGINAL_SIN_EROSION = true
+	BURIAL_OBJECT = true
+

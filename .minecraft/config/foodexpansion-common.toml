@@ -1,0 +1,98 @@
+
+#General Settings
+[general]
+	#Items defined here have their stacksize increased to 64
+	bowlStackSizeItems = ["minecraft:mushroom_stew", "minecraft:rabbit_stew", "minecraft:beetroot_soup", "foodexpansion:melon_salad", "foodexpansion:carrot_seed_soup", "foodexpansion:blaze_cream", "foodexpansion:nether_wart_soup", "foodexpansion:spider_soup", "foodexpansion:beetroot_noodles", "foodexpansion:veggie_stew", "foodexpansion:bat_soup", "foodexpansion:golden_feast"]
+
+	#Set to true, to disable the Recipes
+	[general.disable_recipes]
+		#Disable Bacon Recipe
+		disableRecipeBacon = false
+		#Disable Cooked Bacon Smelting Recipe
+		disableRecipeCookedBacon = false
+		#Disable Bacon And Egg Recipe
+		disableRecipeBaconAndEgg = false
+		#Disable Blaze Cream Recipe
+		disableRecipeBlazeCream = false
+		#Disable Cactus Fruit Recipe
+		disableRecipeCactusFruit = false
+		#Disable Carrot Seed Soup Recipe
+		disableRecipeCarrotSeedSoup = false
+		#Disable Chocolate Bar Recipe
+		disableRecipeChocolateBar = false
+		#Disable Compressed Flesh Recipe
+		disableRecipeCompressedFlesh = false
+		#Disable Cooked Bat Wing Smelting Recipe
+		disableRecipeCookedBatWing = false
+		#Disable Cooked Horse Meat Smelting Recipe
+		disableRecipeCookedHorseMeat = false
+		#Disable Cooked Mushroom Smelting Recipe
+		disableRecipeCookedMushroom = false
+		#Disable Cooked Squid Smelting Recipe
+		disableRecipeCookedSquid = false
+		#Disable Cooked Wolf Meat Smelting Recipe
+		disableRecipeCookedWolfMeat = false
+		#Disable Cooked Ocelot Meat Smelting Recipe
+		disableRecipeCookedOcelotMeat = false
+		#Disable Fried Egg Smelting Recipe
+		disableRecipeFriedEgg = false
+		#Disable Jelly Recipe
+		disableRecipeJelly = false
+		#Disable Nether Wart Stew Recipe
+		disableRecipeNetherWartStew = false
+		#Disable Carrot Pie Recipe
+		disableRecipeCarrotPie = false
+		#Disable Spider Soup Recipe
+		disableRecipeSpiderSoup = false
+		#Disable Compressed Flesh to Leather Smelting Recipe
+		disableRecipeCompressedToLeather = false
+		#Disable Bat Wing to Leather Recipe
+		disableRecipeBatToLeather = false
+		#Disable Recipe for the Forbidden Fruit (8 Notch Apples + 1 Diamond Block)
+		disableForbiddenFruit = true
+		#Disable Melon Salad Recipe
+		disableMelonSalad = false
+		#Disable Roasted Seed Recipe
+		disableRoastedSeed = false
+		#Disable Dough Recipe
+		disableDough = false
+		#Disable Recipe for the Starving Fruit (8 Rotten Flesh + 1 Diamond Block)
+		disableStarvingFruit = true
+		#Disable Lollipop Recipe
+		disableLollipop = false
+		#Disable Beetroot Noodles Recipe
+		disableBeetrootNoodles = false
+		#Disable Cooked Parrot Meat Smelting Recipe
+		disableRecipeCookedParrotMeat = false
+		#Disable Llama Steak Smelting Recipe
+		disableRecipeCookedLlamaMeat = false
+		#Disable Polar Bear Steak Smelting Recipe
+		disableRecipeCookedPolarBearMeat = false
+		#Disable Veggie Stew Recipe
+		disableRecipeVeggieStew = false
+		#Disable Bat Soup Recipe
+		disableRecipeBatSoup = false
+		#Disable Golden Feast Recipe
+		disableRecipeGoldenFeast = false
+		#Disable Chocolate Cake Recipe
+		disableRecipeChocolateCake = false
+
+	#Set to true, to disable the Mobdrops
+	[general.disable_mobdrops]
+		#If set to true, squids are not allowed to drop Squid Meat
+		disableSquidDrop = false
+		#If set to true, horses are not allowed to drop Horse Meat
+		disableHorseMeatDrop = false
+		#If set to true, bats are not allowed to drop Bat Wings
+		disableBatWingDrop = false
+		#If set to true, wolves are not allowed to drop Wolf Meat
+		disableWolfMeatDrop = false
+		#If set to true, ocelots are not allowed to drop Ocelot Meat
+		disableOcelotMeatDrop = false
+		#If set to true, parrots are not allowed to drop Parrot Meat
+		disableParrotMeatDrop = false
+		#If set to true, llamas are not allowed to drop Llama Meat
+		disableLlamaMeatDrop = false
+		#If set to true, polar bears are not allowed to drop Polar Bear Meat
+		disablePolarBearMeatDrop = false
+

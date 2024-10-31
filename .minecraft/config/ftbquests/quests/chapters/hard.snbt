@@ -1,0 +1,394 @@
+{
+	id: "07DC54A7DDD45338"
+	group: "7B836DE1D449A47D"
+	order_index: 1
+	filename: "hard"
+	title: "Hard"
+	icon: {
+		id: "minecraft:chainmail_helmet"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: 0.5d
+			subtitle: "造成20000点伤害完成该挑战"
+			dependencies: ["2449390910BCFFE0"]
+			id: "58572472303E0B5F"
+			tasks: [{
+				id: "2F79C372607AF39B"
+				type: "stat"
+				title: "战斗大师II"
+				icon: {
+					id: "minecraft:stone_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				stat: "minecraft:damage_dealt"
+				value: 20000
+			}]
+			rewards: [
+				{
+					id: "1D36B407421123EF"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "56B3E0F3CB7792DB"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:strong_strength"
+						}
+					}
+					count: 3
+				}
+				{
+					id: "36E9006EDA8727D8"
+					type: "item"
+					item: "artifacts:feral_claws"
+				}
+				{
+					id: "7B0702BD4DAF91FC"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 5755399206469978273L
+				}
+			]
+		}
+		{
+			title: "Hard阶段挑战全部达成"
+			x: 1.0d
+			y: -0.5d
+			shape: "rsquare"
+			subtitle: "挑战阶段奖励"
+			dependencies: [
+				"10729A80FB87C01B"
+				"3DFE97466CC44C50"
+				"233EEB065EED4385"
+				"03B95027D95ED42C"
+				"1E9D083BADA88B0C"
+				"58572472303E0B5F"
+			]
+			can_repeat: true
+			id: "0D23A7429E17C206"
+			tasks: [{
+				id: "3D4862A54D5600F4"
+				type: "checkmark"
+				title: "永久增加攻击速度/挖掘速度(可重复)"
+			}]
+			rewards: [{
+				id: "3E1871FE4D2B2FED"
+				type: "command"
+				title: "强化你的右臂"
+				icon: {
+					id: "enigmaticlegacy:common_potion_lingering"
+					Count: 1b
+					tag: {
+						EnigmaticPotion: "haste"
+					}
+				}
+				command: "/effect give @p minecraft:haste 300000 2"
+			}]
+		}
+		{
+			title: "钓鱼佬"
+			x: 1.0d
+			y: 1.5d
+			id: "03B95027D95ED42C"
+			tasks: [
+				{
+					id: "06714E28BF4FEA13"
+					type: "item"
+					item: "minecraft:nautilus_shell"
+					count: 24L
+					consume_items: true
+				}
+				{
+					id: "5D0487D084A00493"
+					type: "item"
+					item: "aquaculture:fish_fillet_raw"
+					count: 160L
+					consume_items: true
+				}
+				{
+					id: "2AF2F5DD8FA9DE13"
+					type: "item"
+					item: "aquaculture:algae"
+					count: 32L
+					consume_items: true
+				}
+				{
+					id: "2486CE80A12CF250"
+					type: "item"
+					item: "aquaculture:driftwood"
+					count: 32L
+					consume_items: true
+				}
+				{
+					id: "5F5A3CE7550B7B05"
+					type: "item"
+					item: "aquaculture:fish_bones"
+					count: 24L
+				}
+			]
+			rewards: [
+				{
+					id: "23D4F39A5DEC8FBB"
+					type: "choice"
+					icon: "aquaculture:treasure_chest"
+					exclude_from_claim_all: true
+					table_id: 5755399206469978273L
+				}
+				{
+					id: "29CB2D992CF5938E"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			title: "小恶魔"
+			x: 3.0d
+			y: 0.5d
+			subtitle: "库莱欸，磅！哈哈，哦摩多西喽欸"
+			id: "1E9D083BADA88B0C"
+			tasks: [
+				{
+					id: "161E78465C7D69CE"
+					type: "item"
+					item: "supplementaries:bomb_blue"
+					count: 32L
+					consume_items: true
+				}
+				{
+					id: "5DECEDBCFA3EA673"
+					type: "item"
+					item: "supplementaries:bomb"
+					count: 160L
+					consume_items: true
+				}
+				{
+					id: "6588597935E8FDBC"
+					type: "item"
+					item: "minecraft:tnt"
+					count: 128L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "283721A811B22B47"
+					type: "random"
+					icon: "aquaculture:treasure_chest"
+					table_id: 5755399206469978273L
+				}
+				{
+					id: "140644204D7147C1"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			title: "熟悉的物品"
+			x: 3.0d
+			y: -1.5d
+			subtitle: "布鲁阿开五，启动"
+			description: ["需要提交哦~"]
+			id: "3DFE97466CC44C50"
+			tasks: [
+				{
+					id: "607FCB268B1ECC6C"
+					type: "item"
+					item: "blue_archivescraft:watch"
+					consume_items: true
+				}
+				{
+					id: "6048EDC6AB7CC151"
+					type: "item"
+					item: "blue_archivescraft:amulet"
+					consume_items: true
+				}
+				{
+					id: "6B62FD817B488227"
+					type: "item"
+					item: "blue_archivescraft:boots"
+					consume_items: true
+				}
+				{
+					id: "19A3470BADDD9697"
+					type: "item"
+					item: "blue_archivescraft:bracelet"
+					consume_items: true
+				}
+				{
+					id: "62D5CD8839ACD9A4"
+					type: "item"
+					item: "blue_archivescraft:glove"
+					consume_items: true
+				}
+				{
+					id: "102D6DA4CF99DE84"
+					type: "item"
+					item: "blue_archivescraft:cap"
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "21774B98FF99FBE0"
+					type: "random"
+					icon: "aquaculture:treasure_chest"
+					table_id: 5755399206469978273L
+				}
+				{
+					id: "562A04718E2BADB4"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+		}
+		{
+			title: "怪物猎人（主世界）"
+			x: -1.0d
+			y: -1.5d
+			subtitle: "战斗，爽"
+			id: "233EEB065EED4385"
+			tasks: [
+				{
+					id: "3F360B5B9B90AE59"
+					type: "item"
+					item: "minecraft:rotten_flesh"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "46CC71029EFD1A1D"
+					type: "item"
+					item: "minecraft:bone"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "4B8C3472D321B815"
+					type: "item"
+					item: "minecraft:string"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "186B21B09CCB780A"
+					type: "item"
+					item: "minecraft:spider_eye"
+					count: 240L
+					consume_items: true
+				}
+				{
+					id: "408E1ADF91A605CB"
+					type: "item"
+					item: "minecraft:arrow"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "7E678E69EA1CF4B7"
+					type: "item"
+					item: "minecraft:phantom_membrane"
+					count: 150L
+					consume_items: true
+				}
+				{
+					id: "35DAB9346C3370FB"
+					type: "item"
+					item: "minecraft:gunpowder"
+					count: 240L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "51AE111B4174872D"
+					type: "random"
+					icon: "aquaculture:treasure_chest"
+					table_id: 5755399206469978273L
+				}
+				{
+					id: "7E68BD4AF5F507A6"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "1CE028F291A6F831"
+					type: "item"
+					item: "artifacts:superstitious_hat"
+				}
+			]
+		}
+		{
+			title: "农业大亨"
+			x: 1.0d
+			y: -2.5d
+			subtitle: "农夫乐事~"
+			id: "10729A80FB87C01B"
+			tasks: [
+				{
+					id: "2986FE733A16336D"
+					type: "item"
+					item: "farmersdelight:cabbage"
+					count: 300L
+					consume_items: true
+				}
+				{
+					id: "6E7BAF1F18C5372D"
+					type: "item"
+					item: "farmersdelight:tomato"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "07AAECFF304DB348"
+					type: "item"
+					item: "farmersdelight:onion"
+					count: 360L
+					consume_items: true
+				}
+				{
+					id: "546BB970BCB21B72"
+					type: "item"
+					item: "corn_delight:corn"
+					count: 200L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "4885623F5D8C2A05"
+					type: "random"
+					icon: "aquaculture:treasure_chest"
+					table_id: 5755399206469978273L
+				}
+				{
+					id: "461391610EF2EF63"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "1772C810F7C3FD56"
+					type: "item"
+					item: "artifacts:lucky_scarf"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

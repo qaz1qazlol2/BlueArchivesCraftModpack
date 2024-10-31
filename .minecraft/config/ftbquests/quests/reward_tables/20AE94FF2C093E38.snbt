@@ -1,0 +1,16 @@
+{
+	id: "20AE94FF2C093E38"
+	order_index: 8
+	title: "挑战者成就礼盒"
+	icon: "aquaculture:treasure_chest"
+	loot_size: 1
+	rewards: [
+		{ item: "enigmaticlegacy:evil_ingot", weight: 10 }
+		{ item: "minecraft:netherite_ingot", count: 3, weight: 20 }
+		{ item: "enigmaticlegacy:etherium_ingot", count: 3, weight: 20 }
+		{ item: "minecraft:totem_of_undying", weight: 10 }
+		{ item: "minecraft:enchanted_golden_apple", weight: 10 }
+		{ item: "relics:relic_experience_bottle", count: 15, weight: 20 }
+		{ item: "minecraft:nether_star", weight: 5 }
+	]
+}

@@ -1,0 +1,599 @@
+{
+	id: "6C39F75372C5F4FB"
+	group: "3A341F8C3B4A5B73"
+	order_index: 1
+	filename: "6"
+	title: "垃圾兑换金币"
+	icon: "minecraft:rotten_flesh"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: -1.0d
+			can_repeat: true
+			id: "27A3A69C5F5A6C99"
+			tasks: [{
+				id: "5B86AB35680865E3"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2008E1503C879B11"
+				type: "item"
+				item: "kubejs:gold_coin"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.0d
+			can_repeat: true
+			id: "12ECDA51B7C0FFFA"
+			tasks: [{
+				id: "3FDA54C6CAA18F03"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5B6D68E47085D9FE"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 10
+			}]
+		}
+		{
+			x: 4.5d
+			y: -1.0d
+			can_repeat: true
+			id: "766DC24B4B727252"
+			tasks: [{
+				id: "1FACE4ABCC3E8C01"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1A2DC99870E370CD"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			can_repeat: true
+			id: "5A368C16B6B1542C"
+			tasks: [{
+				id: "4E086C992C246883"
+				type: "item"
+				item: "minecraft:bone"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0E878205F52C0E7A"
+				type: "item"
+				item: "kubejs:gold_coin"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			can_repeat: true
+			id: "12FF75978FA11926"
+			tasks: [{
+				id: "3123E8A7C47CDE4D"
+				type: "item"
+				item: "minecraft:bone"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6A99D81AA6DF513D"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 10
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			can_repeat: true
+			id: "46D634414EBCBFB2"
+			tasks: [{
+				id: "3DF815DA68FCB192"
+				type: "item"
+				item: "minecraft:bone"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "08928950027DE9FF"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.0d
+			can_repeat: true
+			id: "11D68A1B81C0F94C"
+			tasks: [{
+				id: "28D05533B8612475"
+				type: "item"
+				item: "minecraft:string"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "701C40CBC56C5D45"
+				type: "item"
+				item: "kubejs:gold_coin"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.0d
+			can_repeat: true
+			id: "3DBA75F7089CC999"
+			tasks: [{
+				id: "0EA8BD30BBB1A654"
+				type: "item"
+				item: "minecraft:string"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "68A452768647D480"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 10
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.0d
+			can_repeat: true
+			id: "2820C919BE081429"
+			tasks: [{
+				id: "4DFF0ADB84AFB881"
+				type: "item"
+				item: "minecraft:string"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5A5DCBC860061E03"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			can_repeat: true
+			id: "47FDB1CD67AF21F4"
+			tasks: [{
+				id: "4C836B159514ACDF"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				count: 32L
+				consume_items: true
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			can_repeat: true
+			id: "246512F1D4A2AC67"
+			tasks: [{
+				id: "5D661B6A79F9E3AC"
+				type: "item"
+				item: "minecraft:bone"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "578BE76A54163351"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.0d
+			can_repeat: true
+			id: "53F425E7102F9C6C"
+			tasks: [{
+				id: "56337201F908C41C"
+				type: "item"
+				item: "minecraft:string"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "696FF439EBC4A29B"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			can_repeat: true
+			id: "40365FCC5B61E55A"
+			tasks: [{
+				id: "71938B4CEB51492B"
+				type: "item"
+				item: "minecraft:coal"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "335B84C05F3EBB2A"
+				type: "item"
+				item: "kubejs:gold_coin"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -3.0d
+			can_repeat: true
+			id: "2338A0F19367CC17"
+			tasks: [{
+				id: "4A567BE9413B4EB3"
+				type: "item"
+				item: "minecraft:coal"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4E0682D1345B8055"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 10
+			}]
+		}
+		{
+			x: 3.0d
+			y: -3.0d
+			can_repeat: true
+			id: "20C90E24E4815985"
+			tasks: [{
+				id: "386A2B562DE350A9"
+				type: "item"
+				item: "minecraft:coal"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6C78CD00E64A5AF4"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32
+			}]
+		}
+		{
+			x: 4.5d
+			y: -3.0d
+			can_repeat: true
+			id: "40104BD1B00B2030"
+			tasks: [{
+				id: "53CD8A494A7B74AF"
+				type: "item"
+				item: "minecraft:coal"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "48BBDDAACAF8D7A1"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.0d
+			can_repeat: true
+			id: "13A8AF6C6CCE23A3"
+			tasks: [{
+				id: "3B18F3FAD0126F76"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1A3BEBBC44825B3F"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 2
+			}]
+		}
+		{
+			x: 1.5d
+			y: -4.0d
+			can_repeat: true
+			id: "360D2A77B6F0D2FF"
+			tasks: [{
+				id: "2F7D1C9C30E55770"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "606AED9255D76334"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 20
+			}]
+		}
+		{
+			x: 3.0d
+			y: -4.0d
+			can_repeat: true
+			id: "73159959679918DD"
+			tasks: [{
+				id: "3559167B23D9A83C"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "147C53D536BC5F04"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64
+			}]
+		}
+		{
+			x: 4.5d
+			y: -4.0d
+			can_repeat: true
+			id: "0B95E33D738451DA"
+			tasks: [{
+				id: "0B21DDEBC698E1C7"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2FD0DF86416762FF"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 128
+			}]
+		}
+		{
+			x: 0.0d
+			y: -5.0d
+			can_repeat: true
+			id: "4F8D84D177F206C4"
+			tasks: [{
+				id: "65163520D30F3CA9"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "327B57172F093F7B"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 3
+			}]
+		}
+		{
+			x: 1.5d
+			y: -5.0d
+			can_repeat: true
+			id: "203C5A93367BC35D"
+			tasks: [{
+				id: "5230717D7F11EBCC"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "45B9FEDA553CA69D"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 30
+			}]
+		}
+		{
+			x: 3.0d
+			y: -5.0d
+			can_repeat: true
+			id: "2749A18CBC268556"
+			tasks: [{
+				id: "707650BE24D2670B"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6F4C884F05A7D8E9"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 96
+			}]
+		}
+		{
+			x: 4.5d
+			y: -5.0d
+			can_repeat: true
+			id: "695AA7CDF664921E"
+			tasks: [{
+				id: "431498EFC52F65B5"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "190A1C5969D1D791"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 192
+			}]
+		}
+		{
+			x: 0.0d
+			y: -6.0d
+			can_repeat: true
+			id: "3BE658D749588797"
+			tasks: [{
+				id: "062F92C51CF72F57"
+				type: "item"
+				item: "minecraft:diamond"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "450BCE8F570251C3"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 4
+			}]
+		}
+		{
+			x: 1.5d
+			y: -6.0d
+			can_repeat: true
+			id: "47038BCA1E1238A9"
+			tasks: [{
+				id: "20B8EA0378285A81"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4FF87904C3FBC8B5"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 40
+			}]
+		}
+		{
+			x: 3.0d
+			y: -6.0d
+			can_repeat: true
+			id: "6D6A482C0651FB44"
+			tasks: [{
+				id: "55D62C8156E38260"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1A32AB0C1D14C8B7"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 128
+			}]
+		}
+		{
+			x: 4.5d
+			y: -6.0d
+			can_repeat: true
+			id: "430AB408B82CC74D"
+			tasks: [{
+				id: "32A0E0FD856B0B71"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5ABF3144846DE553"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 256
+			}]
+		}
+		{
+			x: 0.0d
+			y: -7.0d
+			id: "678BB872D684DCED"
+			tasks: [{
+				id: "46472C1263C88D7E"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "501B69ED51B6EC4A"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 10
+			}]
+		}
+		{
+			x: 1.5d
+			y: -7.0d
+			id: "739715A2E1451F69"
+			tasks: [{
+				id: "56CBEB6C0E9FF20A"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "57F66BE3FCB8EBA7"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 100
+			}]
+		}
+		{
+			x: 3.0d
+			y: -7.0d
+			id: "1982FA15870C4EEC"
+			tasks: [{
+				id: "1115AA612178016C"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "75F47C7C5867C908"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 320
+			}]
+		}
+		{
+			x: 4.5d
+			y: -7.0d
+			id: "69B40952CF4EB619"
+			tasks: [{
+				id: "177556A7EFA75D48"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2176D6616C5373A4"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 640
+			}]
+		}
+	]
+	quest_links: [ ]
+}

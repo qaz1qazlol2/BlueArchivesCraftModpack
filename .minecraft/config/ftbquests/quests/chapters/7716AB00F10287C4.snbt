@@ -1,0 +1,270 @@
+{
+	id: "7716AB00F10287C4"
+	group: "365D2B80CD0DEDCA"
+	order_index: 0
+	filename: "7716AB00F10287C4"
+	title: "开发者的小彩蛋"
+	icon: "kubejs:luguan"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "水滴"
+			icon: "kubejs:luguan"
+			x: 2.0d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌"
+			id: "6000C4A6AC06009B"
+			tasks: [{
+				id: "3B760EE20E3F8B18"
+				type: "item"
+				item: "kubejs:luguan"
+			}]
+			rewards: [
+				{
+					id: "0025FF57D289B79E"
+					type: "command"
+					command: "/effect give @s minecraft:blindness 204"
+					player_command: true
+					silent: true
+				}
+				{
+					id: "53C540230C32813D"
+					type: "command"
+					command: "/effect give @s minecraft:slowness 204 255"
+					player_command: true
+					silent: true
+				}
+				{
+					id: "62C00078A215B1E6"
+					type: "command"
+					command: "/playsound blue_archivescraft:god_apple block @s ~ ~ ~"
+					player_command: true
+					silent: true
+				}
+			]
+		}
+		{
+			title: "我之战"
+			icon: {
+				id: "enigmaticlegacy:cosmic_scroll"
+				Count: 1b
+				tag: { }
+			}
+			x: 3.5d
+			y: -1.5d
+			subtitle: "神奇代码"
+			id: "21123572DCC194D8"
+			tasks: [{
+				id: "4F5CDDBEE81E1E71"
+				type: "item"
+				item: "minecraft:end_rod"
+				count: 100L
+			}]
+			rewards: [{
+				id: "761D40E783A4966D"
+				type: "item"
+				item: {
+					id: "kubejs:shuijing"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "弗兰克的盗墓传承"
+			icon: "minecraft:beacon"
+			x: 2.0d
+			y: 0.0d
+			subtitle: "没时间为frank的盗墓精神纪念，接下来到来的是暴力盗墓！"
+			id: "5938B17F63A32909"
+			tasks: [
+				{
+					id: "5CFEDD3602F13B18"
+					type: "kill"
+					entity: "majruszsdifficulty:cursed_armor"
+					value: 100L
+				}
+				{
+					id: "61C349B012FF116B"
+					type: "kill"
+					icon: "graveyard:corrupted_pillager_spawn_egg"
+					entity: "graveyard:corrupted_pillager"
+					value: 100L
+				}
+				{
+					id: "607137EAEF5C9175"
+					type: "kill"
+					icon: "graveyard:corrupted_vindicator_spawn_egg"
+					entity: "graveyard:corrupted_vindicator"
+					value: 100L
+				}
+				{
+					id: "2AC1373E35AAA685"
+					type: "kill"
+					icon: "graveyard:ghoul_spawn_egg"
+					entity: "graveyard:ghoul"
+					value: 100L
+				}
+				{
+					id: "189CC47C771D2607"
+					type: "kill"
+					icon: "graveyard:wraith_spawn_egg"
+					entity: "graveyard:wraith"
+					value: 100L
+				}
+				{
+					id: "1AE272F41054BF95"
+					type: "kill"
+					icon: "graveyard:nightmare_spawn_egg"
+					entity: "graveyard:nightmare"
+					value: 100L
+				}
+			]
+			rewards: [{
+				id: "27D1D3E7510FC849"
+				type: "item"
+				item: {
+					id: "twilightforest:mazebreaker_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:efficiency"
+								lvl: 100s
+							}
+							{
+								id: "minecraft:unbreaking"
+								lvl: 100s
+							}
+							{
+								id: "minecraft:fortune"
+								lvl: 10s
+							}
+							{
+								id: "minecraft:mending"
+								lvl: 10s
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "sfhuewui"
+			icon: "minecraft:redstone_block"
+			x: 0.5d
+			y: -1.5d
+			subtitle: "独立维度的房间，叠加态的wifi，奇怪的报错文件"
+			id: "7B3C0427E4E4919B"
+			tasks: [{
+				id: "4D71768C36BC2A02"
+				type: "item"
+				item: "sfgnsh:sfwifi"
+				consume_items: false
+			}]
+			rewards: [
+				{
+					id: "712C84DCB6FF1353"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 100s
+							}]
+						}
+					}
+				}
+				{
+					id: "452AE3D9970410A3"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 100s
+							}]
+						}
+					}
+				}
+				{
+					id: "2DE5038206F133FA"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+				{
+					id: "601FEA5880615B2A"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 100s
+							}]
+						}
+					}
+				}
+				{
+					id: "6FB8C19C8ED79B40"
+					type: "item"
+					item: "addurdisc:disc_ed"
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			id: "5ADAB437F608A24E"
+			tasks: [{
+				id: "070F5CCB1784DB1A"
+				type: "item"
+				item: "minecraft:beacon"
+			}]
+			rewards: [
+				{
+					id: "2ED773F96A630BF7"
+					type: "command"
+					command: "/title @s title \"恭喜你获得了第一个信标，但是该物品无法放置\""
+					player_command: true
+					silent: true
+				}
+				{
+					id: "26AA5335B01439D9"
+					type: "command"
+					command: "/title @s subtitle \"如果你一不小心放置了信标，而且消失了，你可以按下q键丢出这个消失的信标\""
+					player_command: true
+					silent: true
+				}
+				{
+					id: "5471CE178651A7C4"
+					type: "command"
+					command: "/title @s actionbar \"该信息只显示一次\""
+					player_command: true
+					silent: true
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

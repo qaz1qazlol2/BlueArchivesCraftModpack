@@ -1,0 +1,235 @@
+{
+	id: "20D5ED5305703C68"
+	group: "50204E0DD499969B"
+	order_index: 0
+	filename: "20D5ED5305703C68"
+	title: "支线：讨伐七罪"
+	icon: "sons_of_sins:bloody_bone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "初见杀"
+			x: 0.0d
+			y: 0.0d
+			description: ["......在这座教堂地下隐藏着第一个BOSS，击杀他即可获取&c血腥之骨"]
+			dependencies: ["3C91B9905137C9EE"]
+			size: 2.0d
+			id: "1A0FEC8DABC3C611"
+			tasks: [{
+				id: "7B12E3007B3E516F"
+				type: "item"
+				item: "sons_of_sins:iron_motor"
+			}]
+			rewards: [
+				{
+					id: "1C0A92F5E1ADEF12"
+					type: "item"
+					item: "sons_of_sins:rotten_apple"
+					count: 5
+				}
+				{
+					id: "2EC0957F91EC414C"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "4B248B210E3E5D63"
+			tasks: [{
+				id: "491DCCAA615783CD"
+				type: "item"
+				item: "sons_of_sins:bloody_bone"
+			}]
+		}
+		{
+			title: "真有人会做这玩意？"
+			x: 5.0d
+			y: 0.0d
+			dependencies: ["4B248B210E3E5D63"]
+			id: "20C4C5D53451068B"
+			tasks: [{
+				id: "6AF5A808B367FB7E"
+				type: "item"
+				item: {
+					id: "sons_of_sins:bloody_bone_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "你凭什么比钻石的还耐用？"
+			x: 5.0d
+			y: 1.0d
+			dependencies: ["4B248B210E3E5D63"]
+			id: "49D26AB5B50F47EA"
+			tasks: [{
+				id: "331D88334E6DFA30"
+				type: "item"
+				item: {
+					id: "sons_of_sins:bloody_bone_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "还挺顺手"
+			x: 5.0d
+			y: -1.0d
+			dependencies: ["4B248B210E3E5D63"]
+			id: "50F164B3B3448313"
+			tasks: [{
+				id: "39B2ADA465C40C48"
+				type: "item"
+				item: {
+					id: "sons_of_sins:bloody_bone_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "骨锹"
+			x: 5.0d
+			y: -2.0d
+			dependencies: ["4B248B210E3E5D63"]
+			id: "61DFDF047C5A566B"
+			tasks: [{
+				id: "10222738CDC87049"
+				type: "item"
+				item: {
+					id: "sons_of_sins:bloody_bone_shovel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "冢极奉献"
+			x: 5.0d
+			y: 2.0d
+			dependencies: ["4B248B210E3E5D63"]
+			id: "1BDEC33D83E0EBFF"
+			tasks: [{
+				id: "633701726C455DFE"
+				type: "item"
+				item: {
+					id: "sons_of_sins:bloody_bone_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "我踏马到处睡觉"
+			x: -3.0d
+			y: -0.5d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "09728F0EFBB7EE85"
+			tasks: [{
+				id: "06C755580A1DE7C2"
+				type: "item"
+				item: "sons_of_sins:peaceful_bed"
+			}]
+		}
+		{
+			title: "不够贪婪"
+			x: -3.0d
+			y: 0.5d
+			hide_dependency_lines: false
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "5E91F8EC95125DF8"
+			tasks: [{
+				id: "0D4E6339BE7D417C"
+				type: "item"
+				item: "sons_of_sins:bloody_puddle"
+			}]
+		}
+		{
+			title: "比老八吃的还怪"
+			x: -3.0d
+			y: 1.5d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "7F83CF9928B7D49C"
+			tasks: [{
+				id: "253CDB6D8213E7FC"
+				type: "item"
+				item: "sons_of_sins:wistiver_jaws"
+			}]
+		}
+		{
+			title: "黑手让你飞起来"
+			x: -3.0d
+			y: -1.5d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "2CD90E9A92F75BB4"
+			tasks: [{
+				id: "3BA40659766DC127"
+				type: "item"
+				item: "sons_of_sins:prowler_s_hand"
+			}]
+		}
+		{
+			title: "马上把你扒光"
+			x: -3.0d
+			y: 2.5d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "006647E763132201"
+			tasks: [{
+				id: "64A1E64C70746DE8"
+				type: "item"
+				item: "sons_of_sins:cursed_head"
+			}]
+		}
+		{
+			title: "红温了"
+			x: -3.0d
+			y: -2.5d
+			dependencies: ["1A0FEC8DABC3C611"]
+			id: "20043302C6EEAD7D"
+			tasks: [{
+				id: "0F50988044884B81"
+				type: "item"
+				item: "sons_of_sins:butcher_carcass"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			subtitle: "你吃了不该吃的东西"
+			description: [
+				"该模组BOSS需要吃教堂里怪异的苹果召唤，建议在空中吃。"
+				" "
+				"&c你也不想被BOSS突然瞬移到身后秒杀吧"
+			]
+			id: "613EFDC8ECC2BBD6"
+			tasks: [{
+				id: "648A476F691CCBE0"
+				type: "checkmark"
+				title: "提示"
+			}]
+			rewards: [{
+				id: "409F09F63C2A797D"
+				type: "xp"
+				xp: 100
+			}]
+		}
+	]
+	quest_links: [ ]
+}

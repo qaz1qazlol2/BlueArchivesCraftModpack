@@ -1,0 +1,11 @@
+
+[general]
+
+	[general.spawning]
+		#Change the spawn weight for Crayfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		crayfishSpawnWeight = 40
+		#Change the roll chance for Crayfish. Higher number = lower chance of spawning
+		#Range: > 0
+		crayfishSpawnRolls = 1
+

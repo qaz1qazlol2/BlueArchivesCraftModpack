@@ -1,0 +1,25 @@
+{
+	id: "4C1F4CF8CC4C2D5E"
+	group: "50204E0DD499969B"
+	order_index: 1
+	filename: "4C1F4CF8CC4C2D5E"
+	title: "支线：亡灵狂欢"
+	icon: "graveyard:lying_skeleton"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		description: ["没玩过，不写"]
+		hide_text_until_complete: true
+		size: 2.0d
+		id: "3B2EFCD5EAE56795"
+		tasks: [{
+			id: "372E4C42FCE46F7B"
+			type: "advancement"
+			advancement: "graveyard:graveyard/root"
+			criterion: ""
+		}]
+	}]
+	quest_links: [ ]
+}

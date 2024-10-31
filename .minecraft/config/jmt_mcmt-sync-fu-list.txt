@@ -1,0 +1,5 @@
+// This file allows you to add targets to sync-fu
+// Lines starting with // or # are comments
+// This is done by specifying a class name
+// As an example: 
+//it.unimi.dsi.fastutil.ints.Int2IntOpenHashMap

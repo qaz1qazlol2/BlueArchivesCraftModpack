@@ -1,0 +1,80 @@
+{
+	id: "34FFE5A27BD12B56"
+	order_index: 17
+	title: "镐类工具附魔抽奖"
+	icon: {
+		id: "minecraft:diamond_pickaxe"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	loot_size: 1
+	rewards: [
+		{
+			title: "效率X"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:efficiency"
+						lvl: 10s
+					}]
+				}
+			}
+		}
+		{
+			title: "精准采集"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:silk_touch"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			title: "时运V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:fortune"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			title: "经验修补"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:mending"
+						lvl: 1s
+					}]
+				}
+			}
+		}
+		{
+			title: "精挑细选V"
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "flowingagony:carefully_identified"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+	]
+}

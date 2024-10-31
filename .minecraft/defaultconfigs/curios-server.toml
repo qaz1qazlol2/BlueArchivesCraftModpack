@@ -1,0 +1,49 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "back"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "ring"
+	size = 6
+
+[[curiosSettings]]
+	identifier = "charm"
+	size = 4
+
+[[curiosSettings]]
+	identifier = "necklace"
+	size = 3
+
+[[curiosSettings]]
+	identifier = "bracelet"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "hands"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "body"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "belt"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "feet"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "head"
+	size = 2
+
+[[curiosSettings]]
+	identifier = "scroll"
+	size = 1
+
+[[curiosSettings]]
+	identifier = "spellstone"
+	size = 1

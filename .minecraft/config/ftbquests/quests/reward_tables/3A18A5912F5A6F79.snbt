@@ -1,0 +1,49 @@
+{
+	id: "3A18A5912F5A6F79"
+	order_index: 16
+	title: "阿拜多斯的帮助"
+	icon: "blue_archivescraft:card"
+	loot_size: 1
+	rewards: [
+		{
+			title: "黑见芹香"
+			icon: "minecraft:nether_star"
+			command: "/effect give @s blue_archivescraft:serika 999999"
+			player_command: true
+			silent: true
+			type: "command"
+		}
+		{
+			title: "砂狼白子"
+			icon: "minecraft:nether_star"
+			command: "/effect give @s blue_archivescraft:shiroko 1000000"
+			player_command: true
+			silent: true
+			type: "command"
+		}
+		{
+			title: "小鸟游星野"
+			icon: "minecraft:nether_star"
+			command: "/effect give @s blue_archivescraft:hoshino 999999"
+			player_command: true
+			silent: true
+			type: "command"
+		}
+		{
+			title: "砂狼白子  色彩化"
+			icon: "minecraft:nether_star"
+			command: "/effect give @s blue_archivescraft:color 1000000"
+			player_command: true
+			silent: true
+			type: "command"
+		}
+		{
+			title: "小鸟游星野  荷鲁斯显现"
+			icon: "minecraft:nether_star"
+			command: "/effect give @s blue_archivescraft:horus 999999"
+			player_command: true
+			silent: true
+			type: "command"
+		}
+	]
+}

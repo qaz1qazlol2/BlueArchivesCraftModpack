@@ -1,0 +1,99 @@
+
+[[ranks]]
+    tier = 0
+    numAffixes = 0
+    defaultColor = 0xffffff
+    chance = 1.0
+    growthFactor = 0
+    effects = []
+    presetAffixes = []
+
+[[ranks]]
+    tier = 1
+    numAffixes = 1
+    defaultColor = 0xffff00
+    chance = 0.05
+    growthFactor = 2
+    effects = []
+    presetAffixes = []
+
+[[ranks]]
+    tier = 2
+    numAffixes = 2
+    defaultColor = 0xff9900
+    chance = 0.2
+    growthFactor = 4
+    effects = []
+    presetAffixes = []
+
+[[ranks]]
+    tier = 3
+    numAffixes = 3
+    defaultColor = 0x66ffff
+    chance = 0.2
+    growthFactor = 35
+    effects = ["minecraft:health_boost;10","minecraft:regeneration;1"]
+    presetAffixes = []
+
+[[ranks]]
+    tier = 4
+    numAffixes = 4
+    defaultColor = 0xcc33ff
+    chance = 0.2
+    growthFactor = 50
+    effects = ["minecraft:health_boost;50","minecraft:regeneration;1"]
+    presetAffixes = []
+
+[[ranks]]
+    tier = 5
+    numAffixes = 5
+    defaultColor = 0xff3333
+    chance = 0.0
+    growthFactor = 100
+    effects = ["minecraft:health_boost;100","minecraft:regeneration;1"]
+    presetAffixes = []
+
+[[ranks]]
+    tier = 6
+    numAffixes = 6
+    defaultColor = 0xcc0033
+    chance = 0.0
+    growthFactor = 120
+    effects = ["minecraft:health_boost;100","minecraft:regeneration;1"]
+    presetAffixes = []
+  
+[[ranks]]
+    tier = 7
+    numAffixes = 7
+    defaultColor = 0xcc0033
+    chance = 0.0
+    growthFactor = 50
+    effects = ["minecraft:health_boost;100","minecraft:regeneration;1","minecraft:strength;10"]
+    presetAffixes = []
+  
+[[ranks]]
+    tier = 8
+    numAffixes = 9
+    defaultColor = 0xFFFFFF
+    chance = 0.0
+    growthFactor = 80
+    effects = ["minecraft:health_boost;100", "minecraft:strength;100", "minecraft:regeneration;1"]
+    presetAffixes = []
+
+[[ranks]]
+    tier = 9
+    numAffixes = 10
+    defaultColor = 0xA020F0
+    chance = 0.0
+    growthFactor = 85
+    effects = ["minecraft:health_boost;100", "minecraft:strength;100", "minecraft:regeneration;1"]
+    presetAffixes = []
+
+[[ranks]]
+    tier = 10
+    numAffixes = 10
+    defaultColor = 0x1C1C1C
+    chance = 0.0
+    growthFactor = 150
+    effects = ["minecraft:health_boost;100", "minecraft:strength;100", "minecraft:regeneration;3"]
+    presetAffixes = []

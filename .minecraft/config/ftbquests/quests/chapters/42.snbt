@@ -1,0 +1,661 @@
+{
+	id: "077DB0A8E5906FDC"
+	group: "644FCC46DEE59C59"
+	order_index: 2
+	filename: "42"
+	title: "3.2：虚空的呼唤"
+	icon: "minecraft:end_stone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "这眼睛给我干哪来了？"
+			icon: "minecraft:end_stone"
+			x: -2.0d
+			y: 0.0d
+			dependencies: ["5B17411B819324A6"]
+			size: 2.0d
+			id: "1139920D35883BAC"
+			tasks: [{
+				id: "3FC16F92080918F3"
+				type: "dimension"
+				title: "进入末地"
+				icon: "minecraft:end_stone"
+				dimension: "minecraft:the_end"
+			}]
+			rewards: [{
+				id: "42E6BAC6C22B4D3C"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			title: "&5末地最后一只巨龙的陨落"
+			x: 2.5d
+			y: 0.0d
+			subtitle: "击杀末影龙"
+			description: ["至此，你的原版之旅已经结束"]
+			dependencies: ["1139920D35883BAC"]
+			id: "239E43981C3A5FF6"
+			tasks: [{
+				id: "68A077230D9E6210"
+				type: "advancement"
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "646834B5F539A65C"
+					type: "item"
+					item: {
+						id: "relics:enders_hand"
+						Count: 1b
+						tag: {
+							abilities: {
+								swap: {
+									stats: {
+										distance: 27.99169d
+									}
+									points: 0
+								}
+							}
+						}
+					}
+				}
+				{
+					id: "3CE1C530A111B635"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 7362344811821590953L
+				}
+				{
+					id: "7CE18B1975CCA3C6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1D16FFBB59A98721"
+					type: "item"
+					item: "enigmaticlegacy:abyssal_heart"
+				}
+				{
+					id: "7E83B6ADE18C85FE"
+					type: "item"
+					item: "blue_archivescraft:super_book"
+					random_bonus: 2
+				}
+			]
+		}
+		{
+			title: "奇怪的末影人"
+			x: -2.0d
+			y: -2.0d
+			subtitle: "这些末影人从哪里来的？"
+			dependencies: ["1139920D35883BAC"]
+			id: "1DBC4BCE54760A45"
+			tasks: [{
+				id: "623E02C32AC86192"
+				type: "kill"
+				entity: "minecraft:enderman"
+				value: 20L
+			}]
+			rewards: [
+				{
+					id: "7058A7584460E7B7"
+					type: "item"
+					item: "enigmaticlegacy:etherium_ore"
+				}
+				{
+					id: "1256B04184DA2AD4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			title: "&5它在注视着你"
+			x: 2.5d
+			y: 1.5d
+			dependencies: ["239E43981C3A5FF6"]
+			id: "70AF93D521BF3172"
+			tasks: [{
+				id: "08A27C7A1BD3E204"
+				type: "item"
+				item: "enigmaticlegacy:abyssal_heart"
+			}]
+			rewards: [{
+				id: "2DAF8D9DC7A7A541"
+				type: "loot"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			title: "天外有天"
+			x: 4.5d
+			y: 0.0d
+			subtitle: "远程折跃"
+			dependencies: ["239E43981C3A5FF6"]
+			id: "2299EFF603CCA96C"
+			tasks: [{
+				id: "7B2FFA07F90973BC"
+				type: "advancement"
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "2492F3B0515743D1"
+					type: "xp"
+					xp: 200
+				}
+				{
+					id: "281E7F7031B27B3A"
+					type: "item"
+					item: "alexsmobs:cosmic_cod"
+					count: 10
+				}
+			]
+		}
+		{
+			title: "末地城"
+			x: 6.5d
+			y: 2.0d
+			subtitle: "游戏尽头的城市"
+			dependencies: ["2299EFF603CCA96C"]
+			id: "70AA01130373CB47"
+			tasks: [{
+				id: "4F86BD7B89A845EB"
+				type: "advancement"
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "5897530BEC06E994"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					id: "3047212304FD22DA"
+					type: "item"
+					item: "minecraft:chorus_fruit"
+					count: 12
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: -2.0d
+			dependencies: ["2299EFF603CCA96C"]
+			id: "6E4E5B824673E36E"
+			tasks: [{
+				id: "68B92008723F3DCF"
+				type: "item"
+				item: "enigmaticlegacy:astral_dust"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -2.0d
+			dependencies: ["2299EFF603CCA96C"]
+			id: "242B9A18E65C4FA8"
+			tasks: [{
+				id: "552E5AC6B836CE55"
+				type: "item"
+				item: "enigmaticlegacy:etherium_ore"
+			}]
+		}
+		{
+			title: "终极武装"
+			x: 8.5d
+			y: -2.0d
+			dependencies: ["242B9A18E65C4FA8"]
+			id: "7DE1FC6772EA9CA5"
+			tasks: [
+				{
+					id: "0F4F166F7F47694A"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5319EE00FA0CD1A5"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "79D0B6A6E5687A3C"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "054BB72D1540698F"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "108005D5C908B809"
+				type: "xp"
+				xp: 500
+			}]
+		}
+		{
+			x: 4.5d
+			y: -4.0d
+			dependencies: ["6E4E5B824673E36E"]
+			id: "370901A437BA149D"
+			tasks: [{
+				id: "759558452234D0BB"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:cosmic_heart"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [
+				{
+					id: "3A523B057EDA5CCA"
+					type: "item"
+					item: "enigmaticlegacy:astral_dust"
+					count: 3
+					random_bonus: 3
+				}
+				{
+					id: "446805EC53229164"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: 2.0d
+			subtitle: "在末地乱逛的你发现这个&5【奇怪的建筑】&f于是你选择进去看看"
+			dependencies: ["2299EFF603CCA96C"]
+			id: "08484B38E8D95BC5"
+			tasks: [{
+				id: "68DB2068C3CD2287"
+				type: "structure"
+				title: "废弃的堡垒"
+				icon: "cataclysm:void_stone"
+				structure: "cataclysm:ruined_citadel"
+			}]
+			rewards: [{
+				id: "001212377A49F5D4"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			title: "黑手！"
+			x: -2.0d
+			y: -4.0d
+			subtitle: "飞起来"
+			dependencies: ["1DBC4BCE54760A45"]
+			id: "2BB0E78CF413885B"
+			tasks: [{
+				id: "3605973272727816"
+				type: "kill"
+				icon: {
+					id: "mutantmonsters:endersoul_hand"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "mutantmonsters:mutant_enderman"
+				value: 5L
+			}]
+			rewards: [{
+				id: "21B32888775F5049"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+		}
+		{
+			x: 6.5d
+			y: 5.5d
+			dependencies: ["1686715FEE8ABA03"]
+			id: "29BBC1641784EA73"
+			tasks: [{
+				id: "4F55C2D245B5AE53"
+				type: "item"
+				item: "cataclysm:void_core"
+			}]
+			rewards: [
+				{
+					id: "260A7BAF59E8D6C4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "66C968EDC9F993FE"
+					type: "item"
+					item: "minecraft:shulker_shell"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 6.5d
+			y: 4.0d
+			dependencies: ["1686715FEE8ABA03"]
+			id: "043A1F5DE23D219E"
+			tasks: [{
+				id: "662B93D2E431036F"
+				type: "item"
+				item: "cataclysm:gauntlet_of_guard"
+			}]
+			rewards: [{
+				id: "082313B76976DD84"
+				type: "item"
+				item: "relics:relic_experience_bottle"
+				count: 30
+			}]
+		}
+		{
+			title: "来点薄荷糖？"
+			x: -2.0d
+			y: 2.0d
+			subtitle: "用空瓶子装点龙息！"
+			dependencies: ["1139920D35883BAC"]
+			id: "5475A38150E1D828"
+			tasks: [{
+				id: "0119743D99AD9536"
+				type: "item"
+				item: "minecraft:dragon_breath"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "545F144215154EB2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4B4C302A7F9F9529"
+					type: "item"
+					item: "minecraft:end_crystal"
+					count: 4
+				}
+				{
+					id: "604F24747D1703D5"
+					type: "item"
+					item: "enigmaticlegacy:etherium_ore"
+				}
+			]
+		}
+		{
+			title: "天空不再是极限"
+			x: 8.5d
+			y: 2.0d
+			description: ["穿上鞘翅会导致游戏崩溃，请不要这么干"]
+			dependencies: ["70AA01130373CB47"]
+			id: "052A98AFA64DCFD5"
+			tasks: [{
+				id: "1EEFD120244630B5"
+				type: "item"
+				item: {
+					id: "minecraft:elytra"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "0834D359A37EBB26"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+				}
+				{
+					id: "0B2D0BC0B4944F64"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "奇怪的生物"
+			x: 2.5d
+			y: -2.0d
+			subtitle: "获取它们的外壳"
+			description: [
+				"当你在外岛探索时可能会发现长得像病毒一样的生物，获取它们的外壳用于合成召唤本模组BOSS召唤物"
+				""
+				"&c将绯红孑孓丢入衣壳体等待一会"
+			]
+			dependencies: ["2299EFF603CCA96C"]
+			id: "642C8218CA452114"
+			tasks: [
+				{
+					id: "1CF321526C3AE6E8"
+					type: "kill"
+					icon: "alexsmobs:spawn_egg_enderiophage"
+					entity: "alexsmobs:enderiophage"
+					value: 5L
+				}
+				{
+					id: "39FE4E1F157CAB73"
+					type: "item"
+					item: "alexsmobs:capsid"
+				}
+			]
+			rewards: [
+				{
+					id: "487EFD37AABC55AE"
+					type: "item"
+					item: "alexsmobs:mosquito_larva"
+				}
+				{
+					id: "27622EAD3513A848"
+					type: "item"
+					item: "endersdelight:crispy_skewer"
+				}
+			]
+		}
+		{
+			title: "虚空吞噬者"
+			x: 0.5d
+			y: -2.0d
+			subtitle: "一场恶战即将开始"
+			description: ["将&b神秘蠕虫&c投入虚空&f，来召唤&c虚空蠕虫"]
+			dependencies: ["642C8218CA452114"]
+			id: "319DA1F50F380B07"
+			tasks: [
+				{
+					id: "5380C5AA047FC469"
+					type: "item"
+					item: "alexsmobs:mysterious_worm"
+				}
+				{
+					id: "34076ADE7C65D6C2"
+					type: "kill"
+					icon: "alexsmobs:spawn_egg_void_worm"
+					entity: "alexsmobs:void_worm_part"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "5CCC9867B60F3071"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "19336F14D30F3D24"
+					type: "item"
+					item: "minecraft:enchanted_golden_apple"
+				}
+				{
+					id: "3776CA21CD524486"
+					type: "item"
+					item: "enigmaticlegacy:etherium_ingot"
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: -4.0d
+			subtitle: "突破..."
+			description: ["这把镐子或许可以让你达到世界尽头......"]
+			dependencies: ["319DA1F50F380B07"]
+			id: "6C7444A20E2AF704"
+			tasks: [
+				{
+					id: "5E7B9E0BBBA3E808"
+					type: "item"
+					item: {
+						id: "alexsmobs:dimensional_carver"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+				}
+				{
+					id: "20D70CC992A506B0"
+					type: "item"
+					item: "alexsmobs:void_worm_effigy"
+					only_from_crafting: true
+				}
+			]
+			rewards: [{
+				id: "16D79B85BBD46E11"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 7362344811821590953L
+			}]
+		}
+		{
+			title: "紫色粘液球"
+			x: 8.5d
+			y: 4.0d
+			subtitle: "魔法凝胶"
+			description: ["复制配方已删除，该物品无用途"]
+			dependencies: ["70AA01130373CB47"]
+			id: "2DD5B96088255B58"
+			tasks: [{
+				id: "6A648C4309D6E192"
+				type: "item"
+				item: "alexsmobs:mimicream"
+				count: 16L
+			}]
+		}
+		{
+			x: 4.5d
+			y: 5.0d
+			subtitle: "经历一番搏斗，你终于战胜了这个硕大的机器人，但是这个机器人让你不得不思考这个世界当中是否存在比他更为强大的生物……"
+			dependencies: ["3E686BCA0CC1A541"]
+			id: "1686715FEE8ABA03"
+			tasks: [{
+				id: "7395F371326E5293"
+				type: "kill"
+				icon: "cataclysm:ender_guardian_spawn_egg"
+				entity: "cataclysm:ender_guardian"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "1037A7145B396C87"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 5586064844193108621L
+				}
+				{
+					id: "08CDB98DF8E903F2"
+					type: "item"
+					item: "cataclysm:enderite_ingot"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 8.5d
+			y: 0.0d
+			dependencies: ["0607D930600F8B92"]
+			id: "7DB3E8B1698904CC"
+			tasks: [{
+				id: "1B19FF8AB076E4E5"
+				type: "item"
+				item: {
+					id: "cataclysm:zweiender"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.0d
+			dependencies: ["2299EFF603CCA96C"]
+			id: "0607D930600F8B92"
+			tasks: [{
+				id: "29086DE6DF95DB5D"
+				type: "item"
+				item: "cataclysm:enderite_ingot"
+			}]
+		}
+		{
+			icon: "cataclysm:ender_golem_spawn_egg"
+			x: 4.5d
+			y: 3.5d
+			dependencies: ["08484B38E8D95BC5"]
+			id: "3E686BCA0CC1A541"
+			tasks: [{
+				id: "16902B41EC06F7C1"
+				type: "kill"
+				icon: "cataclysm:ender_golem_spawn_egg"
+				entity: "cataclysm:ender_golem"
+				value: 1L
+			}]
+			rewards: [{
+				id: "5466E71E01F8994B"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

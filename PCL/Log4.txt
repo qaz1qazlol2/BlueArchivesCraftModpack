@@ -1,0 +1,59 @@
+[18:47:00.068] [Start] 程序版本：Release 2.8.9 (342)
+[18:47:00.071] [Start] 识别码：712D-9B9A-A493-CAD4
+[18:47:00.071] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[18:47:00.071] [Start] 系统编码：gb2312 (936, GBK=True)
+[18:47:00.073] [Start] 管理员权限：True
+[18:47:00.093] [Start] 第一阶段加载用时：234 ms
+[18:47:01.096] [UI] 页面状态切换为 ContentStay
+[18:47:01.101] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:47:01.102] [Start] 第二阶段加载用时：938 ms
+[18:47:01.102] [Loader] 加载线程 Minecraft Folder List (5) 已启动
+[18:47:01.125] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:47:01.946] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
+[18:47:01.975] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
+[18:47:02.140] [System] 窗口已置顶，位置：(190, 105), 900 x 550
+[18:47:02.142] [Animation] 动画线程开始
+[18:47:02.143] [Start] 第三阶段加载用时：203 ms
+[18:47:02.167] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[18:47:02.300] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[18:47:02.301] [Loader] 加载线程 Loader Skin Ms (13) 已启动
+[18:47:02.325] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
+[18:47:02.386] [Page] 实例化：清空自定义主页 UI，来源为空
+[18:47:02.395] [Animation] 两个动画帧间隔 234 ms
+[18:47:02.853] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[18:47:03.219] [Start] 加载 DLL：Json
+[18:47:03.219] [System] 获取资源：Json
+[18:47:03.220] [Start] 加载 DLL：NAudio
+[18:47:03.220] [System] 获取资源：NAudio
+[18:47:03.227] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[18:47:03.243] [Skin] 载入头像成功：Loader Skin Ms
+[18:47:03.363] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[18:47:03.367] [Loader] 加载器 登录 状态改变：Loading
+[18:47:03.368] [Loader] 加载线程 登录 (15) 已启动
+[18:47:03.370] [Launch] 登录加载已开始
+[18:47:03.370] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[18:47:03.371] [Loader] 加载线程 Loader Login Ms (16) 已启动
+[18:47:03.372] [Launch] 登录方式：正版（Cr_IZUMIKun）
+[18:47:03.372] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[18:47:03.375] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[18:47:03.443] [Java] 缓存中有 6 个可用的 Java：
+[18:47:03.444] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[18:47:03.444] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
+[18:47:03.444] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
+[18:47:03.444] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
+[18:47:03.444] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[18:47:03.444] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[18:47:03.624] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[18:47:03.658] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:47:03.659] [Loader] 加载器 PCL 服务 状态改变：Loading
+[18:47:03.659] [Loader] 加载线程 DlClientList Mojang (19) 已启动
+[18:47:03.659] [Loader] 加载线程 PCL 服务 (20) 已启动
+[18:47:03.659] [Server] 正在连接到 PCL 服务器
+[18:47:03.661] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[18:47:03.666] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730371624-59716a7b-0-66956217f5119755be7a3f08c9a29094，超时 10000ms
+[18:47:03.757] [Server] 服务器公告：154|341|342|5，无需更新
+[18:47:03.764] [Loader] 加载器 PCL 服务 状态改变：Finished
+[18:47:03.978] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:47:04.238] [Control] 按下图标按钮：BtnTitleClose
+[18:47:04.242] [System] 收到关闭指令
+[18:47:04.483] [System] 程序已退出，返回值：Success

@@ -1,0 +1,936 @@
+{
+	id: "70DC5DE0F43E9D0F"
+	group: "16DF22B2843D94EE"
+	order_index: 0
+	filename: "70DC5DE0F43E9D0F"
+	title: "&c七之古则 &9七之祝福"
+	icon: "enigmaticlegacy:cursed_ring"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "enigmaticlegacy:cursed_ring"
+			x: 1.5d
+			y: 0.0d
+			subtitle: "七大古则"
+			description: ["当你佩戴上此戒指，将无法移除，七之古则带来了七大诅咒以及七大祝福"]
+			dependencies: ["0F1821EDCACB07DA"]
+			id: "79FD1303D1F7D053"
+			tasks: [{
+				id: "73F58D9D6FEDC90A"
+				type: "checkmark"
+				title: "七之咒，七之祝"
+			}]
+			rewards: [{
+				id: "56CBDCD1E0285870"
+				type: "item"
+				item: "enigmaticlegacy:the_acknowledgment"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			description: [""]
+			dependencies: ["79FD1303D1F7D053"]
+			id: "4E7AEB172E401838"
+			tasks: [{
+				id: "1C1707283DA2144B"
+				type: "item"
+				item: "enigmaticlegacy:the_acknowledgment"
+			}]
+			rewards: [{
+				id: "3A0335B099AF2A35"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			description: ["可以在地牢或各类遗迹中找到"]
+			dependencies: ["79FD1303D1F7D053"]
+			id: "79B2BFF9FD1441E2"
+			tasks: [{
+				id: "590597AFB2757144"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:earth_heart"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "0A4BAA249B4BF00E"
+				type: "item"
+				item: "minecraft:diamond"
+				random_bonus: 3
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			description: ["挖矿必带"]
+			dependencies: ["79B2BFF9FD1441E2"]
+			id: "226B6407FA8C93A4"
+			tasks: [{
+				id: "6F9F444634EC02D9"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:mining_charm"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "56E059DED93C28C0"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:fortune"
+							lvl: 5s
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.5d
+			description: ["地狱的产物使其显现出扭曲的力量"]
+			dependencies: [
+				"79B2BFF9FD1441E2"
+				"32C6FD82A6BD2F25"
+				"2A1987068933C9C2"
+			]
+			id: "2AF5C069463F5652"
+			tasks: [{
+				id: "6275DE167171AB03"
+				type: "item"
+				item: "enigmaticlegacy:twisted_core"
+			}]
+			rewards: [
+				{
+					id: "0E3AACD6DFB2E76A"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:earth_heart"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "00B520EDA49E0422"
+					type: "item"
+					item: "minecraft:diamond"
+					random_bonus: 4
+				}
+			]
+		}
+		{
+			x: 8.5d
+			y: -2.0d
+			dependencies: ["6F67D6C1508AF780"]
+			id: "3F90A07A9EF83E9D"
+			tasks: [{
+				id: "53061988EF5566E0"
+				type: "item"
+				item: "enigmaticlegacy:cursed_scroll"
+			}]
+			rewards: [{
+				id: "012628D9AEE2B99E"
+				type: "loot"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: 8.5d
+			y: 0.0d
+			description: ["可在堡垒遗迹（地狱堡垒，猪灵堡垒）箱子中寻找"]
+			dependencies: ["79FD1303D1F7D053"]
+			id: "6F67D6C1508AF780"
+			tasks: [{
+				id: "50FFE0DCDA318796"
+				type: "item"
+				item: "enigmaticlegacy:darkest_scroll"
+			}]
+			rewards: [{
+				id: "0FD7E6C9EC58474F"
+				type: "xp"
+				xp: 300
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			description: [""]
+			dependencies: ["4E7AEB172E401838"]
+			id: "295C37E347B72920"
+			tasks: [{
+				id: "5E7D216238BFC005"
+				type: "item"
+				item: "enigmaticlegacy:the_twist"
+			}]
+			rewards: [{
+				id: "70814725B4EFEB4D"
+				type: "xp"
+				xp: 1000
+			}]
+		}
+		{
+			x: 5.0d
+			y: 2.0d
+			description: ["也许有什么办法能够喝下这杯水并且获得不洁之力"]
+			dependencies: ["77947EBB35AC3D55"]
+			id: "6863BE0FA49D568B"
+			tasks: [{
+				id: "0D5510376428762A"
+				type: "item"
+				item: "enigmaticlegacy:unholy_grail"
+			}]
+			rewards: [{
+				id: "7C3EE7B09EFB4E38"
+				type: "xp"
+				xp: 1000
+			}]
+		}
+		{
+			x: 6.5d
+			y: 2.0d
+			description: [
+				""
+				"虽然摆脱了饥饿，但代价呢"
+			]
+			id: "77947EBB35AC3D55"
+			tasks: [{
+				id: "3DBA42ACD8B50AEC"
+				type: "item"
+				item: "enigmaticlegacy:forbidden_fruit"
+			}]
+			rewards: [{
+				id: "07EC3E58B81D63BC"
+				type: "item"
+				item: "minecraft:milk_bucket"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			dependencies: [
+				"295C37E347B72920"
+				"51AB435F7C900773"
+			]
+			id: "39A1968951F82430"
+			tasks: [{
+				id: "5C00547BA8A1DE01"
+				type: "item"
+				item: "enigmaticlegacy:the_infinitum"
+			}]
+			rewards: [{
+				id: "3E67945E34E93A8C"
+				type: "item"
+				item: "blue_archivescraft:super_book"
+				count: 2
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			description: [""]
+			dependencies: [
+				"2AF5C069463F5652"
+				"35B4BF6787F4AD24"
+			]
+			id: "3E99D864DDFB6AF0"
+			tasks: [{
+				id: "5A7F10BCD5E5F7C0"
+				type: "item"
+				item: "enigmaticlegacy:avarice_scroll"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -5.5d
+			dependencies: ["5DF22AFB869E8593"]
+			id: "24CA045F80647EF4"
+			tasks: [{
+				id: "600DFBB4191A2AE7"
+				type: "item"
+				item: "enigmaticlegacy:heaven_scroll"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.5d
+			id: "00AD7AEC524A8FD6"
+			tasks: [{
+				id: "22115C5B52A96DA8"
+				type: "item"
+				item: "enigmaticlegacy:ocean_stone"
+			}]
+			rewards: [{
+				id: "3DA4B79B4D4FF5B8"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 5755399206469978273L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			id: "53C0894A1279CB09"
+			tasks: [{
+				id: "58DCBA154BC574AE"
+				type: "item"
+				item: "enigmaticlegacy:golem_heart"
+			}]
+			rewards: [{
+				id: "42900BE9DD656B2C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5755399206469978273L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -4.0d
+			id: "5DF22AFB869E8593"
+			tasks: [{
+				id: "47FC7C39A80D9F69"
+				type: "item"
+				item: "enigmaticlegacy:angel_blessing"
+			}]
+			rewards: [{
+				id: "45DE4B2304E1A741"
+				type: "loot"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			dependencies: ["2AF5C069463F5652"]
+			id: "17F49D7E49F31BC7"
+			tasks: [{
+				id: "601946774F7284B9"
+				type: "item"
+				item: "enigmaticlegacy:berserk_emblem"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 3.5d
+			description: [""]
+			dependencies: [
+				"2AF5C069463F5652"
+				"51AB435F7C900773"
+			]
+			id: "451F0B85AA6CD38F"
+			tasks: [{
+				id: "362EF93235C1193F"
+				type: "item"
+				item: "enigmaticlegacy:cursed_stone"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 5.5d
+			description: ["可以清除自身的火焰"]
+			dependencies: ["2AF5C069463F5652"]
+			id: "3DC2FFC09DFCA6C1"
+			tasks: [{
+				id: "34EDCD1DC0ADA46A"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:infernal_shield"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.5d
+			dependencies: ["2AF5C069463F5652"]
+			id: "091400D557FB8C29"
+			tasks: [{
+				id: "65548E573C0728EA"
+				type: "item"
+				item: "enigmaticlegacy:dark_mirror"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.5d
+			description: ["寻找自身所在维度遗失的灵魂水晶"]
+			dependencies: ["2AF5C069463F5652"]
+			id: "2FC641C1ED827583"
+			tasks: [{
+				id: "4BE16393CED62AED"
+				type: "item"
+				item: "enigmaticlegacy:soul_compass"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.0d
+			subtitle: "基础指环"
+			dependencies: ["79FD1303D1F7D053"]
+			id: "1E2139A7B0026058"
+			tasks: [{
+				id: "274F57572627C91E"
+				type: "item"
+				item: "enigmaticlegacy:iron_ring"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.0d
+			subtitle: "可惜，猪灵依旧会对你发起攻击"
+			dependencies: ["1E2139A7B0026058"]
+			id: "35B4BF6787F4AD24"
+			tasks: [{
+				id: "0B7F5646EF8EA2F4"
+				type: "item"
+				item: "enigmaticlegacy:gem_ring"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			subtitle: "搭配金钩手使用更佳"
+			dependencies: ["79FD1303D1F7D053"]
+			id: "564DB83DFE50FFA2"
+			tasks: [{
+				id: "7403E48B47AD3CFF"
+				type: "item"
+				item: "enigmaticlegacy:monster_charm"
+			}]
+			rewards: [
+				{
+					id: "3B7675F32D6B65A4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "34EA1C2FA9C8AE02"
+					type: "item"
+					item: "minecraft:rotten_flesh"
+					count: 64
+				}
+				{
+					id: "47339A3F1C202B9A"
+					type: "item"
+					item: "minecraft:bone"
+					count: 64
+				}
+				{
+					id: "4508292855EB54EA"
+					type: "item"
+					item: "minecraft:gunpowder"
+					count: 64
+				}
+				{
+					id: "05131D254ADF57C0"
+					type: "item"
+					item: "minecraft:string"
+					count: 64
+				}
+			]
+		}
+		{
+			x: -2.0d
+			y: 0.0d
+			subtitle: "刷头利器"
+			dependencies: ["79FD1303D1F7D053"]
+			id: "0FEF61ADFE1C48C7"
+			tasks: [{
+				id: "3B3EDEC38128FDB9"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:forbidden_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "3559EA851552E015"
+					type: "item"
+					item: "minecraft:skeleton_skull"
+				}
+				{
+					id: "40887D4F996F1E7C"
+					type: "item"
+					item: "minecraft:wither_skeleton_skull"
+				}
+				{
+					id: "1F76C493789B9E09"
+					type: "item"
+					item: "minecraft:creeper_head"
+				}
+				{
+					id: "1E058F2B0F7FBD66"
+					type: "item"
+					item: "minecraft:zombie_head"
+				}
+				{
+					id: "34841566CC2795A5"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: -7.0d
+			dependencies: ["24CA045F80647EF4"]
+			id: "35B85623ECEBA85A"
+			tasks: [{
+				id: "2E0CB8DFCEFD932D"
+				type: "item"
+				item: "enigmaticlegacy:fabulous_scroll"
+			}]
+			rewards: [{
+				id: "4BADFBB190845AEF"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.5d
+			dependencies: ["624817C22CD9AE9F"]
+			id: "50DD425A28DEBC63"
+			tasks: [{
+				id: "20F92CD09DBCD59B"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
+			}]
+			rewards: [{
+				id: "421490E3E3D1D767"
+				type: "xp"
+				xp: 500
+			}]
+		}
+		{
+			x: -6.5d
+			y: -3.0d
+			dependencies: ["50DD425A28DEBC63"]
+			id: "3290DC7A75EFC469"
+			tasks: [{
+				id: "6037CF35F5AAEF95"
+				type: "kill"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+			rewards: [{
+				id: "1CA7E5EBD5ED157A"
+				type: "item"
+				item: "blue_archivescraft:super_book"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -1.0d
+			dependencies: ["3290DC7A75EFC469"]
+			id: "51AB435F7C900773"
+			tasks: [{
+				id: "488404DCD17A26C8"
+				type: "item"
+				item: "enigmaticlegacy:evil_essence"
+			}]
+			rewards: [{
+				id: "7881AE16BACE5A16"
+				type: "item"
+				item: "enigmaticlegacy:evil_essence"
+				random_bonus: 3
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.0d
+			dependencies: ["79FD1303D1F7D053"]
+			id: "136E00B486B5E1CC"
+			tasks: [{
+				id: "51D594AB981AF958"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:tattered_tome"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "4AA3EB83B5423FBC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.0d
+			dependencies: ["136E00B486B5E1CC"]
+			id: "644932AC774F0394"
+			tasks: [{
+				id: "3690BDBB8E28B3F0"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:withered_tome"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "4DEE267757788E7A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			x: 6.0d
+			y: 1.0d
+			dependencies: ["644932AC774F0394"]
+			id: "6AEA8D68A2E738EA"
+			tasks: [{
+				id: "5AB17DC6DDAE35A2"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:corrupted_tome"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "3619AF5AC32B897E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+		}
+		{
+			title: "飞升护符"
+			icon: {
+				id: "enigmaticlegacy:ascension_amulet"
+				Count: 1b
+				tag: { }
+			}
+			x: 3.0d
+			y: 4.0d
+			description: ["jei无法查看配方，通过启示之书或者百科查看配方"]
+			dependencies: ["5A4E516F95AF72D0"]
+			id: "6F4DD45824E236C1"
+			tasks: [{
+				id: "107B52C0DC14351E"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:ascension_amulet"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "679BEFC5B52D12E6"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: -6.5d
+			y: 3.5d
+			dependencies: ["51AB435F7C900773"]
+			id: "402F4130BFD5630B"
+			tasks: [{
+				id: "728106FE177EDD55"
+				type: "item"
+				item: "enigmaticlegacy:enchanter_pearl"
+			}]
+			rewards: [{
+				id: "3D850F051EBCEA23"
+				type: "item"
+				item: "enigmaticlegacy:curse_transposer"
+			}]
+		}
+		{
+			x: -6.5d
+			y: 3.5d
+			id: "7AF7011BA46C3A4A"
+			tasks: [{
+				id: "7F19D165C97B1718"
+				type: "item"
+				item: "enigmaticlegacy:enchanter_pearl"
+			}]
+		}
+		{
+			x: -8.0d
+			y: 3.5d
+			dependencies: ["51AB435F7C900773"]
+			id: "3FB88B88CD161BAD"
+			tasks: [{
+				id: "40FFB1C4F8942A13"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:ender_slayer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 5.5d
+			dependencies: ["6F4DD45824E236C1"]
+			id: "7FCF47A1BFB4793A"
+			tasks: [{
+				id: "6AADF4D77F8CB34D"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:eldritch_amulet"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "3BF84614DF39E2F7"
+				type: "loot"
+				exclude_from_claim_all: true
+				table_id: 2354983478837722680L
+			}]
+		}
+		{
+			title: "老毕登之眼"
+			x: 1.5d
+			y: -1.5d
+			description: ["wc，圣娅说话了"]
+			dependencies: ["79FD1303D1F7D053"]
+			id: "67811CF12E455E27"
+			tasks: [{
+				id: "76B444AABC026E10"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:architect_eye"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "1659BC614CE376D7"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: -5.0d
+			y: 3.5d
+			dependencies: ["51AB435F7C900773"]
+			id: "4AE1E897581D0CBF"
+			tasks: [{
+				id: "7F2147DC4DEF15E5"
+				type: "item"
+				item: "enigmaticlegacy:enchantment_transposer"
+			}]
+			rewards: [{
+				id: "4652430BAACC95D2"
+				type: "xp"
+				xp: 1000
+			}]
+		}
+		{
+			x: -5.0d
+			y: 5.0d
+			dependencies: ["4AE1E897581D0CBF"]
+			id: "4C6A9A676DA7E844"
+			tasks: [{
+				id: "7B6C3993F6C76B41"
+				type: "item"
+				item: "enigmaticlegacy:curse_transposer"
+			}]
+			rewards: [{
+				id: "05D95AF6EC03A041"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+		}
+		{
+			x: 3.0d
+			y: 2.5d
+			can_repeat: true
+			id: "5A4E516F95AF72D0"
+			tasks: [{
+				id: "327904B4C7CF8A2F"
+				type: "checkmark"
+				title: "领取一个神秘护符"
+			}]
+			rewards: [{
+				id: "6470D08567BE5034"
+				type: "item"
+				item: "enigmaticlegacy:unwitnessed_amulet"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.0d
+			subtitle: "吸引物品！"
+			dependencies: ["1E2139A7B0026058"]
+			id: "29151029E9EF158F"
+			tasks: [{
+				id: "1BB56AC818B361F3"
+				type: "item"
+				item: "enigmaticlegacy:magnet_ring"
+			}]
+			rewards: [{
+				id: "3205544B8E8D0224"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			subtitle: "范围扩大！"
+			dependencies: ["29151029E9EF158F"]
+			id: "3F79520096A406B2"
+			tasks: [{
+				id: "6297445D65D06498"
+				type: "item"
+				item: "enigmaticlegacy:super_magnet_ring"
+			}]
+			rewards: [{
+				id: "528691706E0FD37E"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 6.0d
+			y: -4.0d
+			id: "55E698E7FBF8ED4E"
+			tasks: [{
+				id: "4C093870D4F0FF75"
+				type: "item"
+				item: "enigmaticlegacy:eye_of_nebula"
+			}]
+			rewards: [{
+				id: "676992CE86F7FEAF"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			id: "255CE81BAAB396D5"
+			tasks: [{
+				id: "3370E0FC9088847A"
+				type: "item"
+				item: "enigmaticlegacy:magma_heart"
+			}]
+			rewards: [{
+				id: "196F58E250535EE1"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: 6.0d
+			y: -2.5d
+			id: "6F3BC038E9491A0F"
+			tasks: [{
+				id: "20D567E9BDE39045"
+				type: "item"
+				item: "enigmaticlegacy:void_pearl"
+			}]
+			rewards: [{
+				id: "551FDDF7F640C87C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 424537417769760900L
+			}]
+		}
+		{
+			x: 6.0d
+			y: -5.5d
+			dependencies: [
+				"5DF22AFB869E8593"
+				"55E698E7FBF8ED4E"
+			]
+			id: "4B2BBB57B9B9B43B"
+			tasks: [{
+				id: "64C44B4AE8F3F6A0"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:enigmatic_elytra"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 1.0d
+			description: ["作用不大，用于完成挑战任务"]
+			dependencies: ["79B2BFF9FD1441E2"]
+			id: "05C0DA93C552AA7D"
+			tasks: [{
+				id: "254CEB7E7898FB1A"
+				type: "item"
+				item: "enigmaticlegacy:infinimeal"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -1.0d
+			description: ["用于完成任务"]
+			dependencies: ["51AB435F7C900773"]
+			id: "51FEF366E4D860EB"
+			tasks: [{
+				id: "241BD1D4A78EC1C7"
+				type: "item"
+				item: "enigmaticlegacy:evil_ingot"
+			}]
+			rewards: [
+				{
+					id: "38B8CA94DAD88598"
+					type: "item"
+					item: "enigmaticlegacy:evil_essence"
+					random_bonus: 3
+				}
+				{
+					id: "0874B8925A8A233A"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+				}
+			]
+		}
+		{
+			title: "“无限骨粉”"
+			icon: "minecraft:bone_meal"
+			x: -3.5d
+			y: 1.0d
+			dependencies: ["05C0DA93C552AA7D"]
+			can_repeat: true
+			id: "72AE32CC4AD547F3"
+			rewards: [{
+				id: "3834B55B4039B02B"
+				type: "item"
+				item: "minecraft:bone_meal"
+				count: 64
+			}]
+		}
+	]
+	quest_links: [ ]
+}

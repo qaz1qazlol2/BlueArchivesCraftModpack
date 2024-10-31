@@ -1,0 +1,718 @@
+{
+	id: "74246E5C46DE75F6"
+	group: "7B836DE1D449A47D"
+	order_index: 4
+	filename: "74246E5C46DE75F6"
+	title: "Extreme"
+	icon: {
+		id: "minecraft:diamond_helmet"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.5d
+			y: 0.0d
+			subtitle: "造成250000点伤害完成该挑战"
+			dependencies: ["493724BA17BAC9E8"]
+			id: "1CE7CB97E18B0CD2"
+			tasks: [{
+				id: "466BF6A929DFF895"
+				type: "stat"
+				title: "战斗大师V"
+				icon: {
+					id: "minecraft:diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				stat: "minecraft:damage_dealt"
+				value: 250000
+			}]
+			rewards: [
+				{
+					id: "74AE0283A47711C5"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "6A75AA976DF3D981"
+					type: "item"
+					item: "enigmaticlegacy:evil_ingot"
+					count: 2
+				}
+				{
+					id: "7E2D64D06F0F84B9"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+		{
+			icon: "artifacts:crystal_heart"
+			x: 0.5d
+			y: 1.0d
+			subtitle: "奖励领取处"
+			dependencies: ["77972B4F5F47317C"]
+			id: "7CC7FF6F6B13095F"
+			tasks: [{
+				id: "37A95B9C288718FA"
+				type: "checkmark"
+				title: "考古大师"
+			}]
+			rewards: [
+				{
+					id: "124AB717809ADCD1"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "69C5822C56A95531"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "7F0348CE6F2D2645"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1730926100789296171L
+				}
+			]
+		}
+		{
+			title: "装备升级 III"
+			icon: "enigmaticlegacy:etherium_ingot"
+			x: -1.5d
+			y: -2.0d
+			dependencies: ["60E1C66AB56F6407"]
+			id: "3755C09C366BF402"
+			tasks: [
+				{
+					id: "62E63F17352BB8E3"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1EC84D9D64C42C52"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1A4399B6C555093A"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "20C5576953F520D2"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7C0C6C749E08473D"
+					type: "item"
+					item: "enigmaticlegacy:etherium_block"
+					count: 3L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "522FB5BB42CDE531"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "7819F3A07E2CEAC9"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "352C10D74B7F55E2"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1730926100789296171L
+				}
+			]
+		}
+		{
+			title: "Extra难度挑战全部达成"
+			x: 0.5d
+			y: -1.0d
+			shape: "rsquare"
+			subtitle: "挑战阶段奖励"
+			dependencies: [
+				"3755C09C366BF402"
+				"7CC7FF6F6B13095F"
+				"1CE7CB97E18B0CD2"
+				"05B66BD9D8CFD435"
+				"6FF37E0BB0518663"
+				"65A54B0B8C8A0EC5"
+			]
+			can_repeat: true
+			id: "6053EA72C0D195DC"
+			tasks: [{
+				id: "356F7ECDAC8AC01F"
+				type: "checkmark"
+				title: "永久提高攻击伤害(可重复)"
+			}]
+			rewards: [{
+				id: "6348825534E2CCBC"
+				type: "command"
+				title: "攻击伤害永久+30"
+				icon: {
+					id: "minecraft:lingering_potion"
+					Count: 1b
+					tag: {
+						Potion: "goblintraders:powerful_strength"
+					}
+				}
+				command: "/effect give @p minecraft:strength 300000 9"
+			}]
+		}
+		{
+			title: "传奇钓鱼佬"
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["03B95027D95ED42C"]
+			id: "05B66BD9D8CFD435"
+			tasks: [
+				{
+					id: "4B6269753C738F88"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "478C9E4559ABB5AE"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_fishing_rod"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "2AA0057CBA9AECF8"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "6875C36A085AFB93"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "40D3DBF52BBA955B"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "73403144D7DDFEC1"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "353C8C86DAC9AA57"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_bow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "4CB1E9B243000971"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "7E75563AF419619B"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "77B65C7EDCFA261D"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "4FF2F3C1E2057670"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "4E25B0E8CCB5C437"
+					type: "item"
+					item: "aquaculture:neptunium_fillet_knife"
+					consume_items: true
+				}
+				{
+					id: "0BBA7BF76EF76156"
+					type: "item"
+					item: "aquaculture:neptunium_block"
+					count: 5L
+					consume_items: true
+				}
+				{
+					id: "55139F667FD995D2"
+					type: "item"
+					item: "aquaculture:nether_star_hook"
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "0BBF30C64921D8AC"
+					type: "item"
+					item: {
+						id: "relics:jellyfish_necklace"
+						Count: 1b
+						tag: {
+							abilities: {
+								paralysis: {
+									stats: {
+										duration: 1.09762d
+									}
+									points: 0
+								}
+								shock: {
+									temp: {
+										ticking: 1b
+									}
+									stats: {
+										damage: 1.06291d
+									}
+									points: 0
+								}
+							}
+						}
+					}
+				}
+				{
+					id: "7DD4BED4CD505B3E"
+					type: "item"
+					item: {
+						id: "relics:aqua_walker"
+						Count: 1b
+						tag: {
+							abilities: {
+								walking: {
+									stats: {
+										time: 54.86725d
+									}
+									points: 0
+								}
+							}
+						}
+					}
+				}
+				{
+					id: "421F97766EA58357"
+					type: "item"
+					item: "artifacts:charm_of_sinking"
+				}
+				{
+					id: "55C794C1CFB4546F"
+					type: "item"
+					item: "artifacts:aqua_dashers"
+				}
+				{
+					id: "4BD30AF26D4FA608"
+					type: "item"
+					item: "artifacts:snorkel"
+				}
+				{
+					id: "5708EB864E8548D0"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "46D9FA3526F81B91"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+		{
+			title: "眼球收集者"
+			x: 2.5d
+			y: -2.0d
+			subtitle: "召唤克苏鲁之眼......？"
+			description: ["需要提交~"]
+			id: "6FF37E0BB0518663"
+			tasks: [
+				{
+					id: "7829C68289D1010F"
+					type: "item"
+					item: {
+						id: "endrem:black_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "4153059E71487034"
+					type: "item"
+					item: {
+						id: "endrem:cold_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "165A54F2D8CF1FAF"
+					type: "item"
+					item: {
+						id: "endrem:corrupted_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "5B66AE0C2AAE5FAD"
+					type: "item"
+					item: {
+						id: "endrem:lost_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0478E06BFB1CB87A"
+					type: "item"
+					item: {
+						id: "endrem:nether_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "163522D845D2719A"
+					type: "item"
+					item: {
+						id: "endrem:old_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "18CD81C6F551690E"
+					type: "item"
+					item: {
+						id: "endrem:rogue_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "319A445FB69669B7"
+					type: "item"
+					item: {
+						id: "endrem:guardian_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0DB133D1066C3036"
+					type: "item"
+					item: {
+						id: "endrem:magical_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "532CFCE2EB622500"
+					type: "item"
+					item: {
+						id: "endrem:wither_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "43E88B35F815816E"
+					type: "item"
+					item: {
+						id: "endrem:witch_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "5AC96D62E0B55934"
+					type: "item"
+					item: {
+						id: "endrem:cursed_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "184CED9A706F8109"
+					type: "item"
+					item: {
+						id: "endrem:evil_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0870A01CCEDB82C2"
+					type: "item"
+					item: {
+						id: "endrem:undead_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "51D58F6F426A7432"
+					type: "item"
+					item: {
+						id: "endrem:exotic_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "43C76C6CC0EA9BA5"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "1526F3ED90AC5281"
+					type: "item"
+					item: {
+						id: "relics:enders_hand"
+						Count: 1b
+						tag: {
+							abilities: {
+								swap: {
+									stats: {
+										distance: 18.77025d
+									}
+									points: 0
+								}
+							}
+						}
+					}
+				}
+				{
+					id: "0C6A7C98AA747981"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "5746483E564450D7"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1730926100789296171L
+				}
+			]
+		}
+		{
+			title: "wc，冰！"
+			icon: "minecraft:ice"
+			x: 0.5d
+			y: -3.0d
+			id: "65A54B0B8C8A0EC5"
+			tasks: [
+				{
+					id: "58A8A117054DEE45"
+					type: "item"
+					item: "blue_archivescraft:rainbow_egg"
+				}
+				{
+					id: "3530F88DC2541487"
+					type: "item"
+					item: "blue_archivescraft:music"
+				}
+				{
+					id: "01FC676D02B75944"
+					type: "item"
+					item: "blue_archivescraft:bake"
+				}
+			]
+			rewards: [
+				{
+					id: "7E3788813BDF05DD"
+					type: "item"
+					item: "minecraft:ice"
+					count: 64
+				}
+				{
+					id: "585E0C1B1E0E1110"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "358C8437D0B519FF"
+					type: "item"
+					item: "neapolitan:ice_cubes"
+					count: 640
+				}
+				{
+					id: "0862463FFCDF1567"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

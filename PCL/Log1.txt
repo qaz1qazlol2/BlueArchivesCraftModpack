@@ -1,0 +1,435 @@
+[21:56:51.256] [Start] 程序版本：Release 2.8.9 (342)
+[21:56:51.258] [Start] 识别码：712D-9B9A-A493-CAD4
+[21:56:51.258] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\启动游戏.exe
+[21:56:51.258] [Start] 系统编码：gb2312 (936, GBK=True)
+[21:56:51.259] [Start] 管理员权限：True
+[21:56:51.271] [Start] 第一阶段加载用时：203 ms
+[21:56:51.954] [UI] 页面状态切换为 ContentStay
+[21:56:51.961] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:56:51.961] [Start] 第二阶段加载用时：625 ms
+[21:56:51.963] [Loader] 加载线程 Minecraft Folder List (5) 已启动
+[21:56:51.984] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:56:52.721] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
+[21:56:52.745] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
+[21:56:52.747] [Start] 加载 DLL：NAudio
+[21:56:52.747] [System] 获取资源：NAudio
+[21:56:52.936] [System] 窗口已置顶，位置：(39.5, 18), 1201 x 724
+[21:56:52.939] [Animation] 动画线程开始
+[21:56:52.939] [Start] 第三阶段加载用时：219 ms
+[21:56:52.940] [Start] 加载 DLL：Json
+[21:56:52.940] [System] 获取资源：Json
+[21:56:52.964] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\.minecraft\
+[21:56:53.005] [Java] 缓存中有 6 个可用的 Java：
+[21:56:53.005] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[21:56:53.005] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
+[21:56:53.005] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
+[21:56:53.005] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
+[21:56:53.005] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:56:53.005] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[21:56:53.117] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[21:56:53.118] [Loader] 加载线程 Loader Skin Ms (14) 已启动
+[21:56:53.122] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[21:56:53.150] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
+[21:56:53.183] [Page] 实例化：清空自定义主页 UI，来源为空
+[21:56:53.184] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\.minecraft\versions\蔚蓝档案，启动！\
+[21:56:53.187] [Loader] 加载器 登录 状态改变：Loading
+[21:56:53.189] [Animation] 两个动画帧间隔 234 ms
+[21:56:53.190] [Loader] 加载线程 登录 (16) 已启动
+[21:56:53.191] [Launch] 登录加载已开始
+[21:56:53.191] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[21:56:53.192] [Loader] 加载线程 Loader Login Ms (17) 已启动
+[21:56:53.193] [Launch] 登录方式：正版（Cr_IZUMIKun）
+[21:56:53.193] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[21:56:53.197] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[21:56:53.205] [Skin] 载入头像成功：Loader Skin Ms
+[21:56:53.219] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[21:56:53.220] [Loader] 加载器 PCL 服务 状态改变：Loading
+[21:56:53.220] [Loader] 加载线程 DlClientList Mojang (19) 已启动
+[21:56:53.220] [Loader] 加载线程 PCL 服务 (20) 已启动
+[21:56:53.220] [Server] 正在连接到 PCL 服务器
+[21:56:53.222] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[21:56:53.228] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730383013-08bedc38-0-e696e47ea227500702d8d5bc36796eba，超时 10000ms
+[21:56:53.377] [Server] 服务器公告：154|341|342|5，无需更新
+[21:56:53.385] [Loader] 加载器 PCL 服务 状态改变：Finished
+[21:56:53.451] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[21:56:53.650] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[21:56:53.650] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\启动游戏.exe
+[21:56:54.060] [Control] 按下单选按钮：下载
+[21:56:54.208] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[21:56:54.209] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:56:54.209] [Loader] 加载线程 DlClientList Main (11) 已启动
+[21:56:54.212] [UI] 已触发 PageOnExit
+[21:56:54.212] [UI] 页面状态切换为 PageExit
+[21:56:54.213] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[21:56:54.213] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[21:56:54.213] [Loader] 加载线程 DlClientList Bmclapi (10) 已启动
+[21:56:54.214] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[21:56:54.215] [Control] 切换主要页面：Download, -1
+[21:56:54.229] [UI] 已触发 PageOnForceExit
+[21:56:54.229] [UI] 页面状态切换为 Empty
+[21:56:54.246] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[21:56:54.247] [Loader] 加载线程 DlOptiFineList Main (23) 已启动
+[21:56:54.247] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[21:56:54.249] [Loader] 加载线程 DlLiteLoaderList Main (24) 已启动
+[21:56:54.249] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[21:56:54.250] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[21:56:54.250] [Loader] 加载线程 DlOptiFineList Bmclapi (26) 已启动
+[21:56:54.250] [Loader] 加载线程 DlFabricList Main (25) 已启动
+[21:56:54.250] [Loader] 加载器 DlNeoForgeList Main 状态改变：Loading
+[21:56:54.251] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
+[21:56:54.251] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[21:56:54.251] [Loader] 加载线程 DlLiteLoaderList Bmclapi (28) 已启动
+[21:56:54.251] [Loader] 加载线程 DlNeoForgeList Main (27) 已启动
+[21:56:54.252] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[21:56:54.252] [Loader] 加载线程 DlFabricList Bmclapi (29) 已启动
+[21:56:54.253] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
+[21:56:54.253] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
+[21:56:54.254] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Loading
+[21:56:54.254] [Loader] 加载线程 DlNeoForgeList Bmclapi (31) 已启动
+[21:56:54.258] [Loader] 加载器 源码获取 164# 状态改变：Loading
+[21:56:54.260] [Download] 刷新 Forge 推荐版本缓存开始
+[21:56:54.260] [Loader] 加载器 源码获取 168# 状态改变：Loading
+[21:56:54.267] [Download] 2001866021_163：已加入列表，剩余文件 1
+[21:56:54.269] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 166
+[21:56:54.272] [Launch] 开始微软登录步骤 2/6
+[21:56:54.273] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:56:54.278] 删除文件夹失败，将在 0.3s 后重试（C:\Users\Administrator\AppData\Local\Temp\PCL\Download）：对路径“C:\Users\Administrator\AppData\Local\Temp\PCL\Download”的访问被拒绝。
+   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
+错误类型：System.IO.IOException
+[21:56:54.280] [UI] 已触发 PageOnEnter
+[21:56:54.280] [UI] 页面状态切换为 LoaderWait
+[21:56:54.313] [Download] 2001866021_163 185#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/neoforge
+[21:56:54.366] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[21:56:54.371] [Download] 2001866021_163 185#：文件大小 29517（28.8 K）
+[21:56:54.380] [Download] 2001866021_163 185#：完成，已下载 29517
+[21:56:54.380] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[21:56:54.383] [Download] 2001866021_163：下载结束，从缓存输出文件，长度：29517
+[21:56:54.386] [Download] 2001866021_163：已完成，剩余文件 0
+[21:56:54.386] [Loader] 加载器 源码获取 164# 状态改变：Finished
+[21:56:54.396] [Loader] 加载器 源码获取 191# 状态改变：Loading
+[21:56:54.400] [Download] -1864783943_190：已加入列表，剩余文件 1
+[21:56:54.401] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 193
+[21:56:54.427] [Download] -1864783943_190 194#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/forge
+[21:56:54.477] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[21:56:54.481] [Download] -1864783943_190 194#：文件大小 3509（3.43 K）
+[21:56:54.481] [Download] -1864783943_190 194#：完成，已下载 3509
+[21:56:54.481] [Download] -1864783943_190：下载结束，从缓存输出文件，长度：3509
+[21:56:54.482] [Download] -1864783943_190：已完成，剩余文件 0
+[21:56:54.482] [Loader] 加载器 源码获取 191# 状态改变：Finished
+[21:56:54.486] [UI] 已触发 PageOnLoaderWaitFinished
+[21:56:54.486] [UI] 页面状态切换为 LoaderEnter
+[21:56:54.488] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[21:56:54.494] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Finished
+[21:56:54.503] [Loader] 加载器 DlNeoForgeList Main 状态改变：Finished
+[21:56:54.535] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:56:54.581] [Download] -1798645995_167：已加入列表，剩余文件 1
+[21:56:54.582] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 170
+[21:56:54.596] [Download] -1798645995_167 196#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[21:56:54.618] [Download] -1798645995_167 196#：文件大小 52088（50.9 K）
+[21:56:54.666] [Download] -1798645995_167 196#：完成，已下载 52088
+[21:56:54.666] [Download] -1798645995_167：下载结束，从缓存输出文件，长度：52088
+[21:56:54.667] [Download] -1798645995_167：已完成，剩余文件 0
+[21:56:54.667] [Loader] 加载器 源码获取 168# 状态改变：Finished
+[21:56:54.680] [Download] 刷新 Forge 推荐版本缓存成功
+[21:56:54.759] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[21:56:54.845] [UI] 已触发 PageOnEnterAnimationFinished
+[21:56:54.845] [UI] 页面状态切换为 LoaderStayForce
+[21:56:54.860] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[21:56:54.863] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:56:55.041] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[21:56:55.045] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:56:55.045] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[21:56:55.236] [UI] 已触发 PageOnLoaderStayFinished
+[21:56:55.236] [UI] 页面状态切换为 LoaderExit
+[21:56:55.330] [UI] 已触发 PageOnExitAnimationFinished
+[21:56:55.330] [UI] 页面状态切换为 ContentEnter
+[21:56:55.586] [Control] 按下单选列表项：Mod
+[21:56:55.655] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[21:56:55.655] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:56:55.656] [UI] 已触发 PageOnExit
+[21:56:55.657] [UI] 页面状态切换为 PageExit
+[21:56:55.657] [Loader] 加载线程 CompProject Mod (46) 已启动
+[21:56:55.667] [Comp] 工程列表搜索原始文本：
+[21:56:55.667] [Comp] 工程列表搜索最终文本：
+[21:56:55.669] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
+[21:56:55.670] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，超时 5000ms，要求 json
+[21:56:55.670] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+[21:56:55.670] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，超时 5000ms，要求 json
+[21:56:55.735] [UI] 已触发 PageOnForceExit
+[21:56:55.735] [UI] 页面状态切换为 Empty
+[21:56:55.776] [UI] 已触发 PageOnEnter
+[21:56:55.776] [UI] 页面状态切换为 LoaderWait
+[21:56:55.807] [Launch] 开始微软登录步骤 3/6
+[21:56:55.807] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:56:55.979] [UI] 已触发 PageOnLoaderWaitFinished
+[21:56:55.979] [UI] 页面状态切换为 LoaderEnter
+[21:56:56.070] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:56:56.370] [UI] 已触发 PageOnEnterAnimationFinished
+[21:56:56.370] [UI] 页面状态切换为 LoaderStayForce
+[21:56:56.579] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:56:56.676] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 30723 个）
+[21:56:56.766] [UI] 已触发 PageOnLoaderStayFinished
+[21:56:56.766] [UI] 页面状态切换为 LoaderStay
+[21:56:57.337] [Launch] 开始微软登录步骤 4/6
+[21:56:57.339] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 15000
+[21:56:59.185] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 61429 个）
+[21:56:59.193] [System] 获取资源：ModData
+[21:56:59.236] [Comp] 将 Cloth Config API (cloth-config) 与 Cloth Config API (Fabric/Forge/NeoForge) (cloth-config) 认定为相似工程
+[21:56:59.236] [Comp] 将 ModernFix (modernfix) 与 ModernFix (modernfix) 认定为相似工程
+[21:56:59.237] [Comp] 将 Just Enough Items (jei) 与 Just Enough Items (JEI) (jei) 认定为相似工程
+[21:56:59.237] [Comp] 去重、筛选后累计新增结果 77 个
+[21:56:59.237] [Launch] 开始微软登录步骤 5/6
+[21:56:59.237] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[21:56:59.248] [Comp] 开始可视化 Mod 列表，已储藏 77 个结果，当前在第 1 页
+[21:56:59.327] [Start] 加载 DLL：Imazen.WebP
+[21:56:59.327] [System] 获取资源：Imazen_WebP
+[21:56:59.328] [System] 获取资源：libwebp64
+[21:56:59.489] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[21:56:59.490] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[21:56:59.554] [Animation] 两个动画帧间隔 203 ms
+[21:56:59.557] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:56:59.557] [UI] 页面状态切换为 LoaderExit
+[21:56:59.661] [UI] 已触发 PageOnExitAnimationFinished
+[21:56:59.661] [UI] 页面状态切换为 ContentEnter
+[21:56:59.777] [Loader] 加载器 CompProject Mod 状态改变：Loading
+[21:56:59.777] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:56:59.777] [UI] 页面状态切换为 ContentExit
+[21:56:59.778] [Loader] 加载线程 CompProject Mod (43) 已启动
+[21:56:59.778] [Comp] 工程列表搜索原始文本：ipn
+[21:56:59.778] [Comp] 工程列表搜索最终文本：ipn
+[21:56:59.778] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ipn
+[21:56:59.778] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ipn，超时 5000ms，要求 json
+[21:56:59.778] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]
+[21:56:59.778] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]，超时 5000ms，要求 json
+[21:56:59.880] [UI] 已触发 PageOnExitAnimationFinished
+[21:56:59.880] [UI] 已触发 PageOnEnter
+[21:56:59.880] [UI] 页面状态切换为 LoaderWait
+[21:56:59.994] [Launch] 开始微软登录步骤 6/6
+[21:56:59.994] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[21:57:00.068] [UI] 已触发 PageOnLoaderWaitFinished
+[21:57:00.068] [UI] 页面状态切换为 LoaderEnter
+[21:57:00.248] [Launch] 微软登录完成
+[21:57:00.248] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[21:57:00.251] [Launch] 登录加载已结束
+[21:57:00.251] [Loader] 加载器 登录 状态改变：Finished
+[21:57:00.427] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:00.427] [UI] 页面状态切换为 LoaderStayForce
+[21:57:00.818] [UI] 已触发 PageOnLoaderStayFinished
+[21:57:00.818] [UI] 页面状态切换为 LoaderStay
+[21:57:00.863] [Comp] 从 CurseForge 获取到了 2 个工程（已获取 2 个，共 2 个）
+[21:57:04.797] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]，超时 20000ms，要求 json
+[21:57:05.164] [Loader] 加载线程 CompProject Mod (43) 已中断
+[21:57:05.164] [Loader] 加载线程 CompProject Mod (36) 已启动
+[21:57:05.164] [Comp] 工程列表搜索原始文本：inventort
+[21:57:05.164] [Comp] 工程列表搜索最终文本：inventort
+[21:57:05.165] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventort
+[21:57:05.165] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventort，超时 5000ms，要求 json
+[21:57:05.165] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventort&facets=[["project_type:mod"]]
+[21:57:05.165] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventort&facets=[["project_type:mod"]]，超时 5000ms，要求 json
+[21:57:05.366] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
+[21:57:05.437] [Comp] 从 CurseForge 获取到了 0 个工程（已获取 0 个，共 0 个）
+[21:57:06.480] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 436 个）
+[21:57:06.482] [Comp] 去重、筛选后累计新增结果 37 个
+[21:57:06.482] [Comp] 总结果数需求最少 40 个，仅获得了 37 个
+[21:57:06.482] [Comp] 将继续尝试加载下一页
+[21:57:06.482] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventort&offset=40&facets=[["project_type:mod"]]
+[21:57:06.482] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventort&offset=40&facets=[["project_type:mod"]]，超时 5000ms，要求 json
+[21:57:06.524] [Loader] 加载线程 CompProject Mod (36) 已中断
+[21:57:06.524] [Loader] 加载线程 CompProject Mod (18) 已启动
+[21:57:06.524] [Comp] 工程列表搜索原始文本：inventory
+[21:57:06.524] [Comp] 工程列表搜索最终文本：inventory
+[21:57:06.524] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventory
+[21:57:06.524] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventory，超时 5000ms，要求 json
+[21:57:06.524] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventory&facets=[["project_type:mod"]]
+[21:57:06.524] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=inventory&facets=[["project_type:mod"]]，超时 5000ms，要求 json
+[21:57:07.195] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 80 个，共 436 个）
+[21:57:07.647] [Report] FPS 64, 动画 6, 下载中 0（0 B/s）
+[21:57:07.840] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 436 个）
+[21:57:08.449] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 153 个）
+[21:57:08.451] [Comp] 将 Inventory Profiles Next (inventory-profiles-next) 与 Inventory Profiles Next (inventory-profiles-next) 认定为相似工程
+[21:57:08.452] [Comp] 将 Inventory Tabs (updated) (inventory-tabs-updated) 与 Inventory Tabs (updated) (inventory-tabs-updated) 认定为相似工程
+[21:57:08.453] [Comp] 将 Packed Inventory (packed-inventory) 与 Packed Inventory (packed-inventory) 认定为相似工程
+[21:57:08.453] [Comp] 将 Inventory Tweaks: ReFoxed (inventory-tweaks-refoxed) 与 Inventory Tweaks - ReFoxed (inventory-tweaks-refoxed) 认定为相似工程
+[21:57:08.454] [Comp] 将 Inventory Bogosorter (inventory-bogosorter) 与 Inventory Bogo Sorter (inventory-bogosorter) 认定为相似工程
+[21:57:08.455] [Comp] 去重、筛选后累计新增结果 70 个
+[21:57:08.475] [Comp] 开始可视化 Mod 列表，已储藏 70 个结果，当前在第 1 页
+[21:57:08.664] [Net] 直接下载文件：https://cdn.modrinth.com/data/5ibSyLAz/5590c9168b256a538bcc7704f2984b7ee29f9c1b.png
+[21:57:08.665] [Net] 直接下载文件：https://cdn.modrinth.com/data/yQj7xqEM/icon.png
+[21:57:08.665] [Net] 直接下载文件：https://cdn.modrinth.com/data/F7wXag4i/952573630299e4f7b3a5458a1cde25d8d52f5cb1_96.webp
+[21:57:08.665] [Net] 直接下载文件：https://cdn.modrinth.com/data/Boon8xwi/12b8c77a7db7ebe5a41caf3e0a185bfce6397e3a_96.webp
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/VD1aynYU/e40145fd1e52dfbe3a4a852773f0ee088b6c9b83.png
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/Yi2fIEtc/720f4e27b80d2f4b10f8204e8f3ec920fb5fc7b5_96.webp
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/F39sgYmY/icon.png
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/N1GDhyOr/icon.png
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/Bih9Sb4n/eba696db534e59cdb09bf8dd53ce692e467179cf.png
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/lTS6nyFs/86573018342ca6d3e17e37aa3ff2e29474ff2791_96.webp
+[21:57:08.666] [Net] 直接下载文件：https://cdn.modrinth.com/data/jGVzcXaf/58b4b2d23eca5c02bbb433f07b183c7604771ae6.png
+[21:57:08.667] [Net] 直接下载文件：https://cdn.modrinth.com/data/sPYwFCE0/icon.png
+[21:57:08.667] [Net] 直接下载文件：https://cdn.modrinth.com/data/jIFinxsR/5c3527502031c8bf5b5293b3ae5de0614ba1c8a9_96.webp
+[21:57:08.667] [Net] 直接下载文件：https://cdn.modrinth.com/data/DMKep1IV/86669238c818a4139ca3931ea0c6a9f783554195.png
+[21:57:08.686] [Loader] 加载器 CompProject Mod 状态改变：Finished
+[21:57:08.876] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:08.876] [UI] 页面状态切换为 LoaderExit
+[21:57:08.885] [Animation] 两个动画帧间隔 219 ms
+[21:57:08.908] [UI] 已触发 PageOnExitAnimationFinished
+[21:57:08.908] [UI] 页面状态切换为 ContentEnter
+[21:57:09.298] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:09.298] [UI] 页面状态切换为 ContentStay
+[21:57:26.146] [Report] FPS 64, 动画 6, 下载中 0（0 B/s）
+[21:57:30.535] [Loader] 加载器 Comp File 状态改变：Loading
+[21:57:30.535] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:57:30.536] [UI] 已触发 PageOnExit
+[21:57:30.536] [UI] 页面状态切换为 PageExit
+[21:57:30.536] [Control] 切换主要页面：CompDetail, 0
+[21:57:30.536] [Control] 按下资源工程列表项：一键背包整理Next
+[21:57:30.536] [Loader] 加载线程 Comp File (61) 已启动
+[21:57:30.539] [Comp] 开始获取文件列表：495267
+[21:57:30.539] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
+[21:57:30.675] [UI] 已触发 PageOnForceExit
+[21:57:30.675] [UI] 页面状态切换为 Empty
+[21:57:30.738] [UI] 已触发 PageOnEnter
+[21:57:30.742] [UI] 页面状态切换为 LoaderWait
+[21:57:30.939] [UI] 已触发 PageOnLoaderWaitFinished
+[21:57:30.939] [UI] 页面状态切换为 LoaderEnter
+[21:57:31.124] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.7版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
+[21:57:31.324] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:31.324] [UI] 页面状态切换为 LoaderStayForce
+[21:57:31.455] [Comp] 495267 文件列表中还需要获取信息的前置 Mod：308769，679177，351264，357178
+[21:57:31.455] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 5000
+[21:57:31.721] [UI] 已触发 PageOnLoaderStayFinished
+[21:57:31.721] [UI] 页面状态切换为 LoaderStay
+[21:57:33.172] [Loader] 加载器 Comp File 状态改变：Finished
+[21:57:33.173] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:33.173] [UI] 页面状态切换为 LoaderExit
+[21:57:33.281] [UI] 已触发 PageOnExitAnimationFinished
+[21:57:33.281] [UI] 页面状态切换为 ContentEnter
+[21:57:34.864] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:34.864] [UI] 页面状态切换为 ContentStay
+[21:57:35.252] [Control] 展开卡片：1.18.2
+[21:57:36.320] [Comp] 记录当前已展开的卡片：1.18.2
+[21:57:36.320] [UI] 已触发 PageOnExit
+[21:57:36.320] [UI] 页面状态切换为 PageExit
+[21:57:36.320] [Control] 切换主要页面：CompDetail, 0
+[21:57:36.320] [Control] 按下资源工程列表项：libIPN
+[21:57:36.444] [UI] 已触发 PageOnForceExit
+[21:57:36.444] [UI] 页面状态切换为 Empty
+[21:57:36.479] [UI] 已触发 PageOnEnter
+[21:57:36.480] [Loader] 加载器 Comp File 状态改变：Loading
+[21:57:36.480] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:57:36.480] [Loader] 加载线程 Comp File (48) 已强制启动
+[21:57:36.480] [Comp] 开始获取文件列表：679177
+[21:57:36.480] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
+[21:57:36.482] [UI] 页面状态切换为 LoaderWait
+[21:57:36.659] [UI] 已触发 PageOnLoaderWaitFinished
+[21:57:36.659] [UI] 页面状态切换为 LoaderEnter
+[21:57:37.046] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:37.046] [UI] 页面状态切换为 LoaderStayForce
+[21:57:37.444] [UI] 已触发 PageOnLoaderStayFinished
+[21:57:37.444] [UI] 页面状态切换为 LoaderStay
+[21:57:38.551] [Loader] 加载器 Comp File 状态改变：Finished
+[21:57:38.561] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:38.561] [UI] 页面状态切换为 LoaderExit
+[21:57:38.674] [UI] 已触发 PageOnExitAnimationFinished
+[21:57:38.674] [UI] 页面状态切换为 ContentEnter
+[21:57:40.267] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:40.267] [UI] 页面状态切换为 ContentStay
+[21:57:40.554] [Control] 展开卡片：1.20.1
+[21:57:40.967] [Control] 折叠卡片：1.20.1
+[21:57:42.133] [Control] 展开卡片：1.19.2
+[21:57:42.511] [Control] 折叠卡片：1.19.2
+[21:57:44.442] [Control] 展开卡片：1.18.2
+[21:57:46.405] [Comp] 记录当前已展开的卡片：1.18.2
+[21:57:46.405] [UI] 已触发 PageOnExit
+[21:57:46.405] [UI] 页面状态切换为 PageExit
+[21:57:46.405] [Control] 切换主要页面：CompDetail, 0
+[21:57:46.405] [Control] 按下资源工程列表项：Kotlin for Forge
+[21:57:46.541] [UI] 已触发 PageOnForceExit
+[21:57:46.541] [UI] 页面状态切换为 Empty
+[21:57:46.573] [UI] 已触发 PageOnEnter
+[21:57:46.573] [Loader] 加载器 Comp File 状态改变：Loading
+[21:57:46.573] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:57:46.573] [Loader] 加载线程 Comp File (46) 已强制启动
+[21:57:46.573] [Comp] 开始获取文件列表：351264
+[21:57:46.573] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
+[21:57:46.580] [UI] 页面状态切换为 LoaderWait
+[21:57:46.761] [UI] 已触发 PageOnLoaderWaitFinished
+[21:57:46.761] [UI] 页面状态切换为 LoaderEnter
+[21:57:47.148] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:47.148] [UI] 页面状态切换为 LoaderStayForce
+[21:57:47.335] [Loader] 加载器 Comp File 状态改变：Finished
+[21:57:47.340] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:47.551] [UI] 已触发 PageOnLoaderStayFinished
+[21:57:47.551] [UI] 页面状态切换为 LoaderExit
+[21:57:47.662] [UI] 已触发 PageOnExitAnimationFinished
+[21:57:47.662] [UI] 页面状态切换为 ContentEnter
+[21:57:49.464] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:49.464] [UI] 页面状态切换为 ContentStay
+[21:57:50.104] [Control] 展开卡片：1.18.2
+[21:57:51.102] [Control] 按下单击列表项：Kotlin for Forge 3.12.0
+[21:57:51.106] [Comp] 允许 Forge：True，允许 Fabric：False
+[21:57:51.107] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（蔚蓝档案，启动！）
+[21:57:51.414] [Animation] 两个动画帧间隔 281 ms
+[21:57:51.871] [Animation] 两个动画帧间隔 203 ms
+[21:57:53.746] [UI] 选择文件返回：
+[21:57:53.949] [UI] 已触发 PageOnExit
+[21:57:53.949] [UI] 页面状态切换为 PageExit
+[21:57:53.949] [Control] 切换主要页面：CompDetail, -1
+[21:57:54.080] [UI] 已触发 PageOnForceExit
+[21:57:54.080] [UI] 页面状态切换为 Empty
+[21:57:54.111] [UI] 已触发 PageOnEnter
+[21:57:54.111] [Loader] 加载器 Comp File 状态改变：Loading
+[21:57:54.111] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:57:54.112] [Loader] 加载线程 Comp File (37) 已强制启动
+[21:57:54.116] [UI] 页面状态切换为 LoaderWait
+[21:57:54.156] [Loader] 加载器 Comp File 状态改变：Finished
+[21:57:54.165] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:54.165] [UI] 页面状态切换为 ContentEnter
+[21:57:54.235] [Report] FPS 56, 动画 18, 下载中 0（0 B/s）
+[21:57:55.814] [UI] 已触发 PageOnEnterAnimationFinished
+[21:57:55.814] [UI] 页面状态切换为 ContentStay
+[21:57:56.566] [Control] 按下单击列表项：libIPN-forge-1.18.2-4.0.2
+[21:57:56.566] [Comp] 允许 Forge：True，允许 Fabric：False
+[21:57:56.566] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（蔚蓝档案，启动！）
+[21:57:57.242] [Animation] 两个动画帧间隔 203 ms
+[21:57:58.181] [Report] FPS 56, 动画 0, 下载中 0（0 B/s）
+[21:57:59.450] [UI] 选择文件返回：
+[21:57:59.682] [UI] 已触发 PageOnExit
+[21:57:59.682] [UI] 页面状态切换为 PageExit
+[21:57:59.682] [Control] 切换主要页面：CompDetail, -1
+[21:57:59.811] [UI] 已触发 PageOnForceExit
+[21:57:59.811] [UI] 页面状态切换为 Empty
+[21:57:59.844] [UI] 已触发 PageOnEnter
+[21:57:59.844] [Loader] 加载器 Comp File 状态改变：Loading
+[21:57:59.844] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:57:59.844] [Loader] 加载线程 Comp File (3) 已强制启动
+[21:57:59.847] [UI] 页面状态切换为 LoaderWait
+[21:57:59.904] [Loader] 加载器 Comp File 状态改变：Finished
+[21:57:59.906] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:57:59.906] [UI] 页面状态切换为 ContentEnter
+[21:58:01.552] [UI] 已触发 PageOnEnterAnimationFinished
+[21:58:01.552] [UI] 页面状态切换为 ContentStay
+[21:58:02.352] [Control] 按下单击列表项：Inventory Profiles Next-forge-1.18.2-1.10.11
+[21:58:02.352] [Comp] 允许 Forge：True，允许 Fabric：False
+[21:58:02.353] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（蔚蓝档案，启动！）
+[21:58:05.721] [UI] 选择文件返回：
+[21:58:05.734] [UI] 已触发 PageOnExit
+[21:58:05.734] [UI] 页面状态切换为 PageExit
+[21:58:05.734] [Control] 切换主要页面：Download, -1
+[21:58:05.870] [UI] 已触发 PageOnForceExit
+[21:58:05.870] [UI] 页面状态切换为 Empty
+[21:58:05.948] [UI] 已触发 PageOnEnter
+[21:58:05.948] [UI] 页面状态切换为 ContentEnter
+[21:58:06.110] [UI] 已触发 PageOnExit
+[21:58:06.110] [UI] 页面状态切换为 PageExit
+[21:58:06.110] [Control] 切换主要页面：Launch, 0
+[21:58:06.246] [UI] 已触发 PageOnForceExit
+[21:58:06.246] [UI] 页面状态切换为 Empty
+[21:58:06.274] [UI] 已触发 PageOnEnter
+[21:58:06.274] [UI] 页面状态切换为 ContentEnter
+[21:58:06.645] [UI] 已触发 PageOnEnterAnimationFinished
+[21:58:06.645] [UI] 页面状态切换为 ContentStay
+[21:58:07.893] [Control] 按下图标按钮：BtnTitleClose
+[21:58:07.896] [System] 收到关闭指令
+[21:58:08.145] [System] 程序已退出，返回值：Success

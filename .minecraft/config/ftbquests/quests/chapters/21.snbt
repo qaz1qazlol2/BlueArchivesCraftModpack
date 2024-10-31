@@ -1,0 +1,1155 @@
+{
+	id: "119C3FB47E2FA3F0"
+	group: "4DA08CD6EB0E472F"
+	order_index: 0
+	filename: "21"
+	title: "2.1：诡异的世界"
+	icon: "minecraft:netherrack"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "“热情”的居民"
+			x: 2.0d
+			y: -4.5d
+			subtitle: "这些中立生物变得暴躁起来"
+			description: ["碍于戒指的影响，这些中立生物主动对你发起了攻击。你也无法与猪灵用黄金进行交易了"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "4FEEFC8DE6E40F90"
+			tasks: [
+				{
+					id: "6BD8D2B0E2D29E33"
+					type: "kill"
+					entity: "minecraft:zombified_piglin"
+					value: 1L
+				}
+				{
+					id: "46525A1DB103DA82"
+					type: "kill"
+					entity: "minecraft:piglin"
+					value: 1L
+				}
+			]
+			rewards: [{
+				id: "417A498A71A9A88B"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:long_fire_resistance"
+					}
+				}
+			}]
+		}
+		{
+			title: "光辉岁月"
+			x: 2.0d
+			y: -2.5d
+			description: ["找到猪灵堡垒"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "104DA4358F119814"
+			tasks: [{
+				id: "0DB0BD0D010456EE"
+				type: "advancement"
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "40DA71E4FDED765C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "31DA65EC62B1910D"
+					type: "item"
+					item: "minecraft:gold_ingot"
+					count: 16
+				}
+			]
+		}
+		{
+			title: "阴森的要塞"
+			x: -2.0d
+			y: -0.5d
+			description: ["找到下界要塞"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "624817C22CD9AE9F"
+			tasks: [{
+				id: "6D27CCCB6AD0CBA0"
+				type: "advancement"
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "3F71560BDCDE4975"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 4.0d
+			y: -3.5d
+			dependencies: ["4FEEFC8DE6E40F90"]
+			id: "32C6FD82A6BD2F25"
+			tasks: [{
+				id: "21DEFCAB63E04D24"
+				type: "item"
+				item: "minecraft:ghast_tear"
+			}]
+			rewards: [{
+				id: "6CAFFC1102064A04"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:strong_regeneration"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.5d
+			subtitle: "击杀烈焰人"
+			dependencies: ["624817C22CD9AE9F"]
+			id: "2A1987068933C9C2"
+			tasks: [{
+				id: "3553E89F34CD8E41"
+				type: "item"
+				item: "minecraft:blaze_rod"
+			}]
+			rewards: [
+				{
+					id: "150A8D74AEE5F102"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+				}
+				{
+					id: "6037B75A4A552DE1"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: -4.5d
+			dependencies: ["4FEEFC8DE6E40F90"]
+			id: "34241A0883D17CCD"
+			tasks: [{
+				id: "2E0C09407A7C52ED"
+				type: "item"
+				item: "minecraft:magma_cream"
+			}]
+			rewards: [{
+				id: "099A03E9B7F56FE5"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:long_fire_resistance"
+					}
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -3.5d
+			subtitle: "烧制"
+			dependencies: ["640F66E4B0C7C168"]
+			id: "663651248B60DCDA"
+			tasks: [{
+				id: "1F45B37CAFFB5D81"
+				type: "item"
+				item: "minecraft:netherite_scrap"
+			}]
+			rewards: [{
+				id: "7B7DDD1AED3D6B8E"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7293452712939900517L
+			}]
+		}
+		{
+			x: -10.0d
+			y: -3.5d
+			dependencies: ["663651248B60DCDA"]
+			id: "197D470FE95F5B1C"
+			tasks: [{
+				id: "45F077BA9E86BE06"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+			}]
+			rewards: [{
+				id: "709F29675C315794"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 7293452712939900517L
+			}]
+		}
+		{
+			title: "进入下界"
+			x: 0.0d
+			y: -3.0d
+			subtitle: "你来到了这片满是火海的地方"
+			description: [
+				"&c小心火焰&f，请准备好&b细雪桶&f或&6抗火药水"
+				""
+				"以及，这群“热心”的原住民"
+			]
+			dependencies: ["46FC02A561266B97"]
+			id: "3D5438ABA0B90DC8"
+			tasks: [{
+				id: "54C43E7DB9843578"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [
+				{
+					id: "53C2A97DA39DD67C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "6C7A36D9C4FBB675"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+				}
+				{
+					id: "3CBDF96295A5D76B"
+					type: "item"
+					item: "minecraft:powder_snow_bucket"
+				}
+			]
+		}
+		{
+			x: -2.0d
+			y: -3.5d
+			subtitle: "深藏不露"
+			description: ["在下界y坐标&a12-16&f时数量最多，也可以在下界的&6堡垒遗迹&f或&6地牢&f有几率开出"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "640F66E4B0C7C168"
+			tasks: [{
+				id: "4FF72ED57B9AD06B"
+				type: "item"
+				item: "minecraft:ancient_debris"
+				count: 4L
+			}]
+			rewards: [{
+				id: "6933951171F0AEE7"
+				type: "item"
+				item: "minecraft:ancient_debris"
+				random_bonus: 1
+			}]
+		}
+		{
+			title: "下界探险家"
+			x: 2.0d
+			y: -3.5d
+			subtitle: "探险家-下界版"
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "26EEA6750F6222C8"
+			tasks: [{
+				id: "5A8AE9BB35701301"
+				type: "advancement"
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "27F1754185D26E9A"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "45407836FD652098"
+					type: "item"
+					item: "minecraft:netherite_scrap"
+					count: 2
+					random_bonus: 2
+				}
+			]
+		}
+		{
+			title: "下界防具？"
+			x: -8.0d
+			y: -4.5d
+			subtitle: "残骸裹身"
+			description: ["不是最强，但够用"]
+			dependencies: [
+				"563E9BFD5FA83232"
+				"197D470FE95F5B1C"
+			]
+			id: "3376E258A0D840F9"
+			tasks: [{
+				id: "3F3990DE7BE8E581"
+				type: "advancement"
+				title: "装备升级III"
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "0DC6CA2560B46D94"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+				}
+				{
+					id: "67B1BC44EC343BBC"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "一给路达哟"
+			x: 0.0d
+			y: 3.5d
+			subtitle: "跑路"
+			description: ["可以通过使用&a末影之眼&f对&6粗制的药水&f酿造而得到"]
+			dependencies: [
+				"2F4FDDD4CA6DA784"
+				"156FFDE358CEC7C6"
+			]
+			id: "6315CC583A33CE1F"
+			tasks: [{
+				id: "67E67578BDBBA2D8"
+				type: "item"
+				item: "enigmaticlegacy:recall_potion"
+			}]
+			rewards: [{
+				id: "35BAE34D9EAA8ED9"
+				type: "item"
+				item: "enigmaticlegacy:recall_potion"
+			}]
+		}
+		{
+			title: "酿造必备"
+			x: -4.0d
+			y: 1.5d
+			subtitle: "为什么绯红森林的疣块不让分解！！！"
+			dependencies: ["624817C22CD9AE9F"]
+			id: "165D58D85EE7799D"
+			tasks: [{
+				id: "2C0EEEA0A3EBA8EC"
+				type: "item"
+				item: "minecraft:nether_wart"
+				count: 16L
+			}]
+		}
+		{
+			title: "炼金师"
+			x: -2.0d
+			y: 3.5d
+			subtitle: "强力药水"
+			dependencies: [
+				"165D58D85EE7799D"
+				"2A1987068933C9C2"
+			]
+			id: "2F4FDDD4CA6DA784"
+			tasks: [{
+				id: "2F5F16FBB3C847D2"
+				type: "item"
+				item: "minecraft:brewing_stand"
+			}]
+			rewards: [{
+				id: "37019B8EB2820CBD"
+				type: "item"
+				item: "minecraft:blaze_powder"
+				count: 3
+			}]
+		}
+		{
+			title: "强袭要塞"
+			icon: "minecraft:nether_bricks"
+			x: -4.0d
+			y: -0.5d
+			dependencies: ["624817C22CD9AE9F"]
+			id: "418A3A4A47A6D86E"
+			tasks: [
+				{
+					id: "71D7F15979729BF1"
+					type: "kill"
+					entity: "minecraft:wither_skeleton"
+					value: 10L
+				}
+				{
+					id: "587E7ED36101C6A5"
+					type: "kill"
+					entity: "minecraft:blaze"
+					value: 10L
+				}
+			]
+			rewards: [
+				{
+					id: "1858F8D6199DA54A"
+					type: "item"
+					item: "minecraft:wither_skeleton_skull"
+				}
+				{
+					id: "0C377674550209CD"
+					type: "item"
+					item: "minecraft:blaze_rod"
+					count: 3
+					random_bonus: 3
+				}
+				{
+					id: "3BC978A41EEDCF77"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "攻占堡垒"
+			icon: "minecraft:chiseled_polished_blackstone"
+			x: 4.0d
+			y: -2.5d
+			dependencies: ["104DA4358F119814"]
+			id: "08B74CEB43D3C240"
+			tasks: [
+				{
+					id: "18F296EBEE9FB85E"
+					type: "kill"
+					entity: "minecraft:piglin_brute"
+					value: 5L
+				}
+				{
+					id: "20591376BBFA623C"
+					type: "kill"
+					entity: "minecraft:piglin"
+					value: 10L
+				}
+			]
+			rewards: [
+				{
+					id: "7C97CE6C6B50C510"
+					type: "item"
+					item: "minecraft:gold_ingot"
+					count: 8
+					random_bonus: 4
+				}
+				{
+					id: "1953472C7B562FBF"
+					type: "item"
+					item: "minecraft:netherite_scrap"
+					random_bonus: 1
+				}
+				{
+					id: "3C2368645C012D15"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "刽子手"
+			x: -6.0d
+			y: -0.5d
+			dependencies: ["418A3A4A47A6D86E"]
+			id: "7AD0D5E23A517669"
+			tasks: [{
+				id: "3905BA0268FE354C"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
+				count: 3L
+			}]
+			rewards: [{
+				id: "0BC1809CB1ABC112"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+		}
+		{
+			x: -10.0d
+			y: -0.5d
+			dependencies: ["31198AE2B4D19B22"]
+			id: "053610A7D970CF56"
+			tasks: [{
+				id: "7A1B5BA8C40832CC"
+				type: "item"
+				item: "minecraft:nether_star"
+			}]
+			rewards: [
+				{
+					id: "64B5695653EAA866"
+					type: "choice"
+					exclude_from_claim_all: true
+					table_id: 6294883545144261954L
+				}
+				{
+					id: "3032151BEDB4A80A"
+					type: "choice"
+					exclude_from_claim_all: true
+					table_id: 7362344811821590953L
+				}
+				{
+					id: "5619CAEA5B2CFB40"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 424537417769760900L
+				}
+			]
+		}
+		{
+			title: "&e擂台之战  &6不灭之火的化身"
+			x: -2.0d
+			y: -2.5d
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "292B93B03260B7E6"
+			tasks: [
+				{
+					id: "7404CE79713A5DB3"
+					type: "advancement"
+					advancement: "cataclysm:find_burning_arena"
+					criterion: ""
+				}
+				{
+					id: "1965F6646CC78F22"
+					type: "advancement"
+					advancement: "cataclysm:kill_revenant"
+					criterion: ""
+				}
+			]
+			rewards: [{
+				id: "583D897A6F6C4E1C"
+				type: "item"
+				item: "cataclysm:burning_ashes"
+				count: 2
+				random_bonus: 4
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.5d
+			dependencies: ["292B93B03260B7E6"]
+			id: "19B1FD9E804487CE"
+			tasks: [{
+				id: "2E2D82E1C48A533C"
+				type: "kill"
+				icon: "cataclysm:ignis_spawn_egg"
+				entity: "cataclysm:ignis"
+				value: 1L
+			}]
+			rewards: [{
+				id: "2421F372F6DB8296"
+				type: "item"
+				item: "blue_archivescraft:super_book"
+				count: 3
+			}]
+		}
+		{
+			x: -4.0d
+			y: -4.5d
+			dependencies: ["0BAFB061D82EE62C"]
+			id: "7B0C709BF9BC47DB"
+			tasks: [{
+				id: "584F587A090D9631"
+				type: "kill"
+				icon: "cataclysm:netherite_monstrosity_spawn_egg"
+				entity: "cataclysm:netherite_monstrosity"
+				value: 1L
+			}]
+			rewards: [{
+				id: "489B0F7AEB6D8153"
+				type: "item"
+				item: "blue_archivescraft:super_book"
+				count: 3
+			}]
+		}
+		{
+			title: "&c地狱深处废弃的锻造厂 &9庞大的人造怪物"
+			x: -2.0d
+			y: -4.5d
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "0BAFB061D82EE62C"
+			tasks: [{
+				id: "3EC39D375A1168EB"
+				type: "advancement"
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "6D5EDCE4A83D7091"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+				count: 3
+			}]
+		}
+		{
+			x: -6.0d
+			y: -4.5d
+			dependencies: ["7B0C709BF9BC47DB"]
+			id: "294BE1FF3E240436"
+			tasks: [{
+				id: "0700D816D575C1B6"
+				type: "item"
+				item: {
+					id: "cataclysm:infernal_forge"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "7E757F084A4C1AD5"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+				{
+					id: "06E7D3B7DF041473"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -6.0d
+			y: -5.5d
+			dependencies: ["7B0C709BF9BC47DB"]
+			id: "0CB5AE48D85CA82F"
+			tasks: [{
+				id: "4165D15528486D82"
+				type: "item"
+				item: "cataclysm:monstrous_horn"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -2.5d
+			dependencies: ["19B1FD9E804487CE"]
+			id: "3AF0E393FF42C5C4"
+			tasks: [{
+				id: "413CECE76C8ADADD"
+				type: "item"
+				item: "cataclysm:ignitium_ingot"
+			}]
+		}
+		{
+			title: "焰魔套"
+			x: -8.0d
+			y: -2.5d
+			dependencies: [
+				"3AF0E393FF42C5C4"
+				"3376E258A0D840F9"
+			]
+			id: "3BFE835BDCF3A93C"
+			tasks: [
+				{
+					id: "3D008C183009E947"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3A99F8BE0B1AEC70"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5E10409AFA17ABD4"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2A91B9B1EB1E4419"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "230624FA1A61148D"
+					type: "item"
+					item: "cataclysm:ignitium_ingot"
+					count: 4
+				}
+				{
+					id: "3389CFDBD4BC6BE9"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 1551913740157613839L
+				}
+			]
+		}
+		{
+			x: -8.0d
+			y: -5.5d
+			dependencies: ["0CB5AE48D85CA82F"]
+			id: "7207E99892E31612"
+			tasks: [{
+				id: "41953B3A16588553"
+				type: "item"
+				item: {
+					id: "cataclysm:monstrous_helm"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "2411EEAD035EAD85"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+				{
+					id: "08719A7D23BC9E96"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 10s
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "寻找诡异森林"
+			icon: "minecraft:warped_fungus"
+			x: 0.0d
+			y: -1.0d
+			description: ["由于&c七咒之戒&f的影响，你无法再从猪灵身边交易到末影珍珠。因此，你决定来&b诡异森林&f碰碰运气......"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "4744D69C0C87A190"
+			tasks: [{
+				id: "3A7BB7033AF641D6"
+				type: "biome"
+				title: "找到生物群系：诡异森林"
+				icon: "minecraft:warped_roots"
+				biome: "minecraft:warped_forest"
+			}]
+			rewards: [
+				{
+					id: "0F36D3F984C5CEA2"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+				}
+				{
+					id: "32FE18346C46AF8A"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "获取末影珍珠"
+			x: 0.0d
+			y: 1.5d
+			subtitle: "千辛万苦"
+			description: ["“做好了！”你欢呼着做出了12颗末影之眼，回到了主世界，正当你要丢出去时候......"]
+			dependencies: [
+				"2A1987068933C9C2"
+				"4744D69C0C87A190"
+			]
+			dependency_requirement: "one_completed"
+			size: 1.5d
+			id: "156FFDE358CEC7C6"
+			tasks: [
+				{
+					id: "27726BDD44FCD882"
+					type: "item"
+					item: "minecraft:ender_pearl"
+				}
+				{
+					id: "1E5AC63A6D6BDE4D"
+					type: "item"
+					item: "minecraft:ender_eye"
+				}
+			]
+			rewards: [
+				{
+					id: "4940DC3A78346587"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "3FB0A8C473695443"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:soul_speed"
+								lvl: 3s
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -8.0d
+			y: -0.5d
+			dependencies: ["7AD0D5E23A517669"]
+			id: "31198AE2B4D19B22"
+			tasks: [{
+				id: "290ACFE7D27DC411"
+				type: "kill"
+				icon: "minecraft:wither_rose"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "0A8CDBA66EA78F5C"
+					type: "item"
+					item: "minecraft:enchanted_golden_apple"
+				}
+				{
+					id: "52AFDB3112F1231F"
+					type: "xp"
+					xp: 500
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -1.5d
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "40FDD36033901045"
+			tasks: [{
+				id: "579369CEB192ADD9"
+				type: "kill"
+				icon: "stalwart_dungeons:awful_ghast_spawn_egg"
+				entity: "stalwart_dungeons:awful_ghast"
+				value: 1L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.5d
+			dependencies: ["40FDD36033901045"]
+			id: "2FD80A8B97DF92FC"
+			tasks: [{
+				id: "2CED83C3D452DA59"
+				type: "item"
+				item: {
+					id: "stalwart_dungeons:awful_gun"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -0.5d
+			dependencies: ["5A7B48DD43F6A487"]
+			id: "421F50F2CD0E358E"
+			tasks: [{
+				id: "2DF967F37C2603F6"
+				type: "kill"
+				icon: "stalwart_dungeons:nether_keeper_spawn_egg"
+				entity: "stalwart_dungeons:nether_keeper"
+				value: 1L
+			}]
+		}
+		{
+			title: "注意事项"
+			x: 2.0d
+			y: -0.5d
+			description: ["可以使用惊骇水晶驯服boss，或者直接杀死）"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "5A7B48DD43F6A487"
+			tasks: [{
+				id: "0BF8D3A71AB10792"
+				type: "checkmark"
+				title: "1"
+			}]
+		}
+		{
+			title: "领地意识"
+			x: -1.5d
+			y: -5.5d
+			subtitle: "Alex的生物"
+			description: ["自然生成于&6玄武岩三角洲&f，击杀掉落的跨坐晶石可以合成&c跨板"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "43009D4C0C7FB005"
+			tasks: [{
+				id: "3DA3274CDEDA88AE"
+				type: "kill"
+				icon: "alexsmobs:spawn_egg_straddler"
+				entity: "alexsmobs:straddler"
+				value: 5L
+			}]
+			rewards: [
+				{
+					id: "6DE91E518426357A"
+					type: "item"
+					item: "alexsmobs:straddlite"
+					count: 2
+				}
+				{
+					id: "7DF8C7D93B0EBDC4"
+					type: "xp"
+					xp: 300
+				}
+			]
+		}
+		{
+			title: "天花板的凝视"
+			x: -0.5d
+			y: -5.5d
+			subtitle: "Alex的生物"
+			description: ["自然生成与&6下界荒地&f，会从天花板上坠落攻击玩家，其爪子可以用于酿造&a&l粘附药水"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "3C07A80EC292E514"
+			tasks: [{
+				id: "359F5876D4E578DD"
+				type: "kill"
+				icon: "alexsmobs:spawn_egg_dropbear"
+				entity: "alexsmobs:dropbear"
+				value: 5L
+			}]
+			rewards: [
+				{
+					id: "60A8DBE27A176A74"
+					type: "item"
+					item: "alexsmobs:dropbear_claw"
+				}
+				{
+					id: "7F35B1821EF1C485"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "3201AAD2B623D870"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "alexsmobs:clinging"
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "熔岩巨蟒"
+			x: 0.5d
+			y: -5.5d
+			subtitle: "Alex的生物"
+			description: ["生成于&c下界岩浆海中&f，会主动跳出攻击玩家，其掉落的牙齿用于酿造&a&l熔岩明视药水"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "7541CCF80488C117"
+			tasks: [{
+				id: "33EAE171364D9ED3"
+				type: "kill"
+				icon: "alexsmobs:spawn_egg_bone_serpent"
+				entity: "alexsmobs:bone_serpent"
+				value: 2L
+			}]
+			rewards: [
+				{
+					id: "5FA35A46F6EB4400"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "alexsmobs:lava_vision"
+						}
+					}
+				}
+				{
+					id: "650CED1D1C113F3D"
+					type: "item"
+					item: "alexsmobs:bone_serpent_tooth"
+				}
+				{
+					id: "5C405AFF32C3621A"
+					type: "xp"
+					xp: 250
+				}
+			]
+		}
+		{
+			title: "“小偷”"
+			x: 1.5d
+			y: -5.5d
+			subtitle: "Alex的生物"
+			description: ["自然生成于&6灵魂沙峡谷&f，当其窃取足够多的灵魂时击杀有概率掉落&b灵魂之心"]
+			dependencies: ["3D5438ABA0B90DC8"]
+			id: "7EA302C3A94CF2E6"
+			tasks: [
+				{
+					id: "39ADD0BC416000DB"
+					type: "kill"
+					icon: "alexsmobs:spawn_egg_soul_vulture"
+					entity: "alexsmobs:soul_vulture"
+					value: 3L
+				}
+				{
+					id: "0115BB4C6507BB63"
+					type: "item"
+					item: "alexsmobs:soul_heart"
+				}
+			]
+			rewards: [
+				{
+					id: "3716B5F357AD7C2F"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "alexsmobs:long_soulsteal"
+						}
+					}
+				}
+				{
+					id: "4BEAC740178AACF2"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "alexsmobs:strong_soulsteal"
+						}
+					}
+				}
+				{
+					id: "559AF1D81BF2ED3A"
+					type: "xp"
+					xp: 300
+				}
+			]
+		}
+		{
+			title: "高质量男性"
+			x: -1.0d
+			y: 0.5d
+			subtitle: "肌肉男"
+			description: ["前往蘑菇岛找到一个没有蘑菇的蘑菇君，然后用诡异菌插满它的身体，让绯红蚊子吸它的血，然后绯红蚊子会变成蓝色并慢慢变大，最后突变成诡异蚊鬼"]
+			dependencies: ["4744D69C0C87A190"]
+			id: "759D30539D5DB774"
+			tasks: [{
+				id: "28B6901F477E8E34"
+				type: "kill"
+				icon: "alexsmobs:spawn_egg_warped_mosco"
+				entity: "alexsmobs:warped_mosco"
+				value: 1L
+			}]
+			rewards: [{
+				id: "22365A6DEE3A36F1"
+				type: "item"
+				item: "alexsmobs:maraca"
+			}]
+		}
+		{
+			title: "焰魔召唤物"
+			icon: {
+				id: "cataclysm:ignitium_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -4.0d
+			y: -1.5d
+			dependencies: ["19B1FD9E804487CE"]
+			can_repeat: true
+			id: "32BF503D7F4CAC1A"
+			tasks: [{
+				id: "0AF7D9A549819BA5"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4D24728782224312"
+				type: "item"
+				item: "cataclysm:burning_ashes"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

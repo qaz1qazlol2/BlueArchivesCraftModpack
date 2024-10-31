@@ -1,0 +1,997 @@
+{
+	id: "3F687F62208D9973"
+	group: "7B836DE1D449A47D"
+	order_index: 5
+	filename: "insane"
+	title: "Insane"
+	icon: {
+		id: "minecraft:netherite_helmet"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -0.5d
+			y: 1.5d
+			subtitle: "造成250000点伤害完成该挑战"
+			dependencies: ["1CE7CB97E18B0CD2"]
+			id: "745878C8F2E09818"
+			tasks: [{
+				id: "4B68BFA4DC6AB0D3"
+				type: "stat"
+				title: "斗战胜佛"
+				icon: {
+					id: "minecraft:netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				stat: "minecraft:damage_dealt"
+				value: 250000
+			}]
+			rewards: [
+				{
+					id: "329B784EBC995EF6"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "73F7CB5E4392A6C7"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+		{
+			title: "七罪之孽"
+			icon: "sons_of_sins:rotten_apple"
+			x: 3.5d
+			y: -0.5d
+			id: "02372EFC72C5C932"
+			tasks: [
+				{
+					id: "64CB82DFDED0BA9C"
+					type: "kill"
+					entity: "sons_of_sins:walking_bed"
+					value: 5L
+				}
+				{
+					id: "4505C9108457A61B"
+					type: "kill"
+					entity: "sons_of_sins:wistiver"
+					value: 5L
+				}
+				{
+					id: "63B668CEB3BF0A1A"
+					type: "kill"
+					entity: "sons_of_sins:prowler"
+					value: 5L
+				}
+				{
+					id: "2A66D9F3AD1A15FC"
+					type: "kill"
+					entity: "sons_of_sins:curse"
+					value: 5L
+				}
+				{
+					id: "0521723E592CC755"
+					type: "kill"
+					entity: "sons_of_sins:bloody_driver"
+					value: 5L
+				}
+				{
+					id: "47AAFB838C4E7A3F"
+					type: "kill"
+					entity: "sons_of_sins:iron_hit"
+					value: 5L
+				}
+				{
+					id: "23C521E9ACEF754D"
+					type: "kill"
+					entity: "sons_of_sins:bloody_butcher"
+					value: 5L
+				}
+			]
+			rewards: [
+				{
+					id: "51DFA2A9100A13DB"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "3D56B61386428497"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+		{
+			title: "装备升级 IV"
+			icon: "cataclysm:ignitium_ingot"
+			x: -0.5d
+			y: -0.5d
+			dependencies: ["3755C09C366BF402"]
+			id: "5DA775ABD08E70C6"
+			tasks: [
+				{
+					id: "2A2F96E596F68577"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3811E9D136EEEA2B"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "38C51B872AE3FB91"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "11219B28CE2557EA"
+					type: "item"
+					item: {
+						id: "cataclysm:ignitium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "24E89531E924C92A"
+					type: "item"
+					item: "cataclysm:ignitium_block"
+					count: 2L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "17C49DBF84BFB506"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "4D5FF08EF693789C"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 30s
+							}]
+						}
+					}
+					count: 4
+				}
+			]
+		}
+		{
+			title: "音乐家：BOSS篇"
+			x: 1.5d
+			y: -1.5d
+			subtitle: "灾变BOSS概率掉落"
+			id: "3B7BAA3B5EB2A883"
+			tasks: [
+				{
+					id: "4549DD5FE9F869B4"
+					type: "item"
+					item: "cataclysm:music_disc_netherite_monstrosity"
+					consume_items: true
+				}
+				{
+					id: "08AF378CA00B9942"
+					type: "item"
+					item: "cataclysm:music_disc_ender_guardian"
+					consume_items: true
+				}
+				{
+					id: "23B8EE67AD9233B4"
+					type: "item"
+					item: "cataclysm:music_disc_ignis"
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "53E9851FAA7BCD48"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "7503F874E12B0B1D"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "4E377115FC22D9D7"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+		}
+		{
+			title: "Insane难度挑战全部达成"
+			x: 1.5d
+			y: 0.5d
+			shape: "rsquare"
+			subtitle: "挑战阶段奖励"
+			dependencies: [
+				"745878C8F2E09818"
+				"5DA775ABD08E70C6"
+				"3B7BAA3B5EB2A883"
+				"02372EFC72C5C932"
+				"79CBCB0DAAC2D8B8"
+				"5BE939F27696576C"
+			]
+			can_repeat: true
+			id: "058D5698786EAC08"
+			tasks: [{
+				id: "770DB1B879735C3C"
+				type: "checkmark"
+				title: "永久增强自身伤害减免(可重复)"
+			}]
+			rewards: [{
+				id: "3A2E62A97012DA5D"
+				type: "command"
+				title: "伤害减免+40%"
+				icon: {
+					id: "twilightforest:knightmetal_shield"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				command: "/effect give @p minecraft:resistance 300000 2"
+			}]
+		}
+		{
+			title: "音乐家：环境篇"
+			x: 1.5d
+			y: 2.5d
+			id: "79CBCB0DAAC2D8B8"
+			tasks: [
+				{
+					id: "31170665F1FC2F76"
+					type: "item"
+					item: "quark:music_disc_drips"
+					consume_items: true
+				}
+				{
+					id: "5C2FFAD9613487B3"
+					type: "item"
+					item: "quark:music_disc_ocean"
+					consume_items: true
+				}
+				{
+					id: "21916514221F5F9F"
+					type: "item"
+					item: "quark:music_disc_rain"
+					consume_items: true
+				}
+				{
+					id: "40390C1351684317"
+					type: "item"
+					item: "quark:music_disc_wind"
+					consume_items: true
+				}
+				{
+					id: "43D8340285157EBA"
+					type: "item"
+					item: "quark:music_disc_fire"
+					consume_items: true
+				}
+				{
+					id: "788180B6D3AB5C9E"
+					type: "item"
+					item: "quark:music_disc_clock"
+					consume_items: true
+				}
+				{
+					id: "26C1CAEE672A0D8C"
+					type: "item"
+					item: "quark:music_disc_crickets"
+					consume_items: true
+				}
+				{
+					id: "16DDE85E61C53EAE"
+					type: "item"
+					item: "quark:music_disc_chatter"
+					consume_items: true
+				}
+				{
+					id: "6B4092516929B51E"
+					type: "item"
+					item: "minecraft:music_disc_13"
+					consume_items: true
+				}
+				{
+					id: "4AF3FAB59B160446"
+					type: "item"
+					item: "minecraft:music_disc_cat"
+					consume_items: true
+				}
+				{
+					id: "5F12CD4F86781202"
+					type: "item"
+					item: "minecraft:music_disc_blocks"
+					consume_items: true
+				}
+				{
+					id: "77E78B9066571BE9"
+					type: "item"
+					item: "minecraft:music_disc_chirp"
+					consume_items: true
+				}
+				{
+					id: "188D1C12905549C9"
+					type: "item"
+					item: "minecraft:music_disc_far"
+					consume_items: true
+				}
+				{
+					id: "39653FC054CE488B"
+					type: "item"
+					item: "minecraft:music_disc_mall"
+					consume_items: true
+				}
+				{
+					id: "0AC7E4F169755A3E"
+					type: "item"
+					item: "minecraft:music_disc_mellohi"
+					consume_items: true
+				}
+				{
+					id: "69E8993873849DCB"
+					type: "item"
+					item: "minecraft:music_disc_stal"
+					consume_items: true
+				}
+				{
+					id: "1ABDD043B8DB563C"
+					type: "item"
+					item: "minecraft:music_disc_strad"
+					consume_items: true
+				}
+				{
+					id: "6A995F6684CE4389"
+					type: "item"
+					item: "minecraft:music_disc_ward"
+					consume_items: true
+				}
+				{
+					id: "44615ED792D9EE27"
+					type: "item"
+					item: "minecraft:music_disc_11"
+					consume_items: true
+				}
+				{
+					id: "6F24A30A6D95BD13"
+					type: "item"
+					item: "minecraft:music_disc_wait"
+					consume_items: true
+				}
+				{
+					id: "7B18ACB977940268"
+					type: "item"
+					item: "minecraft:music_disc_otherside"
+					consume_items: true
+				}
+				{
+					id: "4A67677C9CD508BC"
+					type: "item"
+					item: "minecraft:music_disc_pigstep"
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "6B349D32997EF9F0"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "597CF155564457FD"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+				{
+					id: "12941B2F4408DCA0"
+					type: "loot"
+					exclude_from_claim_all: true
+					table_id: 2354983478837722680L
+				}
+			]
+		}
+		{
+			title: "武器大师"
+			icon: "aquamirae:ship_graveyard_echo"
+			x: 3.5d
+			y: 1.5d
+			subtitle: "男人的浪漫"
+			id: "5BE939F27696576C"
+			tasks: [
+				{
+					id: "5E69A5980FEE02ED"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "60DA0C16322CAC3E"
+					type: "item"
+					item: {
+						id: "minecraft:stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1B1692F7344664FE"
+					type: "item"
+					item: {
+						id: "minecraft:golden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "7D2B42E28AF43990"
+					type: "item"
+					item: {
+						id: "minecraft:iron_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "404DE4538442B76A"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "7037F9D1D624EBEA"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1E8BB3CEA0A500A0"
+					type: "item"
+					item: {
+						id: "twilightforest:ironwood_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:knockback"
+								lvl: 1s
+							}]
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "3512B462C1463D3F"
+					type: "item"
+					item: {
+						id: "twilightforest:fiery_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1D4D8173C9D7BE9E"
+					type: "item"
+					item: {
+						id: "twilightforest:steeleaf_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:looting"
+								lvl: 2s
+							}]
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "42592EDAC041E481"
+					type: "item"
+					item: {
+						id: "twilightforest:knightmetal_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "19AAE8B8BE528271"
+					type: "item"
+					item: {
+						id: "twilightforest:ice_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "017B2F64F0CCD136"
+					type: "item"
+					item: {
+						id: "twilightforest:glass_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "446D3DCF476D8987"
+					type: "item"
+					item: {
+						id: "twilightforest:giant_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "407D97C2752CC0B1"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:etherium_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "2513CEE972DE9677"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "6B640D74EBF1E205"
+					type: "item"
+					item: {
+						id: "twilightdelight:teardrop_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "3CD1C4A2BA395D10"
+					type: "item"
+					item: {
+						id: "aquamirae:terrible_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "3E0B403848766CF0"
+					type: "item"
+					item: {
+						id: "aquamirae:fin_cutter"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1A96DBCDF784576A"
+					type: "item"
+					item: "cataclysm:the_incinerator"
+					consume_items: true
+				}
+				{
+					id: "6CB54EBA767479FE"
+					type: "item"
+					item: {
+						id: "cataclysm:infernal_forge"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "45135FEE3FA4FDE3"
+					type: "item"
+					item: {
+						id: "aquamirae:divider"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "529302A097526276"
+					type: "item"
+					item: {
+						id: "aquamirae:whisper_of_the_abyss"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0BA0D9FC163B533B"
+					type: "item"
+					item: {
+						id: "aquamirae:poisoned_blade"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1BFDD253B79B3C0F"
+					type: "item"
+					item: {
+						id: "aquamirae:dagger_of_greed"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "515E1C020B0C1389"
+					type: "item"
+					item: {
+						id: "aquamirae:coral_lance"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 4s
+							}]
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "626C8FA9A6035769"
+					type: "item"
+					item: {
+						id: "sons_of_sins:bloody_bone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "582DAA987E02C45C"
+					type: "item"
+					item: {
+						id: "graveyard:bone_dagger"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "6FD7602146DF7E43"
+					type: "item"
+					item: {
+						id: "mowziesmobs:spear"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "30F83657EDADF762"
+					type: "item"
+					item: "mowziesmobs:wrought_axe"
+					consume_items: true
+				}
+				{
+					id: "0B6FD00700870803"
+					type: "item"
+					item: {
+						id: "stalwart_dungeons:tungsten_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0CCD29A6B08C0A25"
+					type: "item"
+					item: {
+						id: "stalwart_dungeons:chorundum_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "67A3F43EF25B9DC9"
+					type: "item"
+					item: {
+						id: "alexsmobs:skelewag_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "36A0B9D7D0CF61C9"
+					type: "item"
+					item: {
+						id: "stalwart_dungeons:awful_dagger"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "49C9E60DD24BCF53"
+					type: "item"
+					item: {
+						id: "minecraft:trident"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "715E84517D28D9F5"
+					type: "item"
+					item: {
+						id: "stalwart_dungeons:nether_hammer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+					only_from_crafting: false
+				}
+				{
+					id: "464DD86423FC7132"
+					type: "item"
+					item: {
+						id: "mutantmonsters:hulk_hammer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "7E9F0365CE0DBF13"
+					type: "item"
+					item: "cataclysm:gauntlet_of_guard"
+					consume_items: true
+				}
+				{
+					id: "2EEC45D1BEAE46BC"
+					type: "item"
+					item: {
+						id: "enigmaticlegacy:ender_slayer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "757DDE13188A05DC"
+					type: "item"
+					item: "enigmaticlegacy:evil_ingot"
+					count: 8L
+					consume_items: false
+				}
+				{
+					id: "71438109667497DC"
+					type: "item"
+					item: "enigmaticlegacy:berserk_emblem"
+					consume_items: true
+				}
+				{
+					id: "5422790695F4FD31"
+					type: "item"
+					item: "enigmaticlegacy:monster_charm"
+					consume_items: true
+				}
+				{
+					id: "180A2915943515AF"
+					type: "item"
+					item: "cataclysm:ignitium_ingot"
+					count: 12L
+					consume_items: true
+				}
+				{
+					id: "5FF9ECF661A2284D"
+					type: "item"
+					item: {
+						id: "aquamirae:remnants_saber"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "7DADED217606D4FC"
+					type: "item"
+					item: {
+						id: "cataclysm:zweiender"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1BBF00999F0522ED"
+					type: "item"
+					item: "blue_archivescraft:gebura_bankai"
+				}
+			]
+			rewards: [
+				{
+					id: "2277087D468FB4E7"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "5FDE27176F133828"
+					type: "item"
+					item: {
+						id: "twilightforest:glass_sword"
+						Count: 1b
+						tag: {
+							RepairCost: 7
+							Unbreakable: 1b
+							display: {
+								Name: "{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"text\":\"永恒玻璃剑\"}],\"text\":\"\"}"
+							}
+							Enchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 255
+							}]
+							Damage: 0
+							AttributeModifiers: [{
+								Slot: "mainhand"
+								AttributeName: "minecraft:generic.attack_damage"
+								Operation: 0
+								UUID: [I;
+									1064774228
+									-1182315918
+									-1645197155
+									491215625
+								]
+								Amount: 1.145141919809E12d
+							}]
+						}
+					}
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}
