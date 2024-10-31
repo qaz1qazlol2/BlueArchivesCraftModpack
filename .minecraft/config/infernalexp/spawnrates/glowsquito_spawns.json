@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ea38d29826bb246eb45e9adbcfd33e7209688fee7f67ac845926b6d1a0e9a29
-size 377
+{
+  "biomes": [
+    {
+      "biome": "default",
+      "spawn_info": {
+        "spawn_rate": 20,
+        "min_count": 1,
+        "max_count": 3
+      }
+    },
+    {
+      "biome": "infernalexp:glowstone_canyon",
+      "spawn_info": {
+        "spawn_rate": 3,
+        "min_count": 1,
+        "max_count": 7,
+        "energy_budget": 5.0,
+        "charge": 0.1
+      }
+    }
+  ]
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff4222b9adfdb624ae1a443a8bd0628bad98989a310e1dc868d9b490458447e9
-size 288
+{
+  "weight": 0.25,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    "multiplier": 1.02
+  },
+  "aim_inaccuracy": {
+    "multiplier": 0.85
+  },
+  "recoil": {
+    "pitch": {
+      "multiplier": 0.8
+    },
+    "yaw": {
+      "multiplier": 0.8
+    }
+  }
+}

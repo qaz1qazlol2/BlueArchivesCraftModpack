@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bab3fb2d3dcb2d5169210374384b9c597d933556f0e0a8cac5da965c74fe570a
-size 424
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 72
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk_g3",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
+  }
+}

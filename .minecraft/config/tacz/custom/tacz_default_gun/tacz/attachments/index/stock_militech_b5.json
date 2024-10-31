@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0d72af89496b883e2bdae55ca59a29f7ed2b086503ed61836a613c1cb4eb3f2
-size 161
+{
+  "name": "tacz.attachment.stock_militech_b5.name",
+  "display": "tacz:stock_militech_b5_display",
+  "data": "tacz:stock_militech_b5_data",
+  "type": "stock"
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:887cb38bcdcaa8222347ca55d7431ac53f84db213da1d001b52ef4dec0845e04
-size 461
+{
+  "slot": "tacz:attachment/slot/scope_acog_ta31",
+  "model": "tacz:attachment/scope_acog_ta31_geo",
+  "texture": "tacz:attachment/uv/scope_acog_ta31",
+  "lod": {
+    "model": "tacz:attachment/lod/scope_acog_ta31_lod",
+    "texture": "tacz:attachment/lod/scope_acog_ta31_lod"
+  },
+  "zoom": [
+    2.5
+  ],
+  "scope": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

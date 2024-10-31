@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d27645bccb66a31fff38987afc752080f3e9af40c113ee8baee6bef9a7735985
-size 164
+{
+  "name": "tacz.attachment.oem_stock_tactical.name",
+  "display": "tacz:oem_stock_tactical_display",
+  "data": "tacz:oem_stock_tactical_data",
+  "type": "stock"
+}

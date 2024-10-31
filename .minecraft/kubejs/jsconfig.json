@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535
-size 223
+{
+    "compilerOptions": {
+        "lib": [
+            "ES5",
+            "ES2015"
+        ],
+        "typeRoots": [
+            "./probe/generated",
+            "./probe/user"
+        ],
+        "target": "ES2015"
+    }
+}

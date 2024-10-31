@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3917e1a81b6fce6d82627d6c8d2b2dc4f874e36085bb3364ea9c51ee4d92adaf
-size 281
+{
+  "slot": "tacz:attachment/slot/bayonet_m9",
+  "model": "tacz:attachment/bayonet_m9",
+  "texture": "tacz:attachment/uv/bayonet_m9",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "tacz:attachments/bayonet_install",
+    "uninstall": "tacz:attachments/bayonet_uninstall"
+  }
+}

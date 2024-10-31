@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1904ea6b9d6f38e1662e89ba10971527f8287d87760260ce5d3e147df266586c
-size 168
+{
+  "name": "tacz.gun.db_short.name",
+  "display": "tacz:db_short_display",
+  "data": "tacz:db_short_data",
+  "tooltip": "tacz.gun.db_short.desc",
+  "type": "shotgun"
+}

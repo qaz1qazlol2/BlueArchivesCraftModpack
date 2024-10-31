@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2360d337e3a9f976dfcd7c6213a570e80bb5205c5da1725cd3c631c530462fe6
-size 173
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:uzi"
+  }
+}

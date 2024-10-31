@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90cfcc4f5c99e79aff63d1d4cd9719f20580d7a57fb5b6863562bbb8b79d97ba
-size 450
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:vector45"
+  }
+}

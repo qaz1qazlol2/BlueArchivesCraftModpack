@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8383c3030227b22500f36f4368f3ba952acb6529d3944994469ccae173167fdb
-size 287
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_brake_pioneer"
+  }
+}

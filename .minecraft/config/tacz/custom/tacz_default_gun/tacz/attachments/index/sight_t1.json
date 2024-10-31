@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d895d3869d84b66fcbab5cb03bf839ed45f4b2b1087bb4a75696cc5b5600efcc
-size 384
+{
+  // 配件的的显示名称和工具提示，支持本地化
+  "name": "tacz.attachment.sight_t1.name",
+  // 配件的客户端数据
+  "display": "tacz:sight_t1_display",
+  // 配件的属性
+  "data": "tacz:sight_t1_data",
+  // 配件的类型。scope、grip、muzzle、stock、laser、extended_mag
+  // 枪械配件槽位能从中选择可以安装的类型
+  "type": "scope"
+}

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d477eb660cf4d1996ff8ada89278619acf79e9837fcd1522265d3c4eb1e766e
-size 284
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:357mag",
+    "count": 48
+  }
+}

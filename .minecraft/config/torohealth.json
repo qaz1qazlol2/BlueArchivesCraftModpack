@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fad317188e6d186523b348d70461e4d432f0343fed90e0205d51105fd6280965
-size 671
+{
+  "watchForChanges": true,
+  "hud": {
+    "distance": 60,
+    "x": 4.0,
+    "y": 4.0,
+    "scale": 1.0,
+    "hideDelay": 20,
+    "anchorPoint": "TOP_LEFT",
+    "showEntity": true,
+    "showBar": true,
+    "showSkin": true,
+    "onlyWhenHurt": false
+  },
+  "bar": {
+    "damageNumberType": "LAST",
+    "friendColor": "#00ff00",
+    "friendColorSecondary": "#008000",
+    "foeColor": "#ff0000",
+    "foeColorSecondary": "#800000"
+  },
+  "inWorld": {
+    "mode": "NONE",
+    "distance": 60.0,
+    "onlyWhenLookingAt": false,
+    "onlyWhenHurt": false
+  },
+  "particle": {
+    "show": true,
+    "damageColor": "#ff0000",
+    "healColor": "#00ff00",
+    "distance": 60
+  }
+}

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:941f5c2b021c6b7c7ac8a339f2f1c70a5d9deb9167f44d185a03268f592c29b0
-size 381
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_silence_phantom_s1"
+  }
+}

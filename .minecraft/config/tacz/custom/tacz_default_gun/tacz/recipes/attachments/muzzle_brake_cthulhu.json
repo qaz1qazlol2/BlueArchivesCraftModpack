@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a629fc5f436fee186ebbe60718e19e90787cf01e1f9a26d76be108cb4e41121
-size 287
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_brake_cthulhu"
+  }
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7119cfa1513edaf36a1d3a415dec9061fa2d7ca8cb28c7c6d5695747fb029a14
-size 166
+{
+  "slot": "tacz:ammo/slot/556x45",
+  "shell": {
+    "model": "tacz:shell/556x45_shell",
+    "texture": "tacz:shell/556x45_shell"
+  },
+  "tracer_color": "#FF8888"
+}

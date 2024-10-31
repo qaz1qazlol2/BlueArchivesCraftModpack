@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56f300ab801315805c18d6bac27d4721dfd24eb1e2c6312b28bdc8e0e593c462
-size 264
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:db_short"
+  }
+}

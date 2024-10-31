@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:195db22ded5e59731cd73e3708b1081cb5bec034154213fcbfe2a0223e505ee2
-size 426
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk416d",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
+  }
+}

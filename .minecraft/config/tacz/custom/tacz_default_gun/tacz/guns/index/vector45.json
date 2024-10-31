@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe5346b0b94533ffe516db4202c3369139804fbe89e304f6b18e89a0004b612e
-size 164
+{
+  "name": "tacz.gun.vector45.name",
+  "display": "tacz:vector45_display",
+  "data": "tacz:vector45_data",
+  "tooltip": "tacz.gun.vector45.desc",
+  "type": "smg"
+}

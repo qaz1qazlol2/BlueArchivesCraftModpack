@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3707b94c4e2b2d7209c388363d6de399e2c5aa035f086f219021da7e0cb3b96b
-size 127
+{
+  "enableMod": true,
+  "onlyDisplayOnBooks": false,
+  "onlyDisplayInEnchantingTable": false,
+  "requireKeybindPress": false
+}

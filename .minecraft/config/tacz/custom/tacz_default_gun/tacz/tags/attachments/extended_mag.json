@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f6d94703048e27941e84ae26daf11601c876b58c1a96d3a35027032eb0bcb9c
-size 77
+[
+  "tacz:extended_mag_1",
+  "tacz:extended_mag_2",
+  "tacz:extended_mag_3"
+]

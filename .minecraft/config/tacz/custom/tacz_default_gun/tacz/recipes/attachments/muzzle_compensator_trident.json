@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9810d9f5dbd2df960cf0842f114fe996e6d5f78abc042ba1def06516b7890485
-size 293
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_compensator_trident"
+  }
+}

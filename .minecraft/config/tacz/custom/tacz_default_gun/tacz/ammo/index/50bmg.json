@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ee9a1508f275a18fbdb4d8ed22b6cde11f099dc4df5d0542f1b406dda69459e
-size 96
+{
+  "name": "tacz.ammo.50bmg.name",
+  "display": "tacz:50bmg_display",
+  "stack_size": 30
+}
+    

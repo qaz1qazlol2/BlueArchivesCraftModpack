@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a342817badc774b1149e3bb1bf81cff2a8f3f14b90916c5127027f0df38605c3
-size 274
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:bayonet_6h3"
+  }
+}

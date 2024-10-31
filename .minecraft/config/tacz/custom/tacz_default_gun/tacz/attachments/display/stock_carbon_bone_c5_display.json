@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90743fefe01ccc0496436053027816ea76039451f144aeff15619485972e4296
-size 341
+{
+  "slot": "tacz:attachment/slot/stock_carbon_bone_c5",
+  "model": "tacz:attachment/stock_carbon_bone_c5_geo",
+  "texture": "tacz:attachment/uv/stock_carbon_bone_c5",
+  "adapter": "ar_stock_adapter",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

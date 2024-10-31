@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35bdd00a1bed54b6b7daf360c7b050cdec9d9ce967251b36b1dbc3ae8d7451e2
-size 180
+{
+  "name": "tacz.attachment.muzzle_brake_cyclone_d2.name",
+  "display": "tacz:muzzle_brake_cyclone_d2_display",
+  "data": "tacz:muzzle_brake_cyclone_d2_data",
+  "type": "muzzle"
+}

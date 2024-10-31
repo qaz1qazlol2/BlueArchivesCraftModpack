@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20c8d44763f30c4cebe09bc05347d52c798d2f193166d05947848e8416f90777
-size 2074
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1729752167359": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "401fb7b095c54a6dfc2eb987c35be1c7f211a3711f30c9136afb7ab5627ce872",
+    "telemetry.sqmId": "{7912C0ED-2F2A-49BD-A3B4-F78D76FFC8F7}",
+    "telemetry.devDeviceId": "0c9827f5-0372-452e-aa78-5ec2ab065902",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1729752167359"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "D:\\Downloads\\我的世界x蔚蓝档案冒险整合包 1.5.4版\\.minecraft\\Code\\Backups\\1729752167359",
+            "uiState": {
+                "mode": 0,
+                "x": 128,
+                "y": 16,
+                "width": 1024,
+                "height": 760
+            }
+        },
+        "openedWindows": []
+    }
+}

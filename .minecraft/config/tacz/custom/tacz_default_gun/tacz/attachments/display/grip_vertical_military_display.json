@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c99187e7ba2722f3972166b3a01285a4174a5a74d8ac34dc3ace2050b52d728
-size 410
+{
+  "slot": "tacz:attachment/slot/grip_vertical_military",
+  // 配件的默认模型，不可为空
+  "model": "tacz:attachment/grip_vertical_military_geo",
+  // 配件默认模型使用的材质，不可为空
+  "texture": "tacz:attachment/uv/grip_vertical_military",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

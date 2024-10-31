@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d5e044a8145278d0bfb3e04fab914906986974d9b86c65904c6f86046522c17
-size 478
+{
+  "biomes": [
+    {
+      "biome": "default",
+      "spawn_info": {
+        "spawn_rate": 50,
+        "min_count": 1,
+        "max_count": 3
+      }
+    },
+    {
+      "biome": "minecraft:nether_wastes",
+      "spawn_info": {
+        "spawn_rate": 45,
+        "min_count": 3,
+        "max_count": 8
+      }
+    },
+    {
+      "biome": "minecraft:crimson_forest",
+      "spawn_info": {
+        "spawn_rate": 2,
+        "min_count": 1,
+        "max_count": 4
+      }
+    }
+  ]
+}

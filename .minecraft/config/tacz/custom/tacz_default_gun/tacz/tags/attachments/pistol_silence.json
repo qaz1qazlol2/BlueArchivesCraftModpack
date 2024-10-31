@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21b8b7fa59be90f644f1745ebc7a3cfc38a6a267d5c23a3b41fa37d02d6a3a09
-size 73
+[
+    "tacz:muzzle_silence_mirage",
+    "tacz:muzzle_silence_ptilopsis"
+]

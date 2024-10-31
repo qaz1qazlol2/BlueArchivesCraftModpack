@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85b5f606011e68776c913e5d9b0a54a5b95253760c3b1be678870f66b88cbf24
-size 148
+{
+  "name": "tacz.gun.m320.name",
+  "display": "tacz:m320_display",
+  "data": "tacz:m320_data",
+  "tooltip": "tacz.gun.m320.desc",
+  "type": "rpg"
+}

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8cfc9326430f2056f0f236a1e378f6cae2307df183afc7113e74217a4be085e8
-size 136
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom_model_data_guide_assets:item/uno_reverse_texture"
+  }
+}

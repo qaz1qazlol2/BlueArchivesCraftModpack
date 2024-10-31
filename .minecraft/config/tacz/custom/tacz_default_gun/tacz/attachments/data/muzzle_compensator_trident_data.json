@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5ee46faa556d0a0be32e86cdc5412a03b3f1924ead47331214b5d49c97dcb99
-size 210
+{
+  "weight": 0.15,
+  "ads": {
+    "addend": 0.01
+  },
+  "inaccuracy": {
+    "multiplier": 0.9
+  },
+  "recoil": {
+    "pitch": {
+      "multiplier": 0.95
+    },
+    "yaw": {
+      "multiplier": 0.65
+    }
+  }
+}

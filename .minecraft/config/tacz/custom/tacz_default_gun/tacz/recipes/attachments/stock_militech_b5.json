@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d1b259e87e5760568a2854439d28e936d34934c3c739e51a12f37108ce9b62a
-size 280
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:stock_militech_b5"
+  }
+}

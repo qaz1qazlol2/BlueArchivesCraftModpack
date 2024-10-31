@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4bba2317b6ecd938a0f482945b061c9f60c7c3c8d34e010fa1da7085d604b74
-size 1050
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "swamp"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "river"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "cold"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:tropic_beach"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:orchid_swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:red_oasis"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:warm_river"
+      }
+    ]
+  ]
+}

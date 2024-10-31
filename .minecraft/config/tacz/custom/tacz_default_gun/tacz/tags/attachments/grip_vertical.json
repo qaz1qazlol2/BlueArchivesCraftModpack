@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d184f05624d835e0644359112a60db727dc8aed750617f5b2e4b33618a520f1
-size 96
+[
+  "tacz:grip_vertical_talon",
+  "tacz:grip_vertical_military",
+  "tacz:grip_vertical_ranger"
+]

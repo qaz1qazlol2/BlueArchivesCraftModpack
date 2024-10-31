@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:527a339ce33731eb21cc4631588d5f259afa656c53786b0599164a61f9ef2ccf
-size 179
+{
+  "hidden": true,
+  "name": "tacz.attachment.scope_aug_default.name",
+  "display": "tacz:scope_aug_default_display",
+  "data": "tacz:scope_aug_default_data",
+  "type": "scope"
+}

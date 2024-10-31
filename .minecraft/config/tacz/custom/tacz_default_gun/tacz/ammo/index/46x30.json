@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc5b630a1ce0851bc51dd42021f2ae2b1e71bdcc5a2d12acdf2a26f871787118
-size 96
+{
+  "name": "tacz.ammo.46x30.name",
+  "display": "tacz:46x30_display",
+  "stack_size": 60
+}
+    

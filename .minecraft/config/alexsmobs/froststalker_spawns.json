@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d
-size 934
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:ice_spikes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:frozen_peaks"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:cave/frostfire_caves"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:frozen_cliffs"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:glacial_chasm"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:snowy_badlands"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:gravel_desert"
+      }
+    ]
+  ]
+}

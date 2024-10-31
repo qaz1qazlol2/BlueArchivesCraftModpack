@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47301ff0468c7b81d937ea66e551d1d5ff28434fee985748eacd7e0c2a183b92
-size 92
+{
+  "name": "tacz.ammo.9mm.name",
+  "display": "tacz:9mm_display",
+  "stack_size": 60
+}
+    

@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a88ac52bfae61e67ac3667f1669bf677579f9b945bde7ad3d48063cdadee4e38
-size 440
+{
+  "weight": 0.6,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    "addend": 0.02
+  },
+  "pierce": {
+    "function": "if (x > 2) then y = x + 2 else y = x end"
+  },
+  "armor_ignore": {
+    "function": "if (x > 0.5) then y = x*1.25 else y = x*1.5 end"
+  },
+  "damage": {
+    "multiplier": 0.9
+  },
+  "ammo_speed": {
+    "multiplier": 1.1
+  },
+  // 扩容弹夹（匣）等级
+  "extended_mag_level": 1
+}

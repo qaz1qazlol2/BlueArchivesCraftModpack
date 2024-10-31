@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9a450e110619f387cfdda5279fd3919e2442b59762c09522a505dba7d88001f
-size 670
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:crimson_forest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:crimson_gardens"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:visceral_heap"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "incendium:ash_barrens"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "incendium:infernal_dunes"
+      }
+    ]
+  ]
+}

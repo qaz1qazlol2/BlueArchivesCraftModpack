@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0d9fea70ee9c0e18b9abc1da52dca4ddf4707d7e75297b72ba0edc055e881eb
-size 167
+{
+  "name": "tacz.gun.hk_g3.name",
+  "display": "tacz:hk_g3_display",
+  "data": "tacz:hk_g3_data",
+  "tooltip": "tacz.gun.hk_g3.desc",
+  "type": "rifle",
+  "sort": 3
+}

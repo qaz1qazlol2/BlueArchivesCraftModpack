@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3
-size 57
+{
+    "ModSettings": {
+        "first_run": false
+    }
+}

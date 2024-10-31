@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352
-size 1024
+{
+  "movement": {
+    "inventory": true,
+    "horseInventory": true,
+    "creative": true,
+    "crafting": true,
+    "chest": true,
+    "shulker": true,
+    "dispenser": true,
+    "hopper": true,
+    "enchantment": true,
+    "anvil": true,
+    "beacon": true,
+    "brewing": true,
+    "furnace": true,
+    "blastFurnace": true,
+    "smoker": true,
+    "loom": true,
+    "cartography": true,
+    "grindstone": true,
+    "stonecutter": true,
+    "villager": true,
+    "book": true,
+    "advancements": true
+  },
+  "backgroundHide": {
+    "inventory": true,
+    "horseInventory": true,
+    "creative": true,
+    "crafting": true,
+    "chest": true,
+    "shulker": true,
+    "dispenser": true,
+    "hopper": true,
+    "enchantment": true,
+    "anvil": true,
+    "beacon": true,
+    "brewing": true,
+    "furnace": true,
+    "blastFurnace": true,
+    "smoker": true,
+    "loom": true,
+    "cartography": true,
+    "grindstone": true,
+    "stonecutter": true,
+    "villager": true,
+    "book": true,
+    "advancements": true
+  }
+}

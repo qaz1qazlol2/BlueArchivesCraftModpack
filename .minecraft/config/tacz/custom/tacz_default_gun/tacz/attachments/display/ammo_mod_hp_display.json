@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d27280bc55b8bcb4b7850f5b4f0161af3a12036aadd5f7087daa074a886a8df
-size 188
+{
+  "slot": "tacz:attachment/slot/ammo_mod_hp",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

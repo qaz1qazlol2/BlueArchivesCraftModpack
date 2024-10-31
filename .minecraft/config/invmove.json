@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410
-size 352
+{
+  "general": {
+    "enable": true,
+    "debugDisplay": false
+  },
+  "movement": {
+    "enable": true,
+    "jump": true,
+    "sneak": "Maintain",
+    "dismount": false,
+    "textFieldDisables": true,
+    "unrecognizedScreenDefault": true
+  },
+  "background": {
+    "enable": true,
+    "hideOnPause": "Show",
+    "unrecognizedScreenDefault": true
+  }
+}

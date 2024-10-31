@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:310917e7c47fd885223c5bf0bcab723af1e85f8419b92c1c031f457c00015835
-size 50
+[
+  "tacz:sight_sro_dot",
+  "tacz:sight_rmr_dot"
+]

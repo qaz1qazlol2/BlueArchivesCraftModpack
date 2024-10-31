@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2da9004de231ddefa054af1437c618dae7db7d955efd050027b57fbb327f4ac5
-size 591
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "end"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:the_end"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:end_barrens"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:end_highlands"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:small_end_islands"
+      }
+    ]
+  ]
+}

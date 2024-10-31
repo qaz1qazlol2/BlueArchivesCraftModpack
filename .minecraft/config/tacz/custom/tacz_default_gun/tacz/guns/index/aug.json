@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9f9c7b04232f2610046f451f344feb7c9f287e5de6d52eb7ef25d6fbc26b5b1
-size 160
+{
+  "name": "tacz.gun.aug.name",
+  "display": "tacz:aug_display",
+  "data": "tacz:aug_data",
+  "type": "rifle",
+  "tooltip": "tacz.gun.aug.desc",
+  "sort": 10
+}

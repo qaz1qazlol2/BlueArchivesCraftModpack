@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:019c7bbb9cdf29f1d5ee13f13f6ce42d8ffd0d6280986ac74346c2715732cf98
-size 299
+{
+  "slot": "tacz:attachment/slot/muzzle_brake_trex",
+  "model": "tacz:attachment/muzzle_brake_trex_geo",
+  "texture": "tacz:attachment/uv/muzzle_brake_trex",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

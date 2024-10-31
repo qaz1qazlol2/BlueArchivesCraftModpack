@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78548ec99251f542c8b8c1d31bb3a1e002a99df9cc3a38261c2539256fa6f1a5
-size 356
+{
+  "weight": 0.6,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    "addend": 0.02
+  },
+  "ignite": {
+    "entity": true
+  },
+  "armor_ignore": {
+    "multiplier": 0.8
+  },
+  "damage": {
+    "multiplier": 1.1
+  },
+  "ammo_speed": {
+    "multiplier": 1.0
+  },
+  // 扩容弹夹（匣）等级
+  "extended_mag_level": 1
+}

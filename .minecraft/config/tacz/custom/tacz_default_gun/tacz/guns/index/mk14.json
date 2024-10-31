@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19fdbb0deaf60dd155adbccc70c52dd39e271c4285c951025045dcd561e5651e
-size 163
+{
+  "name": "tacz.gun.mk14.name",
+  "display": "tacz:mk14_display",
+  "data": "tacz:mk14_data",
+  "tooltip": "tacz.gun.mk14.desc",
+  "type": "rifle",
+  "sort": 4
+}

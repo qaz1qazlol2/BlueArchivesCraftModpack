@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd6e2803cff88b31cf73848d247621c285b7b2aed4fb59b2902587a2cfaf6e8b
-size 352
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 9
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:308",
+    "count": 48
+  }
+}

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dae51c62983ca8ae90625358a388e5bf71101daf914efaf45753a4ae66a2792a
-size 104
+{
+  "name": "tacz.ammo.68x51fury.name",
+  "display": "tacz:68x51fury_display",
+  "stack_size": 60
+}
+    

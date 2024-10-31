@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4d96e95b9a4a77e542addc14ff68c6987269296f10a372ac60a263232a8870f
-size 742
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:tundra_bog"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:ice_marsh"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:orchid_swamp"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:red_oasis"
+      }
+    ]
+  ]
+}

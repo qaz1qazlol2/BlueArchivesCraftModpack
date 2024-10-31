@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:718f0e832d6fc84626ff588c4b8ab234313e5819279030998f62ecb0fc941b24
-size 187
+{
+  "name": "tacz.gun.deagle_golden.name",
+  "display": "tacz:deagle_golden_display",
+  "data": "tacz:deagle_golden_data",
+  "tooltip": "tacz.gun.deagle_golden.desc",
+  "type": "pistol"
+}

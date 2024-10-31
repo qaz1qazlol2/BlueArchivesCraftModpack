@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9900e066e510b9ed7572e20c313c7881d48266c827e709a79946f9f85c0d7b34
-size 444
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "ocean"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "hot"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "minecraft:deep_warm_ocean"
+      }
+    ]
+  ]
+}

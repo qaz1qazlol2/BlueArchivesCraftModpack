@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b583569122fa3ae4bdaf6fbae81346789c3ad4072790231e55187967363a77e
-size 267
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 36
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk_mp5a5"
+  }
+}

@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3136b5be8b23430d733f8f45b3104cb034ca4df1b6fcce9d7dfed0668a6f3972
-size 290
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_brake_cyclone_d2"
+  }
+}

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03388940989472b674486b8e9d37ab4ff88d15cae8a9d358d7256daabdf95a72
-size 356
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 48
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:scar_l"
+  }
+}

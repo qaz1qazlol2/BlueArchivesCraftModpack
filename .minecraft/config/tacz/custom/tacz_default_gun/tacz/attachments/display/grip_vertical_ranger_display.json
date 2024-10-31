@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:043e1db83206820107a0ea5c96ad46750632d06f05ac12dbb3637a25ddd5461d
-size 308
+{
+  "slot": "tacz:attachment/slot/grip_vertical_ranger",
+  "model": "tacz:attachment/grip_vertical_ranger_geo",
+  "texture": "tacz:attachment/uv/grip_vertical_ranger",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

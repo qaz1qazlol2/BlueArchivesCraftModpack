@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a440b565436bb974cc9a0935eb6b01aae2ba0ca9fdd54eb71d08e759524194d
-size 90
+[
+  "tacz:ammo_mod_fmj",
+  "tacz:ammo_mod_he",
+  "tacz:ammo_mod_hp",
+  "tacz:ammo_mod_i"
+]

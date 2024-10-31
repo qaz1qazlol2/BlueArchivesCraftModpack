@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89b8efce09a5913f19fc54051ed7215e70589694bf625e648473ec84944ce6b4
-size 458
+{
+  "model": "tacz:ammo/12g",
+  "texture": "tacz:ammo/uv/12g",
+  "slot": "tacz:ammo/slot/12g",
+  "shell": {
+    "model": "tacz:shell/12g_shell",
+    "texture": "tacz:shell/12g_shell"
+  },
+  "tracer_color": "#FF3030",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

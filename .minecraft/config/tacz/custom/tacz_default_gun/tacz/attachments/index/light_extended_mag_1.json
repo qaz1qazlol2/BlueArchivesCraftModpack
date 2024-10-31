@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d9a8f70c9903acce6aa0b8fe6fddc56fad80bc47095f07894378fa1db2193f0
-size 177
+{
+  "name": "tacz.attachment.light_extended_mag_1.name",
+  "display": "tacz:light_extended_mag_1_display",
+  "data": "tacz:light_extended_mag_1_data",
+  "type": "extended_mag"
+}

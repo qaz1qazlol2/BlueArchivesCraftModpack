@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37
-size 85
+{
+  "daylength": 24000,
+  "yearLengthInDays": 100,
+  "minDaysBetweenLunarEvents": 5
+}

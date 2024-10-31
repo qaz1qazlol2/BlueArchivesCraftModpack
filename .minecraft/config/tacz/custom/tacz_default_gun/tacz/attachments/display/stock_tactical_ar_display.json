@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e28053ae3128529a7f5932c8409c969d8f95ef9f75bfafad58380d6d21dd832
-size 328
+{
+  "slot": "tacz:attachment/slot/stock_tactical_ar",
+  "model": "tacz:attachment/stock_tactical_ar",
+  "texture": "tacz:attachment/uv/stock_tactical_ar",
+  "adapter": "ar_stock_adapter",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

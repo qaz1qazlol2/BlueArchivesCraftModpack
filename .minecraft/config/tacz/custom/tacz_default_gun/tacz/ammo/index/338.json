@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d7906b5d70bbc126f588b90626f89e8d7a34e21e77c7dc5d0d0b7b5b5ce73d9
-size 88
+{
+  "name": "tacz.ammo.338.name",
+  "display": "tacz:338_display",
+  "stack_size": 30
+}

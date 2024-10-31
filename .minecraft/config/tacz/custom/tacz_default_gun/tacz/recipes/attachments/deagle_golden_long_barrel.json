@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:992c3448fbb6424c77fc1880adf72882669ecdb2c2be9963818718d0e294f4cf
-size 293
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:deagle_golden_long_barrel"
+  }
+}

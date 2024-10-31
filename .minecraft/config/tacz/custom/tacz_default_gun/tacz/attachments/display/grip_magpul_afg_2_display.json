@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a0f5cfe26aa95ffe157360e4ce6e0807dcc9a1774dca08446f1076d0e85aebf
-size 395
+{
+  "slot": "tacz:attachment/slot/grip_magpul_afg_2",
+  // 配件的默认模型，不可为空
+  "model": "tacz:attachment/grip_magpul_afg_2_geo",
+  // 配件默认模型使用的材质，不可为空
+  "texture": "tacz:attachment/uv/grip_magpul_afg_2",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

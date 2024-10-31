@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b77bb4eb6a7648193a41563a0c99f2b66283f6a12090f928b3aa1e8f43e92674
-size 1461
+{
+  "textComponents": {
+    "name": {
+      "key": "enhancedcelestials.name.super_blood_moon"
+    },
+    "startNotification": {
+      "component": {
+        "key": "enhancedcelestials.notification.super_blood_moon.rise",
+        "style": {
+          "color": "ff5555",
+          "bold": true
+        }
+      },
+      "type": "CHAT"
+    },
+    "endNotification": {
+      "component": {
+        "key": "enhancedcelestials.notification.blood_moon.set"
+      },
+      "type": "CHAT"
+    }
+  },
+  "blockSleeping": true,
+  "spawnCategoryMultiplier": {
+    "monster": 4.5
+  },
+  "lunarSpawnSettings": {
+    "useBiomeSpawnSettings": true,
+    "forceSurfaceSpawning": true,
+    "spawners": {
+      "monster": [],
+      "creature": [],
+      "ambient": [],
+      "axolotls": [],
+      "underground_water_creature": [],
+      "water_creature": [],
+      "water_ambient": [],
+      "misc": [],
+      "IECREATURE": []
+    },
+    "spawn_costs": {}
+  },
+  "clientSettings": {
+    "colorSettings": {
+      "skyLightColor": "ff0000",
+      "skyLightBlendStrength": 1.0,
+      "moonTextureColor": "ff0000",
+      "moonTextureBlendStrength": 1.0
+    },
+    "moonSize": 40.0,
+    "moonTextureLocation": "minecraft:textures/environment/moon_phases.png",
+    "soundTrack": "enhancedcelestials:blood_moon",
+    "type": "enhancedcelestials:default"
+  },
+  "minNumberOfNightsBetween": 20,
+  "chance": 0.0175,
+  "validMoonPhases": [
+    0
+  ],
+  "type": "enhancedcelestials:blood_moon"
+}

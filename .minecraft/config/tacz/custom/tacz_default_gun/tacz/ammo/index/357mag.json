@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc1d2a2693010a8a97c976c9b6cff5c70b1c8fa4417e112bc3d7afecbf3a661b
-size 94
+{
+  "name": "tacz.ammo.357mag.name",
+  "display": "tacz:357mag_display",
+  "stack_size": 48
+}

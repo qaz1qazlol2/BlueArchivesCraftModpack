@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29d1af6e00ecbfcde489238d2aae9bcca8503028c5ee4b083949f2e891b49ed8
-size 185
+{
+  "weight": 0.4,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    "addend": 0.03
+  },
+  // 扩容弹夹（匣）等级
+  "extended_mag_level": 3
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47b4ab29d9b7961c92bb348f96becc4364601353883cd5b80ed25dd137f53bdb
-size 171
+{
+  "name": "tacz.gun.scar_l.name",
+  "display": "tacz:scar_l_display",
+  "data": "tacz:scar_l_data",
+  "tooltip": "tacz.gun.scar_l.desc",
+  "type": "rifle",
+  "sort": 4
+}

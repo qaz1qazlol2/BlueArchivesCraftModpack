@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbed2d71d7278ad7d043aa7e714bc01c1c5f76da26b57d566868dd4fe4a95ae1
-size 161
+{
+  "biomes": [
+    {
+      "biome": "default",
+      "spawn_info": {
+        "spawn_rate": 0,
+        "min_count": 0,
+        "max_count": 0
+      }
+    }
+  ]
+}

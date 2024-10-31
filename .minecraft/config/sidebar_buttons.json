@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d
-size 236
+{
+	"ftbteams": {
+		"my_team": true
+	},
+	"ftbquests": {
+		"quests": true
+	},
+	"ftblibrary": {
+		"toggle.gamemode": true,
+		"toggle.rain": true,
+		"toggle.day": true,
+		"toggle.night": true
+	},
+	"ftbessentials": {
+		"trash_can": true
+	}
+}

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a8fddee4919c8bae22d65dccc13af834b26912b17cfd1ed5dbf5ac0a989b0a4
-size 141
+{
+  "name": "tacz.attachment.bayonet_m9.name",
+  "display": "tacz:bayonet_m9_display",
+  "data": "tacz:bayonet_m9_data",
+  "type": "muzzle"
+}

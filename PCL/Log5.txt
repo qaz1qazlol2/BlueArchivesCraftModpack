@@ -1,59 +1,997 @@
-[18:47:00.068] [Start] 程序版本：Release 2.8.9 (342)
-[18:47:00.071] [Start] 识别码：712D-9B9A-A493-CAD4
-[18:47:00.071] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
-[18:47:00.071] [Start] 系统编码：gb2312 (936, GBK=True)
-[18:47:00.073] [Start] 管理员权限：True
-[18:47:00.093] [Start] 第一阶段加载用时：234 ms
-[18:47:01.096] [UI] 页面状态切换为 ContentStay
-[18:47:01.101] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
-[18:47:01.102] [Start] 第二阶段加载用时：938 ms
-[18:47:01.102] [Loader] 加载线程 Minecraft Folder List (5) 已启动
-[18:47:01.125] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
-[18:47:01.946] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
-[18:47:01.975] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
-[18:47:02.140] [System] 窗口已置顶，位置：(190, 105), 900 x 550
-[18:47:02.142] [Animation] 动画线程开始
-[18:47:02.143] [Start] 第三阶段加载用时：203 ms
-[18:47:02.167] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
-[18:47:02.300] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
-[18:47:02.301] [Loader] 加载线程 Loader Skin Ms (13) 已启动
-[18:47:02.325] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
-[18:47:02.386] [Page] 实例化：清空自定义主页 UI，来源为空
-[18:47:02.395] [Animation] 两个动画帧间隔 234 ms
-[18:47:02.853] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
-[18:47:03.219] [Start] 加载 DLL：Json
-[18:47:03.219] [System] 获取资源：Json
-[18:47:03.220] [Start] 加载 DLL：NAudio
-[18:47:03.220] [System] 获取资源：NAudio
-[18:47:03.227] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
-[18:47:03.243] [Skin] 载入头像成功：Loader Skin Ms
-[18:47:03.363] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
-[18:47:03.367] [Loader] 加载器 登录 状态改变：Loading
-[18:47:03.368] [Loader] 加载线程 登录 (15) 已启动
-[18:47:03.370] [Launch] 登录加载已开始
-[18:47:03.370] [Loader] 加载器 Loader Login Ms 状态改变：Loading
-[18:47:03.371] [Loader] 加载线程 Loader Login Ms (16) 已启动
-[18:47:03.372] [Launch] 登录方式：正版（Cr_IZUMIKun）
-[18:47:03.372] [Launch] 开始微软登录步骤 1/6（刷新登录）
-[18:47:03.375] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
-[18:47:03.443] [Java] 缓存中有 6 个可用的 Java：
-[18:47:03.444] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
-[18:47:03.444] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
-[18:47:03.444] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
-[18:47:03.444] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
-[18:47:03.444] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[18:47:03.444] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
-[18:47:03.624] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
-[18:47:03.658] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
-[18:47:03.659] [Loader] 加载器 PCL 服务 状态改变：Loading
-[18:47:03.659] [Loader] 加载线程 DlClientList Mojang (19) 已启动
-[18:47:03.659] [Loader] 加载线程 PCL 服务 (20) 已启动
-[18:47:03.659] [Server] 正在连接到 PCL 服务器
-[18:47:03.661] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
-[18:47:03.666] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730371624-59716a7b-0-66956217f5119755be7a3f08c9a29094，超时 10000ms
-[18:47:03.757] [Server] 服务器公告：154|341|342|5，无需更新
-[18:47:03.764] [Loader] 加载器 PCL 服务 状态改变：Finished
-[18:47:03.978] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
-[18:47:04.238] [Control] 按下图标按钮：BtnTitleClose
-[18:47:04.242] [System] 收到关闭指令
-[18:47:04.483] [System] 程序已退出，返回值：Success
+[21:21:54.175] [Start] 程序版本：Release 2.8.8 (340)
+[21:21:54.189] [Start] 识别码：712D-9B9A-A493-CAD4
+[21:21:54.189] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[21:21:54.189] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[21:21:54.194] [Start] 管理员权限：True
+[21:21:54.234] [Start] 第一阶段加载用时：235 ms
+[21:21:54.822] [UI] 页面状态切换为 ContentStay
+[21:21:54.825] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[21:21:54.825] [Start] 第二阶段加载用时：531 ms
+[21:21:54.826] [Loader] 加载线程 Minecraft Folder List (5) 已启动
+[21:21:54.847] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[21:21:55.420] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
+[21:21:55.421] [Start] 加载 DLL：Imazen.WebP
+[21:21:55.421] [System] 获取资源：Imazen_WebP
+[21:21:55.424] [System] 获取资源：libwebp64
+[21:21:55.444] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
+[21:21:55.445] [Start] 加载 DLL：NAudio
+[21:21:55.445] [System] 获取资源：NAudio
+[21:21:55.590] [System] 窗口已置顶，位置：(12.5, 17), 1255 x 726
+[21:21:55.593] [Animation] 动画线程开始
+[21:21:55.593] [Start] 第三阶段加载用时：187 ms
+[21:21:55.594] [Start] 加载 DLL：Json
+[21:21:55.594] [System] 获取资源：Json
+[21:21:55.612] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:21:55.658] [Java] 缓存中有 6 个可用的 Java：
+[21:21:55.658] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[21:21:55.658] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
+[21:21:55.658] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
+[21:21:55.658] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
+[21:21:55.658] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:21:55.658] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[21:21:55.738] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[21:21:55.739] [Loader] 加载线程 Loader Skin Ms (13) 已启动
+[21:21:55.742] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[21:21:55.762] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
+[21:21:55.788] [Page] 实例化：清空自定义主页 UI，来源为空
+[21:21:55.796] [Skin] 载入头像成功：Loader Skin Ms
+[21:21:55.796] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:21:55.798] [Loader] 加载器 登录 状态改变：Loading
+[21:21:55.799] [Loader] 加载线程 登录 (16) 已启动
+[21:21:55.800] [Launch] 登录加载已开始
+[21:21:55.801] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[21:21:55.801] [Loader] 加载线程 Loader Login Ms (17) 已启动
+[21:21:55.802] [Launch] 登录方式：正版（Cr_IZUMIKun）
+[21:21:55.802] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[21:21:55.805] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[21:21:55.862] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[21:21:55.865] [Loader] 加载线程 DlClientList Mojang (20) 已启动
+[21:21:55.865] [Loader] 加载器 PCL 服务 状态改变：Loading
+[21:21:55.865] [Loader] 加载线程 PCL 服务 (21) 已启动
+[21:21:55.865] [Server] 正在连接到 PCL 服务器
+[21:21:55.867] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[21:21:55.874] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730035316-06183d98-0-c91247aaada94b316cf5084e541166c3，超时 10000ms
+[21:21:56.061] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[21:21:56.118] [Server] 服务器公告：154|341|342|5，无需更新
+[21:21:56.126] [Server] 重要等级 0，更新公告 True
+[21:21:56.126] [System] 更新已开始，静默：True
+[21:21:56.126] [Loader] 加载器 PCL 服务 状态改变：Finished
+[21:21:56.130] [Loader] 加载器 启动器更新 状态改变：Loading
+[21:21:56.132] [Loader] 加载器 下载更新文件 状态改变：Loading
+[21:21:56.142] [Download] Update.zip：已加入列表，剩余文件 1
+[21:21:56.144] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 89
+[21:21:56.180] [Download] Update.zip 93#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/update/Publi3.zip?sign=1730035316-495a1e4e-0-84a42ddb3e815de55a25d99b49658219
+[21:21:56.205] [Download] Update.zip 93#：文件大小 2438516（2.33 M）
+[21:21:56.308] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[21:21:56.511] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[21:21:56.992] [Download] 速度下限已提升到 931 K
+[21:21:57.188] [Control] 按下按钮：启动游戏
+[21:21:57.190] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:21:57.190] [Loader] 加载线程 Loader Launch (28) 已强制启动
+[21:21:57.203] [Launch] 预检测已通过
+[21:21:57.204] [Download] 开始后台检查资源文件索引
+[21:21:57.204] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:21:57.204] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:21:57.204] [Loader] 加载线程 后台分析资源文件索引地址 (30) 已启动
+[21:21:57.204] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:21:57.204] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:21:57.204] [Loader] 加载线程 获取 Java (31) 已启动
+[21:21:57.206] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
+[21:21:57.206] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[21:21:57.207] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[21:21:57.207] [Download] 1.18.json：已加入列表，剩余文件 2
+[21:21:57.208] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 111
+[21:21:57.208] [Taskbar] Minecraft 启动 已加入任务列表
+[21:21:57.210] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[21:21:57.215] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\
+[21:21:57.221] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:21:57.225] [Download] 1.18.json 129#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[21:21:57.231] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:21:57.232] [Java] 排序后的 Java 优先顺序：
+[21:21:57.232] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:21:57.232] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[21:21:57.234] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17\bin\java.exe -version
+[21:21:57.330] [Java] Java 检查输出：C:\Program Files\Java\jdk-17\bin\java.exe
+java version "17.0.11" 2024-04-16 lts
+java(tm) se runtime environment (build 17.0.11+7-lts-207)
+java hotspot(tm) 64-bit server vm (build 17.0.11+7-lts-207, mixed mode, sharing)
+
+[21:21:57.331] [Java] 最终选定的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:21:57.331] [Launch] 选择的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:21:57.331] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:21:57.564] [Launch] 开始微软登录步骤 2/6
+[21:21:57.564] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:21:57.617] [Download] 1.18.json 129#：重定向至 https://media-zjhz-fy-home.zj6oss.ctyunxs.cn/FAMILYCLOUD/84780f07-64a3-43a8-9c61-b5a7f194f047?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&x-amz-limitrate=51200&x-amz-UID=300000472361691&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22d31a2e85ae149dd1b1a7070b22cb8887892fda6c%22%3Bfilename*%3DUTF-8%27%27d31a2e85ae149dd1b1a7070b22cb8887892fda6c&x-amz-OPERID=300000472361466&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=fwGLxgR92UTtDGKphdn1NFdF0a0%3D&Expires=1730045274&x-amz-FSIZE=348724&x-amz-UFID=424761149315488767
+[21:21:57.617] [Download] 1.18.json 129#：文件大小 348724（341 K）
+[21:21:57.641] [Download] 1.18.json 134#：开始，起始点 241729，https://bmclapi2.bangbang93.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
+[21:21:57.681] [Download] 1.18.json 129#：完成，已下载 241729
+[21:21:57.741] [Control] 按下附加按钮：正在播放：Video_1720587401892_20240710_130613_20240710_130633
+左键暂停，右键重新从头播放。
+[21:21:57.742] [Music] 已暂停播放
+[21:21:57.825] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:21:57.934] [Report] FPS 62, 动画 13, 下载中 2（960 K/s）
+[21:21:58.170] [Download] 1.18.json 134#：重定向至 https://download4.caiyun.feixin.10086.cn:443/storageWeb/servlet/downloadServlet?code=SzUxSTExcVI4bUVKcGc5MzMxN3dIamFtZFow&un=99D2696CBDA095218787CE869CDE0DAC5EE479BEC8C11187DD96C8889ECC3F5D&dom=D971&rate=0&txType=0
+[21:21:58.321] [Download] 1.18.json 134#：完成，已下载 106995
+[21:21:58.324] [Download] 1.18.json：下载结束，开始合并文件
+[21:21:58.332] [Download] 1.18.json：已完成，剩余文件 1
+[21:21:58.332] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[21:21:58.333] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[21:21:58.333] [Loader] 加载线程 后台复制资源文件索引 (26) 已启动
+[21:21:58.335] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
+[21:21:58.335] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[21:21:58.335] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[21:21:58.338] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[21:21:59.021] [Report] FPS 62, 动画 3, 下载中 1（776 K/s）
+[21:21:59.093] [Launch] 开始微软登录步骤 3/6
+[21:21:59.094] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:21:59.357] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:21:59.712] [Download] Update.zip 93#：完成，已下载 2438516
+[21:21:59.712] [Download] Update.zip：下载结束，仅有一个文件，无需合并
+[21:21:59.713] [Download] Update.zip：已完成，剩余文件 0
+[21:21:59.713] [Loader] 加载器 下载更新文件 状态改变：Finished
+[21:21:59.715] [Loader] 加载器 安装更新 状态改变：Loading
+[21:21:59.717] [Loader] 加载线程 安装更新 (35) 已启动
+[21:21:59.717] [System] 无需清理目标更新文件：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Plain Craft Launcher 2.exe
+[21:21:59.745] [System] 更新文件解压完成
+[21:21:59.746] [Loader] 加载器 安装更新 状态改变：Finished
+[21:21:59.746] [Loader] 加载器 启动器更新 状态改变：Finished
+[21:21:59.870] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[21:22:00.621] [Report] FPS 64, 动画 5, 下载中 0（305 K/s）
+[21:22:00.634] [Launch] 开始微软登录步骤 4/6
+[21:22:00.635] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 15000
+[21:22:01.352] [Launch] 开始微软登录步骤 5/6
+[21:22:01.352] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[21:22:01.611] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[21:22:02.118] [Launch] 开始微软登录步骤 6/6
+[21:22:02.118] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[21:22:02.381] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[21:22:02.894] [Launch] 微软登录完成
+[21:22:02.894] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[21:22:02.906] [Launch] 登录加载已结束
+[21:22:02.906] [Loader] 加载器 登录 状态改变：Finished
+[21:22:02.906] [Loader] 由于输入条件变更，重启已完成的加载器 登录
+[21:22:02.907] [Loader] 加载器 登录 状态改变：Loading
+[21:22:02.907] [Loader] 加载器 补全文件 状态改变：Loading
+[21:22:02.907] [Loader] 加载线程 登录 (38) 已启动
+[21:22:02.907] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:22:02.907] [Launch] 登录加载已开始
+[21:22:02.907] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:22:02.907] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[21:22:02.907] [Loader] 加载线程 Loader Login Ms (40) 已启动
+[21:22:02.907] [Launch] 登录方式：正版（Cr_IZUMIKun）
+[21:22:02.907] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[21:22:02.908] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:22:02.908] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:22:02.908] [Loader] 加载线程 分析缺失支持库文件 (39) 已启动
+[21:22:02.908] [Loader] 加载线程 分析资源文件索引地址 (41) 已启动
+[21:22:02.908] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
+[21:22:02.912] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:22:02.914] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:22:02.915] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:22:02.915] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:22:02.915] [Loader] 加载线程 分析缺失资源文件 (43) 已启动
+[21:22:02.923] [Launch] 登录加载已结束
+[21:22:02.923] [Loader] 加载器 登录 状态改变：Finished
+[21:22:02.958] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
+[21:22:03.067] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:22:03.067] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:22:03.067] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:22:03.067] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:22:03.155] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:22:03.155] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:22:03.155] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:22:03.155] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:22:03.155] [Loader] 加载器 补全文件 状态改变：Finished
+[21:22:03.156] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:22:03.156] [Loader] 加载线程 获取启动参数 (45) 已启动
+[21:22:03.158] [Launch] 开始获取 Minecraft 启动参数
+[21:22:03.158] [Launch] 获取新版 JVM 参数
+[21:22:03.162] [Launch] 当前剩余内存：11.2G
+[21:22:03.171] [Java] 选定的 Java Wrapper 路径：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:22:03.171] [System] 获取资源：JavaWrapper
+[21:22:03.172] [Launch] 新版 JVM 参数获取成功：
+[21:22:03.172] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.7/asm-9.7.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1274m -Xmx8499m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[21:22:03.172] [Launch] 获取新版 Game 参数
+[21:22:03.178] [Launch] 新版 Game 参数获取成功
+[21:22:03.182] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
+[21:22:03.187] [Launch] Minecraft 启动参数：
+[21:22:03.189] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=340 -cp "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.8\securejarhandler-1.0.8.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm\9.7\asm-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-commons\9.7\asm-commons-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-tree\9.7\asm-tree-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-util\9.7\asm-util-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7\asm-analysis-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.21\fmlloader-1.18.2-40.2.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,蔚蓝档案，启动！.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries" -p "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm/9.7/asm-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1274m -Xmx8499m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username Cr_IZUMIKun --version 蔚蓝档案，启动！ --gameDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft" --assetsDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\assets" --assetIndex 1.18 --uuid 7a79c09d831240ccad88378beb9e33ba --accessToken eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3vP-8 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --width 1918 --height 1019 --launchTarget forgeclient --fml.forgeVersion 40.2.21 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[21:22:03.189] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:22:03.233] [Loader] 加载器 解压文件 状态改变：Loading
+[21:22:03.234] [Loader] 加载线程 解压文件 (12) 已启动
+[21:22:03.237] [Launch] 正在解压 Natives 文件
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl32.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc32.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL32.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl.dll
+[21:22:03.238] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl32.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw32.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd32.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb32.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x86.dll
+[21:22:03.239] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x64.dll
+[21:22:03.239] [Loader] 加载器 解压文件 状态改变：Finished
+[21:22:03.254] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:22:03.254] [Loader] 加载线程 预启动处理 (17) 已启动
+[21:22:03.266] [Launch] 已更新 launcher_profiles.json
+[21:22:03.267] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[21:22:03.267] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:22:03.293] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:22:03.293] [Loader] 加载线程 执行自定义命令 (16) 已启动
+[21:22:03.296] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:22:03.297] [Loader] 加载器 启动进程 状态改变：Loading
+[21:22:03.299] [Loader] 加载线程 启动进程 (44) 已启动
+[21:22:03.308] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17\bin\javaw.exe
+[21:22:03.309] [Loader] 加载器 启动进程 状态改变：Finished
+[21:22:03.335] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:22:03.336] [Loader] 加载线程 等待游戏窗口出现 (42) 已启动
+[21:22:03.337] [Launch] 
+[21:22:03.337] [Launch] ~ 基础参数 ~
+[21:22:03.337] [Launch] PCL 版本：Release 2.8.8 (340)
+[21:22:03.337] [Launch] 游戏版本：1.18.2, Forge 40.2.21 (40020021#)（识别为 1.18.2）
+[21:22:03.337] [Launch] 资源版本：1.18
+[21:22:03.337] [Launch] 版本继承：无
+[21:22:03.338] [Launch] 分配的内存：8.3 GB（8499 MB）
+[21:22:03.338] [Launch] MC 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:22:03.338] [Launch] 版本文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:22:03.338] [Launch] 版本隔离：False
+[21:22:03.338] [Launch] HMCL 格式：False
+[21:22:03.338] [Launch] Java 信息：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:22:03.338] [Launch] 环境变量：未设置
+[21:22:03.338] [Launch] Natives 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives
+[21:22:03.338] [Launch] 
+[21:22:03.338] [Launch] ~ 登录参数 ~
+[21:22:03.338] [Launch] 玩家用户名：Cr_IZUMIKun
+[21:22:03.338] [Launch] AccessToken：eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3vP-8
+[21:22:03.338] [Launch] ClientToken：7a79c09d831240ccad88378beb9e33ba
+[21:22:03.338] [Launch] UUID：7a79c09d831240ccad88378beb9e33ba
+[21:22:03.338] [Launch] 登录方式：Microsoft
+[21:22:03.338] [Launch] 
+[21:22:03.340] [Launch] [5280] 开始 Minecraft 日志监控
+[21:22:03.340] [Launch] [全局] 出现运行中的 Minecraft
+[21:22:05.096] [Launch] [5280] 日志 1/5：已出现日志输出
+[21:22:05.964] [Report] FPS 36, 动画 7, 下载中 0（0 B/s）
+[21:22:07.958] [Report] FPS 64, 动画 5, 下载中 0（0 B/s）
+[21:22:22.110] [Report] FPS 64, 动画 6, 下载中 0（0 B/s）
+[21:22:23.020] [Launch] [5280] 日志 2/5：游戏用户已设置
+[21:22:23.349] [Launch] [5280] 日志 3/5：LWJGL 版本已确认
+[21:22:23.599] [Launch] [5280] Minecraft 窗口已加载：System Testing（2563030）
+[21:22:23.599] [Launch] [5280] Minecraft 加载已完成
+[21:22:23.648] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[21:22:23.674] [Loader] 加载器 结束处理 状态改变：Loading
+[21:22:23.674] [Loader] 加载线程 结束处理 (48) 已启动
+[21:22:23.675] [Launch] 开始启动结束处理
+[21:22:23.675] [Launch] 启动器可见性：5
+[21:22:23.675] [Loader] 加载器 结束处理 状态改变：Finished
+[21:22:23.760] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[21:22:23.855] [Taskbar] Minecraft 启动 已移出任务列表
+[21:22:23.909] [Loader] 加载器 Loader Launch 状态改变：Finished
+[21:22:23.963] [UI] 弹出提示：蔚蓝档案，启动！ 启动成功！
+[21:22:30.942] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
+[21:23:00.980] [Launch] [5280] 日志 4/5：OpenAL 已加载
+[21:23:01.213] [Launch] [5280] 日志 5/5：材质已加载
+[21:23:08.109] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
+[21:23:37.617] [Launch] [5280] Minecraft 已退出，返回值：0
+[21:23:37.618] [Launch] [全局] 已无运行中的 Minecraft
+[21:23:37.849] [Launch] [5280] Minecraft 日志监控已退出
+[21:23:52.372] [Control] 按下按钮：版本选择
+[21:23:52.381] [UI] 已触发 PageOnExit
+[21:23:52.381] [UI] 页面状态切换为 PageExit
+[21:23:52.383] [Control] 切换主要页面：VersionSelect, 0
+[21:23:52.488] [UI] 已触发 PageOnExitAnimationFinished
+[21:23:52.488] [UI] 页面状态切换为 Empty
+[21:23:52.609] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:23:52.610] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\Administrator\AppData\Roaming\.minecraft\
+[21:23:52.611] [Minecraft] 有效的 Minecraft 文件夹：RainbowClient_v0.1.3 > D:\RainbowClient_v0.1.3\.minecraft\
+[21:23:52.612] [Minecraft] 有效的 Minecraft 文件夹：我的世界x蔚蓝档案冒险整合包 1.5.4版-手机版 > D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.4版-手机版\.minecraft\
+[21:23:52.620] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[21:23:52.621] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:23:52.621] [Loader] 加载线程 Minecraft Version List (10) 已强制启动
+[21:23:52.650] [Setup] 当前选择的 Minecraft 版本：蔚蓝档案，启动！
+[21:23:52.650] [Minecraft] 选择该文件夹储存的 Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:23:52.685] [UI] 已触发 PageOnEnter
+[21:23:52.685] [UI] 页面状态切换为 LoaderWait
+[21:23:52.703] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[21:23:52.704] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:23:52.704] [UI] 页面状态切换为 ContentEnter
+[21:23:53.077] [UI] 已触发 PageOnEnterAnimationFinished
+[21:23:53.077] [UI] 页面状态切换为 ContentStay
+[21:23:53.897] [UI] 已触发 PageOnExit
+[21:23:53.897] [UI] 页面状态切换为 PageExit
+[21:23:53.897] [Control] 切换主要页面：Launch, -1
+[21:23:53.897] [Control] 按下单击列表项：蔚蓝档案，启动！
+[21:23:53.995] [UI] 已触发 PageOnExitAnimationFinished
+[21:23:53.995] [UI] 页面状态切换为 Empty
+[21:23:54.068] [UI] 已触发 PageOnEnter
+[21:23:54.068] [UI] 页面状态切换为 ContentEnter
+[21:23:54.425] [UI] 已触发 PageOnEnterAnimationFinished
+[21:23:54.425] [UI] 页面状态切换为 ContentStay
+[21:23:54.655] [Control] 按下按钮：启动游戏
+[21:23:54.655] [Loader] 加载器 Loader Launch 状态改变：Loading
+[21:23:54.656] [Loader] 加载线程 Loader Launch (52) 已强制启动
+[21:23:54.668] [Launch] 预检测已通过
+[21:23:54.668] [Download] 开始后台检查资源文件索引
+[21:23:54.668] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[21:23:54.668] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[21:23:54.668] [Loader] 加载线程 后台分析资源文件索引地址 (54) 已启动
+[21:23:54.668] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
+[21:23:54.668] [Loader] 加载器 登录 状态改变：Waiting
+[21:23:54.668] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[21:23:54.668] [Loader] 加载器 获取 Java 状态改变：Loading
+[21:23:54.668] [Loader] 加载线程 获取 Java (55) 已启动
+[21:23:54.668] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[21:23:54.668] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\
+[21:23:54.668] [Download] 无需更新资源文件索引，取消
+[21:23:54.669] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Aborted
+[21:23:54.669] [Loader] 加载器 后台更新资源文件索引 状态改变：Aborted
+[21:23:54.670] [Loader] 加载器 后台下载资源文件索引 状态改变：Aborted
+[21:23:54.670] [Download] 后台下载资源文件索引 已取消！
+[21:23:54.670] [Loader] 加载线程 后台分析资源文件索引地址 (54) 已中断
+[21:23:54.670] [Loader] 加载线程 后台分析资源文件索引地址 (54) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[21:23:54.670] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:23:54.670] [Loader] 加载器 登录 状态改变：Loading
+[21:23:54.671] [Loader] 加载器 补全文件 状态改变：Loading
+[21:23:54.671] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[21:23:54.671] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[21:23:54.671] [Loader] 加载线程 登录 (56) 已启动
+[21:23:54.671] [Launch] 登录加载已开始
+[21:23:54.671] [Launch] 登录加载已结束
+[21:23:54.671] [Loader] 加载器 登录 状态改变：Finished
+[21:23:54.671] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[21:23:54.671] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[21:23:54.671] [Loader] 加载线程 分析缺失支持库文件 (57) 已启动
+[21:23:54.671] [Taskbar] Minecraft 启动 已加入任务列表
+[21:23:54.671] [Loader] 加载线程 分析资源文件索引地址 (58) 已启动
+[21:23:54.671] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
+[21:23:54.679] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[21:23:54.682] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:23:54.682] [Java] 排序后的 Java 优先顺序：
+[21:23:54.682] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:23:54.682] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[21:23:54.682] [Java] 最终选定的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:23:54.683] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[21:23:54.684] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[21:23:54.684] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[21:23:54.684] [Launch] 选择的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:23:54.684] [Loader] 加载器 获取 Java 状态改变：Finished
+[21:23:54.685] [Loader] 加载线程 分析缺失资源文件 (59) 已启动
+[21:23:54.712] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
+[21:23:54.806] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[21:23:54.806] [Loader] 加载器 下载资源文件 状态改变：Loading
+[21:23:54.807] [Loader] 加载器 下载资源文件 状态改变：Finished
+[21:23:54.807] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[21:23:54.828] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[21:23:54.828] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[21:23:54.828] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[21:23:54.828] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[21:23:54.828] [Loader] 加载器 补全文件 状态改变：Finished
+[21:23:54.828] [Loader] 加载器 获取启动参数 状态改变：Loading
+[21:23:54.828] [Loader] 加载线程 获取启动参数 (60) 已启动
+[21:23:54.829] [Launch] 开始获取 Minecraft 启动参数
+[21:23:54.829] [Launch] 获取新版 JVM 参数
+[21:23:54.829] [Launch] 当前剩余内存：11.3G
+[21:23:54.829] [Java] 选定的 Java Wrapper 路径：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[21:23:54.829] [System] 获取资源：JavaWrapper
+[21:23:54.829] [Launch] 新版 JVM 参数获取成功：
+[21:23:54.829] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.7/asm-9.7.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1274m -Xmx8499m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[21:23:54.829] [Launch] 获取新版 Game 参数
+[21:23:54.829] [Launch] 新版 Game 参数获取成功
+[21:23:54.830] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
+[21:23:54.833] [Launch] Minecraft 启动参数：
+[21:23:54.835] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=340 -cp "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.8\securejarhandler-1.0.8.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm\9.7\asm-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-commons\9.7\asm-commons-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-tree\9.7\asm-tree-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-util\9.7\asm-util-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7\asm-analysis-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.21\fmlloader-1.18.2-40.2.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,蔚蓝档案，启动！.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries" -p "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm/9.7/asm-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1274m -Xmx8499m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username Cr_IZUMIKun --version 蔚蓝档案，启动！ --gameDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft" --assetsDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\assets" --assetIndex 1.18 --uuid 7a79c09d831240ccad88378beb9e33ba --accessToken eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3vP-8 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --width 1918 --height 1019 --launchTarget forgeclient --fml.forgeVersion 40.2.21 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
+[21:23:54.835] [Loader] 加载器 获取启动参数 状态改变：Finished
+[21:23:54.841] [Loader] 加载器 解压文件 状态改变：Loading
+[21:23:54.841] [Loader] 加载线程 解压文件 (61) 已启动
+[21:23:54.841] [Launch] 正在解压 Natives 文件
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl32.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc32.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL32.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl32.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw32.dll
+[21:23:54.842] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd.dll
+[21:23:54.843] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd32.dll
+[21:23:54.843] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb.dll
+[21:23:54.843] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb32.dll
+[21:23:54.843] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x86.dll
+[21:23:54.843] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x64.dll
+[21:23:54.843] [Loader] 加载器 解压文件 状态改变：Finished
+[21:23:54.844] [Loader] 加载器 预启动处理 状态改变：Loading
+[21:23:54.844] [Loader] 加载线程 预启动处理 (62) 已启动
+[21:23:54.845] [Launch] 已更新 launcher_profiles.json
+[21:23:54.845] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[21:23:54.845] [Loader] 加载器 预启动处理 状态改变：Finished
+[21:23:54.846] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[21:23:54.846] [Loader] 加载线程 执行自定义命令 (63) 已启动
+[21:23:54.847] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[21:23:54.894] [Loader] 加载器 启动进程 状态改变：Loading
+[21:23:54.894] [Loader] 加载线程 启动进程 (38) 已启动
+[21:23:54.899] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17\bin\javaw.exe
+[21:23:54.899] [Loader] 加载器 启动进程 状态改变：Finished
+[21:23:54.919] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[21:23:54.920] [Loader] 加载线程 等待游戏窗口出现 (28) 已启动
+[21:23:54.920] [Launch] 
+[21:23:54.920] [Launch] ~ 基础参数 ~
+[21:23:54.920] [Launch] PCL 版本：Release 2.8.8 (340)
+[21:23:54.920] [Launch] 游戏版本：1.18.2, Forge 40.2.21 (40020021#)（识别为 1.18.2）
+[21:23:54.920] [Launch] 资源版本：1.18
+[21:23:54.920] [Launch] 版本继承：无
+[21:23:54.920] [Launch] 分配的内存：8.3 GB（8499 MB）
+[21:23:54.920] [Launch] MC 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[21:23:54.920] [Launch] 版本文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[21:23:54.920] [Launch] 版本隔离：False
+[21:23:54.920] [Launch] HMCL 格式：False
+[21:23:54.920] [Launch] Java 信息：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[21:23:54.920] [Launch] 环境变量：未设置
+[21:23:54.920] [Launch] Natives 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives
+[21:23:54.920] [Launch] 
+[21:23:54.920] [Launch] ~ 登录参数 ~
+[21:23:54.920] [Launch] 玩家用户名：Cr_IZUMIKun
+[21:23:54.920] [Launch] AccessToken：eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************3vP-8
+[21:23:54.920] [Launch] ClientToken：7a79c09d831240ccad88378beb9e33ba
+[21:23:54.920] [Launch] UUID：7a79c09d831240ccad88378beb9e33ba
+[21:23:54.920] [Launch] 登录方式：Microsoft
+[21:23:54.920] [Launch] 
+[21:23:54.920] [Launch] [36440] 开始 Minecraft 日志监控
+[21:23:54.920] [Launch] [全局] 出现运行中的 Minecraft
+[21:23:56.495] [Launch] [36440] 日志 1/5：已出现日志输出
+[21:23:57.506] [Report] FPS 44, 动画 7, 下载中 0（0 B/s）
+[21:24:06.016] [Report] FPS 64, 动画 11, 下载中 0（0 B/s）
+[21:24:07.537] [Report] FPS 64, 动画 8, 下载中 0（0 B/s）
+[21:24:11.777] [Report] FPS 64, 动画 6, 下载中 0（0 B/s）
+[21:24:14.395] [Launch] [36440] 日志 2/5：游戏用户已设置
+[21:24:14.839] [Launch] [36440] 日志 3/5：LWJGL 版本已确认
+[21:24:15.101] [Launch] [36440] Minecraft 窗口已加载：System Testing（7738226）
+[21:24:15.101] [Launch] [36440] Minecraft 加载已完成
+[21:24:15.146] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[21:24:15.203] [Loader] 加载器 结束处理 状态改变：Loading
+[21:24:15.203] [Loader] 加载线程 结束处理 (19) 已启动
+[21:24:15.203] [Launch] 开始启动结束处理
+[21:24:15.203] [Launch] 启动器可见性：5
+[21:24:15.203] [Loader] 加载器 结束处理 状态改变：Finished
+[21:24:15.260] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[21:24:15.260] [Taskbar] Minecraft 启动 已移出任务列表
+[21:24:15.474] [Loader] 加载器 Loader Launch 状态改变：Finished
+[21:24:15.575] [UI] 弹出提示：蔚蓝档案，启动！ 启动成功！
+[21:24:48.630] [Control] 按下按钮：版本设置
+[21:24:48.707] [UI] 已触发 PageOnExit
+[21:24:48.707] [UI] 页面状态切换为 PageExit
+[21:24:48.707] [Control] 切换主要页面：VersionSetup, 0
+[21:24:48.749] [UI] 已触发 PageOnExitAnimationFinished
+[21:24:48.749] [UI] 页面状态切换为 Empty
+[21:24:48.858] [UI] 已触发 PageOnEnter
+[21:24:48.858] [UI] 页面状态切换为 ContentEnter
+[21:24:49.355] [UI] 已触发 PageOnEnterAnimationFinished
+[21:24:49.355] [UI] 页面状态切换为 ContentStay
+[21:24:49.460] [Launch] [36440] 日志 4/5：OpenAL 已加载
+[21:24:49.693] [Launch] [36440] 日志 5/5：材质已加载
+[21:24:49.795] [Control] 按下单选列表项：Mod 管理
+[21:24:49.880] [UI] 已触发 PageOnExit
+[21:24:49.880] [UI] 页面状态切换为 PageExit
+[21:24:49.942] [UI] 已触发 PageOnForceExit
+[21:24:49.942] [UI] 页面状态切换为 Empty
+[21:24:49.950] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[21:24:49.950] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:24:49.951] [System] 已刷新 Mod 列表
+[21:24:49.951] [Loader] 加载线程 Mod List Loader (51) 已强制启动
+[21:24:49.972] [UI] 已触发 PageOnEnter
+[21:24:49.972] [UI] 页面状态切换为 LoaderWait
+[21:24:50.152] [UI] 已触发 PageOnLoaderWaitFinished
+[21:24:50.152] [UI] 页面状态切换为 LoaderEnter
+[21:24:50.519] [UI] 已触发 PageOnEnterAnimationFinished
+[21:24:50.519] [UI] 页面状态切换为 LoaderStayForce
+[21:24:50.906] [UI] 已触发 PageOnLoaderStayFinished
+[21:24:50.906] [UI] 页面状态切换为 LoaderStay
+[21:24:51.965] [Mod] 共有 226 个 Mod，其中 4 个需要联网获取信息，0 个需要更新信息
+[21:24:51.986] [Loader] 加载器 Mod List Detail Loader 状态改变：Loading
+[21:24:51.987] [Loader] 加载线程 Mod List Detail Loader (11) 已强制启动
+[21:24:51.989] [Mod] 目标加载器：Forge，版本：1.18.2
+[21:24:51.994] [Net] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 5000
+[21:24:51.999] [System] 获取资源：ModData
+[21:24:52.024] [LocalModItem] Mod AI改进 的图标：https://media.forgecdn.net/avatars/thumbnails/21/699/256/256/635731173265581096.png
+[21:24:52.030] [LocalModItem] Mod Alex 的生物 的图标：https://cdn.modrinth.com/data/2cMuAZAp/fbe04602fb0fb336be05e7c40378156b49d50156_96.webp
+[21:24:52.033] [LocalModItem] Mod Embeddium/铷：动态光源 的图标：https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png
+[21:24:52.035] [LocalModItem] Mod FPS减速器 的图标：https://cdn.modrinth.com/data/iZ10HXDj/3d82fc3ce8a943d8065a4b5532f932dba144e128_96.webp
+[21:24:52.037] [LocalModItem] Mod FTB 团队 的图标：https://media.forgecdn.net/avatars/thumbnails/972/581/256/256/638474887222710106.png
+[21:24:52.039] [LocalModItem] Mod FTB备份2 的图标：https://media.forgecdn.net/avatars/thumbnails/972/585/256/256/638474887871512665.png
+[21:24:52.041] [LocalModItem] Mod JEI 附魔信息 的图标：https://media.forgecdn.net/avatars/thumbnails/282/842/256/256/637290738101619224.png
+[21:24:52.043] [LocalModItem] Mod JEI工作方块 的图标：https://cdn.modrinth.com/data/kB56GtWA/2be012ae2466e6b9d454eaeb5ed2e00f1985cd63_96.webp
+[21:24:52.044] [LocalModItem] Mod JEI扩展 的图标：https://cdn.modrinth.com/data/umCLwNyK/6a481b55e6dd196c1fb57718569dfb0d76a9adfc_96.webp
+[21:24:52.045] [LocalModItem] Mod JEI物品管理器 的图标：https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg
+[21:24:52.048] [LocalModItem] Mod JEI药水效果 的图标：https://cdn.modrinth.com/data/EO27GKs1/0cae90cd5fbb858e267777ef965a499a83b7ddcb_96.webp
+[21:24:52.049] [LocalModItem] Mod JER集成 的图标：https://media.forgecdn.net/avatars/thumbnails/409/517/256/256/637624765828353824.png
+[21:24:52.052] [LocalModItem] Mod Mowzie的生物 的图标：https://media.forgecdn.net/avatars/thumbnails/156/392/256/256/636639048661099951.png
+[21:24:52.055] [LocalModItem] Mod TexTrue的铷视频界面 的图标：https://cdn.modrinth.com/data/nm57myYP/b7b7bd5a025187d7ecd1ab9e852d1c773fb3b8a8_96.webp
+[21:24:52.057] [LocalModItem] Mod ToroHealth 伤害显示 的图标：https://media.forgecdn.net/avatars/thumbnails/88/421/256/256/636224048898415001.png
+[21:24:52.059] [LocalModItem] Mod Xaero的世界地图 的图标：https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp
+[21:24:52.060] [LocalModItem] Mod Xaero的小地图 的图标：https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp
+[21:24:52.062] [LocalModItem] Mod 白门的奇异附魔：苦痛长河 的图标：https://cdn.modrinth.com/data/VQBXFYil/c1a85438f0e65befdb873ac7de3fe47e1191710c.png
+[21:24:52.068] [LocalModItem] Mod 被动搜索栏 的图标：https://media.forgecdn.net/avatars/thumbnails/897/503/256/256/638342720913988407.png
+[21:24:52.071] [LocalModItem] Mod 崩溃优化 的图标：https://cdn.modrinth.com/data/yM94ont6/0bd6cd7608cde62529c05ed19626029c062107ed_96.webp
+[21:24:52.072] [LocalModItem] Mod 碧海新生 的图标：https://cdn.modrinth.com/data/gTuTFFyz/a3a5d5ecbb899b2808fd0c9140cf3fc421ece9fd_96.webp
+[21:24:52.074] [LocalModItem] Mod 边拿边走 的图标：https://cdn.modrinth.com/data/REfW2AEX/24c63fa80c1e94bc45ca600ba9e0993ff91d289b_96.webp
+[21:24:52.076] [LocalModItem] Mod 冰山 的图标：https://cdn.modrinth.com/data/5faXoLqX/88c9b9918841470dad995049244ef7a3cb2f34f5_96.webp
+[21:24:52.077] [LocalModItem] Mod 超多生物群系 的图标：https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png
+[21:24:52.078] [LocalModItem] Mod 车万女仆 的图标：https://cdn.modrinth.com/data/R0bDWFAW/63bf98269f3a9f695a4d04328b42a8c2a117c3fc_96.webp
+[21:24:52.080] [LocalModItem] Mod 吃不停 的图标：https://media.forgecdn.net/avatars/thumbnails/198/398/256/256/636899787865661781.png
+[21:24:52.082] [LocalModItem] Mod 传说提示框 的图标：https://cdn.modrinth.com/data/atHH8NyV/bd47257c8d4aca0e04c43269e5beb7af680b144b_96.webp
+[21:24:52.084] [LocalModItem] Mod 地牢浮现之时 的图标：https://cdn.modrinth.com/data/8DfbfASn/4240773f6aa5f8c69f44a5e2e0ff313f98ff3389_96.webp
+[21:24:52.086] [LocalModItem] Mod 地狱扩展 的图标：https://cdn.modrinth.com/data/ZrpxHZN4/c296c7867e9a8df03e15cf71d62a35d77c0d12d2_96.webp
+[21:24:52.088] [LocalModItem] Mod 氡 的图标：https://cdn.modrinth.com/data/4AiJdRfV/a6b6b9b6cb9e2e624d85c5eb6f458f2b3330d305_96.webp
+[21:24:52.090] [LocalModItem] Mod 动态FPS 的图标：https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp
+[21:24:52.091] [LocalModItem] Mod 动态准星 的图标：https://cdn.modrinth.com/data/ZcR9weSm/8da8af58ca961f937bd05d41dcefa26be7b5c182.png
+[21:24:52.095] [LocalModItem] Mod 多态合成 的图标：https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png
+[21:24:52.097] [LocalModItem] Mod 防止踩踏 的图标：https://media.forgecdn.net/avatars/thumbnails/173/83/256/256/636741151047049160.png
+[21:24:52.098] [LocalModItem] Mod 蜂蜜拓展 的图标：https://media.forgecdn.net/avatars/thumbnails/449/791/256/256/637709701041886973.png
+[21:24:52.101] [LocalModItem] Mod 凤梨乐事 的图标：https://media.forgecdn.net/avatars/thumbnails/621/251/256/256/638011485003701166.png
+[21:24:52.103] [LocalModItem] Mod 附魔描述 的图标：https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png
+[21:24:52.105] [LocalModItem] Mod 哥布林商人 的图标：https://media.forgecdn.net/avatars/thumbnails/871/321/256/256/638288811545199466.png
+[21:24:52.107] [LocalModItem] Mod 更多村民 的图标：https://media.forgecdn.net/avatars/thumbnails/386/555/256/256/637575570334274568.png
+[21:24:52.109] [LocalModItem] Mod 更多熔炉 的图标：https://media.forgecdn.net/avatars/thumbnails/307/865/256/256/637389904761889621.png
+[21:24:52.110] [LocalModItem] Mod Iron Chests 的图标：https://cdn.modrinth.com/data/P3iIrPH3/a22018e95966927fdc4043f0759f0d786bfcade0_96.webp
+[21:24:52.111] [LocalModItem] Mod 更好的F3 的图标：https://cdn.modrinth.com//data/8shC1gFX/icon.png
+[21:24:52.114] [LocalModItem] Mod 更好的村庄 的图标：https://media.forgecdn.net/avatars/thumbnails/537/158/256/256/637860112058526316.png
+[21:24:52.117] [LocalModItem] Mod 更好的经验修补 的图标：https://cdn.modrinth.com/data/Lvv4SHrK/icon.png
+[21:24:52.121] [LocalModItem] Mod 更好的铷视频设置按钮 的图标：https://cdn.modrinth.com/data/hWwoD3UG/icon.png
+[21:24:52.122] [LocalModItem] Mod 更好的延迟显示 的图标：https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png
+[21:24:52.124] [LocalModItem] Mod 冠军/强敌 的图标：https://cdn.modrinth.com/data/YlKc4JEx/200158decf96048225a0f5a78845f86d7e81abfa.png
+[21:24:52.134] [LocalModItem] Mod 海灵物语 的图标：https://cdn.modrinth.com/data/k23mNPhZ/a079cd089a737244861b41eea6c15b6e7091cc90_96.webp
+[21:24:52.136] [LocalModItem] Mod 海洋乐事 的图标：https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png
+[21:24:52.138] [LocalModItem] Mod 合成辅助 的图标：https://media.forgecdn.net/avatars/thumbnails/49/427/256/256/636077959957495136.png
+[21:24:52.140] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/fingerprints/432），最大超时 5000
+[21:24:52.140] [LocalModItem] Mod 胡萝卜厨房 的图标：https://cdn.modrinth.com/data/Xqu7vgqw/e2e9f70681ac159da37264789c37a7214385b429.png
+[21:24:52.143] [LocalModItem] Mod 滑翔伞 的图标：https://media.forgecdn.net/avatars/thumbnails/144/153/256/256/636553981575772547.png
+[21:24:52.145] [LocalModItem] Mod 极简血量显示 的图标：https://cdn.modrinth.com/data/Ins7SzzR/a2b99cc9bc355ae461f71dff13f9a6808827d399_96.webp
+[21:24:52.147] [LocalModItem] Mod 假死修复：土豆版 的图标：https://cdn.modrinth.com/data/GcowSBDA/02e2a90ef3e3adc3013b7bca8bf1b260e860994b_96.webp
+[21:24:52.148] [LocalModItem] Mod 坚固地牢 的图标：https://cdn.modrinth.com/data/BCLngNKp/76edeca97c4c57e102e378ce08517883dc39abeb_96.webp
+[21:24:52.150] [LocalModItem] Mod Simply Tea! 的图标：https://cdn.modrinth.com/data/T5Jqatse/b75927f1f7dcf5bc42ab462dfea71133965e20b0.png
+[21:24:52.152] [LocalModItem] Mod 简易铁砧 的图标：https://cdn.modrinth.com/data/OZBR5JT5/8312814fbff95373a6888f424e44a3b3f927febd_96.webp
+[21:24:52.153] [LocalModItem] Mod 键位冲突显示 的图标：https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp
+[21:24:52.155] [LocalModItem] Mod 结构变体 的图标：https://cdn.modrinth.com/data/QDNS5oAT/icon.png
+[21:24:52.158] [LocalModItem] Mod 锦致装饰 的图标：https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif
+[21:24:52.172] [LocalModItem] Mod 进化的 BOSS 的图标：https://cdn.modrinth.com/data/Zxspe0HA/b5c8bf03e18b4312776d96427497d5bfbce0767b_96.webp
+[21:24:52.173] [LocalModItem] Mod 禁用实验性设置警告 的图标：https://media.forgecdn.net/avatars/thumbnails/299/190/256/256/637352261915891559.png
+[21:24:52.176] [LocalModItem] Mod 经典状态条 的图标：https://media.forgecdn.net/avatars/thumbnails/196/381/256/256/636884862776516763.png
+[21:24:52.177] [LocalModItem] Mod 精妙背包 的图标：https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png
+[21:24:52.180] [LocalModItem] Mod 精妙核心 的图标：https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png
+[21:24:52.181] [LocalModItem] Mod 警卫村民 的图标：https://cdn.modrinth.com/data/H1sntfo8/b95a237f1b05eb3aa8e27b16b756db99d327c37f_96.webp
+[21:24:52.185] [LocalModItem] Mod 静谧四季/季节 的图标：https://cdn.modrinth.com/data/e0bNACJD/f8b292ea53e0a0ea908570defddc48673d16d7d6.png
+[21:24:52.186] [LocalModItem] Mod 静谧四季修复 的图标：https://media.forgecdn.net/avatars/thumbnails/579/601/256/256/637944733032485884.png
+[21:24:52.188] [LocalModItem] Mod 咖啡乐事 的图标：https://cdn.modrinth.com/data/jn1HiMrY/73da9fadf05054a71e66715e35beca8f05eed113.png
+[21:24:52.189] [LocalModItem] Mod 可视化工作台 的图标：https://media.forgecdn.net/avatars/thumbnails/802/986/256/256/638168095863992377.png
+[21:24:52.191] [LocalModItem] Mod 哭泣的恶魂 的图标：https://cdn.modrinth.com/data/SFBuyD9e/043740c058ff08374a51234fd9308140f3538db6_96.webp
+[21:24:52.193] [LocalModItem] Mod 夸克 的图标：https://cdn.modrinth.com/data/qnQsVE2z/aef2119751d026421b9e9dc83d4470eec9f91a16_96.webp
+[21:24:52.194] [LocalModItem] Mod 乐在星期四 的图标：https://media.forgecdn.net/avatars/thumbnails/661/720/256/256/638060257312588225.png
+[21:24:52.196] [LocalModItem] Mod 连锁破坏 的图标：https://media.forgecdn.net/avatars/thumbnails/972/578/256/256/638474886453116037.png
+[21:24:52.198] [LocalModItem] Mod 聊天栏时间显示 的图标：https://cdn.modrinth.com/data/8IRT4egS/2c43bdfdfbfe76c1ffb47b446e35a6ce8f65cf02_96.webp
+[21:24:52.199] [LocalModItem] Mod 流畅加载重置版 的图标：https://cdn.modrinth.com/data/z53V2L4P/006b5548281e37fc2dede3c9c10d283c20b51f27_96.webp
+[21:24:52.200] [LocalModItem] Mod 末地：创世 的图标：https://cdn.modrinth.com/data/ZJTGwAND/c3ef9ecaecdf6ebe10623afbf60e25da211fe235_96.webp
+[21:24:52.202] [LocalModItem] Mod 末地乐事 的图标：https://cdn.modrinth.com/data/yHN0njMr/bc333fa34161b1e4d3c2e185210bb558aa1d480a.png
+[21:24:52.203] [LocalModItem] Mod Ender's Delight 的图标：https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp
+[21:24:52.204] [LocalModItem] Mod 墓园 的图标：https://media.forgecdn.net/avatars/thumbnails/437/631/256/256/637681695644074023.png
+[21:24:52.207] [LocalModItem] Mod 暮色乐事 的图标：https://cdn.modrinth.com/data/rXSy9m41/d3ae8a0c71f4634c0b870f6cf7cbaf2f323b3da0.png
+[21:24:52.209] [LocalModItem] Mod 暮色森林 的图标：https://media.forgecdn.net/avatars/thumbnails/14/212/256/256/635589178760357568.png
+[21:24:52.211] [LocalModItem] Mod 那不勒斯风味 的图标：https://cdn.modrinth.com/data/InYMuiQt/da8f163e363ccca56701eb1fdbb8f04fcfeb3fc5_96.webp
+[21:24:52.212] [LocalModItem] Mod 耐久指示器 的图标：https://media.forgecdn.net/avatars/thumbnails/282/272/256/256/637288554707917667.png
+[21:24:52.214] [LocalModItem] Mod 内存泄漏修复 的图标：https://cdn.modrinth.com/data/NRjRiSSD/a279c19f9c3574339fa90f675aa8a94f8f6cff92_96.webp
+[21:24:52.215] [LocalModItem] Mod 农夫乐事 的图标：https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png
+[21:24:52.217] [LocalModItem] Mod 哦，土豆！ 的图标：https://media.forgecdn.net/avatars/thumbnails/786/207/256/256/638137089458434593.png
+[21:24:52.219] [LocalModItem] Mod 帕秋莉手册 的图标：https://cdn.modrinth.com/data/nU0bVIaL/c271809dda89c9e7a39f19d91f7cf6fba3ede585_96.webp
+[21:24:52.221] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/247/685/256/256/637164508107044129.png
+[21:24:52.223] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/946/370/256/256/638432086660775942.png
+[21:24:52.225] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/293/610/256/256/637330060137414733.png
+[21:24:52.227] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/252/293/256/256/637187641584077072.png
+[21:24:52.229] [LocalModItem] Mod 配置界面 的图标：https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png
+[21:24:52.231] [LocalModItem] Mod 奇异饰品 的图标：https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png
+[21:24:52.232] [LocalModItem] Mod 鞘翅插槽 的图标：https://cdn.modrinth.com/data/mSQF1NpT/b59d48e0111456cac90a18e4edc0b0d9727414a2.png
+[21:24:52.234] [LocalModItem] Mod 鞘翅胸甲 的图标：https://cdn.modrinth.com/data/ulY7WPQy/d903ed7ed132cbefbeca6afa1253c0bdc51254a9.png
+[21:24:52.240] [LocalModItem] Mod 全局数据包 的图标：https://media.forgecdn.net/avatars/thumbnails/999/904/256/256/638518684505080004.png
+[21:24:52.241] [LocalModItem] Mod 铷 · 扩展 的图标：https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26_96.webp
+[21:24:52.243] [LocalModItem] Mod 铷 的图标：https://cdn.modrinth.com/data/4ZqxOvjD/icon.png
+[21:24:52.245] [LocalModItem] Mod 神秘遗物 的图标：https://cdn.modrinth.com/data/IpUWAlqM/93bf94e42521a8c7357011bc3fbd0939cea19566.png
+[21:24:52.247] [LocalModItem] Mod 生活调味料：胡萝卜版 的图标：https://media.forgecdn.net/avatars/thumbnails/360/935/256/256/637525655151502872.png
+[21:24:52.250] [LocalModItem] Mod 失落城堡 的图标：https://cdn.modrinth.com/data/FGlHZl7X/11083066e06741343c380a8d3cb4e001b76fca50_96.webp
+[21:24:52.251] [LocalModItem] Mod 时装盔甲重置版 的图标：https://media.forgecdn.net/avatars/thumbnails/27/600/256/256/635812915333870435.png
+[21:24:52.252] [LocalModItem] Mod 实体渲染机制优化 的图标：https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp
+[21:24:52.254] [LocalModItem] Mod 拾取提示 的图标：https://media.forgecdn.net/avatars/thumbnails/776/151/256/256/638118059918529024.png
+[21:24:52.257] [LocalModItem] Mod Food Expansion: Reimagined 的图标：https://cdn.modrinth.com/data/ZgoSA17g/f8a08d8fd5b997f75ac8709b9db38b598dca40b5_96.webp
+[21:24:52.258] [LocalModItem] Mod 饰品栏优化 的图标：https://media.forgecdn.net/avatars/thumbnails/839/594/256/256/638232825149678998.png
+[21:24:52.260] [LocalModItem] Mod 试验假人 的图标：https://cdn.modrinth.com/data/Adega8YN/f5e7ffbd18426c584bd43b59770fb2965d420c9f.png
+[21:24:52.263] [LocalModItem] Mod 是，史蒂夫模型 的图标：https://cdn.modrinth.com/data/86xjpqqS/9f58c3977a8949f75300f065c9a63f34022c415a.jpeg
+[21:24:52.264] [LocalModItem] Mod 适应性性能调整 的图标：https://media.forgecdn.net/avatars/thumbnails/347/585/256/256/637497631496395790.png
+[21:24:52.268] [LocalModItem] Mod 逝不过三 的图标：https://cdn.modrinth.com/data/EyfnD02i/af0535796e91a2285a8360854b25a60268b5c176_96.webp
+[21:24:52.270] [LocalModItem] Mod 输入法冲突修复 的图标：https://cdn.modrinth.com/data/WMDesFsZ/681ebabfa43cbbbe80bf8eb54f123780c3852ef4_96.webp
+[21:24:52.271] [LocalModItem] Mod 属性修复 的图标：https://cdn.modrinth.com/data/lOOpEntO/68a2de475417c87817e11f49beaa903e4774ca20_96.webp
+[21:24:52.272] [LocalModItem] Mod 鼠标手势 的图标：https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png
+[21:24:52.275] [LocalModItem] Mod 水产业2/水产品2 的图标：https://media.forgecdn.net/avatars/thumbnails/230/320/256/256/637059909042064016.png
+[21:24:52.276] [LocalModItem] Mod 天空之城 的图标：https://media.forgecdn.net/avatars/thumbnails/397/943/256/256/637599631357914157.jpeg
+[21:24:52.279] [LocalModItem] Mod 铁氧体磁芯 的图标：https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp
+[21:24:52.279] [LocalModItem] Mod 铁砧修复 的图标：https://cdn.modrinth.com/data/bd8nwTGy/f93ebbbfb43dbe7dd841666fdd5399009a7f805c_96.webp
+[21:24:52.282] [LocalModItem] Mod 万用皮肤补丁 的图标：https://cdn.modrinth.com/data/idMHQ4n2/icon.png
+[21:24:52.284] [LocalModItem] Mod 维度地牢 的图标：https://cdn.modrinth.com/data/Q8XlZjYF/10066080b9bf2ebcc00e56bed24995efecca4f54.png
+[21:24:52.286] [LocalModItem] Mod 维度同步修复 的图标：https://cdn.modrinth.com/data/445bpKSe/39ff9573cddf45c8c5e3891473af604aee6b89df_96.webp
+[21:24:52.287] [LocalModItem] Mod 物品高亮 的图标：https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp
+[21:24:52.289] [LocalModItem] Mod 物品过滤器 的图标：https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png
+[21:24:52.291] [LocalModItem] Mod 犀牛 的图标：https://cdn.modrinth.com/data/sk9knFPE/fd4ab05472a7e28fbd62054e5640ef61308cc4a6_96.webp
+[21:24:52.293] [LocalModItem] Mod 下界乐事 的图标：https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png
+[21:24:52.295] [LocalModItem] Mod 现代化 UI 的图标：https://cdn.modrinth.com/data/3sjzyvGR/7967a20b1dc7e7bfd63aced5a2a20d8fde812c78_96.webp
+[21:24:52.297] [LocalModItem] Mod 相约星期四 的图标：https://media.forgecdn.net/avatars/thumbnails/571/716/256/256/637932179114180331.jpeg
+[21:24:52.301] [LocalModItem] Mod 蟹农乐事 的图标：https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png
+[21:24:52.303] [LocalModItem] Mod 修复GPU内存泄漏 的图标：https://media.forgecdn.net/avatars/thumbnails/841/827/256/256/638236647684351264.png
+[21:24:52.305] [LocalModItem] Mod Mysterious Mountain Lib 的图标：https://cdn.modrinth.com/data/ntMyNH8c/e03eb3ba9c117304b0aac208a514c2c97c2395b6_96.webp
+[21:24:52.306] [LocalModItem] Mod 药剂环重铸 的图标：https://cdn.modrinth.com/data/VZywdkA8/3bfda0de8cc6eb4a0f88715806bea940568d9f8b_96.webp
+[21:24:52.308] [LocalModItem] Mod 遗物 的图标：https://cdn.modrinth.com/data/OCJRPujW/f5f86c63cd0dc27d063c7c9fd02f7a41fa702abe_96.webp
+[21:24:52.310] [LocalModItem] Mod 樱 的图标：https://media.forgecdn.net/avatars/thumbnails/216/814/256/256/637004115725745255.png
+[21:24:52.312] [LocalModItem] Mod 永恒枪械工坊：零 的图标：https://cdn.modrinth.com/data/SzzJttH8/fd27766d2bb8390d284696b1dbd358f87e081439_96.webp
+[21:24:52.313] [LocalModItem] Mod 幽灵方块同步修复 的图标：https://media.forgecdn.net/avatars/thumbnails/282/266/256/256/637288548103665900.png
+[21:24:52.315] [LocalModItem] Mod 游戏菜单模组设定 的图标：https://cdn.modrinth.com/data/7V0nY9Tu/a50991298917495bc38cfbc3507d8153453bfa66_96.webp
+[21:24:52.317] [LocalModItem] Mod 游戏菜单移除GFARB 的图标：https://cdn.modrinth.com/data/bKQclmIt/dc310af81fbdcbfc2dd39ea371b483ae0f5030a3.png
+[21:24:52.320] [LocalModItem] Mod 游戏内账号切换 的图标：https://cdn.modrinth.com/data/cudtvDnd/10c73f03e9287d53bcb545b4bc49471e023c5c3b_96.webp
+[21:24:52.321] [LocalModItem] Mod 玉 🔍 的图标：https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp
+[21:24:52.323] [LocalModItem] Mod 玉米乐事 的图标：https://cdn.modrinth.com/data/uxLAKWU8/cf30d49b57cd91cf2c06e850c8728151ce89a79a.png
+[21:24:52.327] [LocalModItem] Mod 月亮事件 的图标：https://media.forgecdn.net/avatars/thumbnails/334/381/256/256/637468196947895191.png
+[21:24:52.329] [LocalModItem] Mod 越肩视角重制 的图标：https://cdn.modrinth.com/data/kepjj2sy/e1dc591d259d779c53f8f0b477ec6d6d527b86bc_96.webp
+[21:24:52.331] [LocalModItem] Mod 灾变：焚天神兵 的图标：https://media.forgecdn.net/avatars/thumbnails/813/960/256/256/638188920210331982.png
+[21:24:52.334] [LocalModItem] Mod 灾变Boss血条显示 的图标：https://media.forgecdn.net/avatars/thumbnails/814/368/256/256/638189705537169178.png
+[21:24:52.336] [LocalModItem] Mod 灾厄侵扰 的图标：https://cdn.modrinth.com/data/jSV9w0J5/80ab95e88cfd1504202e468df28ac87f100479f6_96.webp
+[21:24:52.338] [LocalModItem] Mod 战利品光束 的图标：https://media.forgecdn.net/avatars/thumbnails/878/461/256/256/638305125197561679.png
+[21:24:52.340] [LocalModItem] Mod 治愈营火 的图标：https://cdn.modrinth.com/data/kOuPUitF/b85e2aa910202cffc6a5b9569dbd578480decad8_96.webp
+[21:24:52.342] [LocalModItem] Mod 装瓶你的经验 的图标：https://cdn.modrinth.com/data/bG2afBot/2d76f4be03173eb4b3761e2da4c0e6456d8ad239_96.webp
+[21:24:52.343] [LocalModItem] Mod 资源包惰性重载/抑验怠载 的图标：https://media.forgecdn.net/avatars/thumbnails/890/525/256/256/638331132597935072.png
+[21:24:52.345] [LocalModItem] Mod 自定义唱片 的图标：https://cdn.modrinth.com/data/gcH4oguI/dcc714d0da5379bdbf623659bfdbbd3a7e40c9dd_96.webp
+[21:24:52.347] [LocalModItem] Mod 自定义局域网联机 的图标：https://media.forgecdn.net/avatars/thumbnails/289/3/256/256/637313734397082446.png
+[21:24:52.349] [LocalModItem] Mod 自定义游戏加载界面 的图标：https://cdn.modrinth.com/data/v3CYg2V9/819ef4e386c8dcd5bd4f5a00bb365d4aeaa28679.png
+[21:24:52.350] [LocalModItem] Mod 自动汉化更新 的图标：https://cdn.modrinth.com/data/PWERr14M/d2bbfcc25d25d92896d8b0b63face492310b3f4b.png
+[21:24:52.352] [LocalModItem] Mod Adaptive Performance Tweaks: Core 的图标：https://media.forgecdn.net/avatars/thumbnails/472/524/256/256/637762891524286406.png
+[21:24:52.355] [LocalModItem] Mod Adaptive Performance Tweaks: Gamerules 的图标：https://media.forgecdn.net/avatars/thumbnails/472/581/256/256/637763022207479746.png
+[21:24:52.357] [LocalModItem] Mod Adaptive Performance Tweaks: Items 的图标：https://media.forgecdn.net/avatars/thumbnails/472/939/256/256/637763921927009194.png
+[21:24:52.360] [LocalModItem] Mod Adaptive Performance Tweaks: Player Login Optimization and Protection 的图标：https://media.forgecdn.net/avatars/thumbnails/475/719/256/256/637768073785445349.png
+[21:24:52.362] [LocalModItem] Mod Adaptive Performance Tweaks: Spawn 的图标：https://media.forgecdn.net/avatars/thumbnails/486/676/256/256/637788842477738892.png
+[21:24:52.365] [LocalModItem] Mod Architectury API 的图标：https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp
+[21:24:52.373] [LocalModItem] Mod AutoRegLib 的图标：https://cdn.modrinth.com/data/NvZ9ZhwE/8e48bd9f3a34ae93532b5479979fc12f6a289224_96.webp
+[21:24:52.374] [LocalModItem] Mod Balm (Forge Edition) 的图标：https://media.forgecdn.net/avatars/thumbnails/438/285/256/256/637683437662979606.png
+[21:24:52.378] [LocalModItem] Mod Better Compatibility Checker 的图标：https://cdn.modrinth.com/data/KJhXPbHQ/bac6efc73281fab7a07ddca978800a5e9172b529.png
+[21:24:52.380] [LocalModItem] Mod Blue Archive Banner and Shield Patterns 的图标：https://media.forgecdn.net/avatars/thumbnails/867/997/256/256/638281947655755106.png
+[21:24:52.383] [LocalModItem] Mod Blueprint 的图标：https://cdn.modrinth.com/data/VsM5EDoI/4b63af9de8986dabc0bbbb11b82a09709280a795_96.webp
+[21:24:52.384] [LocalModItem] Mod Bookshelf 的图标：https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png
+[21:24:52.387] [LocalModItem] Mod Better Brightness Slider 的图标：https://cdn.modrinth.com/data/aXleiZbk/657383845bc047a2af5cecd1cb544bc714258c7e_96.webp
+[21:24:52.388] [LocalModItem] Mod Caelus API 的图标：https://cdn.modrinth.com/data/40FYwb4z/ae837cab4b8a4d17989b2462bfcd62e8c0451a0f.png
+[21:24:52.391] [LocalModItem] Mod CameraOverhaul 的图标：https://media.forgecdn.net/avatars/thumbnails/339/503/256/256/637479868245164532.png
+[21:24:52.394] [LocalModItem] Mod Citadel 的图标：https://cdn.modrinth.com/data/jJfV67b1/0aa5d9f63754fa9a39b9d3deff95e5819fa5b721_96.webp
+[21:24:52.395] [LocalModItem] Mod Cloth Config API (Fabric/Forge/NeoForge) 的图标：https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png
+[21:24:52.400] [LocalModItem] Mod Collective 的图标：https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp
+[21:24:52.402] [LocalModItem] Mod CoroUtil 的图标：https://cdn.modrinth.com/data/rLLJ1OZM/7c7b819ec62d311533db06f6674ce4ebeb867a9d_96.webp
+[21:24:52.404] [LocalModItem] Mod Curios API (Forge/NeoForge) 的图标：https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png
+[21:24:52.405] [LocalModItem] Mod Dungeons Enhanced 的图标：https://media.forgecdn.net/avatars/thumbnails/1077/93/256/256/638615015320139864.png
+[21:24:52.408] [LocalModItem] Mod Dynamic Surroundings Resurrected 的图标：https://media.forgecdn.net/avatars/thumbnails/890/355/256/256/638330786273425424.png
+[21:24:52.410] [LocalModItem] Mod Enhanced Block Entities Reforged (Unofficial) 的图标：https://media.forgecdn.net/avatars/thumbnails/808/509/256/256/638178672498611045.png
+[21:24:52.412] [LocalModItem] Mod ExpandAbility 的图标：https://media.forgecdn.net/avatars/thumbnails/364/17/256/256/637530805959136077.png
+[21:24:52.414] [LocalModItem] Mod ExtraSounds Next 的图标：https://cdn.modrinth.com/data/jv7tzVE4/aac60640bfd4a44890f075aea150fac41e698da4_96.webp
+[21:24:52.416] [LocalModItem] Mod FancyMenu 的图标：https://cdn.modrinth.com/data/Wq5SjeWM/e4e82d028244a1326e6d346bf5b5336140576bb9_96.webp
+[21:24:52.419] [LocalModItem] Mod Farsight [Forge/Neo] 的图标：https://media.forgecdn.net/avatars/thumbnails/532/489/256/256/637856138513958598.png
+[21:24:52.421] [LocalModItem] Mod Feature NBT Deadlock Be Gone 的图标：https://cdn.modrinth.com/data/HMNV4z01/icon.png
+[21:24:52.425] [LocalModItem] Mod FTB Essentials 的图标：https://media.forgecdn.net/avatars/thumbnails/972/569/256/256/638474884133404936.png
+[21:24:52.427] [LocalModItem] Mod FTB Library 的图标：https://media.forgecdn.net/avatars/thumbnails/972/575/256/256/638474885844428954.png
+[21:24:52.429] [LocalModItem] Mod FTB Quests 的图标：https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png
+[21:24:52.432] [LocalModItem] Mod Geckolib 的图标：https://cdn.modrinth.com/data/8BmcQJ2H/012d1aadbc754995de66e8c149a56aa10b63fe05_96.webp
+[21:24:52.434] [LocalModItem] Mod ImmediatelyFast Reforged - Unofficial 的图标：https://media.forgecdn.net/avatars/thumbnails/795/275/256/256/638154518906845626.png
+[21:24:52.435] [LocalModItem] Mod Incendium 的图标：https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg
+[21:24:52.438] [LocalModItem] Mod InsaneLib 的图标：https://media.forgecdn.net/avatars/thumbnails/363/790/256/256/637530344667712105.png
+[21:24:52.440] [LocalModItem] Mod Just Enough Breeding (JEBr) 的图标：https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png
+[21:24:52.442] [LocalModItem] Mod Just Enough Resources 的图标：https://cdn.modrinth.com/data/uEfK2CXF/ca8130fd80167a798d6bfa489dd87fbb871dce94_96.webp
+[21:24:52.445] [LocalModItem] Mod Konkrete 的图标：https://cdn.modrinth.com/data/J81TRJWm/4c569bccc9c3b2806060b3d48f7d20447818c941_96.webp
+[21:24:52.446] [LocalModItem] Mod Ksyxis 的图标：https://cdn.modrinth.com/data/2ecVyZ49/ed2bea5a7d8089df993ddfbc8112eddc4b051ac4_96.webp
+[21:24:52.447] [LocalModItem] Mod KubeJS Additions 的图标：https://cdn.modrinth.com/data/BZemjxZb/fd4517153be721331c0084c28e9064fb9b9f97ae.png
+[21:24:52.448] [LocalModItem] Mod KubeJS 的图标：https://cdn.modrinth.com/data/umyGl7zF/ced768ee05e293837a24eacf00838061e02964a0_96.webp
+[21:24:52.450] [LocalModItem] Mod L_Ender 's Cataclysm 的图标：https://media.forgecdn.net/avatars/thumbnails/460/870/256/256/637739722679428303.png
+[21:24:52.453] [LocalModItem] Mod Lazy DataFixerUpper - LazyDFU 的图标：https://media.forgecdn.net/avatars/thumbnails/359/41/256/256/637520662016454676.png
+[21:24:52.455] [LocalModItem] Mod Library Ferret 的图标：https://media.forgecdn.net/avatars/thumbnails/632/251/256/256/638031961115732292.png
+[21:24:52.457] [LocalModItem] Mod Lightspeed 的图标：https://cdn.modrinth.com/data/US93mifm/78042cf9b6e5d10882b5635cc2f9b13a905300c4_96.webp
+[21:24:52.458] [LocalModItem] Mod Lootr 的图标：https://cdn.modrinth.com/data/EltpO5cN/52c627bef127b6980532cd6fc859ee1e703d36b2_96.webp
+[21:24:52.460] [LocalModItem] Mod Melody 的图标：https://cdn.modrinth.com/data/CVT4pFB2/d5579bb295d7f90c87e65cbdcf47ab28e64ad913.png
+[21:24:52.460] [LocalModItem] Mod Mutant Monsters 的图标：https://cdn.modrinth.com/data/derP0ten/8d8d3725713b3e06b913a22b382e2962b1da8640_96.webp
+[21:24:52.462] [LocalModItem] Mod Not So Shrimple 的图标：https://media.forgecdn.net/avatars/thumbnails/630/758/256/256/638030514092325193.png
+[21:24:52.467] [LocalModItem] Mod No Villager Death Messages 的图标：https://cdn.modrinth.com/data/NEipHNYm/0a3434039bb49382dbec46a58ce1d4de2ce695ff_96.webp
+[21:24:52.468] [LocalModItem] Mod Obscure API 的图标：https://cdn.modrinth.com/data/fU7jbFHc/f0a6e137f945eb676d46f6aec31681fe288d0ca9.png
+[21:24:52.470] [LocalModItem] Mod Sodium/Rubidium Occlusion Culling Fix 的图标：https://cdn.modrinth.com/data/jcn9RURP/8a52a9bea3065f98f3f4df791d04ab3bfcc2118c_96.webp
+[21:24:52.472] [LocalModItem] Mod OctoLib 的图标：https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp
+[21:24:52.474] [LocalModItem] Mod Oculus 的图标：https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp
+[21:24:52.475] [LocalModItem] Mod Packet Fixer 的图标：https://cdn.modrinth.com/data/c7m1mi73/388af00d61fa57e7e10612bcc099bf6ee0794e5e.png
+[21:24:52.478] [LocalModItem] Mod Philips Ruins 的图标：https://cdn.modrinth.com/data/KdJhOYVV/040c0f80a713b64e5992aff5fc5eb338b9665c62_96.webp
+[21:24:52.479] [LocalModItem] Mod PolyLib 的图标：https://media.forgecdn.net/avatars/thumbnails/909/516/256/256/638362703363460410.png
+[21:24:52.482] [LocalModItem] Mod Prism 的图标：https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp
+[21:24:52.483] [LocalModItem] Mod Puzzles Lib 的图标：https://cdn.modrinth.com/data/QAGBst4M/97b8d6e51d8c36a031837736250cb059095e7b2b_96.webp
+[21:24:52.485] [LocalModItem] Mod Reforgium 的图标：https://cdn.modrinth.com/data/vmn85VI7/c79e6228f560d6fe855795e6f8b0a25205fffb4d_96.webp
+[21:24:52.486] [LocalModItem] Mod Rough Tweaks Revamped 的图标：https://media.forgecdn.net/avatars/thumbnails/799/798/256/256/638162463020846640.png
+[21:24:52.488] [LocalModItem] Mod SeasonHUD 的图标：https://cdn.modrinth.com/data/VNjUn3NA/81209cfea1af389a4f7ff428147f94f177de73c7_96.webp
+[21:24:52.489] [LocalModItem] Mod Moonlight Lib 的图标：https://cdn.modrinth.com/data/twkfQtEc/icon.png
+[21:24:52.491] [LocalModItem] Mod Sons Of Sins 的图标：https://media.forgecdn.net/avatars/thumbnails/973/771/256/256/638476552817613930.png
+[21:24:52.493] [LocalModItem] Mod Staaaaaaaaaaaack (Stxck) 的图标：https://cdn.modrinth.com/data/myL7fuqp/c6f2f46df9c78c42d1276641098254c0c64f5b90_96.webp
+[21:24:52.500] [LocalModItem] Mod Structure Gel API 的图标：https://cdn.modrinth.com/data/T8TGycIQ/80dbc0d2d3acadcfcfc1bfa79488f0d353bac1ea.png
+[21:24:52.518] [LocalModItem] Mod TerraBlender 的图标：https://cdn.modrinth.com/data/kkmrDlKT/ffe690c604b123c63ee77a5baf76cf008cb73663.png
+[21:24:52.521] [LocalModItem] Mod Underground Villages 的图标：https://media.forgecdn.net/avatars/thumbnails/528/226/256/256/637850626719654459.png
+[21:24:52.523] [LocalModItem] Mod What Are They Up To (Watut) 的图标：https://cdn.modrinth.com/data/AtB5mHky/f0809106cc4633fb64323664664280f860b080a4_96.webp
+[21:24:52.546] [Animation] 两个动画帧间隔 562 ms
+[21:24:52.571] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[21:24:52.572] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:24:52.572] [UI] 页面状态切换为 LoaderExit
+[21:24:52.685] [UI] 已触发 PageOnExitAnimationFinished
+[21:24:52.685] [UI] 页面状态切换为 ContentEnter
+[21:24:52.935] [Mod] 从 CurseForge 获取到 0 个本地 Mod 的对应信息
+[21:24:53.070] [Mod] 从 Modrinth 获取到 0 个本地 Mod 的对应信息
+[21:24:53.085] [Mod] 联网获取本地 Mod 信息完成，为 0 个 Mod 更新缓存
+[21:24:53.085] [Loader] 加载器 Mod List Detail Loader 状态改变：Finished
+[21:24:53.462] [Animation] 两个动画帧间隔 719 ms
+[21:24:53.488] [UI] 已触发 PageOnEnterAnimationFinished
+[21:24:53.488] [UI] 页面状态切换为 ContentStay
+[21:24:54.259] [Report] FPS 58, 动画 3, 下载中 0（0 B/s）
+[21:25:00.087] [Report] FPS 64, 动画 10, 下载中 0（0 B/s）
+[21:25:20.344] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[21:25:26.741] [Launch] [36440] Minecraft 已退出，返回值：0
+[21:25:26.741] [Launch] [全局] 已无运行中的 Minecraft
+[21:25:26.936] [Launch] [36440] Minecraft 日志监控已退出
+[21:25:29.025] [Report] FPS 64, 动画 8, 下载中 0（0 B/s）
+[21:25:30.754] [Control] 按下图标按钮：BtnTitleMin
+[21:26:06.780] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[21:26:06.780] [UI] 已触发 PageLoaderState (Start/Refresh)
+[21:26:06.780] [UI] 页面状态切换为 ContentExit
+[21:26:06.781] [System] 已刷新 Mod 列表
+[21:26:06.781] [Loader] 加载线程 Mod List Loader (3) 已强制启动
+[21:26:06.943] [UI] 已触发 PageOnExitAnimationFinished
+[21:26:06.943] [UI] 已触发 PageOnEnter
+[21:26:06.943] [UI] 页面状态切换为 LoaderWait
+[21:26:07.119] [UI] 已触发 PageOnLoaderWaitFinished
+[21:26:07.119] [UI] 页面状态切换为 LoaderEnter
+[21:26:07.259] [Mod] 共有 225 个 Mod，其中 3 个需要联网获取信息，0 个需要更新信息
+[21:26:07.276] [Loader] 加载器 Mod List Detail Loader 状态改变：Loading
+[21:26:07.276] [Loader] 加载线程 Mod List Detail Loader (51) 已强制启动
+[21:26:07.276] [Mod] 目标加载器：Forge，版本：1.18.2
+[21:26:07.277] [Net] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 5000
+[21:26:07.278] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/fingerprints/432），最大超时 5000
+[21:26:07.278] [LocalModItem] Mod AI改进 的图标：https://media.forgecdn.net/avatars/thumbnails/21/699/256/256/635731173265581096.png
+[21:26:07.280] [LocalModItem] Mod Alex 的生物 的图标：https://cdn.modrinth.com/data/2cMuAZAp/fbe04602fb0fb336be05e7c40378156b49d50156_96.webp
+[21:26:07.281] [LocalModItem] Mod Embeddium/铷：动态光源 的图标：https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png
+[21:26:07.282] [LocalModItem] Mod FPS减速器 的图标：https://cdn.modrinth.com/data/iZ10HXDj/3d82fc3ce8a943d8065a4b5532f932dba144e128_96.webp
+[21:26:07.283] [LocalModItem] Mod FTB 团队 的图标：https://media.forgecdn.net/avatars/thumbnails/972/581/256/256/638474887222710106.png
+[21:26:07.285] [LocalModItem] Mod FTB备份2 的图标：https://media.forgecdn.net/avatars/thumbnails/972/585/256/256/638474887871512665.png
+[21:26:07.287] [LocalModItem] Mod JEI 附魔信息 的图标：https://media.forgecdn.net/avatars/thumbnails/282/842/256/256/637290738101619224.png
+[21:26:07.289] [LocalModItem] Mod JEI工作方块 的图标：https://cdn.modrinth.com/data/kB56GtWA/2be012ae2466e6b9d454eaeb5ed2e00f1985cd63_96.webp
+[21:26:07.289] [LocalModItem] Mod JEI扩展 的图标：https://cdn.modrinth.com/data/umCLwNyK/6a481b55e6dd196c1fb57718569dfb0d76a9adfc_96.webp
+[21:26:07.290] [LocalModItem] Mod JEI物品管理器 的图标：https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg
+[21:26:07.291] [LocalModItem] Mod JEI药水效果 的图标：https://cdn.modrinth.com/data/EO27GKs1/0cae90cd5fbb858e267777ef965a499a83b7ddcb_96.webp
+[21:26:07.293] [LocalModItem] Mod JER集成 的图标：https://media.forgecdn.net/avatars/thumbnails/409/517/256/256/637624765828353824.png
+[21:26:07.295] [LocalModItem] Mod Mowzie的生物 的图标：https://media.forgecdn.net/avatars/thumbnails/156/392/256/256/636639048661099951.png
+[21:26:07.296] [LocalModItem] Mod TexTrue的铷视频界面 的图标：https://cdn.modrinth.com/data/nm57myYP/b7b7bd5a025187d7ecd1ab9e852d1c773fb3b8a8_96.webp
+[21:26:07.297] [LocalModItem] Mod ToroHealth 伤害显示 的图标：https://media.forgecdn.net/avatars/thumbnails/88/421/256/256/636224048898415001.png
+[21:26:07.298] [LocalModItem] Mod Xaero的世界地图 的图标：https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp
+[21:26:07.300] [LocalModItem] Mod Xaero的小地图 的图标：https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp
+[21:26:07.301] [LocalModItem] Mod 白门的奇异附魔：苦痛长河 的图标：https://cdn.modrinth.com/data/VQBXFYil/c1a85438f0e65befdb873ac7de3fe47e1191710c.png
+[21:26:07.302] [LocalModItem] Mod 被动搜索栏 的图标：https://media.forgecdn.net/avatars/thumbnails/897/503/256/256/638342720913988407.png
+[21:26:07.304] [LocalModItem] Mod 崩溃优化 的图标：https://cdn.modrinth.com/data/yM94ont6/0bd6cd7608cde62529c05ed19626029c062107ed_96.webp
+[21:26:07.305] [LocalModItem] Mod 碧海新生 的图标：https://cdn.modrinth.com/data/gTuTFFyz/a3a5d5ecbb899b2808fd0c9140cf3fc421ece9fd_96.webp
+[21:26:07.306] [LocalModItem] Mod 边拿边走 的图标：https://cdn.modrinth.com/data/REfW2AEX/24c63fa80c1e94bc45ca600ba9e0993ff91d289b_96.webp
+[21:26:07.308] [LocalModItem] Mod 冰山 的图标：https://cdn.modrinth.com/data/5faXoLqX/88c9b9918841470dad995049244ef7a3cb2f34f5_96.webp
+[21:26:07.309] [LocalModItem] Mod 超多生物群系 的图标：https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png
+[21:26:07.310] [LocalModItem] Mod 车万女仆 的图标：https://cdn.modrinth.com/data/R0bDWFAW/63bf98269f3a9f695a4d04328b42a8c2a117c3fc_96.webp
+[21:26:07.311] [LocalModItem] Mod 吃不停 的图标：https://media.forgecdn.net/avatars/thumbnails/198/398/256/256/636899787865661781.png
+[21:26:07.312] [LocalModItem] Mod 传说提示框 的图标：https://cdn.modrinth.com/data/atHH8NyV/bd47257c8d4aca0e04c43269e5beb7af680b144b_96.webp
+[21:26:07.313] [LocalModItem] Mod 地牢浮现之时 的图标：https://cdn.modrinth.com/data/8DfbfASn/4240773f6aa5f8c69f44a5e2e0ff313f98ff3389_96.webp
+[21:26:07.314] [LocalModItem] Mod 地狱扩展 的图标：https://cdn.modrinth.com/data/ZrpxHZN4/c296c7867e9a8df03e15cf71d62a35d77c0d12d2_96.webp
+[21:26:07.315] [LocalModItem] Mod 氡 的图标：https://cdn.modrinth.com/data/4AiJdRfV/a6b6b9b6cb9e2e624d85c5eb6f458f2b3330d305_96.webp
+[21:26:07.316] [LocalModItem] Mod 动态FPS 的图标：https://cdn.modrinth.com/data/LQ3K71Q1/5056368d0d87c1a9f3efead0cb48ab39a4ea87bf_96.webp
+[21:26:07.317] [LocalModItem] Mod 动态准星 的图标：https://cdn.modrinth.com/data/ZcR9weSm/8da8af58ca961f937bd05d41dcefa26be7b5c182.png
+[21:26:07.318] [LocalModItem] Mod 多态合成 的图标：https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png
+[21:26:07.320] [LocalModItem] Mod 防止踩踏 的图标：https://media.forgecdn.net/avatars/thumbnails/173/83/256/256/636741151047049160.png
+[21:26:07.321] [LocalModItem] Mod 蜂蜜拓展 的图标：https://media.forgecdn.net/avatars/thumbnails/449/791/256/256/637709701041886973.png
+[21:26:07.322] [LocalModItem] Mod 凤梨乐事 的图标：https://media.forgecdn.net/avatars/thumbnails/621/251/256/256/638011485003701166.png
+[21:26:07.323] [LocalModItem] Mod 附魔描述 的图标：https://media.forgecdn.net/avatars/thumbnails/981/433/256/256/638488257207041172.png
+[21:26:07.328] [LocalModItem] Mod 哥布林商人 的图标：https://media.forgecdn.net/avatars/thumbnails/871/321/256/256/638288811545199466.png
+[21:26:07.329] [LocalModItem] Mod 更多村民 的图标：https://media.forgecdn.net/avatars/thumbnails/386/555/256/256/637575570334274568.png
+[21:26:07.330] [LocalModItem] Mod 更多熔炉 的图标：https://media.forgecdn.net/avatars/thumbnails/307/865/256/256/637389904761889621.png
+[21:26:07.332] [LocalModItem] Mod Iron Chests 的图标：https://cdn.modrinth.com/data/P3iIrPH3/a22018e95966927fdc4043f0759f0d786bfcade0_96.webp
+[21:26:07.333] [LocalModItem] Mod 更好的F3 的图标：https://cdn.modrinth.com//data/8shC1gFX/icon.png
+[21:26:07.334] [LocalModItem] Mod 更好的村庄 的图标：https://media.forgecdn.net/avatars/thumbnails/537/158/256/256/637860112058526316.png
+[21:26:07.337] [LocalModItem] Mod 更好的经验修补 的图标：https://cdn.modrinth.com/data/Lvv4SHrK/icon.png
+[21:26:07.340] [LocalModItem] Mod 更好的铷视频设置按钮 的图标：https://cdn.modrinth.com/data/hWwoD3UG/icon.png
+[21:26:07.341] [LocalModItem] Mod 更好的延迟显示 的图标：https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png
+[21:26:07.342] [LocalModItem] Mod 冠军/强敌 的图标：https://cdn.modrinth.com/data/YlKc4JEx/200158decf96048225a0f5a78845f86d7e81abfa.png
+[21:26:07.344] [LocalModItem] Mod 海灵物语 的图标：https://cdn.modrinth.com/data/k23mNPhZ/a079cd089a737244861b41eea6c15b6e7091cc90_96.webp
+[21:26:07.346] [LocalModItem] Mod 海洋乐事 的图标：https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png
+[21:26:07.347] [LocalModItem] Mod 合成辅助 的图标：https://media.forgecdn.net/avatars/thumbnails/49/427/256/256/636077959957495136.png
+[21:26:07.349] [LocalModItem] Mod 胡萝卜厨房 的图标：https://cdn.modrinth.com/data/Xqu7vgqw/e2e9f70681ac159da37264789c37a7214385b429.png
+[21:26:07.350] [LocalModItem] Mod 滑翔伞 的图标：https://media.forgecdn.net/avatars/thumbnails/144/153/256/256/636553981575772547.png
+[21:26:07.352] [LocalModItem] Mod 极简血量显示 的图标：https://cdn.modrinth.com/data/Ins7SzzR/a2b99cc9bc355ae461f71dff13f9a6808827d399_96.webp
+[21:26:07.353] [LocalModItem] Mod 假死修复：土豆版 的图标：https://cdn.modrinth.com/data/GcowSBDA/02e2a90ef3e3adc3013b7bca8bf1b260e860994b_96.webp
+[21:26:07.354] [LocalModItem] Mod 坚固地牢 的图标：https://cdn.modrinth.com/data/BCLngNKp/76edeca97c4c57e102e378ce08517883dc39abeb_96.webp
+[21:26:07.356] [LocalModItem] Mod Simply Tea! 的图标：https://cdn.modrinth.com/data/T5Jqatse/b75927f1f7dcf5bc42ab462dfea71133965e20b0.png
+[21:26:07.360] [LocalModItem] Mod 简易铁砧 的图标：https://cdn.modrinth.com/data/OZBR5JT5/8312814fbff95373a6888f424e44a3b3f927febd_96.webp
+[21:26:07.362] [LocalModItem] Mod 键位冲突显示 的图标：https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp
+[21:26:07.363] [LocalModItem] Mod 结构变体 的图标：https://cdn.modrinth.com/data/QDNS5oAT/icon.png
+[21:26:07.364] [LocalModItem] Mod 锦致装饰 的图标：https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif
+[21:26:07.378] [LocalModItem] Mod 进化的 BOSS 的图标：https://cdn.modrinth.com/data/Zxspe0HA/b5c8bf03e18b4312776d96427497d5bfbce0767b_96.webp
+[21:26:07.379] [LocalModItem] Mod 禁用实验性设置警告 的图标：https://media.forgecdn.net/avatars/thumbnails/299/190/256/256/637352261915891559.png
+[21:26:07.381] [LocalModItem] Mod 经典状态条 的图标：https://media.forgecdn.net/avatars/thumbnails/196/381/256/256/636884862776516763.png
+[21:26:07.383] [LocalModItem] Mod 精妙背包 的图标：https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png
+[21:26:07.385] [LocalModItem] Mod 精妙核心 的图标：https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png
+[21:26:07.386] [LocalModItem] Mod 警卫村民 的图标：https://cdn.modrinth.com/data/H1sntfo8/b95a237f1b05eb3aa8e27b16b756db99d327c37f_96.webp
+[21:26:07.387] [LocalModItem] Mod 静谧四季/季节 的图标：https://cdn.modrinth.com/data/e0bNACJD/f8b292ea53e0a0ea908570defddc48673d16d7d6.png
+[21:26:07.388] [LocalModItem] Mod 静谧四季修复 的图标：https://media.forgecdn.net/avatars/thumbnails/579/601/256/256/637944733032485884.png
+[21:26:07.389] [LocalModItem] Mod 咖啡乐事 的图标：https://cdn.modrinth.com/data/jn1HiMrY/73da9fadf05054a71e66715e35beca8f05eed113.png
+[21:26:07.390] [LocalModItem] Mod 可视化工作台 的图标：https://media.forgecdn.net/avatars/thumbnails/802/986/256/256/638168095863992377.png
+[21:26:07.392] [LocalModItem] Mod 哭泣的恶魂 的图标：https://cdn.modrinth.com/data/SFBuyD9e/043740c058ff08374a51234fd9308140f3538db6_96.webp
+[21:26:07.394] [LocalModItem] Mod 夸克 的图标：https://cdn.modrinth.com/data/qnQsVE2z/aef2119751d026421b9e9dc83d4470eec9f91a16_96.webp
+[21:26:07.395] [LocalModItem] Mod 乐在星期四 的图标：https://media.forgecdn.net/avatars/thumbnails/661/720/256/256/638060257312588225.png
+[21:26:07.396] [LocalModItem] Mod 连锁破坏 的图标：https://media.forgecdn.net/avatars/thumbnails/972/578/256/256/638474886453116037.png
+[21:26:07.398] [LocalModItem] Mod 聊天栏时间显示 的图标：https://cdn.modrinth.com/data/8IRT4egS/2c43bdfdfbfe76c1ffb47b446e35a6ce8f65cf02_96.webp
+[21:26:07.399] [LocalModItem] Mod 流畅加载重置版 的图标：https://cdn.modrinth.com/data/z53V2L4P/006b5548281e37fc2dede3c9c10d283c20b51f27_96.webp
+[21:26:07.400] [LocalModItem] Mod 末地：创世 的图标：https://cdn.modrinth.com/data/ZJTGwAND/c3ef9ecaecdf6ebe10623afbf60e25da211fe235_96.webp
+[21:26:07.401] [LocalModItem] Mod 末地乐事 的图标：https://cdn.modrinth.com/data/yHN0njMr/bc333fa34161b1e4d3c2e185210bb558aa1d480a.png
+[21:26:07.402] [LocalModItem] Mod Ender's Delight 的图标：https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp
+[21:26:07.404] [LocalModItem] Mod 墓园 的图标：https://media.forgecdn.net/avatars/thumbnails/437/631/256/256/637681695644074023.png
+[21:26:07.408] [LocalModItem] Mod 暮色乐事 的图标：https://cdn.modrinth.com/data/rXSy9m41/d3ae8a0c71f4634c0b870f6cf7cbaf2f323b3da0.png
+[21:26:07.410] [LocalModItem] Mod 暮色森林 的图标：https://media.forgecdn.net/avatars/thumbnails/14/212/256/256/635589178760357568.png
+[21:26:07.411] [LocalModItem] Mod 那不勒斯风味 的图标：https://cdn.modrinth.com/data/InYMuiQt/da8f163e363ccca56701eb1fdbb8f04fcfeb3fc5_96.webp
+[21:26:07.412] [LocalModItem] Mod 耐久指示器 的图标：https://media.forgecdn.net/avatars/thumbnails/282/272/256/256/637288554707917667.png
+[21:26:07.413] [LocalModItem] Mod 内存泄漏修复 的图标：https://cdn.modrinth.com/data/NRjRiSSD/a279c19f9c3574339fa90f675aa8a94f8f6cff92_96.webp
+[21:26:07.414] [LocalModItem] Mod 农夫乐事 的图标：https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png
+[21:26:07.415] [LocalModItem] Mod 哦，土豆！ 的图标：https://media.forgecdn.net/avatars/thumbnails/786/207/256/256/638137089458434593.png
+[21:26:07.417] [LocalModItem] Mod 帕秋莉手册 的图标：https://cdn.modrinth.com/data/nU0bVIaL/c271809dda89c9e7a39f19d91f7cf6fba3ede585_96.webp
+[21:26:07.418] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/247/685/256/256/637164508107044129.png
+[21:26:07.420] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/946/370/256/256/638432086660775942.png
+[21:26:07.421] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/293/610/256/256/637330060137414733.png
+[21:26:07.422] [LocalModItem] Mod 潘马斯农场2 的图标：https://media.forgecdn.net/avatars/thumbnails/252/293/256/256/637187641584077072.png
+[21:26:07.424] [LocalModItem] Mod 配置界面 的图标：https://media.forgecdn.net/avatars/thumbnails/871/317/256/256/638288810833209348.png
+[21:26:07.426] [LocalModItem] Mod 奇异饰品 的图标：https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png
+[21:26:07.427] [LocalModItem] Mod 鞘翅插槽 的图标：https://cdn.modrinth.com/data/mSQF1NpT/b59d48e0111456cac90a18e4edc0b0d9727414a2.png
+[21:26:07.429] [LocalModItem] Mod 鞘翅胸甲 的图标：https://cdn.modrinth.com/data/ulY7WPQy/d903ed7ed132cbefbeca6afa1253c0bdc51254a9.png
+[21:26:07.432] [LocalModItem] Mod 全局数据包 的图标：https://media.forgecdn.net/avatars/thumbnails/999/904/256/256/638518684505080004.png
+[21:26:07.434] [LocalModItem] Mod 铷 · 扩展 的图标：https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26_96.webp
+[21:26:07.435] [LocalModItem] Mod 铷 的图标：https://cdn.modrinth.com/data/4ZqxOvjD/icon.png
+[21:26:07.435] [LocalModItem] Mod 神秘遗物 的图标：https://cdn.modrinth.com/data/IpUWAlqM/93bf94e42521a8c7357011bc3fbd0939cea19566.png
+[21:26:07.438] [LocalModItem] Mod 生活调味料：胡萝卜版 的图标：https://media.forgecdn.net/avatars/thumbnails/360/935/256/256/637525655151502872.png
+[21:26:07.439] [LocalModItem] Mod 失落城堡 的图标：https://cdn.modrinth.com/data/FGlHZl7X/11083066e06741343c380a8d3cb4e001b76fca50_96.webp
+[21:26:07.440] [LocalModItem] Mod 时装盔甲重置版 的图标：https://media.forgecdn.net/avatars/thumbnails/27/600/256/256/635812915333870435.png
+[21:26:07.441] [LocalModItem] Mod 实体渲染机制优化 的图标：https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp
+[21:26:07.442] [LocalModItem] Mod 拾取提示 的图标：https://media.forgecdn.net/avatars/thumbnails/776/151/256/256/638118059918529024.png
+[21:26:07.445] [LocalModItem] Mod Food Expansion: Reimagined 的图标：https://cdn.modrinth.com/data/ZgoSA17g/f8a08d8fd5b997f75ac8709b9db38b598dca40b5_96.webp
+[21:26:07.446] [LocalModItem] Mod 饰品栏优化 的图标：https://media.forgecdn.net/avatars/thumbnails/839/594/256/256/638232825149678998.png
+[21:26:07.447] [LocalModItem] Mod 试验假人 的图标：https://cdn.modrinth.com/data/Adega8YN/f5e7ffbd18426c584bd43b59770fb2965d420c9f.png
+[21:26:07.449] [LocalModItem] Mod 是，史蒂夫模型 的图标：https://cdn.modrinth.com/data/86xjpqqS/9f58c3977a8949f75300f065c9a63f34022c415a.jpeg
+[21:26:07.450] [LocalModItem] Mod 适应性性能调整 的图标：https://media.forgecdn.net/avatars/thumbnails/347/585/256/256/637497631496395790.png
+[21:26:07.452] [LocalModItem] Mod 逝不过三 的图标：https://cdn.modrinth.com/data/EyfnD02i/af0535796e91a2285a8360854b25a60268b5c176_96.webp
+[21:26:07.452] [LocalModItem] Mod 输入法冲突修复 的图标：https://cdn.modrinth.com/data/WMDesFsZ/681ebabfa43cbbbe80bf8eb54f123780c3852ef4_96.webp
+[21:26:07.454] [LocalModItem] Mod 属性修复 的图标：https://cdn.modrinth.com/data/lOOpEntO/68a2de475417c87817e11f49beaa903e4774ca20_96.webp
+[21:26:07.455] [LocalModItem] Mod 鼠标手势 的图标：https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png
+[21:26:07.456] [LocalModItem] Mod 水产业2/水产品2 的图标：https://media.forgecdn.net/avatars/thumbnails/230/320/256/256/637059909042064016.png
+[21:26:07.458] [LocalModItem] Mod 天空之城 的图标：https://media.forgecdn.net/avatars/thumbnails/397/943/256/256/637599631357914157.jpeg
+[21:26:07.459] [LocalModItem] Mod 铁氧体磁芯 的图标：https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp
+[21:26:07.461] [LocalModItem] Mod 铁砧修复 的图标：https://cdn.modrinth.com/data/bd8nwTGy/f93ebbbfb43dbe7dd841666fdd5399009a7f805c_96.webp
+[21:26:07.462] [LocalModItem] Mod 万用皮肤补丁 的图标：https://cdn.modrinth.com/data/idMHQ4n2/icon.png
+[21:26:07.463] [LocalModItem] Mod 维度地牢 的图标：https://cdn.modrinth.com/data/Q8XlZjYF/10066080b9bf2ebcc00e56bed24995efecca4f54.png
+[21:26:07.465] [LocalModItem] Mod 维度同步修复 的图标：https://cdn.modrinth.com/data/445bpKSe/39ff9573cddf45c8c5e3891473af604aee6b89df_96.webp
+[21:26:07.466] [LocalModItem] Mod 物品高亮 的图标：https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp
+[21:26:07.467] [LocalModItem] Mod 物品过滤器 的图标：https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png
+[21:26:07.468] [LocalModItem] Mod 犀牛 的图标：https://cdn.modrinth.com/data/sk9knFPE/fd4ab05472a7e28fbd62054e5640ef61308cc4a6_96.webp
+[21:26:07.469] [LocalModItem] Mod 下界乐事 的图标：https://media.forgecdn.net/avatars/thumbnails/397/613/256/256/637598857629083481.png
+[21:26:07.471] [LocalModItem] Mod 现代化 UI 的图标：https://cdn.modrinth.com/data/3sjzyvGR/7967a20b1dc7e7bfd63aced5a2a20d8fde812c78_96.webp
+[21:26:07.472] [LocalModItem] Mod 相约星期四 的图标：https://media.forgecdn.net/avatars/thumbnails/571/716/256/256/637932179114180331.jpeg
+[21:26:07.476] [LocalModItem] Mod 蟹农乐事 的图标：https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png
+[21:26:07.477] [LocalModItem] Mod 修复GPU内存泄漏 的图标：https://media.forgecdn.net/avatars/thumbnails/841/827/256/256/638236647684351264.png
+[21:26:07.479] [LocalModItem] Mod Mysterious Mountain Lib 的图标：https://cdn.modrinth.com/data/ntMyNH8c/e03eb3ba9c117304b0aac208a514c2c97c2395b6_96.webp
+[21:26:07.480] [LocalModItem] Mod 药剂环重铸 的图标：https://cdn.modrinth.com/data/VZywdkA8/3bfda0de8cc6eb4a0f88715806bea940568d9f8b_96.webp
+[21:26:07.481] [LocalModItem] Mod 遗物 的图标：https://cdn.modrinth.com/data/OCJRPujW/f5f86c63cd0dc27d063c7c9fd02f7a41fa702abe_96.webp
+[21:26:07.482] [LocalModItem] Mod 樱 的图标：https://media.forgecdn.net/avatars/thumbnails/216/814/256/256/637004115725745255.png
+[21:26:07.485] [LocalModItem] Mod 永恒枪械工坊：零 的图标：https://cdn.modrinth.com/data/SzzJttH8/fd27766d2bb8390d284696b1dbd358f87e081439_96.webp
+[21:26:07.486] [LocalModItem] Mod 幽灵方块同步修复 的图标：https://media.forgecdn.net/avatars/thumbnails/282/266/256/256/637288548103665900.png
+[21:26:07.487] [LocalModItem] Mod 游戏菜单模组设定 的图标：https://cdn.modrinth.com/data/7V0nY9Tu/a50991298917495bc38cfbc3507d8153453bfa66_96.webp
+[21:26:07.489] [LocalModItem] Mod 游戏菜单移除GFARB 的图标：https://cdn.modrinth.com/data/bKQclmIt/dc310af81fbdcbfc2dd39ea371b483ae0f5030a3.png
+[21:26:07.491] [LocalModItem] Mod 游戏内账号切换 的图标：https://cdn.modrinth.com/data/cudtvDnd/10c73f03e9287d53bcb545b4bc49471e023c5c3b_96.webp
+[21:26:07.492] [LocalModItem] Mod 玉 🔍 的图标：https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp
+[21:26:07.493] [LocalModItem] Mod 玉米乐事 的图标：https://cdn.modrinth.com/data/uxLAKWU8/cf30d49b57cd91cf2c06e850c8728151ce89a79a.png
+[21:26:07.494] [LocalModItem] Mod 月亮事件 的图标：https://media.forgecdn.net/avatars/thumbnails/334/381/256/256/637468196947895191.png
+[21:26:07.495] [LocalModItem] Mod 越肩视角重制 的图标：https://cdn.modrinth.com/data/kepjj2sy/e1dc591d259d779c53f8f0b477ec6d6d527b86bc_96.webp
+[21:26:07.497] [LocalModItem] Mod 灾变：焚天神兵 的图标：https://media.forgecdn.net/avatars/thumbnails/813/960/256/256/638188920210331982.png
+[21:26:07.499] [LocalModItem] Mod 灾变Boss血条显示 的图标：https://media.forgecdn.net/avatars/thumbnails/814/368/256/256/638189705537169178.png
+[21:26:07.500] [LocalModItem] Mod 灾厄侵扰 的图标：https://cdn.modrinth.com/data/jSV9w0J5/80ab95e88cfd1504202e468df28ac87f100479f6_96.webp
+[21:26:07.501] [LocalModItem] Mod 战利品光束 的图标：https://media.forgecdn.net/avatars/thumbnails/878/461/256/256/638305125197561679.png
+[21:26:07.503] [LocalModItem] Mod 治愈营火 的图标：https://cdn.modrinth.com/data/kOuPUitF/b85e2aa910202cffc6a5b9569dbd578480decad8_96.webp
+[21:26:07.504] [LocalModItem] Mod 装瓶你的经验 的图标：https://cdn.modrinth.com/data/bG2afBot/2d76f4be03173eb4b3761e2da4c0e6456d8ad239_96.webp
+[21:26:07.505] [LocalModItem] Mod 资源包惰性重载/抑验怠载 的图标：https://media.forgecdn.net/avatars/thumbnails/890/525/256/256/638331132597935072.png
+[21:26:07.507] [LocalModItem] Mod 自定义唱片 的图标：https://cdn.modrinth.com/data/gcH4oguI/dcc714d0da5379bdbf623659bfdbbd3a7e40c9dd_96.webp
+[21:26:07.508] [LocalModItem] Mod 自定义局域网联机 的图标：https://media.forgecdn.net/avatars/thumbnails/289/3/256/256/637313734397082446.png
+[21:26:07.509] [LocalModItem] Mod 自定义游戏加载界面 的图标：https://cdn.modrinth.com/data/v3CYg2V9/819ef4e386c8dcd5bd4f5a00bb365d4aeaa28679.png
+[21:26:07.510] [LocalModItem] Mod 自动汉化更新 的图标：https://cdn.modrinth.com/data/PWERr14M/d2bbfcc25d25d92896d8b0b63face492310b3f4b.png
+[21:26:07.511] [LocalModItem] Mod Adaptive Performance Tweaks: Core 的图标：https://media.forgecdn.net/avatars/thumbnails/472/524/256/256/637762891524286406.png
+[21:26:07.514] [LocalModItem] Mod Adaptive Performance Tweaks: Gamerules 的图标：https://media.forgecdn.net/avatars/thumbnails/472/581/256/256/637763022207479746.png
+[21:26:07.516] [LocalModItem] Mod Adaptive Performance Tweaks: Items 的图标：https://media.forgecdn.net/avatars/thumbnails/472/939/256/256/637763921927009194.png
+[21:26:07.518] [LocalModItem] Mod Adaptive Performance Tweaks: Player Login Optimization and Protection 的图标：https://media.forgecdn.net/avatars/thumbnails/475/719/256/256/637768073785445349.png
+[21:26:07.520] [LocalModItem] Mod Adaptive Performance Tweaks: Spawn 的图标：https://media.forgecdn.net/avatars/thumbnails/486/676/256/256/637788842477738892.png
+[21:26:07.522] [LocalModItem] Mod Architectury API 的图标：https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp
+[21:26:07.523] [LocalModItem] Mod AutoRegLib 的图标：https://cdn.modrinth.com/data/NvZ9ZhwE/8e48bd9f3a34ae93532b5479979fc12f6a289224_96.webp
+[21:26:07.523] [LocalModItem] Mod Balm (Forge Edition) 的图标：https://media.forgecdn.net/avatars/thumbnails/438/285/256/256/637683437662979606.png
+[21:26:07.526] [LocalModItem] Mod Better Compatibility Checker 的图标：https://cdn.modrinth.com/data/KJhXPbHQ/bac6efc73281fab7a07ddca978800a5e9172b529.png
+[21:26:07.528] [LocalModItem] Mod Blue Archive Banner and Shield Patterns 的图标：https://media.forgecdn.net/avatars/thumbnails/867/997/256/256/638281947655755106.png
+[21:26:07.536] [LocalModItem] Mod Blueprint 的图标：https://cdn.modrinth.com/data/VsM5EDoI/4b63af9de8986dabc0bbbb11b82a09709280a795_96.webp
+[21:26:07.537] [LocalModItem] Mod Bookshelf 的图标：https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png
+[21:26:07.539] [LocalModItem] Mod Better Brightness Slider 的图标：https://cdn.modrinth.com/data/aXleiZbk/657383845bc047a2af5cecd1cb544bc714258c7e_96.webp
+[21:26:07.540] [LocalModItem] Mod Caelus API 的图标：https://cdn.modrinth.com/data/40FYwb4z/ae837cab4b8a4d17989b2462bfcd62e8c0451a0f.png
+[21:26:07.542] [LocalModItem] Mod CameraOverhaul 的图标：https://media.forgecdn.net/avatars/thumbnails/339/503/256/256/637479868245164532.png
+[21:26:07.542] [LocalModItem] Mod Citadel 的图标：https://cdn.modrinth.com/data/jJfV67b1/0aa5d9f63754fa9a39b9d3deff95e5819fa5b721_96.webp
+[21:26:07.544] [LocalModItem] Mod Cloth Config API (Fabric/Forge/NeoForge) 的图标：https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png
+[21:26:07.546] [LocalModItem] Mod Collective 的图标：https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp
+[21:26:07.547] [LocalModItem] Mod CoroUtil 的图标：https://cdn.modrinth.com/data/rLLJ1OZM/7c7b819ec62d311533db06f6674ce4ebeb867a9d_96.webp
+[21:26:07.548] [LocalModItem] Mod Curios API (Forge/NeoForge) 的图标：https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png
+[21:26:07.549] [LocalModItem] Mod Dungeons Enhanced 的图标：https://media.forgecdn.net/avatars/thumbnails/1077/93/256/256/638615015320139864.png
+[21:26:07.551] [LocalModItem] Mod Dynamic Surroundings Resurrected 的图标：https://media.forgecdn.net/avatars/thumbnails/890/355/256/256/638330786273425424.png
+[21:26:07.552] [LocalModItem] Mod Enhanced Block Entities Reforged (Unofficial) 的图标：https://media.forgecdn.net/avatars/thumbnails/808/509/256/256/638178672498611045.png
+[21:26:07.554] [LocalModItem] Mod ExpandAbility 的图标：https://media.forgecdn.net/avatars/thumbnails/364/17/256/256/637530805959136077.png
+[21:26:07.555] [LocalModItem] Mod ExtraSounds Next 的图标：https://cdn.modrinth.com/data/jv7tzVE4/aac60640bfd4a44890f075aea150fac41e698da4_96.webp
+[21:26:07.556] [LocalModItem] Mod FancyMenu 的图标：https://cdn.modrinth.com/data/Wq5SjeWM/e4e82d028244a1326e6d346bf5b5336140576bb9_96.webp
+[21:26:07.557] [LocalModItem] Mod Farsight [Forge/Neo] 的图标：https://media.forgecdn.net/avatars/thumbnails/532/489/256/256/637856138513958598.png
+[21:26:07.559] [LocalModItem] Mod Feature NBT Deadlock Be Gone 的图标：https://cdn.modrinth.com/data/HMNV4z01/icon.png
+[21:26:07.561] [LocalModItem] Mod FTB Essentials 的图标：https://media.forgecdn.net/avatars/thumbnails/972/569/256/256/638474884133404936.png
+[21:26:07.562] [LocalModItem] Mod FTB Library 的图标：https://media.forgecdn.net/avatars/thumbnails/972/575/256/256/638474885844428954.png
+[21:26:07.564] [LocalModItem] Mod FTB Quests 的图标：https://media.forgecdn.net/avatars/thumbnails/972/571/256/256/638474884805475097.png
+[21:26:07.566] [LocalModItem] Mod Geckolib 的图标：https://cdn.modrinth.com/data/8BmcQJ2H/012d1aadbc754995de66e8c149a56aa10b63fe05_96.webp
+[21:26:07.567] [LocalModItem] Mod ImmediatelyFast Reforged - Unofficial 的图标：https://media.forgecdn.net/avatars/thumbnails/795/275/256/256/638154518906845626.png
+[21:26:07.568] [LocalModItem] Mod Incendium 的图标：https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg
+[21:26:07.570] [LocalModItem] Mod InsaneLib 的图标：https://media.forgecdn.net/avatars/thumbnails/363/790/256/256/637530344667712105.png
+[21:26:07.570] [LocalModItem] Mod Just Enough Breeding (JEBr) 的图标：https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png
+[21:26:07.573] [LocalModItem] Mod Just Enough Resources 的图标：https://cdn.modrinth.com/data/uEfK2CXF/ca8130fd80167a798d6bfa489dd87fbb871dce94_96.webp
+[21:26:07.574] [LocalModItem] Mod Konkrete 的图标：https://cdn.modrinth.com/data/J81TRJWm/4c569bccc9c3b2806060b3d48f7d20447818c941_96.webp
+[21:26:07.575] [LocalModItem] Mod Ksyxis 的图标：https://cdn.modrinth.com/data/2ecVyZ49/ed2bea5a7d8089df993ddfbc8112eddc4b051ac4_96.webp
+[21:26:07.576] [LocalModItem] Mod KubeJS Additions 的图标：https://cdn.modrinth.com/data/BZemjxZb/fd4517153be721331c0084c28e9064fb9b9f97ae.png
+[21:26:07.577] [LocalModItem] Mod KubeJS 的图标：https://cdn.modrinth.com/data/umyGl7zF/ced768ee05e293837a24eacf00838061e02964a0_96.webp
+[21:26:07.579] [LocalModItem] Mod L_Ender 's Cataclysm 的图标：https://media.forgecdn.net/avatars/thumbnails/460/870/256/256/637739722679428303.png
+[21:26:07.580] [LocalModItem] Mod Lazy DataFixerUpper - LazyDFU 的图标：https://media.forgecdn.net/avatars/thumbnails/359/41/256/256/637520662016454676.png
+[21:26:07.582] [LocalModItem] Mod Library Ferret 的图标：https://media.forgecdn.net/avatars/thumbnails/632/251/256/256/638031961115732292.png
+[21:26:07.583] [LocalModItem] Mod Lightspeed 的图标：https://cdn.modrinth.com/data/US93mifm/78042cf9b6e5d10882b5635cc2f9b13a905300c4_96.webp
+[21:26:07.584] [LocalModItem] Mod Lootr 的图标：https://cdn.modrinth.com/data/EltpO5cN/52c627bef127b6980532cd6fc859ee1e703d36b2_96.webp
+[21:26:07.585] [LocalModItem] Mod Melody 的图标：https://cdn.modrinth.com/data/CVT4pFB2/d5579bb295d7f90c87e65cbdcf47ab28e64ad913.png
+[21:26:07.586] [LocalModItem] Mod Mutant Monsters 的图标：https://cdn.modrinth.com/data/derP0ten/8d8d3725713b3e06b913a22b382e2962b1da8640_96.webp
+[21:26:07.587] [LocalModItem] Mod Not So Shrimple 的图标：https://media.forgecdn.net/avatars/thumbnails/630/758/256/256/638030514092325193.png
+[21:26:07.592] [LocalModItem] Mod No Villager Death Messages 的图标：https://cdn.modrinth.com/data/NEipHNYm/0a3434039bb49382dbec46a58ce1d4de2ce695ff_96.webp
+[21:26:07.594] [LocalModItem] Mod Obscure API 的图标：https://cdn.modrinth.com/data/fU7jbFHc/f0a6e137f945eb676d46f6aec31681fe288d0ca9.png
+[21:26:07.596] [LocalModItem] Mod Sodium/Rubidium Occlusion Culling Fix 的图标：https://cdn.modrinth.com/data/jcn9RURP/8a52a9bea3065f98f3f4df791d04ab3bfcc2118c_96.webp
+[21:26:07.597] [LocalModItem] Mod OctoLib 的图标：https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp
+[21:26:07.598] [LocalModItem] Mod Oculus 的图标：https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp
+[21:26:07.599] [LocalModItem] Mod Packet Fixer 的图标：https://cdn.modrinth.com/data/c7m1mi73/388af00d61fa57e7e10612bcc099bf6ee0794e5e.png
+[21:26:07.602] [LocalModItem] Mod Philips Ruins 的图标：https://cdn.modrinth.com/data/KdJhOYVV/040c0f80a713b64e5992aff5fc5eb338b9665c62_96.webp
+[21:26:07.603] [LocalModItem] Mod PolyLib 的图标：https://media.forgecdn.net/avatars/thumbnails/909/516/256/256/638362703363460410.png
+[21:26:07.605] [LocalModItem] Mod Prism 的图标：https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp
+[21:26:07.606] [LocalModItem] Mod Puzzles Lib 的图标：https://cdn.modrinth.com/data/QAGBst4M/97b8d6e51d8c36a031837736250cb059095e7b2b_96.webp
+[21:26:07.607] [LocalModItem] Mod Reforgium 的图标：https://cdn.modrinth.com/data/vmn85VI7/c79e6228f560d6fe855795e6f8b0a25205fffb4d_96.webp
+[21:26:07.608] [LocalModItem] Mod Rough Tweaks Revamped 的图标：https://media.forgecdn.net/avatars/thumbnails/799/798/256/256/638162463020846640.png
+[21:26:07.609] [LocalModItem] Mod SeasonHUD 的图标：https://cdn.modrinth.com/data/VNjUn3NA/81209cfea1af389a4f7ff428147f94f177de73c7_96.webp
+[21:26:07.610] [LocalModItem] Mod Moonlight Lib 的图标：https://cdn.modrinth.com/data/twkfQtEc/icon.png
+[21:26:07.612] [LocalModItem] Mod Sons Of Sins 的图标：https://media.forgecdn.net/avatars/thumbnails/973/771/256/256/638476552817613930.png
+[21:26:07.614] [LocalModItem] Mod Staaaaaaaaaaaack (Stxck) 的图标：https://cdn.modrinth.com/data/myL7fuqp/c6f2f46df9c78c42d1276641098254c0c64f5b90_96.webp
+[21:26:07.615] [LocalModItem] Mod Structure Gel API 的图标：https://cdn.modrinth.com/data/T8TGycIQ/80dbc0d2d3acadcfcfc1bfa79488f0d353bac1ea.png
+[21:26:07.618] [LocalModItem] Mod TerraBlender 的图标：https://cdn.modrinth.com/data/kkmrDlKT/ffe690c604b123c63ee77a5baf76cf008cb73663.png
+[21:26:07.621] [LocalModItem] Mod Underground Villages 的图标：https://media.forgecdn.net/avatars/thumbnails/528/226/256/256/637850626719654459.png
+[21:26:07.622] [LocalModItem] Mod What Are They Up To (Watut) 的图标：https://cdn.modrinth.com/data/AtB5mHky/f0809106cc4633fb64323664664280f860b080a4_96.webp
+[21:26:07.628] [Mod] 从 CurseForge 获取到 0 个本地 Mod 的对应信息
+[21:26:07.672] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[21:26:08.146] [Animation] 两个动画帧间隔 375 ms
+[21:26:08.148] [UI] 已触发 PageLoaderState (Stop/Abort)
+[21:26:08.154] [Animation] 两个动画帧间隔 500 ms
+[21:26:08.155] [UI] 已触发 PageOnEnterAnimationFinished
+[21:26:08.155] [UI] 页面状态切换为 LoaderStayForce
+[21:26:08.155] [UI] 已触发 PageOnLoaderStayFinished
+[21:26:08.155] [UI] 页面状态切换为 LoaderExit
+[21:26:08.158] [Control] 按下图标按钮：BtnTitleClose
+[21:26:08.160] [System] 收到关闭指令
+[21:26:08.167] [UI] 已触发 PageOnExitAnimationFinished
+[21:26:08.167] [UI] 页面状态切换为 ContentEnter
+[21:26:08.412] [System] 更新程序启动，参数：--update 640 "启动游戏.exe" "启动游戏.exe" False
+[21:26:08.489] [System] 程序已退出，返回值：Success

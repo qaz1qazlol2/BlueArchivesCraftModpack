@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb6723853c7ec399f4a813f646f2b4ea1263f06d96fab703de8bfe0d0ab6ea6e
-size 155
+{
+  "name": "tacz.attachment.oem_stock_heavy.name",
+  "display": "tacz:oem_stock_heavy_display",
+  "data": "tacz:oem_stock_heavy_data",
+  "type": "stock"
+}

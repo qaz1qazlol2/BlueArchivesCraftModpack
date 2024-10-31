@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe9e7b0b46c5177ed4ee5f8ea8b1cd9fb99b3ba59a3bb7cfe01b6b46a542c4bc
-size 353
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 28
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:p320"
+  }
+}

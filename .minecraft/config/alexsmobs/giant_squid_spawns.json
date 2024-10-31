@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef9c08e437f647c633cbf41568c5528288f61ccff6d36f43e938afd3245d878
-size 549
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_lukewarm_ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_cold_ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_frozen_ocean"
+      }
+    ]
+  ]
+}

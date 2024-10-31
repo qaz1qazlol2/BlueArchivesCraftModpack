@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:219abe3a733944ae232e501ef19c18b00ae54f63a4a03bde140c9d48ff4bb0de
-size 3020
+{
+    "properties": [
+        {
+            "type": "property:mod",
+            "mod": "cucumber"
+        }
+    ],
+    "classes": [
+        {
+            "type": "document:class",
+            "className": "com.prunoideae.probejs.DocumentedRecipes",
+            "fields": [
+                {
+                    "final": true,
+                    "type": "document:field",
+                    "name": "cucumber",
+                    "fieldType": {
+                        "type": "type:class",
+                        "name": "com.prunoideae.probejs.CucumberRecipes"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "document:class",
+            "methods": [
+                {
+                    "type": "document:method",
+                    "name": "shaped_no_mirror",
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "output",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.item.ItemStackJS"
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "pattern",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:primitive",
+                                    "name": "string"
+                                }
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "items",
+                            "paramType": {
+                                "type": "type:object",
+                                "members": [
+                                    {
+                                        "key": {
+                                            "type": "type:primitive",
+                                            "name": "string"
+                                        },
+                                        "value": {
+                                            "type": "type:class",
+                                            "name": "dev.latvian.mods.kubejs.item.ingredient.IngredientJS"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.minecraft.ShapedRecipeJS"
+                    }
+                }
+            ],
+            "className": "com.prunoideae.probejs.CucumberRecipes"
+        }
+    ]
+}

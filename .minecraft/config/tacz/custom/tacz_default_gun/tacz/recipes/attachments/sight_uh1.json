@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:559b0103b149f85793471b76daa57734c4ec44645fba77ee35e652fb724510b1
-size 453
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:glass"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:sight_uh1"
+  }
+}

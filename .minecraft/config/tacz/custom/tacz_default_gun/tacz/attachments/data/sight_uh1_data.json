@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aba77913b958d78149e501a45254a7699aacf1c3dc8f3639770226e5f7072305
-size 55
+{
+  "weight": 0.3,
+  "ads": {
+    "addend": -0.01
+  }
+}

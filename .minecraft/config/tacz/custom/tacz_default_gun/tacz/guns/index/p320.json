@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:222e4446ab5f39b7013fe3fc5580031f2526adf35a2befa3d5546d4e84b61004
-size 151
+{
+  "name": "tacz.gun.p320.name",
+  "display": "tacz:p320_display",
+  "data": "tacz:p320_data",
+  "tooltip": "tacz.gun.p320.desc",
+  "type": "pistol"
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:179811fda140c1dcf21e30c8698501c45027666a4029c7f063787b51e407f48b
-size 224
+{
+  "slot": "tacz:attachment/slot/oem_stock_heavy",
+  "adapter": "oem_stock_heavy",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

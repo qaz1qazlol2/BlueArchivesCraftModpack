@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:749e976cb87f52ff06abd1c13807b89444d0aeefc51f6e56d4699e08c77fc34f
-size 160
+{
+  "name": "tacz.gun.m249.name",
+  "display": "tacz:m249_display",
+  "data": "tacz:m249_data",
+  "tooltip": "tacz.gun.m249.desc",
+  "type": "mg",
+  "sort": 1
+}

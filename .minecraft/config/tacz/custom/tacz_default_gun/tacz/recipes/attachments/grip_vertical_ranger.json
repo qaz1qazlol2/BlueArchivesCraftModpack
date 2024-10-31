@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b27f1dfeadd9231b386717c9e64cd161bae302c7414f81466c2c7419f528cd17
-size 283
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:grip_vertical_ranger"
+  }
+}

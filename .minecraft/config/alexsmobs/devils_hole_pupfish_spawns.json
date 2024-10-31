@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0dab93cc1194b2b3cc7776d2920ad5d01b5dfcefd01f618aea3a0aba57e9d353
-size 133
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      }
+    ]
+  ]
+}

@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ee9a4e37b987cc642b078098e5c7c322804396aa2bb7ce9cb155d443a230d6b
-size 370
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:stock_tactical_ar"
+  }
+}

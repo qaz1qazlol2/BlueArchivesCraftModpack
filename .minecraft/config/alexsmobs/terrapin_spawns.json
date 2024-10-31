@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:424dc3a66d2d387be90b70c4c7f5cdc15de42d824641a6f7042f722059387848
-size 583
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "river"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "cold"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:tundra_bog"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:warm_river"
+      }
+    ]
+  ]
+}

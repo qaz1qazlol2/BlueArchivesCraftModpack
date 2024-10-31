@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a1abf895f3646abad9ffb47a8ba17edef248f17d69b6d3b0987d05343e867af
-size 728
+{
+  "weight": 0.5,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    "addend": 0.05
+  },
+  "aim_inaccuracy": {
+    "multiplier": 0.9
+  },
+  "recoil": {
+    "pitch": {
+      "multiplier": 0.75
+    },
+    "yaw": {
+      "multiplier": 0.6
+    }
+  },
+  // 近战伤害，用于刺刀
+  "melee": {
+    // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
+    "distance": 2,
+    // 刺刀范围角度
+    "range_angle": 40,
+    // 刺刀冷却时间，枪械里还有个刺刀冷却时间参数，两者做加和
+    "cooldown": 0.4,
+    // 伤害值
+    "damage": 5,
+    // 击退效果
+    "knockback": 0.8,
+    // 前摇时长，单位：秒
+    "prep": 0.1
+  }
+}

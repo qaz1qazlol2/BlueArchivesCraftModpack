@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5797521bdb8c348b0b406b5405ed2f2631afd1068f0b9cb587817550643e23ac
-size 273
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:end_crystal"
+      }
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:ammo_mod_he"
+  }
+}

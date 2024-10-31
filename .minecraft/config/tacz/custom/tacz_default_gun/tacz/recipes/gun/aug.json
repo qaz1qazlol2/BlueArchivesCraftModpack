@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eecbba8fa48f2bb1b6485e706ec740f9e420cd0993425a0da79d5ae9de0dbcde
-size 441
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 39
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:gems/amethyst"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:aug"
+  }
+}

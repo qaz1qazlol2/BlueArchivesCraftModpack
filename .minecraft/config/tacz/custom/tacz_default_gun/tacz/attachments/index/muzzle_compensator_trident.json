@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fca0fde55a9bc66f8244b0adb5e01d892a2620c6fdc7b2ba05069df986f7f440
-size 189
+{
+  "name": "tacz.attachment.muzzle_compensator_trident.name",
+  "display": "tacz:muzzle_compensator_trident_display",
+  "data": "tacz:muzzle_compensator_trident_data",
+  "type": "muzzle"
+}

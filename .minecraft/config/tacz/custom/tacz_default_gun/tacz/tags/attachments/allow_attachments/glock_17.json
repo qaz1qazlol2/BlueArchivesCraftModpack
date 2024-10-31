@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b31316d20095287761c725a522f64ea4959923cd7eb24db675fd52b30953dd1c
-size 107
+[
+  "#tacz:pistol_sight",
+  "#tacz:pistol_muzzle",
+  "#tacz:light_extended_mag",
+  "#tacz:ammo_mod_no_he"
+]

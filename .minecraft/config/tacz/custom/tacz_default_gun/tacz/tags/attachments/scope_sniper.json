@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bfce200fc27cd347a032edae4c474a2261ad36c85d984347ff5c1d347898df7c
-size 55
+[
+  "tacz:scope_standard_8x",
+  "tacz:scope_lpvo_1_6"
+]

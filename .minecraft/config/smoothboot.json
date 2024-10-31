@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a
-size 198
+{
+  "threadCount": {
+    "bootstrap": 1,
+    "main": 31
+  },
+  "threadPriority": {
+    "game": 5,
+    "bootstrap": 1,
+    "main": 1,
+    "io": 1,
+    "integratedServer": 5,
+    "modLoading": 1
+  }
+}

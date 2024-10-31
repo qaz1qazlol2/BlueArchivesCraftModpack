@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:384d39b5f40207b12ded1253179286d288ce19534389ce7f7b1b5af6b88d7dc0
-size 428
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 12
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:sks_tactical",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
+  }
+}

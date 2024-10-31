@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2de93b89e830852119b72786fc808fbd13571e5dc05a33e377b1e98cb933951
-size 436
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      }
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:deagle_golden"
+  }
+}

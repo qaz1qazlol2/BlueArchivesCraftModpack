@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff3f4e7bdff73abdd5a521a427d903fa3d79503724dedd4ecab76c8fb4650b44
-size 286
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:light_extended_mag_2"
+  }
+}

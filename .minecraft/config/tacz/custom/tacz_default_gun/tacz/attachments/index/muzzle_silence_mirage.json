@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:691a9423dd869cbb5f35b0d22fc216dcceb41d1ea2773aa04dbc8f6a9df81fff
-size 174
+{
+  "name": "tacz.attachment.muzzle_silence_mirage.name",
+  "display": "tacz:muzzle_silence_mirage_display",
+  "data": "tacz:muzzle_silence_mirage_data",
+  "type": "muzzle"
+}

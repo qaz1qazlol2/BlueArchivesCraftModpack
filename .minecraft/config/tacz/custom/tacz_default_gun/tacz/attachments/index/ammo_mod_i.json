@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:616c98f9164292d624914d9b603a6667585432a0d72332aa5cc89ae7671e4854
-size 195
+{
+  "name": "tacz.attachment.ammo_mod_i.name",
+  "display": "tacz:ammo_mod_i_display",
+  "data": "tacz:ammo_mod_i_data",
+  "tooltip": "tacz.attachment.ammo_mod_i.desc",
+  "type": "extended_mag"
+}

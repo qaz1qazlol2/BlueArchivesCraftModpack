@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a26ca406f92807b57157c105d850754feb51a95624ad21a87fb2f4d578bcefb
-size 355
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 62
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ump45"
+  }
+}

@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8
-size 661
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:warped_forest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:crimson_gardens"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:warped_desert"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "incendium:inverted_forest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "incendium:quartz_flats"
+      }
+    ]
+  ]
+}

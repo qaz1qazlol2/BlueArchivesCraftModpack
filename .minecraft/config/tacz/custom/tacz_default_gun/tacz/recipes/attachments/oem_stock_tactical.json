@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd57f90ef7520956096893d5139c5bbe16ac611cfe84497f7d8ade06b8a06cbe
-size 281
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:oem_stock_tactical"
+  }
+}

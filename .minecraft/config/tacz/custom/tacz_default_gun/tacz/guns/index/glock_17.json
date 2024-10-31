@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dcec2daf6c4632965265bd6845d633ba95b18616bf3bbbbb55052e7d20349e4e
-size 167
+{
+  "name": "tacz.gun.glock_17.name",
+  "display": "tacz:glock_17_display",
+  "data": "tacz:glock_17_data",
+  "tooltip": "tacz.gun.glock_17.desc",
+  "type": "pistol"
+}

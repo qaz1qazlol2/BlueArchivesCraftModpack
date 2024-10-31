@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:705bd0216c61d2daa04122b287b2f5e9064e5df19717b4f656349e98f26962bb
-size 376
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_silence_ursus"
+  }
+}

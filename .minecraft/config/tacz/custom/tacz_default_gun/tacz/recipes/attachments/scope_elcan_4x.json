@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4272b0cfb8cde5b1c0aaec3aa1b83bd854541c88629068e8bdf53fe16bf25d23
-size 377
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:gems/amethyst"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:scope_elcan_4x"
+  }
+}

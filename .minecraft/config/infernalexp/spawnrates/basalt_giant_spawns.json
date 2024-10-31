@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8eb16d56ffbc11b155e4879c5b04b36f77aac58af816b451a5fa1a91363393b
-size 529
+{
+  "biomes": [
+    {
+      "biome": "default",
+      "spawn_info": {
+        "spawn_rate": 5,
+        "min_count": 1,
+        "max_count": 1
+      }
+    },
+    {
+      "biome": "minecraft:basalt_deltas",
+      "spawn_info": {
+        "spawn_rate": 1,
+        "min_count": 1,
+        "max_count": 1,
+        "energy_budget": 2.0,
+        "charge": 0.1
+      }
+    },
+    {
+      "biome": "infernalexp:delta_shores",
+      "spawn_info": {
+        "spawn_rate": 1,
+        "min_count": 1,
+        "max_count": 1
+      }
+    }
+  ]
+}

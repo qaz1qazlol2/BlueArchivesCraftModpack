@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3f20e47aac816b9c81bb99b3663a431177cca7c64631410e3aa3ceabb4dc386
-size 144
+[
+  "tacz:stock_carbon_bone_c5",
+  "tacz:stock_militech_b5",
+  "tacz:stock_tactical_ar",
+  "tacz:oem_stock_tactical",
+  "tacz:oem_stock_heavy"
+]

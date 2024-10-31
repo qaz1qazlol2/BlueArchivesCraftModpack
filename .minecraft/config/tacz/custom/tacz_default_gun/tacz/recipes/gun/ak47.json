@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5dacd5378184db0e0c47ab201f97ddbf762527212c060326c3bf0aac90ef6b19
-size 420
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 38
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ak47",
+    "attachments": {
+      "stock": "tacz:oem_stock_tactical"
+    }
+  }
+}

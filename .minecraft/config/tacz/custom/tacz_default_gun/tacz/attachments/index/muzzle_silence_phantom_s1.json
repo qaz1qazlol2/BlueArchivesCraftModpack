@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af4b2f21700925b8b3b2e9ec98e464e39f2be8cac0bdbff4908dc5e24be3d322
-size 186
+{
+  "name": "tacz.attachment.muzzle_silence_phantom_s1.name",
+  "display": "tacz:muzzle_silence_phantom_s1_display",
+  "data": "tacz:muzzle_silence_phantom_s1_data",
+  "type": "muzzle"
+}
