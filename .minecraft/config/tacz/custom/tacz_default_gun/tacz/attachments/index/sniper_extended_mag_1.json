@@ -1,6 +1,3 @@
-{
-  "name": "tacz.attachment.sniper_extended_mag_1.name",
-  "display": "tacz:sniper_extended_mag_1_display",
-  "data": "tacz:sniper_extended_mag_1_data",
-  "type": "extended_mag"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b528ec1c850e785feb9c4455a6756b94cdac8eeb6bde248540c49751ea094839
+size 180

@@ -1,7 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/sniper_extended_mag_3",
-  "sounds": {
-    "install": "tacz:attachments/extended_mag_install",
-    "uninstall": "tacz:attachments/extended_mag_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd89db8fd033898a13bcf75f08354afa33721ad062cf7e68d44e5c06f9b66d1
+size 192

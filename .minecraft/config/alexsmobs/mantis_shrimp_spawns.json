@@ -1,21 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "ocean"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "hot"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:23dbc68c7e6b3862e99631cc033ef4c12526974ad85f8d55743cb7a845df423a
+size 325

@@ -1,22 +1,3 @@
-{
-  "biomes": [
-    {
-      "biome": "default",
-      "spawn_info": {
-        "spawn_rate": 1,
-        "min_count": 1,
-        "max_count": 1
-      }
-    },
-    {
-      "biome": "minecraft:warped_forest",
-      "spawn_info": {
-        "spawn_rate": 1,
-        "min_count": 1,
-        "max_count": 1,
-        "energy_budget": 0.5,
-        "charge": 1.5
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf16b48a6b2bb31a90fa2ac2f83cbbbc28d86e6ca55d7b39e2ebff2489e0e31
+size 371

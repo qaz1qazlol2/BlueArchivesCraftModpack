@@ -1,6 +1,3 @@
-{
-  "name": "tacz.attachment.muzzle_silence_ptilopsis.name",
-  "display": "tacz:muzzle_silence_ptilopsis_display",
-  "data": "tacz:muzzle_silence_ptilopsis_data",
-  "type": "muzzle"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82ace2dd5ee87e9f7757e3884722495aa198afad56d3acb5a5e5ee287cf080d
+size 183

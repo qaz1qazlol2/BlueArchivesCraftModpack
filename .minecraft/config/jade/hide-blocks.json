@@ -1,7 +1,3 @@
-{
-  "__comment": "This is a blocklist for the target of Jade. You can add registry ids to the \"values\" list. Restart the game to apply changes.",
-  "values": [
-    "minecraft:barrier"
-  ],
-  "version": 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a
+size 207

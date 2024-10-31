@@ -1,9 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/muzzle_silence_knight_qd",
-  "model": "tacz:attachment/muzzle_silence_knight_qd_geo",
-  "texture": "tacz:attachment/uv/muzzle_silence_knight_qd",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3650a38640ab39d74cb4d1b96edc0b16d1ccd26a5b9337287a597f44f70840c
+size 300

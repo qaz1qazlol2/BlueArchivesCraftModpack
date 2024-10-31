@@ -1,7 +1,3 @@
-{
-  "name": "tacz.gun.rpg7.name",
-  "display": "tacz:rpg7_display",
-  "data": "tacz:rpg7_data",
-  "tooltip": "tacz.gun.rpg7.desc",
-  "type": "rpg"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:65841ccf35590e69773d87c7b845746031f061904b00d88c2ff9d3fa57c0fd99
+size 148

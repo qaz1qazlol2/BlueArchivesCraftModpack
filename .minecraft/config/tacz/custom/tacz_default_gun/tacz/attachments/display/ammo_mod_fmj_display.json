@@ -1,7 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/ammo_mod_fmj",
-  "sounds": {
-    "install": "tacz:attachments/attachment_general_a",
-    "uninstall": "tacz:attachments/attachment_general_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d93f4baee0085c354340a344a2d184a35e96b18b1d3a5d7fec8fb60b09801f
+size 189

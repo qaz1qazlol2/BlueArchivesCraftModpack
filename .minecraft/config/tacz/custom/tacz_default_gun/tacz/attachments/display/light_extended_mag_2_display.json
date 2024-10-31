@@ -1,7 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/light_extended_mag_2",
-  "sounds": {
-    "install": "tacz:attachments/extended_mag_install",
-    "uninstall": "tacz:attachments/extended_mag_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f0ecf854b64dc3bb6145d51a1d7451990e1c669ce7cdf5dace2e9d0fdf5e1be
+size 191

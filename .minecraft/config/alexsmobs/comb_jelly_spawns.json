@@ -1,18 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:frozen_ocean"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:deep_frozen_ocean"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7a4a77b83845f52a29a301c186778bcd383437506b8fa28e7fc8f2b2363910
+size 283

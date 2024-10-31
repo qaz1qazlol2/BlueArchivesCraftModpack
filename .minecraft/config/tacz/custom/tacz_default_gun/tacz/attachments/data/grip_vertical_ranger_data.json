@@ -1,18 +1,3 @@
-{
-  "weight": 0.3,
-  "ads": {
-    // 加数（多个配件的数值相加，作为第一个乘区）
-    "multiplier": 1.03
-  },
-  "aim_inaccuracy": {
-    "multiplier": 0.8
-  },
-  "recoil": {
-    "pitch": {
-      "multiplier": 0.8
-    },
-    "yaw": {
-      "multiplier": 0.7
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9d825c42782d9338e9327b22d55e081a6ebb6e850d4404df49852794c404a9
+size 286

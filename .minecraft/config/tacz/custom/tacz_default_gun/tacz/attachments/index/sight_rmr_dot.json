@@ -1,11 +1,3 @@
-{
-  // 配件的的显示名称和工具提示，支持本地化
-  "name": "tacz.attachment.sight_rmr_dot.name",
-  // 配件的客户端数据
-  "display": "tacz:sight_rmr_dot_display",
-  // 配件的属性
-  "data": "tacz:sight_rmr_dot_data",
-  // 配件的类型。scope、grip、muzzle、stock、laser、extended_mag
-  // 枪械配件槽位能从中选择可以安装的类型
-  "type": "scope"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b79dbb12c8f7d3ca9cabc7616d1eea3e6031866b0926c2f60fd482a1759535a
+size 399

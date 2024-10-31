@@ -1,28 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "mushroom"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "rare"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "terralith:mirage_isles"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7d55acd342384184ebd85b52d18285ac19fcc76d452927aa19407c71210e15
+size 458

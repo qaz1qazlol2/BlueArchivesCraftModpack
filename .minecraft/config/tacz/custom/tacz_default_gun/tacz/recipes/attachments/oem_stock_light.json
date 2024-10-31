@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:leather"
-      },
-      "count": 2
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:oem_stock_light"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34bec078d68288236c58d75b8f43221d59a4c55c6c6ea589c11d8fd82579954e
+size 277

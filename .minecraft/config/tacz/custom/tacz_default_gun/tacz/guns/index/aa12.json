@@ -1,8 +1,3 @@
-{
-  "name": "tacz.gun.aa12.name",
-  "display": "tacz:aa12_display",
-  "data": "tacz:aa12_data",
-  "tooltip": "tacz.gun.aa12.desc",
-  "type": "shotgun",
-  "sort": 2
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7752c013f827384c3dadd7e4063ed91390368165d0f7e1b20b9fc3b6d7462398
+size 165

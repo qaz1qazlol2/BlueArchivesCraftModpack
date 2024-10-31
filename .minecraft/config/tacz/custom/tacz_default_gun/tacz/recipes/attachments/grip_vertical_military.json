@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 14
-    },
-    {
-      "item": {
-        "tag": "forge:leather"
-      },
-      "count": 5
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:grip_vertical_military"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:71136d5c1579c3bdd45062ac5f7e5a44c1dd676420a2f5a36ca269745e8e2efe
+size 285

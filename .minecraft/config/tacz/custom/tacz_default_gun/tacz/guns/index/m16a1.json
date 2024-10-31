@@ -1,8 +1,3 @@
-{
-  "name": "tacz.gun.m16a1.name",
-  "display": "tacz:m16a1_display",
-  "data": "tacz:m16a1_data",
-  "type": "rifle",
-  "tooltip": "tacz.gun.m16a1.desc",
-  "sort": 3
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd034893de1202058ddcfd5a34f06444688a1260160efec58c508313950715c
+size 167

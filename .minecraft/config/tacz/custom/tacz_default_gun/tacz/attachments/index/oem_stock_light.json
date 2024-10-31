@@ -1,6 +1,3 @@
-{
-  "name": "tacz.attachment.oem_stock_light.name",
-  "display": "tacz:oem_stock_light_display",
-  "data": "tacz:oem_stock_light_data",
-  "type": "stock"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8df4bf45edcebc92e27a86420ee9dc3f4d78144b854913f9d654973894a874
+size 155

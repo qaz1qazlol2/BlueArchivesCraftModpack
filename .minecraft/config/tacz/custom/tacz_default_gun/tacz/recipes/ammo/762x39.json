@@ -1,21 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/copper"
-      },
-      "count": 15
-    },
-    {
-      "item": {
-        "tag": "forge:gunpowder"
-      },
-      "count": 3
-    }
-  ],
-  "result": {
-    "type": "ammo",
-    "id": "tacz:762x39",
-    "count": 45
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:482ac398b0c9f773f43cf19d9009eca1bc01d0e0878315af6ed5fcee28933f6a
+size 284

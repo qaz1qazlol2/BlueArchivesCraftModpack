@@ -1,20 +1,3 @@
-{
-  "weight": 0.2,
-  "ads": {
-    "addend": 0.02
-  },
-  "inaccuracy": {
-    "multiplier": 1.1
-  },
-  "aim_inaccuracy": {
-    "multiplier": 0.9
-  },
-  "recoil": {
-    "pitch": {
-      "multiplier": 0.85
-    },
-    "yaw": {
-      "multiplier": 0.8
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bedab3a93bc9b22eb6a4995f50bff2bd07282e34fb8db3e48034bd81bec2e441
+size 257

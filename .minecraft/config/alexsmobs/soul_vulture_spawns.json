@@ -1,25 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:soul_sand_valley"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:warped_desert"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "incendium:weeping_valley"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d31a209011d02c4cb98a047fab3aba42f50a4b45a82c54361f17242d603d6be
+size 408

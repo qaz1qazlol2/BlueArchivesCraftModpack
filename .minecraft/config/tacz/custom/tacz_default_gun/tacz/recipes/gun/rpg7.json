@@ -1,32 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 70
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 4
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 10
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:rpg7"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:120f1956f1ebf6756a8f938d7db95585769bc6358d69fe05876ebca11a10ed09
+size 441

@@ -1,9 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/muzzle_silence_mirage",
-  "model": "tacz:attachment/muzzle_silence_mirage_geo",
-  "texture": "tacz:attachment/uv/muzzle_silence_mirage",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c0a03f4e1e35c3cfa94746e248da259042623ae5e80864f5dbab0b215daa0b
+size 291

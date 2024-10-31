@@ -1,10 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/bayonet_6h3",
-  "model": "tacz:attachment/bayonet_6h3",
-  "texture": "tacz:attachment/uv/bayonet_6h3",
-  "show_muzzle": true,
-  "sounds": {
-    "install": "tacz:attachments/bayonet_install",
-    "uninstall": "tacz:attachments/bayonet_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cada13766a4b9309d76296b6397fcc7f6b2ab7b75cda5e235dacf85c6031f7b3
+size 284

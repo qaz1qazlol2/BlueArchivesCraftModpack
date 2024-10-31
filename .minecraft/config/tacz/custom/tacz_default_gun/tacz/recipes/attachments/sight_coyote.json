@@ -1,26 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/redstone"
-      },
-      "count": 4
-    },
-    {
-      "item": {
-        "tag": "forge:glass"
-      },
-      "count": 2
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:sight_coyote"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f853198e096925f9ee540035faefeb61f8d99255265aafa1a7552c5d29fc6e5
+size 365

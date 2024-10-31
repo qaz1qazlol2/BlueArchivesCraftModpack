@@ -1,22 +1,3 @@
-{
-  "biomes": [
-    {
-      "biome": "default",
-      "spawn_info": {
-        "spawn_rate": 5,
-        "min_count": 1,
-        "max_count": 1
-      }
-    },
-    {
-      "biome": "minecraft:crimson_forest",
-      "spawn_info": {
-        "spawn_rate": 1,
-        "min_count": 1,
-        "max_count": 1,
-        "energy_budget": 2.0,
-        "charge": 0.4
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97caea040855be670e81f272a3f680ae39e1c32ea20610c279ca1d67b9541324
+size 372

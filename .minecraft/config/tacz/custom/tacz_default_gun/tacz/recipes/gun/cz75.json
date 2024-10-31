@@ -1,14 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 17
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:cz75"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b82dc52b3f90418ab74992284c7eb0fbf9f5884fab46d1545595495062e4596
+size 174

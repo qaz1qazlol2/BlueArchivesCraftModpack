@@ -1,11 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "end"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:144a53490341d52ff287eed83dc73ec0b5baf081a20bc765c99dbffa92e0976e
+size 127

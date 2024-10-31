@@ -1,32 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 14
-    },
-    {
-      "item": {
-        "tag": "forge:gems/amethyst"
-      },
-      "count": 4
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/glowstone"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/redstone"
-      },
-      "count": 6
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:scope_lpvo_1_6"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d5806d27e10285f8f180d11c2ab615a5036d6c065e3371913b0d1626294902d
+size 470

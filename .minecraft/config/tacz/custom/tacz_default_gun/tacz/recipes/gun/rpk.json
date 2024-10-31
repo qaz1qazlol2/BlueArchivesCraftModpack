@@ -1,35 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 56
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:gems/quartz"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 12
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:rpk",
-    "attachments": {
-      "stock": "tacz:oem_stock_heavy"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ce999510945066bafcfa84ce7026d19dfe7bd0638929e4b847232b32047cbd4
+size 507

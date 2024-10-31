@@ -1,26 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 32
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 6
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:m16a1"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72a16ca4d224335e4b84424ac01d6b8c83b7ad5c72a8dfcc92d31e6126aba281
+size 351

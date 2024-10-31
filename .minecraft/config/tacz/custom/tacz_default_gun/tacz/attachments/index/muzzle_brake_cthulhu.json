@@ -1,6 +1,3 @@
-{
-  "name": "tacz.attachment.muzzle_brake_cthulhu.name",
-  "display": "tacz:muzzle_brake_cthulhu_display",
-  "data": "tacz:muzzle_brake_cthulhu_data",
-  "type": "muzzle"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e808c0f2233fb3a92696c8ffe6522a8ac3d724b415d2312b604df86d6313f31
+size 171

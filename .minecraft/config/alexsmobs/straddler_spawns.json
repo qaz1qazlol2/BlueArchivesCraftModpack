@@ -1,32 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:basalt_deltas"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "biomesoplenty:withered_abyss"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "incendium:volcanic_deltas"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "incendium:withered_forest"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c658a4dd2b531486bc329f5f399332a7ac2b5077cd5948aa88e172fa7bd2308
+size 549

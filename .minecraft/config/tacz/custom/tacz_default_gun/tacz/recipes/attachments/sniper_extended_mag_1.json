@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 18
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 6
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:sniper_extended_mag_1"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:517d0ecf98c6ff2b24786ec7a2d7a4a78b1a9191914ae5ab5a81c8b316826089
+size 288

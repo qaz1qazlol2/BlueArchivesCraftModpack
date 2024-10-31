@@ -1,7 +1,3 @@
-{
-  "name": "tacz.gun.m95.name",
-  "display": "tacz:m95_display",
-  "data": "tacz:m95_data",
-  "tooltip": "tacz.gun.m95.desc",
-  "type": "sniper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:869e08f7a3595a0f18e257f54202a00a19fe0cfab1853d4a3679e056fe3574b6
+size 147

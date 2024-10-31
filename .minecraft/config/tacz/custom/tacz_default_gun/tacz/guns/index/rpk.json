@@ -1,9 +1,3 @@
-{
-  "name": "tacz.gun.rpk.name",
-  "display": "tacz:rpk_display",
-  "data": "tacz:rpk_data",
-  "tooltip": "tacz.gun.rpk.desc",
-  "type": "mg",
-  "item_type": "modern_kinetic",
-  "sort": 2
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd51eeabcdac2f5397ec9031a917d69c5ee32f3e15c119d0cc78f8182391ee4
+size 189

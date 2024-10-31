@@ -1,33 +1,3 @@
-{
-  "configVersion": 5,
-  "renderNametagsThroughWalls": true,
-  "blockEntityWhitelist": [
-    "create:rope_pulley",
-    "botania:flame_ring",
-    "minecraft:beacon",
-    "create:hose_pulley",
-    "betterend:eternal_pedestal",
-    "botania:magic_missile",
-    "botania:falling_star"
-  ],
-  "entityWhitelist": [
-    "botania:mana_burst"
-  ],
-  "tracingDistance": 128,
-  "debugMode": false,
-  "sleepDelay": 10,
-  "hitboxLimit": 50,
-  "skipMarkerArmorStands": true,
-  "tickCulling": true,
-  "tickCullingWhitelist": [
-    "create:contraption",
-    "create:stationary_contraption",
-    "create:gantry_contraption",
-    "minecraft:boat",
-    "minecraft:firework_rocket",
-    "create:carriage_contraption"
-  ],
-  "disableF3": false,
-  "skipEntityCulling": false,
-  "skipBlockEntityCulling": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d
+size 790

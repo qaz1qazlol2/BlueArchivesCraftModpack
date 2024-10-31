@@ -1,26 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 15
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 50
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 6
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:m320"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f8a2afe636b9f887f0745c63fcaaa9b086294ef82d2d8e946edd8eba3535cb0
+size 354

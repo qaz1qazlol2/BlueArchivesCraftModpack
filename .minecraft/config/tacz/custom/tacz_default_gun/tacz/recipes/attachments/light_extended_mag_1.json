@@ -1,14 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 8
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:light_extended_mag_1"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8476f0a3e3c070c239a8c6deb86db0be582c004c0bbff27271c5665ee3b731
+size 196

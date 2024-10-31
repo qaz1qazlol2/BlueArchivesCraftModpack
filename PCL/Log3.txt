@@ -1,417 +1,109 @@
-[19:05:34.760] [Start] 程序版本：Release 2.8.9 (342)
-[19:05:34.762] [Start] 识别码：712D-9B9A-A493-CAD4
-[19:05:34.762] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
-[19:05:34.762] [Start] 系统编码：gb2312 (936, GBK=True)
-[19:05:34.762] [Start] 管理员权限：True
-[19:05:34.776] [Start] 第一阶段加载用时：203 ms
-[19:05:35.530] [UI] 页面状态切换为 ContentStay
-[19:05:35.536] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
-[19:05:35.537] [Start] 第二阶段加载用时：688 ms
-[19:05:35.538] [Loader] 加载线程 Minecraft Folder List (5) 已启动
-[19:05:35.557] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
-[19:05:36.419] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
-[19:05:36.448] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
-[19:05:36.451] [Start] 加载 DLL：NAudio
-[19:05:36.451] [System] 获取资源：NAudio
-[19:05:36.715] [System] 窗口已置顶，位置：(190, 105), 900 x 550
-[19:05:36.719] [Animation] 动画线程开始
-[19:05:36.719] [Start] 第三阶段加载用时：312 ms
-[19:05:36.720] [Start] 加载 DLL：Json
-[19:05:36.720] [System] 获取资源：Json
-[19:05:36.750] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
-[19:05:36.812] [Java] 缓存中有 6 个可用的 Java：
-[19:05:36.813] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
-[19:05:36.813] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
-[19:05:36.813] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
-[19:05:36.813] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
-[19:05:36.813] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[19:05:36.813] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
-[19:05:36.945] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
-[19:05:36.948] [Loader] 加载线程 Loader Skin Ms (14) 已启动
-[19:05:36.952] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
-[19:05:36.988] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
-[19:05:37.026] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
-[19:05:37.027] [Loader] 加载线程 DlClientList Mojang (16) 已启动
-[19:05:37.027] [Loader] 加载器 PCL 服务 状态改变：Loading
-[19:05:37.028] [Loader] 加载线程 PCL 服务 (17) 已启动
-[19:05:37.028] [Server] 正在连接到 PCL 服务器
-[19:05:37.031] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
-[19:05:37.032] [Page] 实例化：清空自定义主页 UI，来源为空
-[19:05:37.034] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
-[19:05:37.037] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730372737-563689f6-0-c5e3e25e040c8724bee0d871f7d66383，超时 10000ms
-[19:05:37.040] [Loader] 加载器 登录 状态改变：Loading
-[19:05:37.041] [Animation] 两个动画帧间隔 297 ms
-[19:05:37.042] [Loader] 加载线程 登录 (18) 已启动
-[19:05:37.043] [Launch] 登录加载已开始
-[19:05:37.044] [Loader] 加载器 Loader Login Ms 状态改变：Loading
-[19:05:37.045] [Loader] 加载线程 Loader Login Ms (19) 已启动
-[19:05:37.047] [Launch] 登录方式：正版（Cr_IZUMIKun）
-[19:05:37.048] [Launch] 开始微软登录步骤 1/6（刷新登录）
-[19:05:37.052] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
-[19:05:37.065] [Skin] 载入头像成功：Loader Skin Ms
-[19:05:37.224] [Server] 服务器公告：154|341|342|5，无需更新
-[19:05:37.232] [Loader] 加载器 PCL 服务 状态改变：Finished
-[19:05:37.312] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
-[19:05:37.433] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
-[19:05:37.668] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
-[19:05:39.088] [Launch] 开始微软登录步骤 2/6
-[19:05:39.088] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
-[19:05:39.348] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
-[19:05:39.859] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
-[19:05:40.622] [Launch] 开始微软登录步骤 3/6
-[19:05:40.623] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
-[19:05:40.882] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
-[19:05:41.393] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
-[19:05:42.156] [Launch] 开始微软登录步骤 4/6
-[19:05:42.157] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 15000
-[19:05:42.896] [Launch] 开始微软登录步骤 5/6
-[19:05:42.897] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
-[19:05:43.155] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
-[19:05:43.384] [Control] 按下附加按钮：正在播放：Video_1720587401892_20240710_130613_20240710_130633
+[19:36:12.559] [Start] 程序版本：Release 2.8.9 (342)
+[19:36:12.560] [Start] 识别码：712D-9B9A-A493-CAD4
+[19:36:12.560] [Start] 程序路径：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[19:36:12.560] [Start] 系统编码：gb2312 (936, GBK=True)
+[19:36:12.560] [Start] 管理员权限：True
+[19:36:12.572] [Start] 第一阶段加载用时：157 ms
+[19:36:13.176] [UI] 页面状态切换为 ContentStay
+[19:36:13.180] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:36:13.180] [Start] 第二阶段加载用时：547 ms
+[19:36:13.181] [Loader] 加载线程 Minecraft Folder List (5) 已启动
+[19:36:13.197] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:36:13.845] [UI] 加载背景图片：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Pictures\d7b3e1fe48db6292427b457fab67743f.jpg
+[19:36:13.867] [Music] 播放开始：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\PCL\Musics\Video_1720587401892_20240710_130613_20240710_130633.mp3
+[19:36:13.869] [Start] 加载 DLL：NAudio
+[19:36:13.869] [System] 获取资源：NAudio
+[19:36:14.077] [System] 窗口已置顶，位置：(39.5, 18), 1201 x 724
+[19:36:14.079] [Animation] 动画线程开始
+[19:36:14.080] [Start] 第三阶段加载用时：235 ms
+[19:36:14.080] [Start] 加载 DLL：Json
+[19:36:14.080] [System] 获取资源：Json
+[19:36:14.101] [Launch] Minecraft 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
+[19:36:14.140] [Java] 缓存中有 6 个可用的 Java：
+[19:36:14.141] [Java]  - JRE 8 (8.0.51)：C:\Users\Administrator\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[19:36:14.141] [Java]  - JRE 8 (8.0.351)：D:\clients\Minecraft 1.7.20\files\1.8-END\java\bin\
+[19:36:14.141] [Java]  - JRE 8 (8.0.351)：D:\RainbowClient_v0.1.3\.minecraft\versions\1.7.20\1.8-END\java\bin\
+[19:36:14.141] [Java]  - JRE 8 (8.0.431)：C:\Program Files\Java\jre1.8.0_431\bin\
+[19:36:14.141] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
+[19:36:14.141] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
+[19:36:14.239] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[19:36:14.240] [Loader] 加载线程 Loader Skin Ms (14) 已启动
+[19:36:14.243] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[19:36:14.265] [UI] 弹出提示：[调试模式] PCL 正以调试模式运行，这可能会导致性能下降，若无必要请不要开启！
+[19:36:14.296] [Page] 实例化：清空自定义主页 UI，来源为空
+[19:36:14.297] [Minecraft] 启动按钮：Minecraft 版本：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
+[19:36:14.300] [Loader] 加载器 登录 状态改变：Loading
+[19:36:14.302] [Loader] 加载线程 登录 (16) 已启动
+[19:36:14.303] [Launch] 登录加载已开始
+[19:36:14.303] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:36:14.305] [Loader] 加载线程 Loader Login Ms (17) 已启动
+[19:36:14.306] [Animation] 两个动画帧间隔 219 ms
+[19:36:14.306] [Launch] 登录方式：正版（Cr_IZUMIKun）
+[19:36:14.307] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[19:36:14.310] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:36:14.319] [Skin] 载入头像成功：Loader Skin Ms
+[19:36:14.354] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:36:14.355] [Loader] 加载器 PCL 服务 状态改变：Loading
+[19:36:14.355] [Loader] 加载线程 PCL 服务 (21) 已启动
+[19:36:14.355] [Loader] 加载线程 DlClientList Mojang (20) 已启动
+[19:36:14.356] [Server] 正在连接到 PCL 服务器
+[19:36:14.358] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[19:36:14.363] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1730374574-3bed3649-0-4043c8e12bd49652c7644db1c57fd5a1，超时 10000ms
+[19:36:14.425] [Server] 服务器公告：154|341|342|5，无需更新
+[19:36:14.434] [Loader] 加载器 PCL 服务 状态改变：Finished
+[19:36:14.570] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:36:14.689] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:36:14.790] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\启动游戏.exe
+[19:36:15.091] [Control] 按下按钮：版本设置
+[19:36:15.180] [UI] 已触发 PageOnExit
+[19:36:15.180] [UI] 页面状态切换为 PageExit
+[19:36:15.183] [Control] 切换主要页面：VersionSetup, 0
+[19:36:15.211] [UI] 已触发 PageOnExitAnimationFinished
+[19:36:15.211] [UI] 页面状态切换为 Empty
+[19:36:15.374] [UI] 已触发 PageOnEnter
+[19:36:15.374] [UI] 页面状态切换为 ContentEnter
+[19:36:15.867] [UI] 已触发 PageOnEnterAnimationFinished
+[19:36:15.867] [UI] 页面状态切换为 ContentStay
+[19:36:16.096] [Control] 按下单选列表项：Mod 管理
+[19:36:16.182] [UI] 已触发 PageOnExit
+[19:36:16.182] [UI] 页面状态切换为 PageExit
+[19:36:16.238] [UI] 已触发 PageOnForceExit
+[19:36:16.238] [UI] 页面状态切换为 Empty
+[19:36:16.256] [Loader] 加载器 Mod List Loader 状态改变：Loading
+[19:36:16.257] [UI] 已触发 PageLoaderState (Start/Refresh)
+[19:36:16.257] [System] 已刷新 Mod 列表
+[19:36:16.257] [Loader] 加载线程 Mod List Loader (11) 已强制启动
+[19:36:16.268] [UI] 已触发 PageOnEnter
+[19:36:16.268] [UI] 页面状态切换为 LoaderWait
+[19:36:16.455] [UI] 已触发 PageOnLoaderWaitFinished
+[19:36:16.455] [UI] 页面状态切换为 LoaderEnter
+[19:36:16.813] [UI] 已触发 PageOnEnterAnimationFinished
+[19:36:16.813] [UI] 页面状态切换为 LoaderStayForce
+[19:36:17.202] [UI] 已触发 PageOnLoaderStayFinished
+[19:36:17.202] [UI] 页面状态切换为 LoaderStay
+[19:36:17.470] [Control] 按下附加按钮：正在播放：Video_1720587401892_20240710_130613_20240710_130633
 左键暂停，右键重新从头播放。
-[19:05:43.386] [Music] 已暂停播放
-[19:05:43.662] [Launch] 开始微软登录步骤 6/6
-[19:05:43.662] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
-[19:05:43.925] [Launch] 微软登录完成
-[19:05:43.925] [Loader] 加载器 Loader Login Ms 状态改变：Finished
-[19:05:43.937] [Launch] 登录加载已结束
-[19:05:43.937] [Loader] 加载器 登录 状态改变：Finished
-[19:05:44.521] [Report] FPS 52, 动画 5, 下载中 0（0 B/s）
-[19:05:44.677] [Report] FPS 52, 动画 4, 下载中 0（0 B/s）
-[19:05:47.010] [Report] FPS 34, 动画 0, 下载中 0（0 B/s）
-[19:05:47.767] [Control] 按下单选按钮：下载
-[19:05:47.944] [Loader] 加载器 DlClientList Main 状态改变：Loading
-[19:05:47.944] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:05:47.945] [Loader] 加载线程 DlClientList Main (20) 已启动
-[19:05:47.948] [UI] 已触发 PageOnExit
-[19:05:47.948] [UI] 页面状态切换为 PageExit
-[19:05:47.950] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
-[19:05:47.950] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
-[19:05:47.950] [Loader] 加载线程 DlClientList Bmclapi (26) 已启动
-[19:05:47.951] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
-[19:05:47.952] [Control] 切换主要页面：Download, -1
-[19:05:47.972] [Animation] 两个动画帧间隔 203 ms
-[19:05:47.977] [UI] 已触发 PageOnForceExit
-[19:05:47.977] [UI] 页面状态切换为 Empty
-[19:05:47.996] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
-[19:05:47.998] [Loader] 加载线程 DlOptiFineList Main (27) 已启动
-[19:05:47.998] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
-[19:05:48.000] [Loader] 加载线程 DlLiteLoaderList Main (28) 已启动
-[19:05:48.000] [Loader] 加载器 DlFabricList Main 状态改变：Loading
-[19:05:48.001] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
-[19:05:48.002] [Loader] 加载线程 DlOptiFineList Bmclapi (30) 已启动
-[19:05:48.002] [Loader] 加载线程 DlFabricList Main (29) 已启动
-[19:05:48.002] [Loader] 加载器 DlNeoForgeList Main 状态改变：Loading
-[19:05:48.003] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
-[19:05:48.003] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
-[19:05:48.004] [Loader] 加载线程 DlNeoForgeList Main (31) 已启动
-[19:05:48.004] [Loader] 加载线程 DlLiteLoaderList Bmclapi (32) 已启动
-[19:05:48.005] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
-[19:05:48.005] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
-[19:05:48.005] [Loader] 加载线程 DlFabricList Bmclapi (33) 已启动
-[19:05:48.006] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
-[19:05:48.007] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Loading
-[19:05:48.007] [Loader] 加载线程 DlNeoForgeList Bmclapi (35) 已启动
-[19:05:48.012] [Loader] 加载器 源码获取 188# 状态改变：Loading
-[19:05:48.016] [Download] 刷新 Forge 推荐版本缓存开始
-[19:05:48.016] [Loader] 加载器 源码获取 192# 状态改变：Loading
-[19:05:48.023] [Download] 2001866021_187：已加入列表，剩余文件 1
-[19:05:48.025] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 190
-[19:05:48.059] 删除文件夹失败，将在 0.3s 后重试（C:\Users\Administrator\AppData\Local\Temp\PCL\Download）：文件“C:\Users\Administrator\AppData\Local\Temp\PCL\Download”正由另一进程使用，因此该进程无法访问此文件。
-   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   在 System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
-   在 System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
-   在 PCL.ModBase.DeleteDirectory(String Path, Boolean IgnoreIssue)
-错误类型：System.IO.IOException
-[19:05:48.066] [Download] 2001866021_187 205#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/neoforge
-[19:05:48.070] [UI] 已触发 PageOnEnter
-[19:05:48.070] [UI] 页面状态切换为 LoaderWait
-[19:05:48.197] [Download] 2001866021_187 205#：文件大小 29517（28.8 K）
-[19:05:48.199] [Download] 2001866021_187 205#：完成，已下载 29517
-[19:05:48.203] [Download] 2001866021_187：下载结束，从缓存输出文件，长度：29517
-[19:05:48.213] [Download] 2001866021_187：已完成，剩余文件 0
-[19:05:48.213] [Loader] 加载器 源码获取 188# 状态改变：Finished
-[19:05:48.219] [Loader] 加载器 源码获取 217# 状态改变：Loading
-[19:05:48.220] [Download] -1864783943_216：已加入列表，剩余文件 1
-[19:05:48.222] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 219
-[19:05:48.231] [Download] -1864783943_216 221#：开始，起始点 0，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/forge
-[19:05:48.247] [Download] -1864783943_216 221#：文件大小 3509（3.43 K）
-[19:05:48.247] [Download] -1864783943_216 221#：完成，已下载 3509
-[19:05:48.247] [Download] -1864783943_216：下载结束，从缓存输出文件，长度：3509
-[19:05:48.248] [Download] -1864783943_216：已完成，剩余文件 0
-[19:05:48.248] [Loader] 加载器 源码获取 217# 状态改变：Finished
-[19:05:48.249] [UI] 已触发 PageOnLoaderWaitFinished
-[19:05:48.249] [UI] 页面状态切换为 LoaderEnter
-[19:05:48.270] [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Finished
-[19:05:48.277] [Loader] 加载器 DlNeoForgeList Main 状态改变：Finished
-[19:05:48.328] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
-[19:05:48.337] [Loader] 加载器 DlFabricList Main 状态改变：Finished
-[19:05:48.364] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
-[19:05:48.368] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
-[19:05:48.369] [Download] -1798645995_191：已加入列表，剩余文件 1
-[19:05:48.370] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 194
-[19:05:48.398] [Download] -1798645995_191 223#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
-[19:05:48.418] [Download] -1798645995_191 223#：文件大小 52088（50.9 K）
-[19:05:48.432] [Download] -1798645995_191 223#：完成，已下载 52088
-[19:05:48.432] [Download] -1798645995_191：下载结束，从缓存输出文件，长度：52088
-[19:05:48.435] [Download] -1798645995_191：已完成，剩余文件 0
-[19:05:48.435] [Loader] 加载器 源码获取 192# 状态改变：Finished
-[19:05:48.449] [Download] 刷新 Forge 推荐版本缓存成功
-[19:05:48.615] [UI] 已触发 PageOnEnterAnimationFinished
-[19:05:48.615] [UI] 页面状态切换为 LoaderStayForce
-[19:05:48.801] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
-[19:05:48.817] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
-[19:05:48.998] [UI] 已触发 PageOnLoaderStayFinished
-[19:05:48.999] [UI] 页面状态切换为 LoaderStay
-[19:05:49.009] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
-[19:05:49.100] [Control] 按下单选列表项：Mod
-[19:05:49.121] [Loader] 加载器 DlClientList Main 状态改变：Finished
-[19:05:49.177] [Loader] 加载器 CompProject Mod 状态改变：Loading
-[19:05:49.177] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:05:49.178] [UI] 已触发 PageOnExit
-[19:05:49.178] [UI] 页面状态切换为 PageExit
-[19:05:49.178] [Loader] 加载线程 CompProject Mod (23) 已启动
-[19:05:49.181] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:05:49.188] [Comp] 工程列表搜索原始文本：
-[19:05:49.188] [Comp] 工程列表搜索最终文本：
-[19:05:49.191] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0
-[19:05:49.192] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0，超时 5000ms，要求 json
-[19:05:49.192] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
-[19:05:49.192] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，超时 5000ms，要求 json
-[19:05:49.227] [UI] 已触发 PageOnExitAnimationFinished
-[19:05:49.227] [UI] 页面状态切换为 Empty
-[19:05:49.306] [UI] 已触发 PageOnEnter
-[19:05:49.306] [UI] 页面状态切换为 LoaderWait
-[19:05:49.495] [UI] 已触发 PageOnLoaderWaitFinished
-[19:05:49.495] [UI] 页面状态切换为 LoaderEnter
-[19:05:49.901] [UI] 已触发 PageOnEnterAnimationFinished
-[19:05:49.901] [UI] 页面状态切换为 LoaderStayForce
-[19:05:50.348] [UI] 已触发 PageOnLoaderStayFinished
-[19:05:50.348] [UI] 页面状态切换为 LoaderStay
-[19:05:52.417] [Loader] 加载线程 CompProject Mod (23) 已中断
-[19:05:52.417] [Loader] 加载线程 CompProject Mod (24) 已启动
-[19:05:52.417] [Comp] 工程列表搜索原始文本：ipn
-[19:05:52.417] [Comp] 工程列表搜索最终文本：ipn
-[19:05:52.417] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ipn
-[19:05:52.417] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=ipn，超时 5000ms，要求 json
-[19:05:52.418] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]
-[19:05:52.418] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]，超时 5000ms，要求 json
-[19:05:52.643] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 61404 个）
-[19:05:53.374] [Comp] 从 CurseForge 获取到了 2 个工程（已获取 2 个，共 2 个）
-[19:05:54.211] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，超时 20000ms，要求 json
-[19:05:54.212] [Net] 获取网络结果：https://mod.mcimirror.top/modrinth/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]，超时 30000ms，要求 json
-[19:05:54.459] [Comp] 从 Modrinth 获取到了 40 个工程（已获取 40 个，共 30722 个）
-[19:05:57.434] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]，超时 20000ms，要求 json
-[19:06:16.001] [Report] FPS 60, 动画 2, 下载中 0（0 B/s）
-[19:06:17.456] [Net] 获取网络结果：https://mod.mcimirror.top/modrinth/v2/search?limit=40&index=relevance&query=ipn&facets=[["project_type:mod"]]，超时 30000ms，要求 json
-[19:06:18.118] [Comp] 从 Modrinth 获取到了 2 个工程（已获取 2 个，共 2 个）
-[19:06:18.124] [Comp] 去重、筛选后累计新增结果 4 个
-[19:06:18.124] [Comp] 总结果数需求最少 40 个，仅获得了 4 个
-[19:06:18.124] [Comp] 无法继续加载，将强制结束
-[19:06:18.125] [System] 获取资源：ModData
-[19:06:18.232] [Comp] 开始可视化 Mod 列表，已储藏 4 个结果，当前在第 1 页
-[19:06:18.366] [Net] 直接下载文件：https://cdn.modrinth.com/data/JI9IF5oh/3463df6d699cbf1a6052fc5a42a127afa650c907_96.webp
-[19:06:18.366] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/719/568/256/256/638075546562627730.png
-[19:06:18.366] [Net] 直接下载文件：https://media.forgecdn.net/avatars/thumbnails/619/643/256/256/638007578654239063.png
-[19:06:18.366] [Net] 直接下载文件：https://cdn.modrinth.com/data/OPgKEuYO/022faa4db8544cb48ba4da91f486709eecb14d9c_96.webp
-[19:06:18.388] [Loader] 加载器 CompProject Mod 状态改变：Finished
-[19:06:18.398] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:06:18.398] [UI] 页面状态切换为 LoaderExit
-[19:06:18.497] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:18.497] [UI] 页面状态切换为 ContentEnter
-[19:06:18.855] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:18.855] [UI] 页面状态切换为 ContentStay
-[19:06:22.775] [Report] FPS 52, 动画 0, 下载中 0（0 B/s）
-[19:06:31.550] [Loader] 加载器 CompProject Mod 状态改变：Loading
-[19:06:31.550] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:06:31.550] [UI] 页面状态切换为 ContentExit
-[19:06:31.551] [Loader] 加载线程 CompProject Mod (25) 已启动
-[19:06:31.551] [Comp] 工程列表搜索原始文本：libipn
-[19:06:31.551] [Comp] 工程列表搜索最终文本：libipn
-[19:06:31.551] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=libipn
-[19:06:31.551] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=libipn，超时 5000ms，要求 json
-[19:06:31.551] [Comp] 开始从 Modrinth 获取工程列表：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]
-[19:06:31.551] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]，超时 5000ms，要求 json
-[19:06:31.648] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:31.648] [UI] 已触发 PageOnEnter
-[19:06:31.648] [UI] 页面状态切换为 LoaderWait
-[19:06:31.834] [UI] 已触发 PageOnLoaderWaitFinished
-[19:06:31.834] [UI] 页面状态切换为 LoaderEnter
-[19:06:31.890] [Comp] 从 CurseForge 获取到了 1 个工程（已获取 1 个，共 1 个）
-[19:06:32.194] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:32.194] [UI] 页面状态切换为 LoaderStayForce
-[19:06:32.589] [UI] 已触发 PageOnLoaderStayFinished
-[19:06:32.589] [UI] 页面状态切换为 LoaderStay
-[19:06:36.566] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]，超时 20000ms，要求 json
-[19:06:37.362] [Control] 按下按钮：搜索
-[19:06:37.363] [Loader] 加载线程 CompProject Mod (25) 已中断
-[19:06:37.363] [Loader] 加载线程 CompProject Mod (12) 已启动
-[19:06:37.363] [Comp] 工程列表搜索原始文本：libipn
-[19:06:37.363] [Comp] 工程列表搜索最终文本：libipn
-[19:06:37.363] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=libipn
-[19:06:37.363] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=libipn，超时 5000ms，要求 json
-[19:06:37.812] [Comp] 从 CurseForge 获取到了 1 个工程（已获取 1 个，共 1 个）
-[19:06:37.812] [Comp] 去重、筛选后累计新增结果 1 个
-[19:06:37.812] [Comp] 总结果数需求最少 40 个，仅获得了 1 个
-[19:06:37.812] [Comp] 无法继续加载，将强制结束
-[19:06:37.820] [Comp] 开始可视化 Mod 列表，已储藏 1 个结果，当前在第 1 页
-[19:06:37.855] [Loader] 加载器 CompProject Mod 状态改变：Finished
-[19:06:37.869] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:06:37.869] [UI] 页面状态切换为 LoaderExit
-[19:06:37.961] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:37.961] [UI] 页面状态切换为 ContentEnter
-[19:06:38.329] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:38.329] [UI] 页面状态切换为 ContentStay
-[19:06:38.995] [Loader] 加载器 Comp File 状态改变：Loading
-[19:06:38.995] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:06:38.996] [UI] 已触发 PageOnExit
-[19:06:38.996] [UI] 页面状态切换为 PageExit
-[19:06:38.996] [Control] 切换主要页面：CompDetail, 0
-[19:06:38.996] [Control] 按下资源工程列表项：libIPN
-[19:06:38.997] [Loader] 加载线程 Comp File (34) 已启动
-[19:06:39.000] [Comp] 开始获取文件列表：679177
-[19:06:39.001] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
-[19:06:39.128] [UI] 已触发 PageOnForceExit
-[19:06:39.128] [UI] 页面状态切换为 Empty
-[19:06:39.190] [UI] 已触发 PageOnEnter
-[19:06:39.194] [UI] 页面状态切换为 LoaderWait
-[19:06:39.390] [UI] 已触发 PageOnLoaderWaitFinished
-[19:06:39.390] [UI] 页面状态切换为 LoaderEnter
-[19:06:39.774] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:39.774] [UI] 页面状态切换为 LoaderStayForce
-[19:06:39.881] [Comp] 679177 文件列表中还需要获取信息的前置 Mod：308769，351264，357178
-[19:06:39.881] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 5000
-[19:06:40.175] [UI] 已触发 PageOnLoaderStayFinished
-[19:06:40.175] [UI] 页面状态切换为 LoaderStay
-[19:06:40.667] [Loader] 加载器 Comp File 状态改变：Finished
-[19:06:40.671] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:06:40.671] [UI] 页面状态切换为 LoaderExit
-[19:06:40.779] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:40.779] [UI] 页面状态切换为 ContentEnter
-[19:06:42.375] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:42.375] [UI] 页面状态切换为 ContentStay
-[19:06:43.928] [Control] 展开卡片：1.18.2
-[19:06:45.503] [Control] 按下单击列表项：libIPN-forge-1.18.2-4.0.2
-[19:06:45.506] [Comp] 允许 Forge：True，允许 Fabric：False
-[19:06:45.507] [Comp] 使用当前版本的 mods 文件夹作为默认下载位置（蔚蓝档案，启动！）
-[19:06:45.878] [Animation] 两个动画帧间隔 360 ms
-[19:06:46.366] [Animation] 两个动画帧间隔 250 ms
-[19:06:46.464] [Animation] 两个动画帧间隔 250 ms
-[19:06:47.999] [UI] 选择文件返回：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\mods\libIPN-forge-1.18.2-4.0.2.jar
-[19:06:48.001] [Loader] 加载器 Mod 下载：libIPN-forge-1.18.2-4.0.2  状态改变：Loading
-[19:06:48.002] [Taskbar] Mod 下载：libIPN-forge-1.18.2-4.0.2  已加入任务列表
-[19:06:48.004] [Loader] 加载器 下载文件 状态改变：Loading
-[19:06:48.005] [Download] libIPN-forge-1.18.2-4.0.2.jar：已加入列表，剩余文件 1
-[19:06:48.006] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 667
-[19:06:48.008] [Download] 复制已存在的文件（D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.4版-手机版\.minecraft\mods\libIPN-forge-1.18.2-4.0.2.jar）
-[19:06:48.009] [Loader] 加载器 下载文件 状态改变：Finished
-[19:06:48.009] [Loader] 加载器 Mod 下载：libIPN-forge-1.18.2-4.0.2  状态改变：Finished
-[19:06:48.016] [Animation] 两个动画帧间隔 297 ms
-[19:06:48.067] [UI] 弹出提示：Mod 下载：libIPN-forge-1.18.2-4.0.2 成功！
-[19:06:48.068] [Taskbar] Mod 下载：libIPN-forge-1.18.2-4.0.2  已移出任务列表
-[19:06:49.611] [Control] 按下图标按钮：BtnTitleInner
-[19:06:49.616] [UI] 已触发 PageOnExit
-[19:06:49.616] [UI] 页面状态切换为 PageExit
-[19:06:49.616] [Control] 切换主要页面：Download, -1
-[19:06:49.751] [UI] 已触发 PageOnForceExit
-[19:06:49.751] [UI] 页面状态切换为 Empty
-[19:06:49.799] [UI] 已触发 PageOnEnter
-[19:06:49.799] [UI] 页面状态切换为 ContentEnter
-[19:06:50.214] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:50.214] [UI] 页面状态切换为 ContentStay
-[19:06:56.576] [Net] 获取网络结果：https://mod.mcimirror.top/modrinth/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]，超时 30000ms，要求 json
-[19:06:56.576] [Net] 获取网络结果：https://api.modrinth.com/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]，超时 60000ms，要求 json
-[19:06:56.732] [Loader] 加载器 CompProject Mod 状态改变：Loading
-[19:06:56.732] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:06:56.732] [UI] 页面状态切换为 ContentExit
-[19:06:56.732] [Loader] 加载线程 CompProject Mod (40) 已启动
-[19:06:56.732] [Comp] 工程列表搜索原始文本：inventory
-[19:06:56.732] [Comp] 工程列表搜索最终文本：inventory
-[19:06:56.732] [Comp] 开始从 CurseForge 获取工程列表：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventory
-[19:06:56.732] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6&categoryId=0&searchFilter=inventory，超时 5000ms，要求 json
-[19:06:56.834] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:56.834] [UI] 已触发 PageOnEnter
-[19:06:56.834] [UI] 页面状态切换为 LoaderWait
-[19:06:57.022] [UI] 已触发 PageOnLoaderWaitFinished
-[19:06:57.022] [UI] 页面状态切换为 LoaderEnter
-[19:06:57.382] [UI] 已触发 PageOnEnterAnimationFinished
-[19:06:57.382] [UI] 页面状态切换为 LoaderStayForce
-[19:06:57.773] [UI] 已触发 PageOnLoaderStayFinished
-[19:06:57.773] [UI] 页面状态切换为 LoaderStay
-[19:06:59.464] [Comp] 从 CurseForge 获取到了 40 个工程（已获取 40 个，共 153 个）
-[19:06:59.465] [Comp] 去重、筛选后累计新增结果 40 个
-[19:06:59.474] [Comp] 开始可视化 Mod 列表，已储藏 40 个结果，当前在第 1 页
-[19:06:59.631] [Loader] 加载器 CompProject Mod 状态改变：Finished
-[19:06:59.806] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:06:59.806] [UI] 页面状态切换为 LoaderExit
-[19:06:59.819] [Animation] 两个动画帧间隔 203 ms
-[19:06:59.837] [UI] 已触发 PageOnExitAnimationFinished
-[19:06:59.837] [UI] 页面状态切换为 ContentEnter
-[19:07:00.239] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:00.239] [UI] 页面状态切换为 ContentStay
-[19:07:13.050] 下载图片可重试地失败（https://cdn.modrinth.com/data/OPgKEuYO/022faa4db8544cb48ba4da91f486709eecb14d9c_96.webp）：直接下载文件失败（https://cdn.modrinth.com/data/OPgKEuYO/022faa4db8544cb48ba4da91f486709eecb14d9c_96.webp）。
-→ 基础连接已经关闭: 接收时发生错误。
-→ 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
-→ 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
-   在 PCL.ModNet.NetDownload(String Url, String LocalFile, Boolean UseBrowserUserAgent)
-   在 PCL.MyImage._Closure$__24-0._Lambda$__0()
-   在 System.Net.WebClient.DownloadFile(Uri address, String fileName)
-   在 PCL.ModNet.NetDownload(String Url, String LocalFile, Boolean UseBrowserUserAgent)
-   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-   在 System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
-   在 System.Net.Security._SslStream.StartFrameHeader(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security._SslStream.StartReading(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security._SslStream.ProcessRead(Byte[] buffer, Int32 offset, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.TlsStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-   在 System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-   在 System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
-   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-错误类型：System.Net.Sockets.SocketException
-[19:07:17.389] [UI] 已触发 PageOnExit
-[19:07:17.389] [UI] 页面状态切换为 PageExit
-[19:07:17.390] [Control] 切换主要页面：CompDetail, 0
-[19:07:17.390] [Control] 按下资源工程列表项：一键背包整理Next
-[19:07:17.536] [UI] 已触发 PageOnForceExit
-[19:07:17.536] [UI] 页面状态切换为 Empty
-[19:07:17.581] [UI] 已触发 PageOnEnter
-[19:07:17.582] [Loader] 加载器 Comp File 状态改变：Loading
-[19:07:17.582] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:07:17.582] [Loader] 加载线程 Comp File (25) 已强制启动
-[19:07:17.582] [Comp] 开始获取文件列表：495267
-[19:07:17.582] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
-[19:07:17.585] [UI] 页面状态切换为 LoaderWait
-[19:07:17.788] [UI] 已触发 PageOnLoaderWaitFinished
-[19:07:17.788] [UI] 页面状态切换为 LoaderEnter
-[19:07:18.199] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:18.199] [UI] 页面状态切换为 LoaderStayForce
-[19:07:18.432] [Loader] 加载器 Comp File 状态改变：Finished
-[19:07:18.433] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:07:18.592] [UI] 已触发 PageOnLoaderStayFinished
-[19:07:18.592] [UI] 页面状态切换为 LoaderExit
-[19:07:18.691] [UI] 已触发 PageOnExitAnimationFinished
-[19:07:18.691] [UI] 页面状态切换为 ContentEnter
-[19:07:19.528] 下载图片可重试地失败（https://cdn.modrinth.com/data/JI9IF5oh/3463df6d699cbf1a6052fc5a42a127afa650c907_96.webp）：直接下载文件失败（https://cdn.modrinth.com/data/JI9IF5oh/3463df6d699cbf1a6052fc5a42a127afa650c907_96.webp）。
+[19:36:17.471] [Music] 已暂停播放
+[19:36:18.471] [Mod] 共有 228 个 Mod，其中 3 个需要联网获取信息，0 个需要更新信息
+[19:36:18.494] [Loader] 加载器 Mod List Detail Loader 状态改变：Loading
+[19:36:18.496] [Loader] 加载线程 Mod List Detail Loader (24) 已强制启动
+[19:36:18.497] [Mod] 目标加载器：Forge，版本：1.18.2
+[19:36:18.505] [Net] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 5000
+[19:36:18.511] [System] 获取资源：ModData
+[19:36:18.591] [Start] 加载 DLL：Imazen.WebP
+[19:36:18.591] [System] 获取资源：Imazen_WebP
+[19:36:18.591] [System] 获取资源：libwebp64
+[19:36:18.660] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/fingerprints/432），最大超时 5000
+[19:36:18.891] NetRequestOnce 失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+网络请求失败（SendFailure，基础连接已经关闭: 发送时发生错误。，https://login.live.com/oauth20_token.srf）
+————————————
+详细错误信息：
 → 基础连接已经关闭: 发送时发生错误。
-→ 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
-→ 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
-   在 PCL.ModNet.NetDownload(String Url, String LocalFile, Boolean UseBrowserUserAgent)
-   在 PCL.MyImage._Closure$__24-0._Lambda$__0()
-   在 System.Net.WebClient.DownloadFile(Uri address, String fileName)
-   在 PCL.ModNet.NetDownload(String Url, String LocalFile, Boolean UseBrowserUserAgent)
-   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-   在 System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
-   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
-   在 System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+→ 由于远程方已关闭传输流，身份验证失败。
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
    在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
    在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
    在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
@@ -423,362 +115,177 @@
    在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
    在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
    在 System.Net.ConnectStream.WriteHeaders(Boolean async)
-   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
-错误类型：System.Net.Sockets.SocketException
-[19:07:20.278] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:20.278] [UI] 页面状态切换为 ContentStay
-[19:07:21.126] [Control] 展开卡片：1.18.2
-[19:07:23.260] [Report] FPS 62, 动画 6, 下载中 0（0 B/s）
-[19:07:23.912] [Comp] 记录当前已展开的卡片：1.18.2
-[19:07:23.912] [UI] 已触发 PageOnExit
-[19:07:23.912] [UI] 页面状态切换为 PageExit
-[19:07:23.912] [Control] 切换主要页面：CompDetail, 0
-[19:07:23.912] [Control] 按下资源工程列表项：Kotlin for Forge
-[19:07:24.052] [UI] 已触发 PageOnForceExit
-[19:07:24.052] [UI] 页面状态切换为 Empty
-[19:07:24.099] [UI] 已触发 PageOnEnter
-[19:07:24.099] [Loader] 加载器 Comp File 状态改变：Loading
-[19:07:24.099] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:07:24.099] [Loader] 加载线程 Comp File (23) 已强制启动
-[19:07:24.099] [Comp] 开始获取文件列表：351264
-[19:07:24.099] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 5000
-[19:07:24.104] [UI] 页面状态切换为 LoaderWait
-[19:07:24.297] [UI] 已触发 PageOnLoaderWaitFinished
-[19:07:24.297] [UI] 页面状态切换为 LoaderEnter
-[19:07:24.612] [Report] FPS 60, 动画 3, 下载中 0（0 B/s）
-[19:07:24.683] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:24.683] [UI] 页面状态切换为 LoaderStayForce
-[19:07:24.867] [Loader] 加载器 Comp File 状态改变：Finished
-[19:07:24.873] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:07:25.088] [UI] 已触发 PageOnLoaderStayFinished
-[19:07:25.088] [UI] 页面状态切换为 LoaderExit
-[19:07:25.189] [UI] 已触发 PageOnExitAnimationFinished
-[19:07:25.189] [UI] 页面状态切换为 ContentEnter
-[19:07:26.627] [Report] FPS 62, 动画 20, 下载中 0（0 B/s）
-[19:07:26.997] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:26.997] [UI] 页面状态切换为 ContentStay
-[19:07:27.488] [Control] 展开卡片：1.18.2
-[19:07:28.176] [Control] 按下单击列表项：Kotlin for Forge 3.12.0
-[19:07:28.176] [Comp] 允许 Forge：True，允许 Fabric：False
-[19:07:28.176] [Comp] 使用上次下载时的文件夹作为默认下载位置
-[19:07:28.426] [Animation] 两个动画帧间隔 234 ms
-[19:07:30.148] [UI] 选择文件返回：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\mods\kotlinforforge-3.12.0-all.jar
-[19:07:30.148] [Loader] 加载器 Mod 下载：kotlinforforge-3.12.0-all  状态改变：Loading
-[19:07:30.149] [Taskbar] Mod 下载：kotlinforforge-3.12.0-all  已加入任务列表
-[19:07:30.149] [Loader] 加载器 下载文件 状态改变：Loading
-[19:07:30.149] [Download] kotlinforforge-3.12.0-all.jar：已加入列表，剩余文件 1
-[19:07:30.150] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 1131
-[19:07:30.160] [Animation] 两个动画帧间隔 281 ms
-[19:07:30.180] [Download] 复制已存在的文件（D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.4版-手机版\.minecraft\mods\kotlinforforge-3.12.0-all.jar）
-[19:07:30.184] [Loader] 加载器 下载文件 状态改变：Finished
-[19:07:30.186] [Loader] 加载器 Mod 下载：kotlinforforge-3.12.0-all  状态改变：Finished
-[19:07:30.210] [UI] 弹出提示：Mod 下载：kotlinforforge-3.12.0-all 成功！
-[19:07:30.210] [Taskbar] Mod 下载：kotlinforforge-3.12.0-all  已移出任务列表
-[19:07:30.999] [Control] 按下图标按钮：BtnTitleInner
-[19:07:30.999] [UI] 已触发 PageOnExit
-[19:07:30.999] [UI] 页面状态切换为 PageExit
-[19:07:30.999] [Control] 切换主要页面：CompDetail, -1
-[19:07:31.132] [UI] 已触发 PageOnForceExit
-[19:07:31.132] [UI] 页面状态切换为 Empty
-[19:07:31.167] [UI] 已触发 PageOnEnter
-[19:07:31.168] [Loader] 加载器 Comp File 状态改变：Loading
-[19:07:31.168] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:07:31.168] [Loader] 加载线程 Comp File (12) 已强制启动
-[19:07:31.171] [UI] 页面状态切换为 LoaderWait
-[19:07:31.225] [Loader] 加载器 Comp File 状态改变：Finished
-[19:07:31.228] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:07:31.228] [UI] 页面状态切换为 ContentEnter
-[19:07:31.817] [Report] FPS 60, 动画 46, 下载中 0（0 B/s）
-[19:07:32.889] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:32.889] [UI] 页面状态切换为 ContentStay
-[19:07:34.152] [Comp] 记录当前已展开的卡片：1.18.2
-[19:07:34.152] [UI] 已触发 PageOnExit
-[19:07:34.152] [UI] 页面状态切换为 PageExit
-[19:07:34.153] [Control] 切换主要页面：CompDetail, 0
-[19:07:34.153] [Control] 按下资源工程列表项：libIPN
-[19:07:34.308] [UI] 已触发 PageOnForceExit
-[19:07:34.308] [UI] 页面状态切换为 Empty
-[19:07:34.334] [UI] 已触发 PageOnEnter
-[19:07:34.334] [Loader] 加载器 Comp File 状态改变：Loading
-[19:07:34.334] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:07:34.334] [Loader] 加载线程 Comp File (34) 已强制启动
-[19:07:34.344] [UI] 页面状态切换为 LoaderWait
-[19:07:34.395] [Loader] 加载器 Comp File 状态改变：Finished
-[19:07:34.396] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:07:34.396] [UI] 页面状态切换为 ContentEnter
-[19:07:36.043] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:36.043] [UI] 页面状态切换为 ContentStay
-[19:07:37.152] [Control] 展开卡片：1.18.2
-[19:07:39.145] [Control] 按下单击列表项：libIPN-forge-1.18.2-4.0.2
-[19:07:39.145] [Comp] 允许 Forge：True，允许 Fabric：False
-[19:07:39.145] [Comp] 使用上次下载时的文件夹作为默认下载位置
-[19:07:39.403] [Animation] 两个动画帧间隔 234 ms
-[19:07:39.872] [Animation] 两个动画帧间隔 250 ms
-[19:07:39.969] [Animation] 两个动画帧间隔 219 ms
-[19:07:40.232] [Report] FPS 8, 动画 0, 下载中 0（0 B/s）
-[19:07:41.813] [UI] 选择文件返回：
-[19:07:41.827] [Animation] 两个动画帧间隔 219 ms
-[19:07:41.916] [UI] 已触发 PageOnExit
-[19:07:41.916] [UI] 页面状态切换为 PageExit
-[19:07:41.919] [Control] 切换主要页面：CompDetail, -1
-[19:07:42.045] [UI] 已触发 PageOnForceExit
-[19:07:42.045] [UI] 页面状态切换为 Empty
-[19:07:42.076] [UI] 已触发 PageOnEnter
-[19:07:42.076] [Loader] 加载器 Comp File 状态改变：Loading
-[19:07:42.076] [UI] 已触发 PageLoaderState (Start/Refresh)
-[19:07:42.077] [Loader] 加载线程 Comp File (12) 已强制启动
-[19:07:42.079] [UI] 页面状态切换为 LoaderWait
-[19:07:42.137] [Loader] 加载器 Comp File 状态改变：Finished
-[19:07:42.137] [UI] 已触发 PageLoaderState (Stop/Abort)
-[19:07:42.137] [UI] 页面状态切换为 ContentEnter
-[19:07:42.482] [Report] FPS 38, 动画 26, 下载中 0（0 B/s）
-[19:07:43.765] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:43.765] [UI] 页面状态切换为 ContentStay
-[19:07:44.734] [Control] 按下单击列表项：Inventory Profiles Next-forge-1.18.2-1.10.11
-[19:07:44.734] [Comp] 允许 Forge：True，允许 Fabric：False
-[19:07:44.734] [Comp] 使用上次下载时的文件夹作为默认下载位置
-[19:07:45.979] [Report] FPS 24, 动画 0, 下载中 0（0 B/s）
-[19:07:46.684] [UI] 选择文件返回：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\mods\[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:46.684] [Loader] 加载器 Mod 下载：[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11  状态改变：Loading
-[19:07:46.685] [Taskbar] Mod 下载：[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11  已加入任务列表
-[19:07:46.685] [Loader] 加载器 下载文件 状态改变：Loading
-[19:07:46.685] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar：已加入列表，剩余文件 1
-[19:07:46.686] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 1518
-[19:07:46.690] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1528#：开始，起始点 0，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:46.847] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1528#：文件大小 1440816（1.37 M）
-[19:07:46.875] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1534#：开始，起始点 871042，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:46.905] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1535#：开始，起始点 529178，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:47.334] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1539#：开始，起始点 1219459，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:47.342] [Control] 按下图标按钮：BtnTitleInner
-[19:07:47.342] [UI] 已触发 PageOnExit
-[19:07:47.342] [UI] 页面状态切换为 PageExit
-[19:07:47.342] [Control] 切换主要页面：Download, -1
-[19:07:47.365] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1550#：开始，起始点 376488，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:47.498] [UI] 已触发 PageOnForceExit
-[19:07:47.498] [UI] 页面状态切换为 Empty
-[19:07:47.565] [UI] 已触发 PageOnEnter
-[19:07:47.565] [UI] 页面状态切换为 ContentEnter
-[19:07:47.595] [Download] 速度下限已提升到 290 K
-[19:07:47.610] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1578#：开始，起始点 740574，https://media.forgecdn.net/files/5806/366/InventoryProfilesNext-forge-1.18.2-1.10.11.jar
-[19:07:47.688] [Download] 速度下限已提升到 304 K
-[19:07:47.781] [Download] 速度下限已提升到 333 K
-[19:07:47.873] [Download] 速度下限已提升到 405 K
-[19:07:47.965] [Download] 速度下限已提升到 463 K
-[19:07:48.013] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:48.013] [UI] 页面状态切换为 ContentStay
-[19:07:48.100] [Report] FPS 56, 动画 1, 下载中 1（301 K/s）
-[19:07:48.149] [Download] 速度下限已提升到 535 K
-[19:07:48.167] [Control] 按下单选按钮：启动
-[19:07:48.167] [UI] 已触发 PageOnExit
-[19:07:48.167] [UI] 页面状态切换为 PageExit
-[19:07:48.168] [Control] 切换主要页面：Launch, -1
-[19:07:48.321] [UI] 已触发 PageOnForceExit
-[19:07:48.321] [UI] 页面状态切换为 Empty
-[19:07:48.368] [UI] 已触发 PageOnEnter
-[19:07:48.368] [UI] 页面状态切换为 ContentEnter
-[19:07:48.548] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1535#：完成，已下载 211396
-[19:07:48.584] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1528#：完成，已下载 376488
-[19:07:48.625] [Download] 速度下限已提升到 565 K
-[19:07:48.665] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1534#：完成，已下载 348417
-[19:07:48.740] [UI] 已触发 PageOnEnterAnimationFinished
-[19:07:48.740] [UI] 页面状态切换为 ContentStay
-[19:07:49.159] [Control] 按下按钮：启动游戏
-[19:07:49.160] [Loader] 加载器 Loader Launch 状态改变：Loading
-[19:07:49.161] [Loader] 加载线程 Loader Launch (23) 已强制启动
-[19:07:49.176] [Launch] 预检测已通过
-[19:07:49.179] [Download] 开始后台检查资源文件索引
-[19:07:49.180] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
-[19:07:49.182] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
-[19:07:49.185] [Loader] 加载线程 后台分析资源文件索引地址 (50) 已启动
-[19:07:49.186] [Loader] 加载器 登录 状态改变：Waiting
-[19:07:49.186] [Loader] 加载器 Minecraft 启动 状态改变：Loading
-[19:07:49.186] [Loader] 加载器 获取 Java 状态改变：Loading
-[19:07:49.186] [Loader] 加载线程 获取 Java (51) 已启动
-[19:07:49.187] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
-[19:07:49.188] [Loader] 加载器 登录 状态改变：Loading
-[19:07:49.188] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
-[19:07:49.189] [Loader] 加载器 补全文件 状态改变：Loading
-[19:07:49.189] [Loader] 加载线程 登录 (52) 已启动
-[19:07:49.191] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
-[19:07:49.191] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
-[19:07:49.191] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
-[19:07:49.191] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
-[19:07:49.191] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
-[19:07:49.191] [Loader] 加载线程 分析缺失支持库文件 (53) 已启动
-[19:07:49.191] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
-[19:07:49.191] [Loader] 加载线程 分析资源文件索引地址 (55) 已启动
-[19:07:49.191] [Download] 1.18.json：已加入列表，剩余文件 2
-[19:07:49.192] [Taskbar] Minecraft 启动 已加入任务列表
-[19:07:49.192] [Download] 版本 蔚蓝档案，启动！ 对应的资源文件索引为 1.18
-[19:07:49.192] [Download] 检查线程分配文件数：1，线程名：NetTask FileCopy 1634
-[19:07:49.192] [Launch] 登录加载已开始
-[19:07:49.192] [Loader] 加载器 Loader Login Ms 状态改变：Loading
-[19:07:49.193] [Loader] 加载线程 Loader Login Ms (57) 已启动
-[19:07:49.193] [Launch] 登录方式：正版（Cr_IZUMIKun）
-[19:07:49.193] [Loader] 加载器 Loader Login Ms 状态改变：Finished
-[19:07:49.205] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\
-[19:07:49.209] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
-[19:07:49.209] [Loader] 加载器 下载资源文件索引 状态改变：Loading
-[19:07:49.209] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
-[19:07:49.209] [Launch] 登录加载已结束
-[19:07:49.209] [Loader] 加载器 登录 状态改变：Finished
-[19:07:49.209] [Loader] 加载器 下载资源文件索引 状态改变：Finished
-[19:07:49.209] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
-[19:07:49.210] [Download] 1.18.json 1652#：开始，起始点 0，https://bmclapi2.bangbang93.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
-[19:07:49.215] [Loader] 加载线程 分析缺失资源文件 (49) 已启动
-[19:07:49.220] [Java] 开始完全遍历查找：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
-[19:07:49.229] [Java] 排序后的 Java 优先顺序：
-[19:07:49.229] [Java]  - JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[19:07:49.229] [Java]  - JDK 21 (21.0.3)：C:\Users\Administrator\AppData\Roaming\LabyMod\runtime\java-runtime-delta\bin\
-[19:07:49.231] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk-17\bin\java.exe -version
-[19:07:49.319] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
-[19:07:49.365] [Java] Java 检查输出：C:\Program Files\Java\jdk-17\bin\java.exe
-java version "17.0.11" 2024-04-16 lts
-java(tm) se runtime environment (build 17.0.11+7-lts-207)
-java hotspot(tm) 64-bit server vm (build 17.0.11+7-lts-207, mixed mode, sharing)
+错误类型：System.IO.IOException
+[19:36:19.042] NetRequestOnce 失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+网络请求失败（SendFailure，基础连接已经关闭: 发送时发生错误。，https://login.live.com/oauth20_token.srf）
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 由于远程方已关闭传输流，身份验证失败。
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[19:36:19.069] 加载线程 Loader Login Ms (17) 发生运行时错误：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+网络请求失败（SendFailure，基础连接已经关闭: 发送时发生错误。，https://login.live.com/oauth20_token.srf）
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 由于远程方已关闭传输流，身份验证失败。
+   在 PCL.ModNet.NetRequestMultiple(String Url, String Method, Object Data, String ContentType, Int32 RequestCount, Dictionary`2 Headers, Boolean MakeLog)
+   在 PCL.ModLaunch.MsLoginStep1Refresh(String Code)
+   在 PCL.ModLaunch.McLoginMsStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[19:36:19.069] [Loader] 加载器 Loader Login Ms 状态改变：Failed
+[19:36:19.084] 加载线程 登录 (16) 发生运行时错误：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+网络请求失败（SendFailure，基础连接已经关闭: 发送时发生错误。，https://login.live.com/oauth20_token.srf）
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 由于远程方已关闭传输流，身份验证失败。
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   在 PCL.ModNet.NetRequestMultiple(String Url, String Method, Object Data, String ContentType, Int32 RequestCount, Dictionary`2 Headers, Boolean MakeLog)
+   在 PCL.ModLaunch.MsLoginStep1Refresh(String Code)
+   在 PCL.ModLaunch.McLoginMsStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+   在 System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+错误类型：System.IO.IOException
+[19:36:19.084] [Loader] 加载器 登录 状态改变：Failed
+[19:36:19.088] [Net] 直接下载文件：https://cdn.modrinth.com/data/ordsPcFz/064b8f129b776eb303f7f8b1a610e21d153c74b9_96.webp
+[19:36:19.115] [Loader] 加载器 Mod List Loader 状态改变：Finished
+[19:36:19.139] [Animation] 两个动画帧间隔 594 ms
+[19:36:19.141] [UI] 已触发 PageLoaderState (Stop/Abort)
+[19:36:19.141] [UI] 页面状态切换为 LoaderExit
+[19:36:19.225] [UI] 已触发 PageOnExitAnimationFinished
+[19:36:19.225] [UI] 页面状态切换为 ContentEnter
+[19:36:19.642] [Mod] 从 CurseForge 获取到 0 个本地 Mod 的对应信息
+[19:36:20.130] [Animation] 两个动画帧间隔 859 ms
+[19:36:20.157] [UI] 已触发 PageOnEnterAnimationFinished
+[19:36:20.158] [UI] 页面状态切换为 ContentStay
+[19:36:21.227] [Report] FPS 54, 动画 4, 下载中 0（0 B/s）
+[19:36:23.515] NetRequestOnce 失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+————————————
+详细错误信息：
+→ 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:36:23.515] [Net] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 20000
+[19:36:29.146] [Report] FPS 64, 动画 5, 下载中 0（0 B/s）
+[19:36:43.538] NetRequestOnce 失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+————————————
+详细错误信息：
+→ 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:36:43.538] [Net] 发起网络请求（POST，https://mod.mcimirror.top/modrinth/v2/version_files），最大超时 30000
+[19:36:43.961] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (404) 未找到。，https://mod.mcimirror.top/modrinth/v2/version_files）
+null
+→ 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:36:43.961] [Net] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 60000
+[19:37:00.766] [Control] 按下图标按钮：BtnTitleInner
+[19:37:00.768] [UI] 已触发 PageOnExit
+[19:37:00.768] [UI] 页面状态切换为 PageExit
+[19:37:00.768] [Control] 切换主要页面：Launch, -1
+[19:37:00.904] [UI] 已触发 PageOnForceExit
+[19:37:00.904] [UI] 页面状态切换为 Empty
+[19:37:00.929] [UI] 已触发 PageOnEnter
+[19:37:00.929] [UI] 页面状态切换为 ContentEnter
+[19:37:01.303] [UI] 已触发 PageOnEnterAnimationFinished
+[19:37:01.304] [UI] 页面状态切换为 ContentStay
+[19:37:22.816] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:37:43.992] NetRequestOnce 失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+————————————
+详细错误信息：
+→ 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:37:43.992] [Net] 发起网络请求（POST，https://mod.mcimirror.top/modrinth/v2/version_files），最大超时 60000
+[19:37:44.104] NetRequestOnce 失败：服务器返回错误（ProtocolError，远程服务器返回错误: (404) 未找到。，https://mod.mcimirror.top/modrinth/v2/version_files）
+null
+→ 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog, Boolean UseBrowserUserAgent)
+错误类型：System.Net.WebException
+[19:37:44.104] 从 Modrinth 获取本地 Mod 信息失败：你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+服务器返回错误（ProtocolError，远程服务器返回错误: (404) 未找到。，https://mod.mcimirror.top/modrinth/v2/version_files）
+null
+连接服务器超时，请检查你的网络环境是否良好（操作超时，https://api.modrinth.com/v2/version_files）
+服务器返回错误（ProtocolError，远程服务器返回错误: (404) 未找到。，https://mod.mcimirror.top/modrinth/v2/version_files）
+null
 
-[19:07:49.365] [Java] 最终选定的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[19:07:49.367] [Launch] 选择的 Java：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[19:07:49.367] [Loader] 加载器 获取 Java 状态改变：Finished
-[19:07:49.620] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
-[19:07:49.624] [Loader] 加载器 下载资源文件 状态改变：Loading
-[19:07:49.624] [Loader] 加载器 下载资源文件 状态改变：Finished
-[19:07:49.624] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
-[19:07:49.684] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
-[19:07:49.687] [Loader] 加载器 下载支持库文件 状态改变：Loading
-[19:07:49.687] [Loader] 加载器 下载支持库文件 状态改变：Finished
-[19:07:49.687] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
-[19:07:49.687] [Loader] 加载器 补全文件 状态改变：Finished
-[19:07:49.688] [Loader] 加载器 获取启动参数 状态改变：Loading
-[19:07:49.689] [Loader] 加载线程 获取启动参数 (38) 已启动
-[19:07:49.691] [Launch] 开始获取 Minecraft 启动参数
-[19:07:49.691] [Launch] 获取新版 JVM 参数
-[19:07:49.696] [Launch] 当前剩余内存：16.4G
-[19:07:49.700] [Java] 选定的 Java Wrapper 路径：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
-[19:07:49.700] [System] 获取资源：JavaWrapper
-[19:07:49.701] [Launch] 新版 JVM 参数获取成功：
-[19:07:49.701] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.7/asm-9.7.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1597m -Xmx10649m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
-[19:07:49.701] [Launch] 获取新版 Game 参数
-[19:07:49.704] [Launch] 新版 Game 参数获取成功
-[19:07:49.706] [Minecraft] 获取支持库列表：蔚蓝档案，启动！
-[19:07:49.713] [Launch] Minecraft 启动参数：
-[19:07:49.714] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=342 -cp "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\logging\1.0.0\logging-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\github\oshi\oshi-core\5.8.5\oshi-core-5.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\slf4j\slf4j-api\1.8.0-beta4\slf4j-api-1.8.0-beta4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j18-impl\2.17.0\log4j-slf4j18-impl-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\ibm\icu\icu4j\70.1\icu4j-70.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\javabridge\1.2.24\javabridge-1.2.24.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\io\netty\netty-all\4.1.68.Final\netty-all-4.1.68.Final.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\datafixerupper\4.1.27\datafixerupper-4.1.27.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\authlib\3.3.39\authlib-3.3.39.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.6\fastutil-8.5.6.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\mojang\text2speech\1.12.4\text2speech-1.12.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\securejarhandler\1.0.8\securejarhandler-1.0.8.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm\9.7\asm-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-commons\9.7\asm-commons-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-tree\9.7\asm-tree-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-util\9.7\asm-util-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7\asm-analysis-9.7.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\eventbus\5.0.3\eventbus-5.0.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\forgespi\4.0.15-4.x\forgespi-4.0.15-4.x.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\modlauncher\9.1.3\modlauncher-9.1.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\apache\maven\maven-artifact\3.6.3\maven-artifact-3.6.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\cpw\mods\bootstraplauncher\1.0.0\bootstraplauncher-1.0.0.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries\net\minecraftforge\fmlloader\1.18.2-40.2.21\fmlloader-1.18.2-40.2.21.jar;D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,蔚蓝档案，启动！.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar,java-objc-bridge-1.0.0.jar -DlibraryDirectory="D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries" -p "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/org/ow2/asm/asm/9.7/asm-9.7.jar;"D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn1597m -Xmx10649m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username Cr_IZUMIKun --version 蔚蓝档案，启动！ --gameDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft" --assetsDir "D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\assets" --assetIndex 1.18 --uuid 7a79c09d831240ccad88378beb9e33ba --accessToken eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************To41g --clientId ${clientid} --xuid ${auth_xuid} --userType msa --width 1918 --height 1019 --launchTarget forgeclient --fml.forgeVersion 40.2.21 --fml.mcVersion 1.18.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220404.173914 
-[19:07:49.714] [Loader] 加载器 获取启动参数 状态改变：Finished
-[19:07:49.714] [Loader] 加载器 解压文件 状态改变：Loading
-[19:07:49.717] [Loader] 加载线程 解压文件 (58) 已启动
-[19:07:49.718] [Launch] 正在解压 Natives 文件
-[19:07:49.741] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl.dll
-[19:07:49.741] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl32.dll
-[19:07:49.743] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc.dll
-[19:07:49.743] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\jemalloc32.dll
-[19:07:49.743] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL.dll
-[19:07:49.744] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\OpenAL32.dll
-[19:07:49.744] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl.dll
-[19:07:49.745] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_opengl32.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\glfw32.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_tinyfd32.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb.dll
-[19:07:49.746] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\lwjgl_stb32.dll
-[19:07:49.747] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x86.dll
-[19:07:49.747] [Launch] 无需解压：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives\SAPIWrapper_x64.dll
-[19:07:49.747] [Loader] 加载器 解压文件 状态改变：Finished
-[19:07:49.779] [Loader] 加载器 预启动处理 状态改变：Loading
-[19:07:49.780] [Loader] 加载线程 预启动处理 (56) 已启动
-[19:07:49.794] [Launch] 已更新 launcher_profiles.json
-[19:07:49.795] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
-[19:07:49.795] [Loader] 加载器 预启动处理 状态改变：Finished
-[19:07:49.843] [Loader] 加载器 执行自定义命令 状态改变：Loading
-[19:07:49.843] [Loader] 加载线程 执行自定义命令 (59) 已启动
-[19:07:49.847] [Loader] 加载器 执行自定义命令 状态改变：Finished
-[19:07:49.896] [Loader] 加载器 启动进程 状态改变：Loading
-[19:07:49.897] [Loader] 加载线程 启动进程 (60) 已启动
-[19:07:49.920] [Launch] 已启动游戏进程：C:\Program Files\Java\jdk-17\bin\javaw.exe
-[19:07:49.920] [Loader] 加载器 启动进程 状态改变：Finished
-[19:07:49.924] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1550#：完成，已下载 152690
-[19:07:49.935] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
-[19:07:49.936] [Loader] 加载线程 等待游戏窗口出现 (61) 已启动
-[19:07:49.941] [Launch] 
-[19:07:49.941] [Launch] ~ 基础参数 ~
-[19:07:49.941] [Launch] PCL 版本：Release 2.8.9 (342)
-[19:07:49.941] [Launch] 游戏版本：1.18.2, Forge 40.2.21 (40020021#)（识别为 1.18.2）
-[19:07:49.941] [Launch] 资源版本：1.18
-[19:07:49.941] [Launch] 版本继承：无
-[19:07:49.942] [Launch] 分配的内存：10.3 GB（10547 MB）
-[19:07:49.942] [Launch] MC 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\
-[19:07:49.942] [Launch] 版本文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\
-[19:07:49.942] [Launch] 版本隔离：False
-[19:07:49.942] [Launch] HMCL 格式：False
-[19:07:49.942] [Launch] Java 信息：JDK 17 (17.0.11)：C:\Program Files\Java\jdk-17\bin\
-[19:07:49.943] [Launch] 环境变量：未设置
-[19:07:49.943] [Launch] Natives 文件夹：D:\Downloads\我的世界x蔚蓝档案冒险整合包 1.5.6版\.minecraft\versions\蔚蓝档案，启动！\蔚蓝档案，启动！-natives
-[19:07:49.943] [Launch] 
-[19:07:49.943] [Launch] ~ 登录参数 ~
-[19:07:49.943] [Launch] 玩家用户名：Cr_IZUMIKun
-[19:07:49.943] [Launch] AccessToken：eyJra**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************To41g
-[19:07:49.943] [Launch] ClientToken：7a79c09d831240ccad88378beb9e33ba
-[19:07:49.943] [Launch] UUID：7a79c09d831240ccad88378beb9e33ba
-[19:07:49.943] [Launch] 登录方式：Microsoft
-[19:07:49.943] [Launch] 
-[19:07:49.945] [Launch] [14060] 开始 Minecraft 日志监控
-[19:07:49.945] [Launch] [全局] 出现运行中的 Minecraft
-[19:07:50.027] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1539#：完成，已下载 221357
-[19:07:50.243] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar 1578#：完成，已下载 130468
-[19:07:50.245] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar：下载结束，开始合并文件
-[19:07:50.251] [Download] [一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11.jar：已完成，剩余文件 1
-[19:07:50.251] [Loader] 加载器 下载文件 状态改变：Finished
-[19:07:50.251] [Loader] 加载器 Mod 下载：[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11  状态改变：Finished
-[19:07:50.372] [UI] 弹出提示：Mod 下载：[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11 成功！
-[19:07:51.846] [Launch] [14060] 日志 1/5：已出现日志输出
-[19:07:55.238] [Download] 1.18.json 1652#：超时（6s）
-[19:07:55.269] [Download] 1.18.json 1704#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
-[19:07:55.511] [Download] 1.18.json 1704#：文件大小 348724（341 K）
-[19:07:55.521] [Download] 1.18.json 1708#：开始，起始点 215511，https://bmclapi2.bangbang93.com/v1/packages/d31a2e85ae149dd1b1a7070b22cb8887892fda6c/1.18.json
-[19:07:55.646] [Download] 1.18.json 1704#：完成，已下载 215511
-[19:07:55.987] [Download] 1.18.json 1708#：重定向至 https://download4.caiyun.feixin.10086.cn:443/storageWeb/servlet/downloadServlet?code=SzUxSTExcVI4bUVKcGc0MzMxN3dIbkhkVlA5&un=99D2696CBDA095218787CE869CDE0DAC5EE479BEC8C11187DD96C8889ECC3F5D&dom=D971&rate=0&txType=0
-[19:07:56.143] [Download] 1.18.json 1708#：完成，已下载 133213
-[19:07:56.144] [Download] 1.18.json：下载结束，开始合并文件
-[19:07:56.154] [Download] 1.18.json：已完成，剩余文件 0
-[19:07:56.154] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
-[19:07:56.155] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
-[19:07:56.155] [Loader] 加载线程 后台复制资源文件索引 (67) 已启动
-[19:07:56.157] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.18.json
-[19:07:56.157] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
-[19:07:56.158] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
-[19:07:56.378] [Animation] 两个动画帧间隔 219 ms
-[19:07:56.599] [Net] 获取网络结果：https://mod.mcimirror.top/modrinth/v2/search?limit=40&index=relevance&query=libipn&facets=[["project_type:mod"]]，超时 60000ms，要求 json
-[19:07:57.788] [Comp] 从 Modrinth 获取到了 1 个工程（已获取 1 个，共 1 个）
-[19:08:01.766] [Report] FPS 64, 动画 6, 下载中 0（0 B/s）
-[19:08:10.490] [Report] FPS 58, 动画 7, 下载中 0（0 B/s）
-[19:08:15.202] [Launch] [14060] 日志 2/5：游戏用户已设置
-[19:08:15.440] [Launch] [14060] 日志 3/5：LWJGL 版本已确认
-[19:08:15.937] [Launch] [14060] Minecraft 窗口已加载：System Testing（17764540）
-[19:08:15.937] [Launch] [14060] Minecraft 加载已完成
-[19:08:15.987] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
-[19:08:16.042] [Loader] 加载器 结束处理 状态改变：Loading
-[19:08:16.043] [Loader] 加载线程 结束处理 (19) 已启动
-[19:08:16.044] [Launch] 开始启动结束处理
-[19:08:16.046] [Launch] 启动器可见性：5
-[19:08:16.047] [Loader] 加载器 结束处理 状态改变：Finished
-[19:08:16.089] [Loader] 加载器 Minecraft 启动 状态改变：Finished
-[19:08:16.248] [Loader] 加载器 Loader Launch 状态改变：Finished
-[19:08:16.251] [UI] 弹出提示：蔚蓝档案，启动！ 启动成功！
-[19:08:16.251] [Taskbar] Mod 下载：[一键背包整理Next] InventoryProfilesNext-forge-1.18.2-1.10.11  已移出任务列表
-[19:08:16.251] [Taskbar] Minecraft 启动 已移出任务列表
-[19:08:17.485] [Report] FPS 24, 动画 0, 下载中 0（0 B/s）
-[19:08:40.816] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
-[19:08:48.209] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
-[19:08:49.722] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
-[19:08:49.755] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
-[19:08:55.874] [Launch] [14060] 日志 4/5：OpenAL 已加载
-[19:08:56.109] [Launch] [14060] 日志 5/5：材质已加载
-[19:09:13.065] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
-[19:09:26.581] [Report] FPS 56, 动画 0, 下载中 0（0 B/s）
-[19:09:27.594] [Launch] [14060] Minecraft 已退出，返回值：0
-[19:09:27.595] [Launch] [全局] 已无运行中的 Minecraft
-[19:09:27.831] [Launch] [14060] Minecraft 日志监控已退出
-[19:10:39.706] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
-[19:11:38.528] [Control] 按下图标按钮：BtnTitleClose
-[19:11:38.530] [System] 收到关闭指令
-[19:11:38.778] [System] 程序已退出，返回值：Success
+————————————
+详细错误信息：
+   在 PCL.ModDownload.DlModRequest(String Url, String Method, String Data, String ContentType)
+   在 PCL.ModMod._Closure$__6-0._Lambda$__0()
+[19:37:44.114] [Mod] 联网获取本地 Mod 信息完成，为 0 个 Mod 更新缓存
+[19:37:44.114] [Loader] 加载器 Mod List Detail Loader 状态改变：Finished
+[19:37:54.159] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:38:25.176] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
+[19:39:44.380] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:40:47.224] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
+[19:41:21.304] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:44:12.121] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:44:21.097] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:44:31.719] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:44:58.331] [Report] FPS 58, 动画 0, 下载中 0（0 B/s）
+[19:45:56.683] [Report] FPS 60, 动画 0, 下载中 0（0 B/s）
+[19:46:43.958] [System] 收到关闭指令
+[19:46:44.029] [System] 程序已退出，返回值：Success

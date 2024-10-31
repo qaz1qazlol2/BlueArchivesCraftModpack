@@ -1,18 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/scope_retro_2x",
-  "model": "tacz:attachment/scope_retro_2x",
-  "texture": "tacz:attachment/uv/scope_retro_2x",
-  "lod": {
-    "model": "tacz:attachment/lod/scope_retro_2x_lod",
-    "texture": "tacz:attachment/lod/scope_retro_2x_lod"
-  },
-  "zoom": [
-    3
-  ],
-  "scope": true,
-  "fov": 55.0,
-  "sounds": {
-    "install": "tacz:attachments/scope_general_d",
-    "uninstall": "tacz:attachments/scope_general_d"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7992dfc4bc904410fa6353fc3e3d8c10a07f6ff18749b636005ac9b4c927cc80
+size 450

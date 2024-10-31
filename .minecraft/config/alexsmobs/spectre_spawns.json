@@ -1,16 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "end"
-      },
-      {
-        "type": "REGISTRY_NAME",
-        "negate": true,
-        "value": "minecraft:the_end"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a948f4e9db78a433f0967192d8b8b4a13c1b23f514647dd2cce5331f7a8075
+size 238

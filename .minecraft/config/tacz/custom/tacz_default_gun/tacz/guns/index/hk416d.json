@@ -1,8 +1,3 @@
-{
-  "name": "tacz.gun.hk416d.name",
-  "display": "tacz:hk416d_display",
-  "data": "tacz:hk416d_data",
-  "type": "rifle",
-  "tooltip": "tacz.gun.hk416d.desc",
-  "sort": 2
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ca3d0cbb6c7dd2b39bc388b7af9089eb9f422ea2c320dcddd34aa6675dac0d2
+size 171

@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "item": "minecraft:crying_obsidian"
-      },
-      "count": 3
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 8
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:ammo_mod_hp"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:63652c07e518f94d51c2bd0a1463b0d78dd76a1944d8d4c3c93d0573ed14da3e
+size 286

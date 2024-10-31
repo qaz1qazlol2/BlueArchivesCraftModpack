@@ -1,9 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/muzzle_silence_ptilopsis",
-  "model": "tacz:attachment/muzzle_silence_ptilopsis_geo",
-  "texture": "tacz:attachment/uv/muzzle_silence_ptilopsis",
-  "sounds": {
-    "install": "tacz:attachments/muzzle_general",
-    "uninstall": "tacz:attachments/muzzle_general"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f998ec3589a80fa55d8a37f46437e59790ad5b5694fb356ce4e491b58ecc91d
+size 300

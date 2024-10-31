@@ -1,8 +1,3 @@
-[
-  "#tacz:scope",
-  "#tacz:muzzle",
-  "#tacz:extended_mag",
-  "#tacz:stock",
-  "#tacz:grip",
-  "#tacz:ammo_mod_no_he"
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7269f72891ec9aa3d24c73e733b182f7fcfa00624640a89bc049d57a136cfb
+size 120

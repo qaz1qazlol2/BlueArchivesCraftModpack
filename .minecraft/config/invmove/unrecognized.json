@@ -1,8 +1,3 @@
-{
-  "allowMovement": {
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
-  },
-  "hideBackground": {
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:77ce32106a45c33a643f23b9a09e5559efda132f1cb1e5bf041b5a54c8d3cc40
+size 161

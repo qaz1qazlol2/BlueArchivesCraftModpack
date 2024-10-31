@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "item": "minecraft:crying_obsidian"
-      },
-      "count": 2
-    },
-    {
-      "item": {
-        "tag": "forge:gems/diamond"
-      },
-      "count": 5
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:ammo_mod_fmj"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a924cf90cad0b958b21a0577c16e232f7e990d29b63532ce412bf47ef7074ae1
+size 288

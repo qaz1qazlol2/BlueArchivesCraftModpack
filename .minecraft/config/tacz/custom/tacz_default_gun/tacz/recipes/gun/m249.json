@@ -1,32 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:gems/diamond"
-      },
-      "count": 4
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 16
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 110
-    },
-    {
-      "item": {
-        "tag": "forge:rods/blaze"
-      },
-      "count": 2
-    }
-  ],
-  "result": {
-    "type": "gun",
-    "id": "tacz:m249"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:47cd497c7e2dac3652dd1151f13f62fe05420ce6ca6449a8cb20ff180fb53c64
+size 446

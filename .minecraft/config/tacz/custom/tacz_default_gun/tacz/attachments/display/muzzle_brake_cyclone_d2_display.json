@@ -1,9 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/muzzle_brake_cyclone_d2",
-  "model": "tacz:attachment/muzzle_brake_cyclone_d2_geo",
-  "texture": "tacz:attachment/uv/muzzle_brake_cyclone_d2",
-  "sounds": {
-    "install": "tacz:attachments/attachment_general_a",
-    "uninstall": "tacz:attachments/attachment_general_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:872703c278b9aab352c0417e4baa190abfd8956844ca8c06010813db84ddade6
+size 317

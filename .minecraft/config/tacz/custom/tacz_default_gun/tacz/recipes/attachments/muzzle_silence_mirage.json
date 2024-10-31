@@ -1,20 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 10
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/redstone"
-      },
-      "count": 2
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:muzzle_silence_mirage"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa12cea62acf3fe91ff3da9497e8f9d8196eb49142fb725bd1a30a325cab0b5c
+size 291

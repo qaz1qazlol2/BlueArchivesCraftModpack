@@ -1,6 +1,3 @@
-[
-  "#tacz:scope",
-  "#tacz:sniper_extended_mag",
-  "#tacz:muzzle_silence",
-  "#tacz:ammo_mod"
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0107a713d13d57f5d0177d0e59e45f654aa77ba64ef9e85bf93045df60b8fede
+size 96

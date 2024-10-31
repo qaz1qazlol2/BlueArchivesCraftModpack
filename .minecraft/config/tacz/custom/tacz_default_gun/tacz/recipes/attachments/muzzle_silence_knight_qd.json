@@ -1,26 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 16
-    },
-    {
-      "item": {
-        "tag": "forge:leather"
-      },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/redstone"
-      },
-      "count": 2
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:muzzle_silence_knight_qd"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c426a187ad46e2a0c12902a98c63b55a34fbc9d7970ba3e0645feae4044ffa
+size 380

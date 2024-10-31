@@ -1,7 +1,3 @@
-{
-  "name": "tacz.gun.cz75.name",
-  "display": "tacz:cz75_display",
-  "data": "tacz:cz75_data",
-  "tooltip": "tacz.gun.cz75.desc",
-  "type": "pistol"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f08d2025a8538016c3b1a29aab2adfb978c7e23b26781c8ed842bd6c9699a3d
+size 151

@@ -1,8 +1,3 @@
-{
-  "slot": "tacz:attachment/slot/oem_stock_light",
-  "adapter": "oem_stock_light",
-  "sounds": {
-    "install": "tacz:attachments/attachment_general_a",
-    "uninstall": "tacz:attachments/attachment_general_uninstall"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:70fadb47921244ac9fba1b5d62270450e90003eef73aa8dedf2d5a8da0771df4
+size 224

@@ -1,11 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:swamp"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeeab2293c8fbe121e19097aaeaa6cbd4668f04861f43d16da2c95c9ace8a4bd
+size 142

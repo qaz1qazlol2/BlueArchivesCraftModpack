@@ -1,9 +1,3 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/totem_of_undying"
-  },
-  "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "custom_model_data_guide_assets:item/uno_reverse_model" }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d69b78da49382bc1f81863b9880ac43c5e7db4604af9db80ad9fcaf6266820f
+size 247

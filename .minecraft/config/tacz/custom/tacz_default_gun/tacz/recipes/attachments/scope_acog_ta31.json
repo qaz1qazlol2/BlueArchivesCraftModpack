@@ -1,26 +1,3 @@
-{
-  "materials": [
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 10
-    },
-    {
-      "item": {
-        "tag": "forge:gems/amethyst"
-      },
-      "count": 3
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/redstone"
-      },
-      "count": 8
-    }
-  ],
-  "result": {
-    "type": "attachment",
-    "id": "tacz:scope_acog_ta31"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d715fde3ec72cacad04b9657ff9e9f3993d719fc0ef389828ac959326575f298
+size 377

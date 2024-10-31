@@ -1,8 +1,3 @@
-{
-  "name": "tacz.gun.m4a1.name",
-  "display": "tacz:m4a1_display",
-  "data": "tacz:m4a1_data",
-  "type": "rifle",
-  "tooltip": "tacz.gun.m4a1.desc",
-  "sort": 2
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3e03c5d1ae3d692d2c3adf163a970f9b92ff43e9588fcc0e3b624ea9905e8ed
+size 163
