@@ -1,5 +1,0 @@
-// This file allows you to external coremodsto be run
-// Lines starting with // or # are comments
-// This is done by specifying a file path
-// Additional files may be provided with brackets at the end// As an example: 
-//config/jmt-auxcore/example/example.js(config/jmt-auxcore/example/example_lib.js,config/jmt-auxcore/example/example_lib2.js)

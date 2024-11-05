@@ -298,8 +298,8 @@
 
 [[entities]]
     entity = "minecraft:wither"
-	minTier = 3
-	maxTier = 3
+	minTier = 4
+	maxTier = 4
 	presetAffixes = []
 	affixList = ["knocking", "wounding", "paralyzing", "molten", "adaptable", "shielding"]
 	affixPermission = "BLACKLIST"

@@ -96,6 +96,7 @@
 				type: "item"
 				item: "kubejs:diamond_coin"
 				count: 5L
+				consume_items: true
 			}]
 			rewards: [{
 				id: "5B6B7903C5D7B61E"
@@ -412,6 +413,7 @@
 			}
 			x: 4.5d
 			y: -2.0d
+			description: ["注意:该任务只可完成一次，请谨慎选择你需要的物品"]
 			dependencies: ["7792FBDA17072456"]
 			id: "26207B4F131FF4C2"
 			tasks: [{

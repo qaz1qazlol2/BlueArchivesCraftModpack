@@ -45,12 +45,6 @@
 					type: "item"
 					item: "enigmaticlegacy:dark_mirror"
 				}
-				{
-					id: "1E6B56F0056AC3E6"
-					type: "item"
-					auto: "enabled"
-					item: "ftbquests:book"
-				}
 			]
 		}
 		{
