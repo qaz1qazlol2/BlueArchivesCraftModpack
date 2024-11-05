@@ -265,6 +265,21 @@
 				}
 			]
 		}
+		{
+			x: 3.5d
+			y: 0.0d
+			id: "6CAE4B888CE8ECDF"
+			tasks: [{
+				id: "70CE3A457FBDCFB2"
+				type: "dimension"
+				dimension: "minecraft:overworld"
+			}]
+			rewards: [{
+				id: "27A1C8861C4D1AC0"
+				type: "item"
+				item: "ftbquests:book"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

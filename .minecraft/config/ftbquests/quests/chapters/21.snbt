@@ -1150,6 +1150,42 @@
 				item: "cataclysm:burning_ashes"
 			}]
 		}
+		{
+			x: -10.0d
+			y: -4.5d
+			dependencies: ["3376E258A0D840F9"]
+			can_repeat: true
+			id: "06CA7740FB5C7AAA"
+			tasks: [{
+				id: "18C409E088342ECA"
+				type: "checkmark"
+				title: "寻找烈焰竞技场"
+			}]
+			rewards: [{
+				id: "019C7F3C53A9BD86"
+				type: "command"
+				command: "/locate cataclysm:burning_arena"
+				player_command: true
+			}]
+		}
+		{
+			x: -10.0d
+			y: -5.5d
+			dependencies: ["3376E258A0D840F9"]
+			can_repeat: true
+			id: "2C59737ED6639FFC"
+			tasks: [{
+				id: "5AE1BEE21A634754"
+				type: "checkmark"
+				title: "寻找灵魂锻造厂"
+			}]
+			rewards: [{
+				id: "3350AFB71020CD46"
+				type: "command"
+				command: "/locate cataclysm:soul_black_smith"
+				player_command: true
+			}]
+		}
 	]
 	quest_links: [ ]
 }
