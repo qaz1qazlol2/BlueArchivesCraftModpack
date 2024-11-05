@@ -189,3 +189,6 @@ net.minecraft.client.gui.screens.controls.KeyBindsScreen {
 com.blamejared.controlling.client.NewKeyBindsScreen {
 }
 
+xaero.common.gui.GuiWidgetUpdateAll {
+}
+
