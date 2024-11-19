@@ -81,3 +81,10 @@ onEvent("entity.spawned",event => {
         entity.setCustomName(Text.of("\u00A7cTorment\u00A7f——\u00A7b废弃堡垒的守卫\u00A7f——\u00A7e末影守卫"))
     }
 })
+
+onEvent("entity.spawned",event => {
+    const { entity } =event;
+    if (entity.type == 'mowziesmobs:ferrous_wroughtnaut') {
+        entity.setCustomName(Text.of("\u00A75Extreme\u00A7f——\u00A7b坚硬的钢铁巨物\u00A7f——\u00A7e钢铁守护者"))
+    }
+})
