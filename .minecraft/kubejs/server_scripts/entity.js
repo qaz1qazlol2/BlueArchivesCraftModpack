@@ -1,7 +1,7 @@
 onEvent("entity.spawned", event => {
     const { entity } = event;
     if (entity.type == 'minecraft:ender_dragon') {
-        entity.setCustomName(Text.of("\u00A75Extreme\u00A7f——\u00A7b末地领主\u00A7f——\u00A7e末影龙"))
+        entity.setCustomName(Text.of("\u00A75Easy\u00A7f——\u00A7b末地菜狗\u00A7f——\u00A7e末影龙"))
     }
 })
 
