@@ -69,7 +69,7 @@
 			]
 		}
 		{
-			x: 6.5d
+			x: 8.5d
 			y: 0.0d
 			subtitle: "牛头人"
 			description: ["和一般的米诺陶不一样，米诺菇拥有着奇异的半哞菇半米诺陶外观。它们是一种凶猛的野兽，对任何事物都有着疯狂的攻击欲望；这类猛兽总是被关押在迷宫要塞的深处，用来作为保护迷宫宝物的最后一道防线"]
@@ -493,6 +493,225 @@
 				id: "6334195569D52AA3"
 				type: "xp"
 				xp: 150
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.0d
+			dependencies: ["7AFBBCE286CFEA47"]
+			dependency_requirement: "one_completed"
+			invisible: true
+			id: "6F3712BC53BE2E76"
+			tasks: [{
+				id: "79D8AB68126600F5"
+				type: "structure"
+				title: "探访神稿遗址"
+				icon: {
+					id: "minecraft:emerald_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+						HideFlags: 3
+						AttributeModifiers: [
+							{
+								Slot: "mainhand"
+								AttributeName: "minecraft:generic.attack_damage"
+								Operation: 0
+								UUID: [I;
+									-685154047
+									1608533549
+									-1925776473
+									1248880868
+								]
+								Amount: 4.0d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "minecraft:generic.attack_speed"
+								Operation: 0
+								UUID: [I;
+									1200091069
+									531188962
+									-1098651596
+									1204714795
+								]
+								Amount: -2.8d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "forge:attack_range"
+								Operation: 0
+								UUID: [I;
+									-1115013592
+									-1026996134
+									-1643818604
+									1341773570
+								]
+								Amount: 3.0d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "forge:reach_distance"
+								Operation: 0
+								UUID: [I;
+									474910677
+									-115980859
+									-1849724618
+									195983618
+								]
+								Amount: 3.0d
+							}
+						]
+						Enchantments: [
+							{
+								lvl: 5
+								id: "minecraft:efficiency"
+							}
+							{
+								lvl: 3
+								id: "minecraft:unbreaking"
+							}
+							{
+								lvl: 3
+								id: "minecraft:fortune"
+							}
+							{
+								lvl: 1
+								id: "minecraft:mending"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:guidens_regret"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:morirs_deathwish"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:morirs_lifebound"
+							}
+							{
+								lvl: 3
+								id: "flowingagony:nimble_finger"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:cleansing_before_using"
+							}
+						]
+						display: {
+							Lore: ["{\"italic\":false,\"color\":\"white\",\"extra\":[{\"text\":\"\"},{\"color\":\"gold\",\"text\":\"哇哇，哎呀我的审稿\"}],\"text\":\"\"}"]
+							Name: "{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"color\":\"light_purple\",\"text\":\"\\\"神 稿\\\"\"}],\"text\":\"\"}"
+						}
+					}
+				}
+				structure: "twilightforest:labyrinth"
+			}]
+			rewards: [{
+				id: "651DE004457C05B8"
+				type: "item"
+				auto: "enabled"
+				item: {
+					id: "minecraft:emerald_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+						HideFlags: 3
+						AttributeModifiers: [
+							{
+								Slot: "mainhand"
+								AttributeName: "minecraft:generic.attack_damage"
+								Operation: 0
+								UUID: [I;
+									-685154047
+									1608533549
+									-1925776473
+									1248880868
+								]
+								Amount: 4.0d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "minecraft:generic.attack_speed"
+								Operation: 0
+								UUID: [I;
+									1200091069
+									531188962
+									-1098651596
+									1204714795
+								]
+								Amount: -2.8d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "forge:attack_range"
+								Operation: 0
+								UUID: [I;
+									-1115013592
+									-1026996134
+									-1643818604
+									1341773570
+								]
+								Amount: 3.0d
+							}
+							{
+								Slot: "mainhand"
+								AttributeName: "forge:reach_distance"
+								Operation: 0
+								UUID: [I;
+									474910677
+									-115980859
+									-1849724618
+									195983618
+								]
+								Amount: 3.0d
+							}
+						]
+						Enchantments: [
+							{
+								lvl: 5
+								id: "minecraft:efficiency"
+							}
+							{
+								lvl: 3
+								id: "minecraft:unbreaking"
+							}
+							{
+								lvl: 3
+								id: "minecraft:fortune"
+							}
+							{
+								lvl: 1
+								id: "minecraft:mending"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:guidens_regret"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:morirs_deathwish"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:morirs_lifebound"
+							}
+							{
+								lvl: 3
+								id: "flowingagony:nimble_finger"
+							}
+							{
+								lvl: 1
+								id: "flowingagony:cleansing_before_using"
+							}
+						]
+						display: {
+							Lore: ["{\"italic\":false,\"color\":\"white\",\"extra\":[{\"text\":\"\"},{\"color\":\"gold\",\"text\":\"哇哇，哎呀我的审稿\"}],\"text\":\"\"}"]
+							Name: "{\"italic\":false,\"extra\":[{\"text\":\"\"},{\"color\":\"light_purple\",\"text\":\"\\\"神 稿\\\"\"}],\"text\":\"\"}"
+						}
+					}
+				}
 			}]
 		}
 	]
