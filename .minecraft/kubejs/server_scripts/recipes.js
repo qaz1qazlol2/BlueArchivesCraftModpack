@@ -53,5 +53,15 @@ onEvent('recipes', event => {
     })
 })
 
+onEvent("recipes",event =>{
+    event.shaped("minecraft:emerald_pickaxe",[
+        'AAA',
+        ' B ',
+        ' B '
+    ],{
+        A:'minecraft:emerald',
+        B:'#forge:rods/wooden'
+    })
+})
 
 
