@@ -1,7 +1,7 @@
 onEvent("entity.spawned", event => {
     const { entity } = event;
     if (entity.type == 'minecraft:ender_dragon') {
-        entity.setCustomName(Text.of("\u00A75Extreme\u00A7f——\u00A7b末地领主\u00A7f——\u00A7e末影龙"))
+        entity.setCustomName(Text.of("\u00A75Easy\u00A7f——\u00A7b末地菜狗\u00A7f——\u00A7e末影龙"))
     }
 })
 
@@ -22,7 +22,7 @@ onEvent("entity.spawned",event => {
 onEvent("entity.spawned",event => {
     const { entity } =event;
     if (entity.type == 'cataclysm:netherite_monstrosity') {
-        entity.setCustomName(Text.of("\u00A76Insane\u00A7f——\u00A7b骇人恶械\u00A7f——\u00A7e下界合金巨兽"))
+        entity.setCustomName(Text.of("\u00A7cTorment\u00A7f——\u00A7b骇人恶械\u00A7f——\u00A7e下界合金巨兽"))
     }
 })
 
@@ -78,6 +78,13 @@ onEvent("entity.spawned",event => {
 onEvent("entity.spawned",event => {
     const { entity } =event;
     if (entity.type == 'cataclysm:ender_guardian') {
-        entity.setCustomName(Text.of("\u00A76Insane\u00A7f——\u00A7b废弃堡垒的守卫\u00A7f——\u00A7e末影守卫"))
+        entity.setCustomName(Text.of("\u00A7cTorment\u00A7f——\u00A7b废弃堡垒的守卫\u00A7f——\u00A7e末影守卫"))
+    }
+})
+
+onEvent("entity.spawned",event => {
+    const { entity } =event;
+    if (entity.type == 'mowziesmobs:ferrous_wroughtnaut') {
+        entity.setCustomName(Text.of("\u00A75Extreme\u00A7f——\u00A7b坚硬的钢铁巨物\u00A7f——\u00A7e钢铁守护者"))
     }
 })

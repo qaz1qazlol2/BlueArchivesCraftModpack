@@ -8,14 +8,14 @@ B:force_fullscreen = 'false';
 ##[customization]
 
 B:modpack_mode = 'false';
-B:show_customization_overlay = 'false';
-B:advanced_customization_mode = 'false';
+B:show_customization_overlay = 'true';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]
 
 B:preload_animations = 'true';
-S:preload_resources = '';
+S:preload_resources = '[source:local]config/fancymenu/assets/title_5th_1.mp4%!source_end!%';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
 S:game_intro_animation_name = '';
@@ -24,11 +24,11 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
-S:custom_window_title = 'Minecraft* 1.18.2 | Blue Archives Craft 1.6 Developer Preview Build 16000.1002 | 与你的日常，便是奇迹！';
-S:custom_window_icon_16 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/arona.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/arona.png';
+S:custom_window_title = 'Minecraft* 1.18.2 | Blue Archives Craft 1.6.3 Build 16300.1001 | 与你的日常，便是奇迹！';
+S:custom_window_icon_16 = '/config/fancymenu/assets/arona16x16.png';
 
 
 ##[multiplayer_screen]

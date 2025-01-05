@@ -8,7 +8,18 @@ onEvent('item.registry', event => {
 
 })
 
+onEvent('item.registry.tool_tiers', event => {
+    event.add('emerald', tier => {
+      tier.uses = 1561 
+      tier.speed = 8.0 
+      tier.attackDamageBonus = 3.0 
+      tier.level = 3 
+      tier.enchantmentValue = 14 
+      tier.repairIngredient = 'minecraft:emerald'
+    })
+  })
+
 onEvent('item.registry', event => {
     event.create('shuijing','sword').displayName('水晶埴轮').tooltip('小春的秘密武器').rarity('epic')
-
+    event.create('minecraft:emerald_pickaxe','pickaxe').displayName('绿宝石稿').tier("emerald")
 })

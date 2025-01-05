@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1728730966189
+  last_edited_time = 1736055748843
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:32d10f6f-b8f9-42af-bc94-a14e3c2ff5ed-1728730930973] = [groups:][instances:]
+  [loading_requirement_container_meta:d978202b-e5d4-414b-ada3-02084f1ce236-1736055680569] = [groups:][instances:]
 }
 
 customization {
@@ -27,7 +27,7 @@ scroll_list_customization {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/menu.wav
+  audio_instance_0 = [source:local]/config/fancymenu/assets/menu2.ogg
   play_mode = normal
   looping = true
   volume = 0.3
@@ -36,8 +36,15 @@ element {
   instance_identifier = 489e6f58-d020-4bd3-a34b-7d5dd551025d-1728031648144
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1476
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -51
   y = -171
@@ -67,8 +74,15 @@ element {
   instance_identifier = e8ab9cec-0023-4311-b0d1-4b748ce90302-1728655497052
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -201
   y = -46
@@ -95,8 +109,15 @@ element {
   instance_identifier = b2823850-2b46-4028-810f-3d748b714f13-1728656499284
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = 92
   y = -48

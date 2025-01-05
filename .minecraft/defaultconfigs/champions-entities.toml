@@ -18,9 +18,9 @@
 
 [[entities]]
 	entity = "cataclysm:ender_guardian"
-	minTier = 6
-	maxTier = 6
-	presetAffixes = ["adaptable"]
+	minTier = 10
+	maxTier = 10
+	presetAffixes = ["adaptable", "enkinding", "magnetic", "Lively", "dampening", "arctic", "hasty", "reflective"]
 	affixList = ["knocking", "wounding", "paralyzing", "molten"]
 	affixPermission = "BLACKLIST"
 
@@ -34,9 +34,9 @@
 
 [[entities]]
 	entity = "cataclysm:netherite_monstrosity"
-	minTier = 6
-	maxTier = 6
-	presetAffixes = ["adaptable", "magnetic"]
+	minTier = 10
+	maxTier = 10
+	presetAffixes = ["adaptable", "enkinding", "magnetic", "Lively", "dampening", "arctic", "hasty", "reflective"]
 	affixList = ["knocking", "wounding", "paralyzing", "molten"]
 	affixPermission = "BLACKLIST"
 

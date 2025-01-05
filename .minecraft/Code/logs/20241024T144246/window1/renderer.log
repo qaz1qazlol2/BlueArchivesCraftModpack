@@ -1,5 +1,0 @@
-2024-10-24 14:42:48.558 [info] Started local extension host with pid 26612.
-2024-10-24 14:42:48.985 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
-2024-10-24 14:42:51.145 [error] [network] #2: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
-2024-10-24 14:42:51.145 [warning] Failed to fetch chat participant registry Failed to fetch
-2024-10-24 14:42:51.233 [info] [perf] Render performance baseline is 13ms

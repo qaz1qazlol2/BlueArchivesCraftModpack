@@ -66,9 +66,6 @@ org.arbor.extrasounds.gui.CustomSoundOptionsScreen {
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
 net.minecraft.client.gui.screens.EditServerScreen {
 }
 
@@ -190,5 +187,8 @@ com.blamejared.controlling.client.NewKeyBindsScreen {
 }
 
 xaero.common.gui.GuiWidgetUpdateAll {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

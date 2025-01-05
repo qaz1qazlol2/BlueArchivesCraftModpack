@@ -330,14 +330,15 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:protection"
 						lvl: 2s
+						id: "minecraft:protection"
 					}]
 				}
 			}
 			x: 4.5d
 			y: -6.0d
 			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
 			id: "23388F781F414B44"
 			tasks: [{
 				id: "055991436767DA95"
@@ -435,6 +436,7 @@
 			x: 4.5d
 			y: -5.0d
 			dependencies: ["7792FBDA17072456"]
+			can_repeat: true
 			id: "73065E01D4EE52EC"
 			tasks: [{
 				id: "38C844D85E85F43F"
