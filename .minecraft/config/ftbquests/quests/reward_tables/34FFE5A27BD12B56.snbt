@@ -18,8 +18,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:efficiency"
 						lvl: 10s
+						id: "minecraft:efficiency"
 					}]
 				}
 			}
@@ -31,8 +31,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:silk_touch"
 						lvl: 1s
+						id: "minecraft:silk_touch"
 					}]
 				}
 			}
@@ -44,21 +44,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:fortune"
 						lvl: 5s
-					}]
-				}
-			}
-		}
-		{
-			title: "经验修补"
-			item: {
-				id: "minecraft:enchanted_book"
-				Count: 1b
-				tag: {
-					StoredEnchantments: [{
-						id: "minecraft:mending"
-						lvl: 1s
+						id: "minecraft:fortune"
 					}]
 				}
 			}
@@ -70,8 +57,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:carefully_identified"
 						lvl: 5s
+						id: "flowingagony:carefully_identified"
 					}]
 				}
 			}

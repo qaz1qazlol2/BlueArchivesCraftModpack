@@ -9,20 +9,6 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "开启商店的前提"
-			x: 2.5d
-			y: -4.5d
-			subtitle: "方便的同时总是要付出点小小的代价嘛~"
-			id: "7792FBDA17072456"
-			tasks: [{
-				id: "35657582924DE92D"
-				type: "item"
-				item: "kubejs:netherite_coin"
-				count: 50L
-				consume_items: true
-			}]
-		}
-		{
 			title: "高级胸甲附魔"
 			icon: {
 				id: "minecraft:netherite_chestplate"
@@ -33,7 +19,6 @@
 			}
 			x: 1.5d
 			y: -7.0d
-			dependencies: ["7792FBDA17072456"]
 			can_repeat: true
 			id: "281042712F9A6200"
 			tasks: [{
@@ -61,7 +46,6 @@
 			}
 			x: 0.5d
 			y: -7.0d
-			dependencies: ["7792FBDA17072456"]
 			id: "035B2AC2FA7FA25B"
 			tasks: [{
 				id: "2ED69FADA347DD24"
@@ -88,7 +72,6 @@
 			}
 			x: 2.5d
 			y: -7.0d
-			dependencies: ["7792FBDA17072456"]
 			can_repeat: true
 			id: "59FFCF19FE628FC2"
 			tasks: [{
@@ -116,7 +99,6 @@
 			}
 			x: 3.5d
 			y: -7.0d
-			dependencies: ["7792FBDA17072456"]
 			can_repeat: true
 			id: "77C574E3DB190BCD"
 			tasks: [{
@@ -153,15 +135,14 @@
 				}
 			}
 			x: 3.5d
-			y: -2.0d
-			dependencies: ["7792FBDA17072456"]
+			y: -3.0d
 			can_repeat: true
 			id: "1426B616700F32C2"
 			tasks: [{
-				id: "03AEE6B7237DA672"
+				id: "234908270DB10A80"
 				type: "item"
-				item: "kubejs:gold_coin"
-				count: 32L
+				item: "kubejs:diamond_coin"
+				count: 3L
 				consume_items: true
 			}]
 			rewards: [{
@@ -191,15 +172,14 @@
 				}
 			}
 			x: 2.5d
-			y: -2.0d
-			dependencies: ["7792FBDA17072456"]
+			y: -3.0d
 			can_repeat: true
 			id: "60690A91E91A7511"
 			tasks: [{
-				id: "0778F9C21D035A01"
+				id: "7156B68FCCAD3726"
 				type: "item"
-				item: "kubejs:gold_coin"
-				count: 30L
+				item: "kubejs:diamond_coin"
+				count: 3L
 				consume_items: true
 			}]
 			rewards: [{
@@ -229,15 +209,13 @@
 				}
 			}
 			x: 1.5d
-			y: -2.0d
-			dependencies: ["7792FBDA17072456"]
+			y: -3.0d
 			can_repeat: true
 			id: "457C0D4948F6B167"
 			tasks: [{
-				id: "4230FBAE8A7F9594"
+				id: "61BAEAEB95354C57"
 				type: "item"
-				item: "kubejs:gold_coin"
-				count: 20L
+				item: "kubejs:diamond_coin"
 				consume_items: true
 			}]
 			rewards: [{
@@ -267,15 +245,13 @@
 				}
 			}
 			x: 0.5d
-			y: -2.0d
-			dependencies: ["7792FBDA17072456"]
+			y: -3.0d
 			can_repeat: true
 			id: "57C60165AC2FC123"
 			tasks: [{
-				id: "2A77956A64496B17"
+				id: "78B42942654BE2ED"
 				type: "item"
-				item: "kubejs:gold_coin"
-				count: 24L
+				item: "kubejs:diamond_coin"
 				consume_items: true
 			}]
 			rewards: [{
@@ -297,9 +273,8 @@
 					}]
 				}
 			}
-			x: 4.5d
-			y: -7.0d
-			dependencies: ["7792FBDA17072456"]
+			x: 0.5d
+			y: -5.0d
 			id: "4883D882250C134A"
 			tasks: [{
 				id: "654B9A4454129952"
@@ -335,9 +310,8 @@
 					}]
 				}
 			}
-			x: 4.5d
-			y: -6.0d
-			dependencies: ["7792FBDA17072456"]
+			x: 1.5d
+			y: -5.0d
 			can_repeat: true
 			id: "23388F781F414B44"
 			tasks: [{
@@ -385,8 +359,8 @@
 		{
 			title: "遗物饰品抽奖"
 			icon: "relics:researching_table"
-			x: -1.5d
-			y: -5.5d
+			x: -3.0d
+			y: -7.0d
 			can_repeat: true
 			id: "21066F2271868799"
 			tasks: [{
@@ -413,15 +387,16 @@
 				}
 			}
 			x: 4.5d
-			y: -2.0d
-			description: ["注意:该任务只可完成一次，请谨慎选择你需要的物品"]
-			dependencies: ["7792FBDA17072456"]
+			y: -3.0d
+			description: ["解决钓鱼烦恼~"]
+			can_repeat: true
 			id: "26207B4F131FF4C2"
 			tasks: [{
 				id: "121B02AD83E184FA"
 				type: "item"
 				item: "kubejs:gold_coin"
 				count: 60L
+				consume_items: true
 			}]
 			rewards: [{
 				id: "0EA0D6E194590078"
@@ -435,14 +410,13 @@
 			icon: "blue_archivescraft:super_book"
 			x: 4.5d
 			y: -5.0d
-			dependencies: ["7792FBDA17072456"]
 			can_repeat: true
 			id: "73065E01D4EE52EC"
 			tasks: [{
 				id: "38C844D85E85F43F"
 				type: "item"
 				item: "kubejs:diamond_coin"
-				count: 20L
+				count: 10L
 				consume_items: true
 			}]
 			rewards: [{
@@ -454,8 +428,8 @@
 		{
 			title: "灵魂水晶兑换"
 			icon: "enigmaticlegacy:soul_crystal"
-			x: -1.5d
-			y: -4.0d
+			x: 5.5d
+			y: -5.0d
 			description: ["防止找不到遗失的灵魂水晶而导致血量降低"]
 			can_repeat: true
 			id: "2FC97EE9B8AA56B7"
@@ -475,15 +449,15 @@
 		{
 			title: "金币 -> 钻石币"
 			icon: "kubejs:diamond_coin"
-			x: 6.5d
-			y: -7.0d
+			x: 2.5d
+			y: -5.0d
 			can_repeat: true
 			id: "2ECF2B4AED6C9867"
 			tasks: [{
 				id: "0BA958DB13505798"
 				type: "item"
 				item: "kubejs:gold_coin"
-				count: 70L
+				count: 60L
 				consume_items: true
 			}]
 			rewards: [{
@@ -493,105 +467,63 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: -7.0d
-			invisible: true
-			id: "65CF7FEAA2872E6C"
+			title: "饰品自选"
+			icon: "artifacts:night_vision_goggles"
+			x: -1.5d
+			y: -5.0d
+			can_repeat: true
+			id: "4AD1A929DE032078"
 			tasks: [{
-				id: "444AE8AC7F2F8CB6"
+				id: "0BDBE430B3EE929D"
 				type: "item"
-				item: "kubejs:monster_coin"
+				item: "kubejs:diamond_coin"
 				count: 5L
 				consume_items: true
 			}]
-			rewards: [
-				{
-					id: "40B37C6D70C48B47"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "flowingagony:necessary_evil"
-								lvl: 5s
-							}]
-						}
-					}
-				}
-				{
-					id: "318E3A9870A1E898"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:protection"
-								lvl: 100s
-							}]
-						}
-					}
-					count: 4
-				}
-				{
-					id: "1CBCA4501A134380"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:efficiency"
-								lvl: 20s
-							}]
-						}
-					}
-				}
-				{
-					id: "1E1D5C0AA29F716B"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:unbreaking"
-								lvl: 100s
-							}]
-						}
-					}
-					count: 5
-				}
-				{
-					id: "35F7E351869E69ED"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:fortune"
-								lvl: 10s
-							}]
-						}
-					}
-				}
-				{
-					id: "0306A8187B12AE16"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:sharpness"
-								lvl: 1000s
-							}]
-						}
-					}
-				}
-			]
+			rewards: [{
+				id: "57534AD67F55178D"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 6899619535475126999L
+			}]
+		}
+		{
+			title: "boss币->钻石币"
+			x: 3.5d
+			y: -5.0d
+			id: "2063A205D2C5ADC2"
+			tasks: [{
+				id: "25F6ABE669E0B56E"
+				type: "item"
+				item: "kubejs:netherite_coin"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3AFB7C981F6DDD51"
+				type: "item"
+				item: "kubejs:diamond_coin"
+			}]
+		}
+		{
+			title: "遗物饰品自选"
+			icon: "minecraft:enchanting_table"
+			x: -3.0d
+			y: -5.0d
+			can_repeat: true
+			id: "6E83A88D9055AAB5"
+			tasks: [{
+				id: "1A957AD2B823E95D"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0A21ECDD0048B09D"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 5504224228987582031L
+			}]
 		}
 	]
 	quest_links: [ ]

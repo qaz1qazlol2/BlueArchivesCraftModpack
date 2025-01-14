@@ -11,8 +11,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:sharpness"
 						lvl: 10s
+						id: "minecraft:sharpness"
 					}]
 				}
 			}
@@ -24,8 +24,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:knockback"
 						lvl: 2s
+						id: "minecraft:knockback"
 					}]
 				}
 			}
@@ -37,8 +37,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:fire_aspect"
 						lvl: 2s
+						id: "minecraft:fire_aspect"
 					}]
 				}
 			}
@@ -50,8 +50,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:looting"
 						lvl: 3s
+						id: "minecraft:looting"
 					}]
 				}
 			}
@@ -63,8 +63,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "minecraft:sweeping"
 						lvl: 3s
+						id: "minecraft:sweeping"
 					}]
 				}
 			}
@@ -76,8 +76,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "farmersdelight:backstabbing"
 						lvl: 3s
+						id: "farmersdelight:backstabbing"
 					}]
 				}
 			}
@@ -89,8 +89,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:outrageous_spirit"
 						lvl: 3s
+						id: "flowingagony:outrageous_spirit"
 					}]
 				}
 			}
@@ -102,8 +102,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:fresh_revenge"
 						lvl: 3s
+						id: "flowingagony:fresh_revenge"
 					}]
 				}
 			}
@@ -115,8 +115,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:savor_the_tasted"
 						lvl: 3s
+						id: "flowingagony:savor_the_tasted"
 					}]
 				}
 			}
@@ -128,8 +128,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:trickster"
 						lvl: 2s
+						id: "flowingagony:trickster"
 					}]
 				}
 			}
@@ -141,8 +141,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "enigmaticlegacy:slayer"
 						lvl: 5s
+						id: "enigmaticlegacy:slayer"
 					}]
 				}
 			}
@@ -154,8 +154,8 @@
 				Count: 1b
 				tag: {
 					StoredEnchantments: [{
-						id: "flowingagony:shock_therapy"
 						lvl: 3s
+						id: "flowingagony:shock_therapy"
 					}]
 				}
 			}

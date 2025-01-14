@@ -231,45 +231,6 @@
 			}]
 		}
 		{
-			title: "获取贝壳号角"
-			x: -2.0d
-			y: 1.5d
-			shape: "rsquare"
-			subtitle: "重复挑战指南"
-			description: ["如果不想去费力寻找新的寒冰迷宫，那你只能付出一点点劳动了..."]
-			can_repeat: true
-			id: "61A8A503D75E490F"
-			tasks: [
-				{
-					id: "6B3DD83224A17D33"
-					type: "item"
-					item: "minecraft:emerald"
-					count: 15L
-					consume_items: true
-				}
-				{
-					id: "0CEEFF4E019704F2"
-					type: "item"
-					item: "minecraft:diamond"
-					count: 10L
-					consume_items: true
-					only_from_crafting: false
-				}
-				{
-					id: "5A1DCC8E69C95B23"
-					type: "item"
-					item: "minecraft:nautilus_shell"
-					count: 3L
-					consume_items: true
-				}
-			]
-			rewards: [{
-				id: "6C43D4EA2DACFF85"
-				type: "item"
-				item: "aquamirae:shell_horn"
-			}]
-		}
-		{
 			title: "墓园之主"
 			x: -6.5d
 			y: -1.5d

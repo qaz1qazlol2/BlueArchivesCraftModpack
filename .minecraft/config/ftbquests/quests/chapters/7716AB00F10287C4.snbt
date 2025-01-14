@@ -5,15 +5,14 @@
 	filename: "7716AB00F10287C4"
 	title: "开发者的小彩蛋"
 	icon: "kubejs:luguan"
-	always_invisible: true
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "水滴"
 			icon: "kubejs:luguan"
-			x: 2.0d
-			y: -1.5d
+			x: -1.0d
+			y: 0.0d
 			shape: "rsquare"
 			subtitle: "🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌🦌"
 			id: "6000C4A6AC06009B"
@@ -26,6 +25,7 @@
 				{
 					id: "0025FF57D289B79E"
 					type: "command"
+					auto: "enabled"
 					command: "/effect give @s minecraft:blindness 204"
 					player_command: true
 					silent: true
@@ -33,6 +33,7 @@
 				{
 					id: "53C540230C32813D"
 					type: "command"
+					auto: "enabled"
 					command: "/effect give @s minecraft:slowness 204 255"
 					player_command: true
 					silent: true
@@ -40,6 +41,7 @@
 				{
 					id: "62C00078A215B1E6"
 					type: "command"
+					auto: "enabled"
 					command: "/playsound blue_archivescraft:god_apple block @s ~ ~ ~"
 					player_command: true
 					silent: true
@@ -47,40 +49,12 @@
 			]
 		}
 		{
-			title: "我之战"
-			icon: {
-				id: "enigmaticlegacy:cosmic_scroll"
-				Count: 1b
-				tag: { }
-			}
-			x: 3.5d
-			y: -1.5d
-			subtitle: "神奇代码"
-			id: "21123572DCC194D8"
-			tasks: [{
-				id: "4F5CDDBEE81E1E71"
-				type: "item"
-				item: "minecraft:end_rod"
-				count: 100L
-			}]
-			rewards: [{
-				id: "761D40E783A4966D"
-				type: "item"
-				item: {
-					id: "kubejs:shuijing"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
 			title: "弗兰克的盗墓传承"
 			icon: "minecraft:beacon"
 			x: 2.0d
 			y: 0.0d
 			subtitle: "没时间为frank的盗墓精神纪念，接下来到来的是暴力盗墓！"
+			invisible: true
 			id: "5938B17F63A32909"
 			tasks: [
 				{
@@ -156,85 +130,9 @@
 			}]
 		}
 		{
-			title: "sfhuewui"
-			icon: "minecraft:redstone_block"
-			x: 0.5d
-			y: -1.5d
-			subtitle: "独立维度的房间，叠加态的wifi，奇怪的报错文件"
-			id: "7B3C0427E4E4919B"
-			tasks: [{
-				id: "4D71768C36BC2A02"
-				type: "item"
-				item: "sfgnsh:sfwifi"
-				consume_items: false
-			}]
-			rewards: [
-				{
-					id: "712C84DCB6FF1353"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:protection"
-								lvl: 100s
-							}]
-						}
-					}
-				}
-				{
-					id: "452AE3D9970410A3"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:sharpness"
-								lvl: 100s
-							}]
-						}
-					}
-				}
-				{
-					id: "2DE5038206F133FA"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:fortune"
-								lvl: 10s
-							}]
-						}
-					}
-				}
-				{
-					id: "601FEA5880615B2A"
-					type: "item"
-					item: {
-						id: "minecraft:enchanted_book"
-						Count: 1b
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:unbreaking"
-								lvl: 100s
-							}]
-						}
-					}
-				}
-				{
-					id: "6FB8C19C8ED79B40"
-					type: "item"
-					item: "addurdisc:disc_ed"
-				}
-			]
-		}
-		{
 			x: 0.5d
 			y: 0.0d
+			invisible: true
 			id: "5ADAB437F608A24E"
 			tasks: [{
 				id: "070F5CCB1784DB1A"

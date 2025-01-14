@@ -45,6 +45,11 @@
 					type: "item"
 					item: "enigmaticlegacy:dark_mirror"
 				}
+				{
+					id: "405F8FBF72FDB556"
+					type: "item"
+					item: "arisidcard:idcard"
+				}
 			]
 		}
 		{

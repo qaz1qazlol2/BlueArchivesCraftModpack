@@ -1,0 +1,47 @@
+{
+	id: "228120503C6C22C6"
+	group: "6CD631262DC6A680"
+	order_index: 0
+	filename: "vol5"
+	title: "vol.5：方舟之战"
+	icon: "kubejs:kapian"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "被阉割的项目"
+		icon: "kubejs:kapian"
+		x: 0.5d
+		y: 0.5d
+		id: "56F33B416B4E189D"
+		tasks: [
+			{
+				id: "627606052B7E6E3C"
+				type: "kill"
+				icon: "cataclysm:ignitium_ingot"
+				entity: "cataclysm:ignis"
+				value: 1L
+			}
+			{
+				id: "58384C92CA73B1AE"
+				type: "kill"
+				icon: "cataclysm:monstrous_horn"
+				entity: "cataclysm:netherite_monstrosity"
+				value: 1L
+			}
+			{
+				id: "120792C820CE2482"
+				type: "kill"
+				icon: "cataclysm:void_core"
+				entity: "cataclysm:ender_guardian"
+				value: 1L
+			}
+		]
+		rewards: [{
+			id: "012F6092D62FC1C1"
+			type: "item"
+			auto: "enabled"
+			item: "kubejs:kapian"
+		}]
+	}]
+	quest_links: [ ]
+}
