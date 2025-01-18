@@ -408,7 +408,7 @@
 		{
 			title: "奥秘之书残片"
 			icon: "blue_archivescraft:super_book"
-			x: 4.5d
+			x: 2.5d
 			y: -5.0d
 			can_repeat: true
 			id: "73065E01D4EE52EC"
@@ -428,7 +428,7 @@
 		{
 			title: "灵魂水晶兑换"
 			icon: "enigmaticlegacy:soul_crystal"
-			x: 5.5d
+			x: 3.5d
 			y: -5.0d
 			description: ["防止找不到遗失的灵魂水晶而导致血量降低"]
 			can_repeat: true
@@ -449,8 +449,8 @@
 		{
 			title: "金币 -> 钻石币"
 			icon: "kubejs:diamond_coin"
-			x: 2.5d
-			y: -5.0d
+			x: -1.5d
+			y: -3.0d
 			can_repeat: true
 			id: "2ECF2B4AED6C9867"
 			tasks: [{
@@ -489,8 +489,8 @@
 		}
 		{
 			title: "boss币->钻石币"
-			x: 3.5d
-			y: -5.0d
+			x: -3.0d
+			y: -3.0d
 			id: "2063A205D2C5ADC2"
 			tasks: [{
 				id: "25F6ABE669E0B56E"
@@ -523,6 +523,66 @@
 				type: "choice"
 				exclude_from_claim_all: true
 				table_id: 5504224228987582031L
+			}]
+		}
+		{
+			title: "击杀一次凋灵以开启邪恶精髓兑换"
+			x: -4.5d
+			y: -8.5d
+			id: "01D16F69E48238DA"
+			tasks: [{
+				id: "7FCF50BAED29EBA0"
+				type: "kill"
+				icon: "minecraft:nether_star"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+		}
+		{
+			title: "邪恶精髓兑换"
+			icon: "enigmaticlegacy:evil_essence"
+			x: -4.5d
+			y: -7.0d
+			dependencies: ["01D16F69E48238DA"]
+			dependency_requirement: "one_started"
+			can_repeat: true
+			id: "762392E54E9340B8"
+			tasks: [{
+				id: "2E87F4F4503E5EFC"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1BBF6039354D449F"
+				type: "item"
+				item: "enigmaticlegacy:evil_essence"
+			}]
+		}
+		{
+			title: "焰魔召唤物"
+			icon: {
+				id: "cataclysm:ignitium_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -4.5d
+			y: -5.0d
+			can_repeat: true
+			id: "32BF503D7F4CAC1A"
+			tasks: [{
+				id: "0AF7D9A549819BA5"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4D24728782224312"
+				type: "item"
+				item: "cataclysm:burning_ashes"
 			}]
 		}
 	]

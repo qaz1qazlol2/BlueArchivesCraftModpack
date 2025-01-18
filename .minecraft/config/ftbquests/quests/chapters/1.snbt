@@ -32,22 +32,26 @@
 				{
 					id: "10F4B47E191579D3"
 					type: "item"
+					auto: "no_toast"
 					item: "minecraft:apple"
 					count: 4
 				}
 				{
 					id: "7BBC43B98DA39495"
 					type: "xp"
+					auto: "no_toast"
 					xp: 10
 				}
 				{
 					id: "66DBD6E060500F13"
 					type: "item"
+					auto: "no_toast"
 					item: "enigmaticlegacy:dark_mirror"
 				}
 				{
 					id: "405F8FBF72FDB556"
 					type: "item"
+					auto: "no_toast"
 					item: "arisidcard:idcard"
 				}
 			]
@@ -264,12 +268,14 @@
 				{
 					id: "3D608611E68E2B95"
 					type: "item"
+					auto: "enabled"
 					item: "minecraft:iron_ingot"
 					count: 8
 				}
 				{
 					id: "451AA5477FA9ED69"
 					type: "item"
+					auto: "enabled"
 					item: "minecraft:coal"
 					count: 4
 				}
@@ -292,6 +298,7 @@
 				{
 					id: "168FBD02C122A1EB"
 					type: "item"
+					auto: "enabled"
 					item: "minecraft:diamond"
 					count: 2
 				}
@@ -433,6 +440,7 @@
 			rewards: [{
 				id: "09AC0BFB05671D78"
 				type: "item"
+				auto: "enabled"
 				item: "minecraft:diamond"
 				random_bonus: 5
 			}]
@@ -613,6 +621,7 @@
 			rewards: [{
 				id: "620C1B3BDED2A1AF"
 				type: "item"
+				auto: "enabled"
 				item: {
 					id: "minecraft:potion"
 					Count: 1b

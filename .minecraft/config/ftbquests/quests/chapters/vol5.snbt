@@ -13,29 +13,13 @@
 		x: 0.5d
 		y: 0.5d
 		id: "56F33B416B4E189D"
-		tasks: [
-			{
-				id: "627606052B7E6E3C"
-				type: "kill"
-				icon: "cataclysm:ignitium_ingot"
-				entity: "cataclysm:ignis"
-				value: 1L
-			}
-			{
-				id: "58384C92CA73B1AE"
-				type: "kill"
-				icon: "cataclysm:monstrous_horn"
-				entity: "cataclysm:netherite_monstrosity"
-				value: 1L
-			}
-			{
-				id: "120792C820CE2482"
-				type: "kill"
-				icon: "cataclysm:void_core"
-				entity: "cataclysm:ender_guardian"
-				value: 1L
-			}
-		]
+		tasks: [{
+			id: "4A92685077AE932F"
+			type: "item"
+			item: "blue_archivescraft:cyanoaugite"
+			count: 1200L
+			consume_items: true
+		}]
 		rewards: [{
 			id: "012F6092D62FC1C1"
 			type: "item"

@@ -1124,33 +1124,6 @@
 			}]
 		}
 		{
-			title: "焰魔召唤物"
-			icon: {
-				id: "cataclysm:ignitium_helmet"
-				Count: 1b
-				tag: {
-					Damage: 0
-				}
-			}
-			x: -4.0d
-			y: -1.5d
-			dependencies: ["19B1FD9E804487CE"]
-			can_repeat: true
-			id: "32BF503D7F4CAC1A"
-			tasks: [{
-				id: "0AF7D9A549819BA5"
-				type: "item"
-				item: "minecraft:diamond"
-				count: 10L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "4D24728782224312"
-				type: "item"
-				item: "cataclysm:burning_ashes"
-			}]
-		}
-		{
 			x: -10.0d
 			y: -4.5d
 			dependencies: ["3376E258A0D840F9"]

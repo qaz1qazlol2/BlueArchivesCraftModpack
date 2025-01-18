@@ -192,9 +192,9 @@
 				item: "enigmaticlegacy:unholy_grail"
 			}]
 			rewards: [{
-				id: "7C3EE7B09EFB4E38"
-				type: "xp"
-				xp: 1000
+				id: "3E81D253D0D3336C"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
 			}]
 		}
 		{
@@ -212,7 +212,7 @@
 				item: "enigmaticlegacy:forbidden_fruit"
 			}]
 			rewards: [{
-				id: "07EC3E58B81D63BC"
+				id: "48A11AAAA7F6C1B0"
 				type: "item"
 				item: "minecraft:milk_bucket"
 			}]
@@ -626,7 +626,6 @@
 			x: 3.0d
 			y: 4.0d
 			description: ["jei无法查看配方，通过启示之书或者百科查看配方"]
-			dependencies: ["5A4E516F95AF72D0"]
 			id: "6F4DD45824E236C1"
 			tasks: [{
 				id: "107B52C0DC14351E"
@@ -731,9 +730,8 @@
 			}]
 		}
 		{
-			x: -5.0d
+			x: -3.5d
 			y: 3.5d
-			dependencies: ["51AB435F7C900773"]
 			id: "4AE1E897581D0CBF"
 			tasks: [{
 				id: "7F2147DC4DEF15E5"
@@ -748,8 +746,11 @@
 		}
 		{
 			x: -5.0d
-			y: 5.0d
-			dependencies: ["4AE1E897581D0CBF"]
+			y: 3.5d
+			dependencies: [
+				"4AE1E897581D0CBF"
+				"51AB435F7C900773"
+			]
 			id: "4C6A9A676DA7E844"
 			tasks: [{
 				id: "7B6C3993F6C76B41"

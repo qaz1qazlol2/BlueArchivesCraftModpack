@@ -174,6 +174,7 @@
 				"整合包作者：小水滴的源头(原作)，sfhuewui(现作)"
 				"任务系统作者：sfhuewui（传奇测试员）"
 				"bamod制作者：我之战（wzz），小水滴的源头"
+				"整合包小版本临时更新：qaz1qazlol"
 			]
 			id: "685EA8C5766F9621"
 			tasks: [{
@@ -181,11 +182,18 @@
 				type: "checkmark"
 				title: "整合包制作名单"
 			}]
-			rewards: [{
-				id: "1B2F0D6C4769A45C"
-				type: "item"
-				item: "minecraft:end_rod"
-			}]
+			rewards: [
+				{
+					id: "1B2F0D6C4769A45C"
+					type: "item"
+					item: "minecraft:end_rod"
+				}
+				{
+					id: "49189FB69794D8EE"
+					type: "item"
+					item: "kubejs:luguan"
+				}
+			]
 		}
 		{
 			x: 2.5d
