@@ -185,6 +185,12 @@
 				count: 32L
 				consume_items: true
 			}]
+			rewards: [{
+				id: "5E9C2C9621E02216"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32
+			}]
 		}
 		{
 			x: 3.0d
