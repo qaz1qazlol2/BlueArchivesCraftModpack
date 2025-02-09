@@ -188,6 +188,12 @@
 					command: "/title @p title [{\"text\":\"请观看任务以方便游玩\",\"color\":\"blue\"}]"
 					silent: true
 				}
+				{
+					id: "3F616A17F6AF54C9"
+					type: "command"
+					auto: "enabled"
+					command: "/say 请使用任务书查看流程~"
+				}
 			]
 		}
 	]

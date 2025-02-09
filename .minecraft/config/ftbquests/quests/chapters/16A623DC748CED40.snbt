@@ -235,6 +235,22 @@
 				item: "kubejs:gold_coin"
 			}]
 		}
+		{
+			x: 7.0d
+			y: -4.0d
+			description: [
+				"&9手持什亭之匣+蹲下+右键即可进入什亭之匣内部"
+				""
+				"&5tips：如果进入什亭之匣后发现掉入水中请输入 /tp 0 0 0"
+				"&4tips2：请不要在什亭之匣内丢出任意物品，会导致物品消失"
+			]
+			id: "700CCAD1BB5B34AD"
+			tasks: [{
+				id: "702939390CCB73CD"
+				type: "checkmark"
+				title: "什亭之匣相关提示"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

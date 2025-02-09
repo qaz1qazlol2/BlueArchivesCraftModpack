@@ -1,0 +1,129 @@
+{
+	id: "3432E8A802C1DFAB"
+	group: "3A341F8C3B4A5B73"
+	order_index: 2
+	filename: "3432E8A802C1DFAB"
+	title: "信用点兑换商店"
+	icon: "blue_archivescraft:adult_card"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "金币x1 >> 信用点x1 兑换"
+			x: -1.0d
+			y: -0.5d
+			can_repeat: true
+			id: "758C5D1C4EA5DA43"
+			tasks: [{
+				id: "05DB65CE21889631"
+				type: "item"
+				item: "kubejs:gold_coin"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "07243FF6CB96F5F9"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+			}]
+		}
+		{
+			title: "金币x32 >> 信用点x32 兑换"
+			x: 0.5d
+			y: -0.5d
+			can_repeat: true
+			id: "5FC90C333317EF0A"
+			tasks: [{
+				id: "68F2EBECB29DC7D4"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "12F28D914C350BFF"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+				count: 32
+			}]
+		}
+		{
+			title: "金币x64 >> 信用点x64 兑换"
+			x: 2.0d
+			y: -0.5d
+			can_repeat: true
+			id: "1167D95E44BB7D22"
+			tasks: [{
+				id: "6DBA77305CC0A8C1"
+				type: "item"
+				item: "kubejs:gold_coin"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "216866C49FA1D773"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+				count: 64
+			}]
+		}
+		{
+			title: "钻石币x1 >> 信用点x100"
+			x: -1.0d
+			y: 1.0d
+			can_repeat: true
+			id: "7214E7618C14F29E"
+			tasks: [{
+				id: "7267ED655D966057"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6FD2BF143D1755B4"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+				count: 100
+			}]
+		}
+		{
+			title: "钻石币x32 >> 信用点x3200"
+			x: 0.5d
+			y: 1.0d
+			can_repeat: true
+			id: "3A56567F2CC488CD"
+			tasks: [{
+				id: "1E5921F7A6FE3F53"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 32L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "41FEFEC1F63DE423"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+				count: 3200
+			}]
+		}
+		{
+			title: "钻石币x64 >> 信用点x6400"
+			x: 2.0d
+			y: 1.0d
+			can_repeat: true
+			id: "2C5FDDB93BDABA95"
+			tasks: [{
+				id: "0877415E1D20C6DF"
+				type: "item"
+				item: "kubejs:diamond_coin"
+				count: 64L
+			}]
+			rewards: [{
+				id: "75344C2A22C0D370"
+				type: "item"
+				item: "blue_archivescraft:adult_card"
+				count: 6400
+			}]
+		}
+	]
+	quest_links: [ ]
+}
