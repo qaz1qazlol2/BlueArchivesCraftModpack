@@ -459,7 +459,7 @@
 				id: "0BA958DB13505798"
 				type: "item"
 				item: "kubejs:gold_coin"
-				count: 60L
+				count: 120L
 				consume_items: true
 			}]
 			rewards: [{
