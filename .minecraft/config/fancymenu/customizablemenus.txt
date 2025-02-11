@@ -192,3 +192,6 @@ xaero.common.gui.GuiWidgetUpdateAll {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
