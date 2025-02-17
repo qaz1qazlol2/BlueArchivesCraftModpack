@@ -311,7 +311,7 @@
 		{
 			title: "铁锭兑换x1"
 			x: 0.0d
-			y: -5.0d
+			y: -4.0d
 			can_repeat: true
 			id: "13A8AF6C6CCE23A3"
 			tasks: [{
@@ -330,7 +330,7 @@
 		{
 			title: "铁锭兑换x10"
 			x: 1.5d
-			y: -5.0d
+			y: -4.0d
 			can_repeat: true
 			id: "360D2A77B6F0D2FF"
 			tasks: [{
@@ -350,7 +350,7 @@
 		{
 			title: "铁锭兑换x32"
 			x: 3.0d
-			y: -5.0d
+			y: -4.0d
 			can_repeat: true
 			id: "73159959679918DD"
 			tasks: [{
@@ -370,7 +370,7 @@
 		{
 			title: "铁锭兑换x64"
 			x: 4.5d
-			y: -5.0d
+			y: -4.0d
 			can_repeat: true
 			id: "0B95E33D738451DA"
 			tasks: [{
@@ -390,7 +390,7 @@
 		{
 			title: "金锭兑换x1"
 			x: 0.0d
-			y: -6.0d
+			y: -5.0d
 			can_repeat: true
 			id: "4F8D84D177F206C4"
 			tasks: [{
@@ -409,7 +409,7 @@
 		{
 			title: "金锭兑换x10"
 			x: 1.5d
-			y: -6.0d
+			y: -5.0d
 			can_repeat: true
 			id: "203C5A93367BC35D"
 			tasks: [{
@@ -429,7 +429,7 @@
 		{
 			title: "金锭兑换x32"
 			x: 3.0d
-			y: -6.0d
+			y: -5.0d
 			can_repeat: true
 			id: "2749A18CBC268556"
 			tasks: [{
@@ -449,7 +449,7 @@
 		{
 			title: "金锭兑换x64"
 			x: 4.5d
-			y: -6.0d
+			y: -5.0d
 			can_repeat: true
 			id: "695AA7CDF664921E"
 			tasks: [{
@@ -469,7 +469,7 @@
 		{
 			title: "钻石兑换x1"
 			x: 0.0d
-			y: -7.0d
+			y: -6.0d
 			can_repeat: true
 			id: "3BE658D749588797"
 			tasks: [{
@@ -488,7 +488,7 @@
 		{
 			title: "钻石兑换x10"
 			x: 1.5d
-			y: -7.0d
+			y: -6.0d
 			can_repeat: true
 			id: "47038BCA1E1238A9"
 			tasks: [{
@@ -508,7 +508,7 @@
 		{
 			title: "钻石兑换x32"
 			x: 3.0d
-			y: -7.0d
+			y: -6.0d
 			can_repeat: true
 			id: "6D6A482C0651FB44"
 			tasks: [{
@@ -528,7 +528,7 @@
 		{
 			title: "钻石兑换x64"
 			x: 4.5d
-			y: -7.0d
+			y: -6.0d
 			can_repeat: true
 			id: "430AB408B82CC74D"
 			tasks: [{
@@ -548,7 +548,7 @@
 		{
 			title: "下界合金锭兑换x1"
 			x: 0.0d
-			y: -8.0d
+			y: -7.0d
 			id: "678BB872D684DCED"
 			tasks: [{
 				id: "46472C1263C88D7E"
@@ -566,7 +566,7 @@
 		{
 			title: "下界合金锭兑换x10"
 			x: 1.5d
-			y: -8.0d
+			y: -7.0d
 			id: "739715A2E1451F69"
 			tasks: [{
 				id: "56CBEB6C0E9FF20A"
@@ -585,7 +585,7 @@
 		{
 			title: "下界合金锭兑换x32"
 			x: 3.0d
-			y: -8.0d
+			y: -7.0d
 			id: "1982FA15870C4EEC"
 			tasks: [{
 				id: "1115AA612178016C"
@@ -604,7 +604,7 @@
 		{
 			title: "下界合金锭兑换x64"
 			x: 4.5d
-			y: -8.0d
+			y: -7.0d
 			id: "69B40952CF4EB619"
 			tasks: [{
 				id: "177556A7EFA75D48"
@@ -618,85 +618,6 @@
 				type: "item"
 				item: "kubejs:gold_coin"
 				count: 640
-			}]
-		}
-		{
-			title: "铜锭兑换x1"
-			x: 0.0d
-			y: -4.0d
-			can_repeat: true
-			id: "1AC149F26049A104"
-			tasks: [{
-				id: "219B60EF99365315"
-				type: "item"
-				item: "minecraft:copper_ingot"
-				consume_items: true
-			}]
-			rewards: [{
-				id: "420745F67E363954"
-				type: "item"
-				item: "kubejs:gold_coin"
-			}]
-		}
-		{
-			title: "铜锭兑换x10"
-			x: 1.5d
-			y: -4.0d
-			can_repeat: true
-			id: "14F2E87ECAC01468"
-			tasks: [{
-				id: "34774F63314C2652"
-				type: "item"
-				item: "minecraft:copper_ingot"
-				count: 10L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "58F3B090BFBC9208"
-				type: "item"
-				item: "kubejs:gold_coin"
-				count: 10
-			}]
-		}
-		{
-			title: "铜锭兑换x32"
-			x: 3.0d
-			y: -4.0d
-			can_repeat: true
-			id: "0578DA8A6E4FC2B5"
-			tasks: [{
-				id: "49F3A28F5B36486E"
-				type: "item"
-				title: "铜锭"
-				item: "minecraft:copper_ingot"
-				count: 32L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "51877906C40246FA"
-				type: "item"
-				item: "kubejs:gold_coin"
-				count: 32
-			}]
-		}
-		{
-			title: "铜锭兑换x64"
-			x: 4.5d
-			y: -4.0d
-			can_repeat: true
-			id: "7DA9469A26F42093"
-			tasks: [{
-				id: "7315165E64445271"
-				type: "item"
-				item: "minecraft:copper_ingot"
-				count: 64L
-				consume_items: true
-			}]
-			rewards: [{
-				id: "5EF21FDFC8F59340"
-				type: "item"
-				item: "kubejs:gold_coin"
-				count: 64
 			}]
 		}
 	]

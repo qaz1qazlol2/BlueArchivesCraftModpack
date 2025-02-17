@@ -9,15 +9,17 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "金币x1 >> 信用点x1 兑换"
+			title: "金币x3 >> 信用点x1 兑换"
 			x: -1.0d
-			y: -0.5d
+			y: -2.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "758C5D1C4EA5DA43"
 			tasks: [{
 				id: "05DB65CE21889631"
 				type: "item"
 				item: "kubejs:gold_coin"
+				count: 3L
 				consume_items: true
 			}]
 			rewards: [{
@@ -27,16 +29,17 @@
 			}]
 		}
 		{
-			title: "金币x32 >> 信用点x32 兑换"
+			title: "金币x96 >> 信用点x32 兑换"
 			x: 0.5d
-			y: -0.5d
+			y: -2.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "5FC90C333317EF0A"
 			tasks: [{
 				id: "68F2EBECB29DC7D4"
 				type: "item"
 				item: "kubejs:gold_coin"
-				count: 32L
+				count: 96L
 				consume_items: true
 			}]
 			rewards: [{
@@ -47,16 +50,17 @@
 			}]
 		}
 		{
-			title: "金币x64 >> 信用点x64 兑换"
+			title: "金币x196 >> 信用点x64 兑换"
 			x: 2.0d
-			y: -0.5d
+			y: -2.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "1167D95E44BB7D22"
 			tasks: [{
 				id: "6DBA77305CC0A8C1"
 				type: "item"
 				item: "kubejs:gold_coin"
-				count: 64L
+				count: 196L
 				consume_items: true
 			}]
 			rewards: [{
@@ -70,6 +74,7 @@
 			title: "钻石币x1 >> 信用点x100"
 			x: -1.0d
 			y: 1.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "7214E7618C14F29E"
 			tasks: [{
@@ -89,6 +94,7 @@
 			title: "钻石币x32 >> 信用点x3200"
 			x: 0.5d
 			y: 1.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "3A56567F2CC488CD"
 			tasks: [{
@@ -109,6 +115,7 @@
 			title: "钻石币x64 >> 信用点x6400"
 			x: 2.0d
 			y: 1.0d
+			dependencies: ["07AE256A44548A33"]
 			can_repeat: true
 			id: "2C5FDDB93BDABA95"
 			tasks: [{
@@ -116,12 +123,27 @@
 				type: "item"
 				item: "kubejs:diamond_coin"
 				count: 64L
+				consume_items: true
 			}]
 			rewards: [{
 				id: "75344C2A22C0D370"
 				type: "item"
 				item: "blue_archivescraft:adult_card"
 				count: 6400
+			}]
+		}
+		{
+			title: "开启兑换的前提"
+			x: 0.5d
+			y: -0.5d
+			id: "07AE256A44548A33"
+			tasks: [{
+				id: "3364ECB93ECF2C8F"
+				type: "kill"
+				title: "末影龙"
+				icon: "minecraft:dragon_egg"
+				entity: "minecraft:ender_dragon"
+				value: 1L
 			}]
 		}
 	]

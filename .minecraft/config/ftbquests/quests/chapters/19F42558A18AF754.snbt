@@ -418,7 +418,7 @@
 				id: "38C844D85E85F43F"
 				type: "item"
 				item: "kubejs:diamond_coin"
-				count: 10L
+				count: 6L
 				consume_items: true
 			}]
 			rewards: [{
@@ -459,7 +459,7 @@
 				id: "0BA958DB13505798"
 				type: "item"
 				item: "kubejs:gold_coin"
-				count: 120L
+				count: 110L
 				consume_items: true
 			}]
 			rewards: [{
@@ -530,7 +530,7 @@
 		}
 		{
 			title: "击杀一次凋灵以开启邪恶精髓兑换"
-			x: -4.5d
+			x: -6.0d
 			y: -8.5d
 			id: "01D16F69E48238DA"
 			tasks: [{
@@ -544,7 +544,7 @@
 		{
 			title: "邪恶精髓兑换"
 			icon: "enigmaticlegacy:evil_essence"
-			x: -4.5d
+			x: -6.0d
 			y: -7.0d
 			dependencies: ["01D16F69E48238DA"]
 			dependency_requirement: "one_started"
@@ -669,11 +669,37 @@
 					item: "minecraft:glowstone"
 					consume_items: true
 				}
+				{
+					id: "5154851353BAF882"
+					type: "item"
+					item: "kubejs:diamond_coin"
+					count: 10L
+				}
 			]
 			rewards: [{
 				id: "67EDAB2B9E91CE87"
 				type: "item"
 				item: "minecraft:beacon"
+			}]
+		}
+		{
+			title: "ba饰品兑换"
+			x: -4.5d
+			y: -7.0d
+			can_repeat: true
+			id: "70F083C5BB2FB794"
+			tasks: [{
+				id: "68991B8CF480F051"
+				type: "item"
+				item: "kubejs:netherite_coin"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6C6B2A3FAA4A3553"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 7362344811821590953L
 			}]
 		}
 	]

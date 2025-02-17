@@ -1,0 +1,12 @@
+{
+	id: "3D97A1883EAD1FB1"
+	group: "3A341F8C3B4A5B73"
+	order_index: 3
+	filename: "boss"
+	title: "boss商店"
+	icon: "minecraft:nether_star"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}
