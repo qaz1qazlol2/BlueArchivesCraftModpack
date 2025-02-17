@@ -21,7 +21,9 @@
     "stonecutter": true,
     "villager": true,
     "book": true,
-    "advancements": true
+    "advancements": true,
+    "recipeBook": false,
+    "smithing": false
   },
   "backgroundHide": {
     "inventory": true,
@@ -45,6 +47,7 @@
     "stonecutter": true,
     "villager": true,
     "book": true,
-    "advancements": true
+    "advancements": true,
+    "smithing": false
   }
 }
